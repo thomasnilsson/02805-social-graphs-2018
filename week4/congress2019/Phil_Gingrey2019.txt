@@ -1,0 +1,309 @@
+{{Infobox officeholder
+|name          = Phil Gingrey
+|image         = Phil gingrey.png
+|state1        = [[Georgia (U.S. state)|Georgia]]
+|district1     = {{ushr|Georgia|11|11th}}
+|term_start1   = January 3, 2003
+|term_end1     = January 3, 2015
+|predecessor1  = [[Bob Barr]]
+|successor1    = [[Barry Loudermilk]]
+|state2        = Georgia
+|state_senate2 = Georgia
+|district2     = 37th
+|term_start2   = 1999
+|term_end2     = 2003
+|predecessor2  = Chuck Clay<ref>https://www.ourcampaigns.com/RaceDetail.html?RaceID=288597</ref>
+|successor2    = Chuck Clay<ref>https://www.ourcampaigns.com/RaceDetail.html?RaceID=288746</ref>
+|birthname     = John Phillip Gingrey
+|birth_date    = {{birth date and age|1942|7|10}}
+|birth_place   = [[Augusta, Georgia|Augusta]], [[Georgia (U.S. state)|Georgia]], [[United States|U.S.]]
+|death_date    =
+|death_place   =
+|party         = [[Republican Party (United States)|Republican]]
+|spouse        = Billie Ayers
+|children      = Billy<br>Gannon<br>Phyllis<br>Laura Neill
+|alma_mater    = [[Georgia Institute of Technology|Georgia Institute of<br>Technology, Atlanta]]
+|religion      = [[Catholic Church|Roman Catholicism]]
+}}
+<!--Please See naming conventions at WP:MOSBIO, do not add details like "Dr." or "PhD"-->'''John Phillip Gingrey''', (born July 10, 1942) was the [[United States House of Representatives|U.S. representative]] for {{ushr|GA|11}} from 2003 to 2015. He is a member of the [[United States Republican Party|Republican Party]] (GOP). The district is located in the northwestern suburbs of [[Atlanta]]. Since leaving Congress, Gingrey has worked as a senior adviser at the District Policy Group in Washington, D.C., which is the lobbying arm of the [[Drinker Biddle & Reath|Drinker Biddle]] law firm.
+
+On March 27, 2013, Gingrey announced he would be a candidate in the 2014 race for U.S. Senate for his state,<ref>{{cite web|title=Rep. Phil Gingrey announces run for Senate|url=http://www.cbsatlanta.com/story/21806542/rep-phil-gingrey-announces-run-for-senate|publisher=CBS Atlanta|accessdate=27 March 2013}}</ref> but he lost in the May 20, 2014 Republican primary, placing fourth.
+
+==Early life, education, and early political career==
+Gingrey was born and raised in [[Augusta, Georgia]] and graduated from [[Aquinas High School (Augusta, Georgia)|Aquinas High School]].<ref name="profile"/> He received a bachelor's degree in Chemistry from [[Georgia Institute of Technology|Georgia Tech]] in 1965, and then earned his M.D. from [[Medical College of Georgia]].<ref name="profile">{{cite web |url=http://gingrey.house.gov/Biography/ |title=Archived copy |accessdate=2007-02-26 |deadurl=yes |archiveurl=https://web.archive.org/web/20070228191600/http://gingrey.house.gov/Biography/ |archivedate=2007-02-28 |df= }}</ref> He started his 26-year practice as an obstetrician/gynecologist. While at [[Georgia Institute of Technology|Georgia Tech]], Gingrey was a driver of the [[Ramblin' Wreck]] mascot car.<ref>{{cite web|url=http://www.fromtherumbleseat.com/2009/02/ramblin-reck-history-story.html|title=Ramblin' Reck History: A Story|work=From The Rumble Seat}}</ref>  He also became a member of the Gamma Alpha Chapter of the [[Sigma Nu]] Fraternity and was the President of the Sigma Nu Fraternity his senior year.
+
+Gingrey entered politics when he ran for the Marietta School Board, a body of which he was three times named chairman.{{citation needed|date=January 2013}} He served two terms as a member of the [[Georgia Senate|Georgia State Senate]] from 1999 to 2003.{{citation needed|date=January 2013}}
+
+==U.S. House of Representatives==
+
+===Elections===
+
+==== 2012 ====
+In his final campaign for his U.S. House seat in 2012, Gingrey defeated Democrat Patrick Thompson with 68.6 percent of the vote.<ref name="ballotpedia">{{Cite news|url=https://ballotpedia.org/Phil_Gingrey|title=Phil Gingrey - Ballotpedia|access-date=2018-08-07|language=en-US}}</ref>
+
+{{Election box begin no change
+| title =Georgia’s 11th District U.S. House of Representatives election, 2012<ref name="ballotpedia" />}}
+{{Election box winning candidate with party link no change
+| candidate = Phil Gingrey
+| party = Republican Party (United States)  
+| votes = 196,968
+| percentage = 68.6
+}}
+{{Election box candidate with party link no change
+| candidate = Patrick Thompson
+| party = Democratic Party (United States)
+| votes = 90,353
+| percentage = 31.4
+}}
+{{Election box total no change
+| votes = 287,321
+| percentage= 100
+}}
+{{Election box end}}
+
+==== 2010 ====
+In 2010, Gingrey ran unopposed.<ref name="ballotpedia" />
+
+==== 2008 ====
+{{Election box begin no change
+| title =Georgia’s 11th District U.S. House of Representatives election, 2008<ref name="ballotpedia" />}}
+{{Election box winning candidate with party link no change
+| candidate = Phil Gingrey
+| party = Republican Party (United States)  
+| votes = 204,082
+| percentage = 68.2
+}}
+{{Election box candidate with party link no change
+| candidate = Hugh "Bud" Gammon
+| party = Democratic Party (United States)
+| votes = 95,220
+| percentage = 31.8
+}}
+{{Election box total no change
+| votes = 299,302
+| percentage= 100
+}}
+{{Election box end}}
+
+==== 2006 ====
+{{Election box begin no change
+| title =Georgia’s 11th District U.S. House of Representatives election, 2008<ref name="ballotpedia" />}}
+{{Election box winning candidate with party link no change
+| candidate = Phil Gingrey
+| party = Republican Party (United States)  
+| votes = 118,524
+| percentage = 71.1
+}}
+{{Election box candidate with party link no change
+| candidate = Patrick Samuel Pillion
+| party = Democratic Party (United States)
+| votes = 48,261
+| percentage = 28.9
+}}
+{{Election box total no change
+| votes = 166,785
+| percentage= 100
+}}
+{{Election box end}}
+
+==== 2004 ====
+{{Election box begin no change
+| title =Georgia’s 11th District U.S. House of Representatives election, 2008<ref name="ballotpedia" />}}
+{{Election box winning candidate with party link no change
+| candidate = Phil Gingrey
+| party = Republican Party (United States)  
+| votes = 120,696
+| percentage = 57.4
+}}
+{{Election box candidate with party link no change
+| candidate = Rick Crawford
+| party = Democratic Party (United States)
+| votes = 89,591
+| percentage = 42.6
+}}
+{{Election box total no change
+| votes = 210,287
+| percentage= 100
+}}
+{{Election box end}}
+
+==== 2002 ====
+{{Election box begin no change
+| title =Georgia’s 11th District U.S. House of Representatives election, 2008<ref name="ballotpedia" />}}
+{{Election box winning candidate with party link no change
+| candidate = Phil Gingrey
+| party = Republican Party (United States)  
+| votes = 69,427
+| percentage = 51.6
+}}
+{{Election box candidate with party link no change
+| candidate = Roger Kahn
+| party = Democratic Party (United States)
+| votes = 65,007
+| percentage = 48.4
+}}
+{{Election box total no change
+| votes = 134,434
+| percentage= 100
+}}
+{{Election box end}}
+
+===Tenure===
+Gingrey was one of four OB/GYNs in the House of Representatives, the other three being fellow Republicans [[Michael C. Burgess|Michael Burgess]] of [[Texas]], former Congressman [[Ron Paul]] of Texas, and [[Phil Roe (politician)|Phil Roe]] of [[Tennessee]].{{citation needed|date=January 2013}} He is a founding member and co-chairman of the GOP Doctors Caucus, a group of 20 health care providers in the House of Representatives. The Caucus utilizes their medical expertise to develop and advocate for patient-centered health care reforms focused on quality, access, affordability, portability, and choice.<ref>{{cite web |url=http://doctorscaucus.gingrey.house.gov/ |title=Archived copy |accessdate=2013-06-12 |deadurl=yes |archiveurl=https://web.archive.org/web/20130510220540/http://doctorscaucus.gingrey.house.gov/ |archivedate=2013-05-10 |df= }}</ref>
+
+[[Stephen Colbert]] interviewed Gingrey on his [[Better Know a District]] segment. Colbert sarcastically asked, "The war in Iraq. Great War – or the greatest war?" Gingrey responded that it may be the greatest war. Colbert asked Gingrey if he was a "Georgia peach" and Gingrey responded in the affirmative.<ref>[http://www.colbertnation.com/the-colbert-report-videos/63049/april-26-2006/better-know-a-district---georgia-s-11th---phil-gingrey Better Know a District – Georgia's 11th – Phil Gingrey] ''Colbert Nation'', April 26, 2006</ref>
+
+In 2008 Gingrey signed a pledge sponsored by [[Americans for Prosperity]] promising to vote against any global warming legislation that would raise taxes.<ref>http://americansforprosperity.org/noclimatetax//wp-content/uploads/2008/08/gingrey.pdf</ref>
+
+==== Bank of Ellijay ====
+In November 2011, it was reported that Gingrey allegedly received stock benefits, potentially in violation of congressional ethics rules, from his role as an investor and board member of two Georgia banks.<ref>{{cite news | url=http://www.ajc.com/business/report-gingreys-bank-stock-1221728.html | title=Report: Gingrey's bank stock benefits may violate ethics rule | publisher = [[The Atlanta Journal-Constitution]] | date=2011-11-10 | accessdate=2011-11-19}}</ref> One of these banks, Bank of Ellijay, [[List of bank failures in the United States (2008–present)|failed]] in September 2010 and was taken over by regulators at a cost of $60 million to taxpayers.<ref>{{cite news | url=https://www.reuters.com/article/2011/11/09/us-gingrey-idUSTRE7A815X20111109 | title=Special report: The congressman with banks on the side | publisher = [[Reuters]] | date=2011-11-09 | accessdate=2011-11-19}}</ref> Gingrey's office denied any [[Conflict of interest|conflicts of interests]].<ref>{{cite news|last=Trubey|first=J. Scott|date=November 10, 2011|title=Report: Gingrey's bank stock benefits may violate ethics rule|url=http://www.ajc.com/news/business/report-gingreys-bank-stock-benefits-may-violate-et/nQNXz/|newspaper=The Atlanta Journal-Constitution|accessdate=November 9, 2014}}</ref> In December 2014, the House Ethics Committee publicly released findings that Gingrey had given special privilege to the Bank of Ellijay in [[Troubled Asset Relief Program|TARP]] discussions, that Gingrey should not have aided the bank since it was not in his district.<ref>{{cite news|last=Malloy|first=Daniel|date=December 11, 2014|title=Ethics Committee finds Phil Gingrey improperly aided Ellijay bank|url=http://politics.blog.ajc.com/2014/12/11/ethics-committee-finds-phil-gingrey-improperly-aided-ellijay-bank/|newspaper=The Atlanta Journal-Constitution|accessdate=December 14, 2014}}</ref> The committee told Gingrey: "It is true that you received no compensation or financial benefits as a result of these meetings."<ref>https://ethics.house.gov/sites/ethics.house.gov/files/APPENDIX%20A-%20Letter%20of%20Reproval.pdf</ref>
+
+Gingrey's attorney observed to the press:<ref>{{Cite news|url=http://politics.myajc.com/blog/politics/ethics-committee-finds-phil-gingrey-improperly-aided-ellijay-bank/q1CJnnXW7H9Oz49KiyvmVL/|title=Ethics Committee finds Phil Gingrey improperly aided Ellijay bank|work=politics.myajc|access-date=2018-02-12|language=en}}</ref>
+
+<blockquote>Representative Gingrey assisted a bank he thought of as a constituent organization by having his office help set up informational meetings through which bank officers could inquire about how TARP funds were going to be allocated. It is undisputed that Representative Gingrey never sought any preferential treatment for anyone in obtaining TARP funding and did nothing further upon arranging the requested meetings.</blockquote>
+
+====Todd Akin for Senate campaign====
+{{See also|Pregnancy from rape|Rape and pregnancy controversies in the 2012 United States elections }}
+Gingrey's office said that this comments were misconstrued after he was reported saying that former Republican representative [[Todd Akin]] was "partially right" in saying that a woman would not conceive after a "legitimate rape." Akin had been running for the U.S. Senate from Missouri; his campaign fell apart after he said the debunked claim that "the female body has ways to try to shut that whole thing down." At a local Chamber of Commerce meeting, Gingrey said that Akin wasn't entirely wrong. "I've delivered lots of babies, and I know about these things," Gingrey said, according to ''The Marietta Daily Journal''.<ref>{{Cite news|url=http://www.nydailynews.com/news/politics/rep-gingrey-fire-rape-comments-article-1.1238438|title=Rep. Gingrey under fire for rape comments|work=NY Daily News|access-date=2018-02-12|language=en}}</ref>
+
+Gingrey has been an OB-GYN since 1975. He had served as co-chair of the GOP Doctors Caucus.<ref>{{Cite news|url=https://www.politico.com/story/2013/01/phil-gingrey-todd-akin-partly-right-on-rape-086059|title=Gingrey: Akin 'partly right' on rape|work=POLITICO|access-date=2018-02-12}}</ref>
+
+====Congressional and staff pay====
+In September 2013, he received intense criticism by Republican congressional aides when he observed that many congressional aides – who initially are somewhat relatively low paid – go on to careers as major lobbyists in [[Washington, D.C.]]'s [[K Street (Washington, D.C.)|K Street]] area (or elsewhere) and can eventually make hundreds of thousands of dollars, implying that his own congressional salary (he said $172,000; it is actually $174,000, not including other benefits) was somehow inadequate. Meanwhile, his constituents in Georgia have a median household income of about
+$49,000.<ref>{{cite web|url=http://money.msn.com/now/congressman-laments-dollar172000-salary|title=Stock quotes, financial tools, news and analysis – MSN Money|work=msn.com}}</ref>
+
+====Ebola virus concerns====
+In July 2014, as concern over the [[Ebola virus epidemic in West Africa]] was in the USA media, Gingrey wrote a letter to the USA [[Centers for Disease Control and Prevention|CDC]], stating "Reports of illegal migrants carrying deadly diseases such as swine flu, dengue fever, Ebola virus and tuberculosis are particularly concerning."<ref>{{cite web|url=http://www.politifact.com/truth-o-meter/statements/2014/jul/18/phil-gingrey/rep-phil-gingrey-says-migrants-may-be-bringing-ebo/|title=Rep. Phil Gingrey says migrants may be bringing Ebola virus through the U.S.-Mexico border|work=@politifact}}</ref>
+
+===Committee assignments===
+* [[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]<ref name="E&C Membership">
+{{cite web
+ |url         = http://energycommerce.house.gov/about/membership
+ |title       = E&C Membership
+ |publisher   = [[United States House Committee on Energy and Commerce]]
+ |accessdate  = 2013-03-21
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20130317073038/http://energycommerce.house.gov/about/membership
+ |archivedate = 2013-03-17
+ |df          = 
+}}</ref>
+** [[United States House Energy Subcommittee on Environment and Economy|Subcommittee on Environment and Economy]]<ref name="Environment and Economy">
+{{cite web
+|url=http://energycommerce.house.gov/subcommittees/environment-and-economy#members
+|title=Environment and the Economy
+|publisher=[[United States House Energy Subcommittee on Environment and Economy]]
+|accessdate=2014-07-16
+}}</ref>
+** [[United States House Energy Subcommittee on Health|Subcommittee on Health]]<ref name="Health Subcommittee">
+{{cite web
+|url=http://energycommerce.house.gov/subcommittees/health#members
+|title=Health
+|publisher=[[United States House Energy Subcommittee on Health]]
+|accessdate=2014-07-16
+}}</ref>
+** [[United States House Energy Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]]<ref name="Oversight and Investigations">
+{{cite web
+|url=http://energycommerce.house.gov/subcommittees/oversight-and-investigations
+|title=Oversight and Investigations
+|publisher=[[United States House Energy Subcommittee on Oversight and Investigations]]
+|accessdate=2013-03-21
+}}</ref>
+* [[United States House Committee on Armed Services|House Armed Services Committee]]
+* [[United States House Committee on Science, Space, and Technology|House Science Committee]]
+* [[United States House Committee on Rules|House Rules Committee]]
+* [[House Administration Committee|Committee on House Administration]]
+
+===Caucus leaderships===
+* GOP Doctors Caucus, co-chair {{citation needed|date=February 2016}}
+* Immigration Reform Caucus, executive committee {{citation needed|date=February 2016}}
+* Congressional Vision Caucus, co-chair {{citation needed|date=February 2016}}
+* [[Congressional Constitution Caucus]], member<ref>{{Cite web| url=https://congressionalconstitutioncaucus-garrett.house.gov/about-us/membership|title= Membership of the Congressional Constitution Caucus| access-date= 11 March 2017}}</ref>
+* [[Congressional Immigration Reform Caucus]], member<ref>{{cite web|author1=Ted Poe|title=Immigration Reform Caucus: Amnesty for millions is more than just a narrow slice of the proposed immigration bill|url=http://poe.house.gov/2007/6/immigration-reform-caucus-amnesty-for-millions-is-more-than-just-a-narrow-slice-of-the-proposed-immigration-bill|website=United States House of Representatives|accessdate=4 July 2017|date=1 June 2007}}</ref>
+
+=== Commissioner ===
+* Legislative Commissioner, Organization for Security and Cooperation in Europe, Helsinki Agreement<ref>https://chrissmith.house.gov/uploadedfiles/2011.02.16_lithuanias_leadership_of_the_osce.pdf</ref>
+
+==2014 U.S. Senate election==
+{{Main|United States Senate election in Georgia, 2014}}
+In March 2013, Gingrey officially announced he would run for the open senate seat vacated by Republican U.S. senator [[Saxby Chambliss]].  He was defeated in the Republican primary on May 20, 2014, coming in 4th in a field of eight.<ref>http://hosted.ap.org/dynamic/files/elections/2014/by_state/GA_US_Senate_0520.html?SITE=CSPANELN&SECTION=POLITICS</ref>
+
+== Post-political career ==
+After leaving Congress, Gingrey joined The District Policy Group as a senior adviser.<ref>{{Cite web|url=http://www.districtpolicygroup.com/index.html|title=The District Policy Group {{!}} District Policy Group|website=www.districtpolicygroup.com|access-date=2018-02-02}}</ref> He writes a regular column on the firm's website called "Phil on the Hill" where he writes about policy topics such as health care, the federal budget, annual appropriations, regulatory reform, and life sciences.<ref>{{Cite web|url=http://www.districtpolicygroup.com/phil-on-the-hill/|title=Phil on the Hill|website=www.districtpolicygroup.com|access-date=2018-02-02}}</ref>
+
+He remains a licensed physician who practices on a volunteer basis for low-income Georgians at the Good Samaritan Clinic in Smyrna, Georgia.<ref>{{Cite web|url=http://www.goodsamcobb.org/Leadership|title=Leadership|website=www.goodsamcobb.org|access-date=2018-02-12}}</ref>
+
+=== Policy views ===
+
+==== Children's Health Insurance Program ====
+Gingrey supported the reauthorization of the federal [[Children's Health Insurance Program]] (CHIP), which is a program that provides matching funds to states for health insurance to families with children. The program was designed to provide health insurance to uninsured children in families with incomes that are modest but too high to qualify for [[Medicaid]]. In January 2018, Congress extended the program for six years. Gingrey wrote, "Reauthorizing CHIP is a smart move by Republicans to address to address the neediest and most vulnerable of our society. And why not? The recent CBO score shows that the program almost pays for itself, easing pressure off the need to find offsets."<ref>{{Cite web|url=http://www.districtpolicygroup.com/phil-on-the-hill/2018-after-chip-reauthorization-legislative-chipping-away|title=2018 — After CHIP Reauthorization, Legislative Chipping Away|last=Gingrey|first=Phil|date=2018-01-23|website=www.districtpolicygroup.com|access-date=2018-02-02}}</ref>
+
+==== Health care industry stability ====
+In a "Phil on the Hill" column, Gingrey wrote that, "Health care is by its nature a dynamic and uncertain field. Researchers are always working to pull together grants to keep the centrifuges spinning and Bunsen burners burning. Hospitals must continually untie a tangle of HR, regulatory, budgetary and technology issues while delivering quality health care. Health care providers have to develop efficient business solutions that improve the quality of care and are tailored specifically to the individual communities they serve."<ref name=":0">{{Cite web|url=http://www.districtpolicygroup.com/phil-on-the-hill/health-care-needs-more-stability-from-washington|title=Health Care Needs More Stability from Washington|website=www.districtpolicygroup.com|access-date=2018-03-09}}</ref> Tasked with a constant juggling act, Gingrey wrote, health care leaders benefit when policies from the federal government are predictable and the government itself is stable. Gingrey argued that President Trump took a step toward promoting stability with his nomination of [[Alex Azar]] as the [[United States Secretary of Health and Human Services|Secretary of Health and Human Services]]. Azar brings issue expertise, political know-how and ideas to the position, Gingrey wrote.<ref name=":0" />
+
+==== MedPAC ====
+The Medicare Payment Advisory Center (MedPAC) is a nonpartisan federal advisory commission on federal government healthcare-related policy issues. Twice a year, MedPAC submits a report to Congress. It also supports the [[Medicare (United States)|Medicare]] and [[Medicaid]] programs with analyses and recommendations. Gingrey supports MedPAC and has encouraged members of Congress and policymakers to utilize MedPAC's advice.<ref>{{Cite web|url=http://www.districtpolicygroup.com/phil-on-the-hill/medpac-rising|title=MedPAC Rising|website=www.districtpolicygroup.com|access-date=2018-02-02}}</ref>
+
+=== Media ===
+Gingrey has written several op-eds for ''[[The Hill (newspaper)|The Hill]]'' newspaper on a wide variety of topics.
+
+In the summer of 2016, Gingrey wrote an op-ed about the [[opioid epidemic]] occurring in the U.S. To combat the epidemic, Gingrey wrote that he favors wider access to [[Naloxone]] (commonly known by its brand name [[Narcan]]) to save people who have overdosed, supports the Comprehensive Addiction and Recovery Act (CARA) which had recently passed Congress, encourages more states to adopt the [[Good Samaritan law]]s (laws that provide immunity for those who call 911 if they are witnessing or attending to an overdose), and public awareness education campaigns.<ref>{{Cite news|url=http://thehill.com/blogs/pundits-blog/healthcare/287686-ending-the-opioid-epidemic-is-within-our-grasp|title=Ending the opioid epidemic is within our grasp|last=Gingrey|first=Phil|date=2016-07-14|work=TheHill|access-date=2018-03-28|language=en}}</ref>
+
+In January 2017, shortly before Donald Trump's inauguration, Gingrey wrote in support of Trump's pick of [[Tom Price (American politician)|Tom Price]] as the [[United States Secretary of Health and Human Services|Secretary of Health and Human Services]] (HHS). Not since President [[George H. W. Bush|George H.W. Bush]] picked Dr. [[Louis Wade Sullivan|Louis Sullivan]] as the 17th HHS secretary in 1989 has there been a physician at the head of HHS. Gingrey and Price served together in the [[Georgia State Senate]] before serving in the U.S. House. "Through hard work, collaboration with colleagues, and levering his health policy expertise, he has earned the respect and admiration of his colleagues on both sides of the aisle," Gingrey wrote about Price.<ref>{{Cite news|url=http://thehill.com/blogs/pundits-blog/healthcare/314495-hhs-needs-a-doctor-like-tom-price-as-secretary|title=Nominee Tom Price is the doctor HHS needs|last=Gingrey|first=Phil|date=2017-01-17|work=TheHill|access-date=2018-03-28|language=en}}</ref>
+
+In November 2017, Gingrey penned an op-ed where he argued that the government should not interfere with the patient-physician relationship. During the debate over Obamacare, one key issue of concern for physicians serving in Congress (such as Gingrey) was the promotion and utilization of cost-effectiveness data and "[[comparative effectiveness research]]" (CER). "We were concerned that such information would be used to support government takeover of the practice of medicine, and specifically that these types of analyses and studies would dictate decision-making to doctors," Gingrey wrote. As it turns out, he now supports the federal agency that the [[Patient Protection and Affordable Care Act|Affordable Care Act]] created that creates the CERs. He believes they are important decision-making tools for practitioners, and he supports reauthorization of the agency in 2019.<ref>{{Cite news|url=http://thehill.com/opinion/healthcare/359020-government-should-not-interfere-with-patient-physician-decision-making|title=Government should not interfere with patient-physician decision making|last=Gingrey|first=Phil|date=2017-11-06|work=TheHill|access-date=2018-03-28|language=en}}</ref>
+
+==Personal life==
+He is married to the former Billie Ayers of Newnan, Georgia; they have four children and 13 grandchildren.<ref>{{cite web |url=http://gingrey.house.gov/biography/fastfacts.htm |title=Archived copy |accessdate=2014-11-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20141205212759/http://gingrey.house.gov/biography/fastfacts.htm |archivedate=2014-12-05 |df= }}</ref><ref>https://www.uscc.gov/sites/default/files/Congressman%20Phil%20Gingrey.pdf</ref>
+
+==See also==
+* [[Physicians in US Congress]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commons category}}
+* {{Dmoz|Regional/North_America/United_States/Georgia/Government/Federal/US_House_of_Representatives/Phil_Gingrey_%5BR-11%5D}}
+* {{C-SPAN|Phil Gingrey}}
+* {{CongLinks | congbio=g000550 | votesmart=17644 | fec=H2GA11149 | congress=phil-gingrey/1720 }}<!--
+Links formerly displayed via the CongLinks template:
+* [http://ballotpedia.org/Phil_Gingrey Biography] at [[Ballotpedia]]
+* [http://www.nndb.com/people/706/000038592 Biography] at [[NNDB]]
+* [http://www.govtrack.us/congress/members/400151 Congressional profile] at [[GovTrack]]
+* [http://www.opencongress.org/people/show/400151 Congressional profile] at [[Participatory Politics Foundation|OpenCongress]]
+* [http://www.rollcall.com/members/15836.html Congressional profile] at ''[[Roll Call]]''
+* [http://www.politifact.com/personalities/phil-gingrey Fact-checking] at [[PolitiFact.com]]
+* [http://www.opensecrets.org/politicians/summary.php?cid=N00024760 Financial information (federal office)] at [[Center for Responsive Politics|OpenSecrets.org]]
+* [http://apps.washingtonpost.com/politics/capitol-assets/member/john-gingrey Financial investments (personal)] at ''[[The Washington Post]]''
+* [http://www.legistorm.com/member/250/Rep_Phil_Gingrey_GA.html Staff salaries, trips and personal finance] at LegiStorm.com
+* [http://www.followthemoney.org/database/uniquecandidate.phtml?uc=14301 Financial information (state office)] at the National Institute for Money in State Politics
+* [http://www.ontheissues.org/GA/Phil_Gingrey.htm Issue positions and quotes] at [[On the Issues]]
+* [http://www.worldcat.org/identities/np-gingrey,%20phil Works by or about Phil Gingrey] in libraries ([[WorldCat]] catalog)
+* [http://www.c-spanvideo.org/person/1003565 Appearances] on [[C-SPAN]] programs
+* [http://www.imdb.com/name/nm2256662 Appearances] at the [[Internet Movie Database]]
+* [http://www.washingtonpost.com/politics/gIQAq9iGAP_topic.html Collected news and commentary] at ''[[The Washington Post]]''
+* -->
+* [http://www.ourcampaigns.com/CandidateDetail.html?CandidateID=2706 Profile] at OurCampaigns.com
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[John Linder]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Georgia|U.S. House of Representatives]]<br>from [[Georgia's 11th congressional district]]|years=2003–2015}}
+{{s-aft|after=[[Barry Loudermilk]]}}
+{{s-end}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gingrey, Phil}}
+[[Category:1942 births]]
+[[Category:Academy of Richmond County alumni]]
+[[Category:American obstetricians]]
+[[Category:Georgia Institute of Technology alumni]]
+[[Category:Georgia (U.S. state) Republicans]]
+[[Category:Georgia (U.S. state) state senators]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Georgia (U.S. state)]]
+[[Category:Politicians from Augusta, Georgia]]
+[[Category:School board members in Georgia (U.S. state)]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:21st-century American politicians]]

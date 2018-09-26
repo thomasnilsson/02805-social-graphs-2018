@@ -1,0 +1,129 @@
+{{Infobox congressman
+| name        =Rick W. Allen
+| image       = 
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Georgia's 12th congressional district|Georgia's 12th district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[John Barrow (U.S. politician)|John Barrow]]
+| succeeded   = 
+| birth_date  = {{birth date and age|1951|11|7}}
+| birth_place = [[Augusta, Georgia]], U.S.
+| death_date  =
+| death_place =
+| birthname   = 
+| nationality = [[United States|American]]
+| party       = [[Republican Party (United States)|Republican]]
+| residence   = [[Augusta, Georgia]]
+| alma_mater  = [[Auburn University]]
+| occupation  = }}
+
+'''Richard W. Allen''' (born November 7, 1951) is an American politician who was elected to serve [[Georgia's 12th congressional district]] in the [[United States House of Representatives elections, 2014]]. He will take office on January 3, 2015.
+
+==Career==
+Allen attended [[Auburn University]] and earned a degree in building construction. He is the founder of R.W. Allen and Associates, a construction company headquartered in Augusta.<ref>http://votesmart.org/candidate/biography/136062/rick-allen#.VFlwdfTF_Zk</ref>
+
+Allen ran against [[John Barrow (U.S. politician)|John Barrow]] in the [[United States House of Representatives elections in Georgia, 2014|2014 election]] for {{ushr|GA|12}} in the [[United States House of Representatives]]. Allen defeated Barrow in the November election, in a result considered an upset.<ref>http://politics.blog.ajc.com/2014/11/04/tonights-rolling-blog-cnn-exit-polls-put-georgia-u-s-senate-race-at-49-48/</ref><ref>http://www.ajc.com/news/news/state-regional-govt-politics/rick-allen-upsets-john-barrow-for-georgia/nhzbx/</ref>
+
+==Personal life==
+Allen lives in [[Augusta, Georgia]]. A [[Methodist]], he is married to Robin and has four children.
+
+==References==
+{{reflist}}
+
+==External links==
+{{CongLinks|votesmart=136062}}
+*[http://www.rickwallen.com/ 2014 campaign website]
+
+<!--{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Georgia|
+  district=12 |
+  before=[[John Barrow (U.S. politician)|John Barrow]] |
+  start=2015
+}}
+{{S-end}}-->
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Allen, Rick W.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Allen, Rick}}
+[[Category:Living people]]
+[[Category:People from Augusta, Georgia]]
+[[Category:Georgia (U.S. state) Republicans]]
+[[Category:1951 births]]
+[[Category:Auburn University alumni]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:Members of the United States House of Representatives from Georgia (U.S. state)]]{{Infobox congressman
+| name        =Rick W. Allen
+| image       = 
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Georgia's 12th congressional district|Georgia's 12th district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[John Barrow (U.S. politician)|John Barrow]]
+| succeeded   = 
+| birth_date  = {{birth date and age|1951|11|7}}
+| birth_place = [[Augusta, Georgia]], U.S.
+| death_date  =
+| death_place =
+| birthname   = 
+| nationality = [[United States|American]]
+| party       = [[Republican Party (United States)|Republican]]
+| residence   = [[Augusta, Georgia]]
+| alma_mater  = [[Auburn University]]
+| occupation  = }}
+
+'''Richard W. Allen''' (born November 7, 1951) is an American politician who was elected to serve [[Georgia's 12th congressional district]] in the [[United States House of Representatives elections, 2014]]. He will take office on January 3, 2015.
+
+==Career==
+Allen attended [[Auburn University]] and earned a degree in building construction. He is the founder of R.W. Allen and Associates, a construction company headquartered in Augusta.<ref>http://votesmart.org/candidate/biography/136062/rick-allen#.VFlwdfTF_Zk</ref>
+
+Allen ran against [[John Barrow (U.S. politician)|John Barrow]] in the [[United States House of Representatives elections in Georgia, 2014|2014 election]] for {{ushr|GA|12}} in the [[United States House of Representatives]]. Allen defeated Barrow in the November election, in a result considered an upset.<ref>http://politics.blog.ajc.com/2014/11/04/tonights-rolling-blog-cnn-exit-polls-put-georgia-u-s-senate-race-at-49-48/</ref><ref>http://www.ajc.com/news/news/state-regional-govt-politics/rick-allen-upsets-john-barrow-for-georgia/nhzbx/</ref>
+
+==Personal life==
+Allen lives in [[Augusta, Georgia]]. A [[Methodist]], he is married to Robin and has four children.
+
+==References==
+{{reflist}}
+
+==External links==
+{{CongLinks|votesmart=136062}}
+*[http://www.rickwallen.com/ 2014 campaign website]
+
+<!--{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Georgia|
+  district=12 |
+  before=[[John Barrow (U.S. politician)|John Barrow]] |
+  start=2015
+}}
+{{S-end}}-->
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Allen, Rick W.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Allen, Rick}}
+[[Category:Living people]]
+[[Category:People from Augusta, Georgia]]
+[[Category:Georgia (U.S. state) Republicans]]
+[[Category:1951 births]]
+[[Category:Auburn University alumni]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:Members of the United States House of Representatives from Georgia (U.S. state)]]

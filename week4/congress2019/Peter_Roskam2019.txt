@@ -1,0 +1,339 @@
+{{pp-move-indef}}
+{{Use mdy dates|date=June 2018}} 
+{{Infobox officeholder
+|name          = Peter Roskam
+|image         = NEW Roskam Official Headshot.jpg
+|state         = [[Illinois]]
+|district      = {{ushr|IL|6|6th}}
+|term_start    = January 3, 2007
+|term_end      = 
+|predecessor   = [[Henry Hyde]]
+|successor     = 
+|office1       = [[Party leaders of the United States House of Representatives|House Republican Chief Deputy Whip]]
+|term_start1   = January 3, 2011
+|term_end1     = August 1, 2014
+|predecessor1  = [[Kevin McCarthy (California politician)|Kevin McCarthy]]
+|successor1    = [[Patrick McHenry]]
+|state_senate2 = Illinois
+|district2     = 48th
+|term_start2   = January 15, 2000
+|term_end2     = January 3, 2007
+|predecessor2  = [[Beverly Fawell]]
+|successor2    = [[Randy Hultgren]]
+|state_house3  = Illinois
+|district3     = 40th
+|term_start3   = January 13, 1993
+|term_end3     = January 12, 1998
+|predecessor3  = [[Daniel Cronin]]
+|successor3    = [[Randy Hultgren]]
+|birth_name    = Peter James Roskam
+|birth_date    = {{birth date and age|1961|9|13}}
+|birth_place   = [[Hinsdale, Illinois]], U.S.
+|death_date    = 
+|death_place   = 
+|party         = [[Republican Party (United States)|Republican]]
+|spouse        = Elizabeth Roskam
+|children      = 4
+|education     = [[University of Illinois at Urbana–Champaign]] ([[Bachelor of Arts|BA]])<br>[[Illinois Institute of Technology]] ([[Juris Doctor|JD]])
+|website = {{url|roskam.house.gov}}
+}}
+'''Peter James Roskam''' {{IPAc-en|ˈ|r|ɒ|s|k|ə|m}} (born September 13, 1961) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|IL|6}}, serving since 2007. He is a member of the [[Republican Party (United States)|Republican Party]] and served as the Chief Deputy Majority Whip from 2011–14, ranking fourth among House Republican leaders. Previously, he served in the [[Illinois Senate]] and the [[Illinois House of Representatives]]. He currently serves as Chairman of the [[United States House Ways and Means Subcommittee on Select Revenue Measures|House Ways and Means Subcommittee on Tax Policy.]]
+
+==Early life, education and career==
+Roskam was born in [[Hinsdale, Illinois]]. He was the fourth of five children and was raised in [[Glen Ellyn, Illinois]], graduating from [[Glenbard West High School]]. He earned his B.A. in [[political science]] from the [[University of Illinois at Urbana-Champaign]] and his [[Juris Doctor|J.D.]] from the [[Chicago-Kent College of Law]].<ref>{{cite web | title=Biography |url=https://roskam.house.gov/about/full-biography | publisher=''roskam.house.gov'' | accessdate=May 10, 2018}}</ref> As a member of his law school team, he was named  "Best Oral Advocate" by the [[American College of Trial Lawyers]] at its 1988 National Trial Competition.<ref>{{Cite web|url=https://www.actl.com/home/awards-competitions-grants/national-trial-competition|title=National Trial Competition|website=www.actl.com|language=en|access-date=2018-08-13}}</ref>
+
+In 1984, Roskam taught history and government at All Saints High School in [[St. Thomas, U.S. Virgin Islands]]. From 1985–86, Roskam served as a legislative assistant to Rep. [[Tom DeLay]] (R-TX),<ref name="congressbio">{{cite web|url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000580|title=ROSKAM, Peter: Biographical Information|publisher=Bioguide.congress.gov |accessdate=March 17, 2015}}</ref> and from 1986–87 as a legislative assistant to Congressman [[Henry Hyde]].<ref name="congressbio"/><ref name="RoskamBio">{{cite web|url=http://www.roskamforcongress.com/aboutpeter|title=About Peter|work=Roskam for Congress Committee|access-date=June 26, 2006|archive-url=https://web.archive.org/web/20060713220850/http://www.roskamforcongress.com/aboutpeter/|archive-date=July 13, 2006|dead-url=yes|df=mdy-all}}</ref> In the late 1980s, he served as the Executive Director of Educational Assistance Ltd., a scholarship program for disadvantaged children founded by his father in 1982.<ref name="storyofeal">{{cite web|title=The Story of EAL|publisher=Educational Assistance Ltd.|url=http://www.ealworks.org/story_of_eal.html|accessdate=May 12, 2007|archive-url=https://web.archive.org/web/20070928214824/http://www.ealworks.org/story_of_eal.html|archive-date=September 28, 2007|dead-url=yes|df=mdy-all}}</ref>
+
+In 1992, Roskam was elected to the [[Illinois House of Representatives]], serving from 1993–99.<ref>{{Cite web|url=https://www.gpo.gov/fdsys/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-IL.htm |title=Congressional Directory for the 111th Congress (2009-2010), December 2009. |website=www.gpo.gov|access-date=January 3, 2018}}</ref> In 2000, he was appointed by DuPage County Republican leaders to replace the retiring Beverly Fawell<ref>Kadin, Deborah. {{cite news|title=GOP leaders choose Roskam for Fawell's Senate seat|work=[[Daily Herald (Arlington Heights)|Daily Herald]]|publisher=Paddock Publications, Inc.|date=January 16, 2000}}</ref> in the [[Illinois State Senate]] where he served until his election to the U.S. House of Representatives. Roskam resides in [[Wheaton, Illinois]] with his wife, Elizabeth, and their four children.<ref>{{Cite web|url=https://www.washingtontimes.com/elections/candidates/peter-j-roskam-53825/|title=Peter J. Roskam - Illinois - Bio, News, Photos - Washington Times |last=http://www.washingtontimes.com|first=The Washington Times|website=www.washingtontimes.com |language=en-US|access-date=January 3, 2018}}</ref>
+
+Roskam was a partner in the law firm [[Al Salvi|Salvi]], Roskam & Maher, a personal injury firm. The firm, now called Salvi & Maher, is politically notable because former Republican Senate candidate [[Al Salvi]] and former Republican House candidate Kathy Salvi are also partners in the firm. The ''[[Chicago Tribune]]'' noted that Roskam earned over $615,000 in 2005 as a [[personal injury lawyer|personal injury trial lawyer]].<ref name=TribBlog>{{cite web |url=http://blogs.chicagotribune.com/news_columnists_ezorn/2006/06/candidates_refo.html|title=Change of Subject: Candidate's reform talk may be adding insult to injury |publisher=Blogs.chicagotribune.com|date=June 22, 2006|accessdate=March 17, 2015}}</ref>
+
+After his parents took a trip to [[Vietnam]] and saw American veterans' [[dog tag (identifier)|dog tags]] for sale on the street, the family worked to return the dog tags to their owners or the families of the deceased.<ref>Vogel, Curtis.{{cite web |url=http://www.msnbc.msn.com/id/7279844/did/9694033|title=Husband, wife find 37 soldier IDs being sold on streets of Ho Chi Minh City|accessdate=March 16, 2007|work=[[MSNBC]]}}</ref>
+
+==Illinois General Assembly==
+Roskam served in the [[Illinois General Assembly]] as a [[Illinois House of Representatives|Representative]] from 1993 to 1998, and [[Illinois Senate|Senator]] from 2000 to 2006. In the Senate, Roskam served as the Republican [[Whip (politics)|Whip]], the Republican spokesman on the Executive Committee, and a member of the Rules Committee, Environment and Energy Committee, Insurance and Pensions Committee, and Judiciary Committee. In the Senate, Roskam sponsored legislation giving the [[Supreme Court of Illinois]] authority to reverse a [[death penalty]] sentence, has sponsored legislation increasing the penalties for repeat D.U.I. offenders, and was the lead sponsor of a law to maintain courts' power to hold [[deadbeat parent]]s in contempt to ensure child support.<ref name="RoskamBio"/> Roskam has authored or co-authored fourteen bills to cut taxes.<ref>{{cite web |url=http://www.roskamforcongress.com/news/view_article.cfm?id=598|title=Roskam ready to go to bat for Sixth Congressional District|work=Roskam for Congress Committee|date=May 31, 2006 |accessdate=March 17, 2007 |archiveurl=https://web.archive.org/web/20070212130028/http://www.roskamforcongress.com/news/view_article.cfm?id=598|archivedate=February 12, 2007|deadurl=yes}}</ref>
+
+;Gun law
+Roskam sponsored an Illinois state Senate bill which would have allowed retired military and police personnel to [[carrying concealed weapon|carry concealed weapons]].<ref name="usnewswire"/>
+
+;Healthcare
+On May 20, 2005, Roskam and six other Illinois senators missed a vote in the Illinois Senate on a non-binding resolution urging the United States Congress to protect [[Social Security (United States)|Social Security]] and reject private accounts. The resolution passed 32–19–1, but no action was taken in the Illinois House.<ref>[[Illinois General Assembly]]. 94th General Assembly. [http://www.ilga.gov/legislation/BillStatus.asp?DocNum=13&GAID=8&DocTypeID=SJR&LegId=17501&SessionID=50&GA=94 Senate Joint Resolution No. 13] {{webarchive|url=https://web.archive.org/web/20060927215022/http://www.ilga.gov/legislation/BillStatus.asp?DocNum=13&GAID=8&DocTypeID=SJR&LegId=17501&SessionID=50&GA=94|date=September 27, 2006}}. [http://www.ilga.gov/legislation/votehistory/94/senate/09400SJ0013_05202005_030000D.pdf Roll call – Third Reading] {{webarchive|url=https://web.archive.org/web/20061011221529/http://www.ilga.gov/legislation/votehistory/94/senate/09400SJ0013_05202005_030000D.pdf|date=October 11, 2006}}</ref> Roskam has said in a [[WBBM (AM)|WBBM]] post-debate press conference, "I am against privatizing Social Security, I am against raising taxes for Social Security benefits, and I'm against benefit reductions for Social Security.<ref>WBBM (AM) post-debate press conference, September 22, 2006.</ref>
+
+;Minimum wage
+In November 2006, Roskam expressed opposition to raising the national minimum wage from $5.15 per hour, referring to possible effect on small businesses.<ref>{{cite web |url=http://www.dailyherald.com/news/dupagestory.asp?id=248980&cc=d&tc=&t=Roskam|title=Suburban Chicago's Information Source|publisher=Dailyherald.com|accessdate=March 17, 2015}}</ref>
+
+;Tax reform
+In November 2004, he voted against State Comptroller [[Daniel Hynes|Dan Hynes]]'s $1 billion proposal to raise taxes on [[cosmetic surgery]] to fund [[stem cell]] research.<ref>{{cite web|url=http://www.ioc.state.il.us/office/iocnews/ViewNewsRelease.cfm?ID=2070837173|title=News Portal – Illinois Comptroller's Office Official Website|publisher=Ioc.state.il.us|accessdate=March 17, 2015|archive-url=https://web.archive.org/web/20070807154706/http://www.ioc.state.il.us/office/IOCNews/ViewNewsRelease.cfm?ID=2070837173|archive-date=August 7, 2007|dead-url=yes|df=mdy-all}}</ref> The proposal was narrowly defeated 29-28-1 in the Illinois State Senate.<ref>"Illinois Senate narrowly defeats stem-cell measure", ''Chicago Tribune'', November 19, 2004.</ref><ref>State of Illinois 93rd General Assembly. [http://www.ilga.gov/legislation/votehistory/93/senate/09300HB3589_11182004_008000A.pdf HB 3589 amendment 7 (PDF)] {{webarchive|url=https://web.archive.org/web/20070930024225/http://www.ilga.gov/legislation/votehistory/93/senate/09300HB3589_11182004_008000A.pdf|date=September 30, 2007|accessdate=November 18, 2004}}</ref>
+
+==U.S. House of Representatives==
+
+===Tenure===
+[[File:Roskam Memoiral Day.jpg|thumb|right|200px|Roskam attends a [[Memorial Day]] service in the 6th district.]]
+Roskam became the Chief Deputy Whip in the 112th Congress,<ref>[http://www.politico.com/news/stories/1110/45672.html Peter Roskam gets top deputy whip spot], politico.com, November 29, 2010; accessed December 1, 2010.</ref> ranking fourth among house Republican leaders.<ref>[http://www.chicagobusiness.com/article/20101129/NEWS02/101129948/rep-roskam-gets-gop-leadership-position-in-new-congress Rep. Roskam gets GOP leadership position in new Congress], ''Crain's Chicago Business'' November 29, 2010; accessed December 1, 2010.</ref> He served in that position until 2014.
+
+He and Arizona Democrat [[Gabrielle Giffords]] were periodically interviewed together on [[NPR]]'s ''[[All Things Considered]]'' during their first term as to their experiences as freshmen members of Congress.<ref>[https://www.npr.org/templates/story/story.php?storyId=6724736 Freshmen Members Stake Out Roles in House] ''All Things Considered'', npr.org, January 4, 2007; retrieved April 22, 2008.</ref>
+
+On February 22, 2017, ''[[Crain's Chicago Business]]'' reported that Roskam was one of three Illinois congressional members to receive pension benefits from the State of Illinois while collecting a paycheck as a member of the U.S. House, and began collecting $37,452 in annual pension benefits.<ref>{{Cite news |url=http://www.chicagobusiness.com/article/20170222/NEWS02/170229954/illinois-congress-members-who-collect-state-pensions|title=These legislators collect paychecks from Washington—and pensions from Illinois|access-date=February 23, 2017}}</ref>
+
+===Committee assignments===
+* '''[[United States House Committee on Ways and Means|Committee on Ways and Means]]'''
+** [[United States House Ways and Means Subcommittee on Tax Policy|Subcommittee on Tax Policy]] (Chairman)
+** [[United States House Ways and Means Subcommittee on Health|Subcommittee on Health]]
+* '''[[House Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi]]'''
+
+===Caucus memberships===
+* [[House Baltic Caucus]]<ref>{{cite web|title=Members |url=http://housebalticcaucus.webs.com/members|publisher=House Baltic Caucus|accessdate=February 21, 2018}}</ref>
+*[[Congressional NextGen 9-1-1 Caucus]]<ref>{{cite web|title=Members |url=http://www.ng911institute.org/about-the-congressional-nextgen-9-1-1-caucus |publisher=Congressional NextGen 9-1-1 Caucus|accessdate=June 14, 2018}}</ref>
+
+===House Ethics Committee probe and subsequent vote===
+In 2013, the [[United States House Committee on Ethics]] investigated a $25,000 trip that Roskam and his wife had taken to [[Taiwan]]. The committee closed its review of the trip with no finding of wrongdoing.<ref>{{cite news |last1=Skiba |first1=Katherine |title=Ethics committee closes review of Roskam trip |url=http://articles.chicagotribune.com/2013-11-16/news/ct-met-peter-roskam-ethics-20131116_1_roskam-trip-chinese-culture-university-cultural-representative-office |accessdate=9 August 2018 |publisher=Chicago Tribune |date=November 16, 2013}}</ref>
+
+On January 2, 2017, Roskam vocally supported a measure to eliminate the independence of the [[Office of Congressional Ethics]], placing it under the jurisdiction of the [[House Ethics Committee]],<ref>Bade, Rachael. {{cite news|title=House Republicans gut their own oversight |date=January 2, 2017|url=http://www.politico.com/story/2017/01/house-republicans-gut-their-own-oversight-233111|work=politico.com|accessdate=January 2, 2017}}</ref> a measure that some described as dissolving the office.<ref>Kozlov, Dana.{{cite news|title=Rep. Roskam Among Republicans Who Sought To Dissolve Congressional Ethics Office|date=January 3, 2017 |url=http://chicago.cbslocal.com/2017/01/03/rep-roskam-among-republicans-who-sought-to-dissolve-congressional-ethics-panel|work=[[WBBM-TV|CBS 2 Chicago]]|accessdate=January 8, 2017}}</ref><ref>{{cite news|first=Donna|last=Cassata|title=U.S. Rep. Peter Roskam among those supporting effort to gut independent ethics office|date=January 3, 2017|url=http://www.nwherald.com/2017/01/03/u-s-rep-peter-roskam-among-those-supporting-effort-to-gut-independent-ethics-office/ahj1mco|work=[[Northwest Herald]]|accessdate=January 8, 2017}}</ref> ''[[Crain's Chicago Business]]'' editorial board criticized Roskam for his efforts to place the Office of Congressional Ethics under the jurisdiction of the House Ethics Committee, as he had previously been the subject of an ethics investigation.<ref>{{cite news|title=Take care not to drown in the swamp, Republicans|date=January 7, 2017|url=http://www.chicagobusiness.com/article/20170107/ISSUE07/301079998/take-care-not-to-drown-in-the-swamp-republicans|work=[[Crain's Chicago Business]]|accessdate=January 7, 2017}}</ref>
+
+==Political positions==
+[[File:Roskam GTI.jpg|thumb|left|160px|Roskam attends the opening of the first Hydrogen fueling station in Illinois.]]
+
+As of July 6, 2018, Roskam has voted with his party in 92.6% of votes in the [[115th United States Congress|115th Congress]] – ranking him #112 of 429 in voting against his party – and voted in line with President Trump's position in 94% of the votes.<ref name=":1">{{Cite news|url=https://projects.propublica.org/represent/members/R000580-peter-j-roskam |title=Represent|last=Willis|first=Derek|newspaper=ProPublica|access-date=February 18, 2017}}</ref><ref name="FiveThirtyEightVotingScore">{{Cite news|url=https://projects.fivethirtyeight.com/congress-trump-score/peter-j-roskam/|title=Tracking Peter J. Roskam in The Age Of Trump|author=Bycoffe, Aaron|date=January 30, 2017|newspaper=FiveThirtyEight|access-date=February 18, 2017}}</ref> When it comes to co-sponsoring legislation Roskam was ranked number 153rd in bipartisanship in the House for the 114th Congress and 25th in the first year of the 115th Congress, according to the Bipartisan Index published by [[Richard Lugar#The Lugar Center|The Lugar Center]] and [[Georgetown University|Georgetown's]] [[McCourt School of Public Policy]].<ref>{{cite news|url=http://www.thelugarcenter.org/ourwork-Bipartisan-Index.html|publisher=The Lugar Center|title=The Lugar Center - McCourt School Bipartisan Index|date=April 24, 2018|accessdate=July 9, 2018|location=Washington, D.C.}}</ref> [[FiveThirtyEight]] ranks Roskam as the tenth-most partisan Trump supporter in the House when compared to his district's voting patterns.<ref name="FiveThirtyEightTrumpList">{{cite web |url=https://projects.fivethirtyeight.com/congress-trump-score/house/ |title=Tracking Congress in the Age of Trump |publisher=FiveThirtyEight |accessdate=September 25, 2018}}</ref>
+
+
+=== Environment ===
+
+In 2006, Roskam called climate science "junk science".<ref>{{cite news |title=House Candidates Debate at College |last=Koehler |first=Michael |publisher=Courier (College of DuPage) |date=October 20, 2006 |url=http://www.cod.edu/courier/10.20.06/NEWS_10.20.06.pdf |access-date=February 8, 2007 |archive-url=https://web.archive.org/web/20070928001803/http://www.cod.edu/courier/10.20.06/NEWS_10.20.06.pdf |archive-date=September 28, 2007 |dead-url=yes |df=mdy-all }}</ref><ref>{{cite web |url=http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=132x2889878 |title=Tammy Duckworth mailing|publisher=Democratic Underground|accessdate=February 27, 2017}}</ref><ref>{{cite web|url=http://electionsmeter.com/detail/Peter-Roskam-id6765|title=Biography Peter Roskam - Election(s) Meter|website=Electionsmeter.com|accessdate=February 27, 2017}}</ref>
+The League of Conservation Voters gave Roskam an environmental rating of 3% for 2017 and a lifetime rating of 7%.<ref>{{cite web|url=http://scorecard.lcv.org/moc/peter-j-roskam|title=Representative Peter Roskam|work=National Environmental Scorecard|publisher=League of Conservation Voters |accessdate=May 24, 2018}}</ref>
+
+As an Illinois state legislator he received a 67% rating in 2005 from the Illinois Environmental Council. In 2004 he had scored 100%, while in 2003 he had scored 40%.<ref>{{cite web |title=2005 Environmental Scorecard |publisher=Illinois Environmental Council |url=http://www.ilenviro.org/publications/files/2005scorecard.pdf |access-date=June 26, 2006 |archive-url=https://web.archive.org/web/20070929101442/http://www.ilenviro.org/publications/files/2005scorecard.pdf |archive-date=September 29, 2007 |dead-url=yes |df=mdy-all }}</ref>
+
+In 2018, he joined the House [[Climate Solutions Caucus]], explaining: “It is incumbent upon each and every one of us to understand the impacts and challenges that come from a changing climate. The Climate Solutions Caucus is a bipartisan venue to enact common sense solutions.”<ref>{{cite web |last=Yoder |first=Kate |title=These Republicans say they’re ready for climate action. Can we believe them? |website=Grist |date=May 22, 2018 |url=https://grist.org/article/these-republican-representatives-say-theyre-ready-for-climate-action-can-we-believe-them/}}</ref> Later that year Roskam voted to oppose a tax on carbon emissions. In doing so, he opposed the Republican co-chair of the Climate Solutions Caucus, who announced plans for a bill substituting a carbon tax for existing gasoline and fuel taxes.<ref>{{cite news |first=Jennifer A |last=Dlouhy |title=Republicans Move to Kill Carbon Tax Before It Gains Any Momentum |date=July 19, 2018 |url=https://www.bloomberg.com/news/articles/2018-07-18/republicans-move-to-kill-carbon-tax-before-it-gets-gains-steam |accessdate=2018-07-19}}</ref>
+
+=== Gun policy ===
+
+He received a [[National Rifle Association]] (NRA) endorsement for being a supporter of [[Gun politics in the United States|gun rights]]. On July 15, 2006, Roskam was the featured guest at an NRA support rally for him in [[Addison, Illinois]].<ref name="usnewswire">{{cite web |url=http://releases.usnewswire.com/GetRelease.asp?id=69272|title=Issue Experts. Unique Connections. Maximum Impact|publisher=Releases.usnewswire.com|accessdate=August 23, 2010}}</ref>{{dead link|date=August 2018}}
+
+===Health care===
+
+In his first year in Congress, Roskam secured "more than $50 million federal dollars…to expand health care facilities and programs and improve traffic congestion." This included $195,000 to fund the expansion of the new emergency room at Adventist GlenOaks Hospital in [[Glendale Heights, Illinois|Glendale Heights]] and $243,000 to expand mental health programs at the Access Community Health Network's Martin T. Russo Family Health Center in [[Bloomingdale, Illinois|Bloomingdale]].<ref>{{cite web|url=http://roskam.house.gov/Newsroom/DocumentSingle.aspx?DocumentID=81828 |title=Roskam secures $50M for area projects|accessdate=August 12, 2008|deadurl=yes |archiveurl=https://web.archive.org/web/20080730221309/http://roskam.house.gov/Newsroom/DocumentSingle.aspx?DocumentID=81828|archivedate=July 30, 2008}}</ref><ref>{{cite web |url=http://www.mysuburbanlife.com/glendaleheights/news/x299933368/GlenOaks-Hospital-to-honor-Roskam-for-securing-building-funds|title=GlenOaks Hospital to honor Roskam for securing building funds|accessdate=December 15, 2010|deadurl=yes |archiveurl=https://web.archive.org/web/20111003045146/http://www.mysuburbanlife.com/glendaleheights/news/x299933368/GlenOaks-Hospital-to-honor-Roskam-for-securing-building-funds|archivedate=October 3, 2011}}</ref>  
+
+On September 25, 2007, Roskam voted with the majority of his party against expanding the [[State Children's Health Insurance Program]]. The bill passed Congress but was vetoed by President Bush.<ref>{{cite web|url=http://projects.washingtonpost.com/congress/110/house/1/votes/906|title=H R 976 &#124; U.S. Congress Votes Database|publisher=Projects.washingtonpost.com|date=September 25, 2007 |accessdate=May 17, 2015}}</ref>
+
+On January 12, 2007, Roskam voted with the majority of his party against the Medicare Prescription Drug Price Negotiation Act, which would require the [[Secretary of Health and Human Services]] to negotiate lower covered [[Medicare Part D|Part D]] drug prices on behalf of [[Medicare (United States)|Medicare]] beneficiaries.<ref>{{cite web|url=http://clerk.house.gov/cgi-bin/vote.asp?year=2007&rollnumber=23|title=Final Vote Results for Roll Call 23|publisher=Clerk.house.gov |accessdate=March 17, 2015}}</ref>
+
+Roskam is in favor of repealing the [[Patient Protection and Affordable Care Act]] (also known as Obamacare).<ref>{{cite web|url=http://votesmart.org/candidate/political-courage-test/6382/peter-roskam/#.WKXdtBKLSfQ|title=The Voter's Self Defense System|website=Project Vote Smart|access-date=February 16, 2017}}</ref> On May 4, 2017, he voted to repeal and replace it with the [[American Health Care Act of 2017|American Health Care Act]].<ref name=":02">{{cite web |url=https://www.washingtonpost.com/graphics/politics/ahca-house-vote|title=How the House voted to pass the GOP health-care bill|website=Washington Post|access-date=May 4, 2017}}</ref><ref>{{Cite news|url=https://www.usatoday.com/story/news/politics/2017/05/04/health-care-vote-puts-pressure-dozens-vulnerable-gop-reps/101297824|title=Health care vote puts pressure on dozens of vulnerable GOP reps|work=USA TODAY|access-date=May 4, 2017}}</ref>
+
+Roskam is against the ObamaCare's health insurance tax. In July 2018, the House passed a measure meant to delay the tax "for two years and expand [[Health savings account]]s". Referring to the measure, he stated it "is a flawed tax that gets passed onto American families".<ref>{{cite web |last1=Sullivan |first1=Peter |title=House votes to delay ObamaCare health insurance tax |url=http://thehill.com/homenews/house/398894-house-votes-to-delay-obamacare-health-insurance-tax |website=The Hill |accessdate=29 July 2018}}</ref>
+
+===Social Security===
+According to a direct mailing by the [[National Republican Congressional Committee]] (NRCC), Roskam will protect Social Security by opposing any plans that reduce benefits. Roskam told ''[[The Hill (newspaper)|The Hill]]'' that he opposes any measures that would add private savings accounts or slice up the current program to create a private account. However, Roskam responded to a [[National Taxpayers Union]] questionnaire stating he would "work and vote for Social Security Choice that will allow younger workers to have the choice of investing much of their Social Security taxes in regulated individual retirement accounts."<ref>Kaplan, Jonathan E. {{cite web |url=http://thehill.com/campaign-2008/82-issues-return-in-06-2006-09-21.html|title='82 issues return in '06|publisher=[[The Hill (newspaper)|The Hill]]|date=September 21, 2006|accessdate=March 21, 2007}}</ref>
+
+===Economic issues===
+Roskam supports the [[Dominican Republic-Central America Free Trade Agreement]] (CAFTA).<ref name="supportsdatabase">Krol, Eric.{{cite news|title=Roskam supports Bush on database|page=17|publisher=Daily Herald |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=ADHB&p_theme=adhb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=111AAA5D6461AAE5&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|accessdate=June 25, 2017}}</ref>
+
+On February 17, 2012, ''National Review'' ran an essay in which Roskam and [[Kevin McCarthy (California politician)|Kevin McCarthy]] criticized President Obama's stimulus package, the [[American Recovery and Reinvestment Act]], which Obama said would "save or create 3.5 million jobs." Three years later, however, the American economy was "down more than 1.1 million jobs and the national unemployment rate still hasn’t dropped below 8 percent."<ref>The Ultimate Broken Promise; National Review; February 17, 2012; https://www.nationalreview.com/corner/ultimate-broken-promise-kevin-mccarthy-peter-roskam/</ref>
+
+Roskam advocates making permanent the 2001 and 2003 tax cuts,<ref>Roskam, Congressman Peter J. [http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=67574 Roskam: Democrat Budget will cripple economy, hurt Illinois 6th district] {{webarchive|url=https://web.archive.org/web/20070829182608/http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=67574|date=August 29, 2007}}; retrieved August 18, 2007.</ref> and has sponsored or cosponsored fourteen pieces of legislation for lower taxes, including child tax credits and reducing the income tax, and has stated support for a research and development tax credit. As an Illinois General Assembly legislator, Roskam authored and supported several pieces of tax reduction legislation.<ref>{{cite web |url=http://www.roskamforcongress.com/roskamrecord/index.cfm?ID=10|title=Taxes & The Economy |work=Roskam for Congress Committee|accessdate=March 17, 2007 |archiveurl=https://web.archive.org/web/20070212125329/http://www.roskamforcongress.com/roskamrecord/index.cfm?ID=10|archivedate=February 12, 2007|deadurl=yes}}</ref> [[Americans for Tax Reform]] named Roskam "Hero of the Taxpayer" in 2005 for his opposition to HB-755<ref>[http://www.atr.org/content/pdf/2005/may/052405pr-il-roskam_hero.pdf National Taxpayer Advocacy Group Names Roskam Hero of the Taxpayer] {{webarchive|url=https://web.archive.org/web/20061002200747/http://www.atr.org/content/pdf/2005/may/052405pr-il-roskam_hero.pdf|date=October 2, 2006}} ''Americans for Tax Reform'', May 24, 2005.</ref> which would have raised income and sales taxes by 67% or nearly $7 billion.<ref name="ipireport">{{cite web|title=A Critical Analysis of Education Funding Reform |publisher=Illinois Policy Institute|date=July 2004 |url=http://www.illinoispolicyinstitute.org/eduemail1.htm|accessdate=May 12, 2007 |archiveurl=https://web.archive.org/web/20070928184735/http://www.illinoispolicyinstitute.org/eduemail1.htm|archivedate=September 28, 2007|deadurl=yes}}</ref>
+
+In 2010, he signed a pledge sponsored by [[Americans for Prosperity]] promising to vote against any global warming legislation that would raise taxes.<ref>{{cite web |url=http://americansforprosperity.org/noclimatetax//wp-content/uploads/2010/06/roskam.pdf |format=PDF|title=Americans for Prosperity Applauds U.S. Representative Peter Roskam |publisher=Americansforprosperity.org|accessdate=March 17, 2015|deadurl=yes |archiveurl=https://web.archive.org/web/20150219061216/http://americansforprosperity.org/noclimatetax|archivedate=February 19, 2015}}</ref>
+
+Roskam voted in favor of the [[Tax Cuts and Jobs Act of 2017]].<ref name="Almukhtar">{{cite web |last1=Almukhtar|first1=Sarah|title=How Each House Member Voted on the Tax Bill |url=https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-house-live-vote.html |website=The New York Times|accessdate=December 27, 2017|date=December 19, 2017}}</ref> In 2017, Roskam said that the "middle class is crumbling under the current tax code," after voting in favor of the Tax Cuts and Jobs Act.<ref name="McCaleb122017">{{cite web |last1=McCaleb|first1=Dan|last2=Bishop|first2=Greg|title=Senate Republicans pass historic federal tax reform plan; House to revote Wednesday|url=https://www.ilnews.org/news/economy/house-republicans-pass-historic-federal-tax-reform-plan-senate-vote/article_7324d4e8-e4f0-11e7-8652-93db3774000d.html|website=Illinois News Network|accessdate=December 27, 2017|language=en}}</ref>
+
+===Technology===
+Roskam voted to express "congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to 'Protecting the Privacy of Customers of Broadband and Other Telecommunications Services'" – the measure passed in a 215–205 decision on March 28, 2017.<ref>{{cite web |url=http://clerk.house.gov/evs/2017/roll202.xml|title=Final Vote Results for Roll Call 202 |publisher=Office of the Clerk, U.S. House of Representatives|accessdate=March 29, 2017}}</ref> Passage is an attempt to roll back the regulation initiated by the Obama administration that would have required internet service providers (e.g., Comcast, Time Warner, Verizon, and AT&T) to obtain individual consumers' approval to sell personal data (e.g., internet usage and web history) to marketers and other such data-buyers.<ref>{{cite web|title=Protecting the Privacy of Customers of Broadband and Other Telecommunications Services |url=https://www.federalregister.gov/documents/2016/12/02/2016-28006/protecting-the-privacy-of-customers-of-broadband-and-other-telecommunications-services|publisher=Federalregister.gov |accessdate=March 29, 2017}}</ref>
+
+===Energy===
+In March 2007, Roskam announced a $3 million [[United States Department of Energy|Department of Energy]] grant to the [[Des Plaines, Illinois|Des Plaines]]-based [[Gas Technology Institute]] (GTI).<ref>[http://www.fuelcelltoday.com/online/news/articles/2007-03/-3m-given-for-Illinois-hydrogen- $3m given for Illinois hydrogen production] {{webarchive|url=https://web.archive.org/web/20110711054101/http://www.fuelcelltoday.com/online/news/articles/2007-03/-3m-given-for-Illinois-hydrogen-|date=July 11, 2011|title=''Fuel Cell Today'' |accessdate=March 9, 2007}}</ref>
+
+In June 2007, Roskam supported a bill (H. R. 2619) to authorize $2.5 million per year for 2009-2011 to establish and operate an [[ethanol]] anti-idling power unit research program. Roskam noted that GTI would be eligible for the grant<ref>{{cite press release|title=Congressman Roskam Pushes to Cut CO2 Emissions, Reduce Gas Consumption|publisher=roskam.house.gov|date=June 12, 2007|url=http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=67359|accessdate=July 12, 2007|archive-url=https://web.archive.org/web/20070725204646/http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=67359|archive-date=July 25, 2007|dead-url=yes|df=mdy-all}}</ref> as would any other 501(c)(3) organization that "has performed energy-related research". No further action was taken on the bill in 2007 after it was referred to Subcommittee on Technology and Innovation in mid June.<ref>{{cite web|url=http://thomas.loc.gov/cgi-bin/query/z?c110:H.R.2619|title=Bill Text – 110th Congress (2007-2008) – Thomas (Library of Congress) |publisher=Thomas.loc.gov|accessdate=March 17, 2015}}</ref>
+
+Later, Roskam voted against legislation boosting automobile fuel economy requirements to an industry average of 35 miles per gallon by 2020. The bill also encouraged the use of renewable fuels.<ref>{{cite web|url=http://www.suntimes.com/news/politics/685576,CST-NWS-en07.article |title=Things To Do: Sports|publisher=Suntimes.com|date=March 11, 2015|accessdate=March 17, 2015}}</ref>
+
+On June 24, 2008, Roskam voted against H.R. 6346: The Federal Price Gouging Prevention Act. The bill failed when it was voted on following a suspension of normal rules to stop debate and it required a 2/3 vote to pass.<ref>[[Bart Stupak|Stupak, Bart]].{{cite web |url=http://www.govtrack.us/congress/bill.xpd?bill=h110-6346|title=Federal Price Gouging Prevention Act (2008; 110th Congress H.R. 6346)|publisher=GovTrack.us|accessdate=March 17, 2015}}</ref> Opponents of the bill posit that price gouging is not widespread and that it is difficult to prove that it occurred.<ref>[http://www.localnewsleader.com/kindred/stories1/index.php?action=fullnews&id=16129 House fails to move gas pump price gouging bill] {{Webarchive|url=https://web.archive.org/web/20110716094437/http://www.localnewsleader.com/kindred/stories1/index.php?action=fullnews&id=16129 |date=July 16, 2011 }}, Associated Press, June 25, 2008.</ref> Roskam stated he voted against the bill as a protection of the free market.<ref>{{cite web|url=http://www.pioneerlocal.com/schaumburg/news/1048431,eg-roskammorg-071008-s1.article |title=Suburbs|publisher=Pioneerlocal.com|accessdate=March 17, 2015}}</ref>
+
+Roskam, with Rep. [[John Shimkus]], proposed the Energy VISION Act, which would seek to end America's reliance on foreign energy within 15 years. According to the ''Baltimore Sun'', "The plan mixes conservation and alternative fuel production with aggressive domestic energy exploration, including drilling offshore and in the [[Arctic National Wildlife Refuge]] and opening vast swaths of land to oil shale development."<ref>Tankersley, Jim. [http://weblogs.baltimoresun.com/news/politics/blog/2008/07/gop_reps_oil_independence_by_2.html "GOP reps: Oil independence by 2023"] {{webarchive|url=https://web.archive.org/web/20140815051638/http://weblogs.baltimoresun.com/news/politics/blog/2008/07/gop_reps_oil_independence_by_2.html|date=August 15, 2014|accessdate=July 8, 2008}}</ref>
+
+===Infrastructure===
+Roskam helped to pass the Safe American Roads Act of 2007, which prohibits the [[U.S. Department of Transportation]] from granting Mexican trucks access beyond the U.S./Mexico commercial zone until the department complies with the safety and security regulations Congress has already enacted.<ref>{{Cite web|url=https://www.gpo.gov/fdsys/pkg/BILLS-110hr1773rh/content-detail.html|title=H.R. 1773 (rh) - Safe American Roads Act of 2007|website=www.gpo.gov|language=en|access-date=January 3, 2018}}</ref>
+
+On July 1, 2008, Roskam announced plans to introduce legislation preventing the acquisition of the [[Elgin, Joliet and Eastern Railway|EJ&E Railway]] by the [[Canadian National Railway|CN Railway]] by designating "a 36-mile stretch of the EJ&E as a Corridor for Inter-Suburban Commuter Rail" for use in [[Metra]]'s [[Suburban Transit Access Route (Metra)|STAR line]].<ref>Brooks, Chad.
+[http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=96159 Roskam wants legislation to block CN rail purchase] {{webarchive|url=https://web.archive.org/web/20080730225837/http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=96159|date=July 30, 2008}}.
+Daily Herald via roskam.house.gov, July 1, 2008.</ref> He introduced H.R. 6476 on July 10, 2008 with co-sponsors [[Judy Biggert]] and [[Donald A. Manzullo]].<ref>{{cite web|author=Peter Roskam |url=http://www.govtrack.us/congress/bill.xpd?bill=h110-6476|title=To designate a rail right-of-way as a corridor for inter-suburban commuter rail, and for other purposes. (2008; 110th Congress H.R. 6476)|website=GovTrack.us|accessdate=February 27, 2017}}</ref> Roskam has stated that this would be the nation's first suburb-to-suburb [[commuter rail]] line.<ref>[http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=95758 Roskam moves to designate EJ&E rail line for suburb to suburb mass transit (Press Release)] {{webarchive|url=https://web.archive.org/web/20081124234208/http://roskam.house.gov/News/DocumentSingle.aspx?DocumentID=95758|date=November 24, 2008}}</ref>
+
+===Immigration===
+In interviews on [[National Public Radio]], Roskam stated his opposition to the Senate's [[Comprehensive Immigration Reform Act of 2007]] and stated support for the House [[immigration]] reform bill, H.R. 4437 the [[Border Protection, Anti-terrorism, and Illegal Immigration Control Act of 2005]]. During the interviews he said that his constituency did not support amnesty and wanted stronger border security.<ref>Michelle Norris,  [https://www.npr.org/templates/story/story.php?storyId=10330378 Robert Siegal on NPR] and [https://www.npr.org/templates/story/story.php?storyId=9482787 [[National Public Radio]]'s ''All Things Considered'']; accessed June 25, 2017.</ref><ref name="tribunecommonground">Biemer, John.[http://www.chicagotribune.com/news/politics/chi-0609230204sep23,1,6321203.story?coll=chi-politics-stories "Little common ground for Roskam, Duckworth"], September 23, 2006, ''[[Chicago Tribune]]''.</ref>
+
+When U.S. President Donald Trump signed an executive order to suspend the [[United States Refugee Admissions Program|U.S. Refugee Admissions Program]] (USRAP) and suspend the entry of foreign nationals from seven Muslim-majority countries, Roskam said the "implementation was bumpy" but that he supported "the underlying theme."<ref>Eltagouri, Marwa & Katherine Skiba.{{Cite news |url=http://www.chicagotribune.com/news/local/politics/ct-roskam-hultgren-trump-backlash-met-20170203-story.html|title=Roskam among Republicans on tightrope with constituents over Trump |newspaper=chicagotribune.com|access-date=February 16, 2017}}</ref>
+
+===Social issues===
+Roskam opposes [[abortion]] except in cases where the life of the mother is at risk, making no exceptions for cases of rape or incest.<ref name="collegedebate">Koehler, Michael.{{cite news |title=House candidates debate at college|page=1|publisher=College of DuPage Courier|date=October 20, 2006|url=http://www.cod.edu/courier/10.20.06/NEWS_10.20.06.pdf|accessdate=May 12, 2007 |archiveurl=https://web.archive.org/web/20070928001803/http://www.cod.edu/courier/10.20.06/NEWS_10.20.06.pdf|archivedate=September 28, 2007|deadurl=yes}}</ref>
+
+Roskam has a "D" rating from [[NORML]] for his voting history regarding [[cannabis]]-related causes. Roskam opposes to veterans having access to medical marijuana if recommended by their [[Veterans Health Administration]] doctor and if it is legal for medicinal purposes in their state of residence.<ref name="NORML">{{cite web|title=Illinois Scorecard |url=http://norml.org/congressional-scorecard/illinois|website=NORML|accessdate=December 27, 2017 |language=en-us}}</ref>
+
+Roskam opposes [[same-sex marriage]].<ref name="Kaczynski41013">{{cite web |last1=Kaczynski |first1=Andrew|title=Illinois Republican Delegation Not Joining Mark Kirk In His Gay Marriage Shift|url=https://www.buzzfeed.com/andrewkaczynski/illinois-republican-delegation-not-joining-mark-kirk-in-his|website=BuzzFeed|accessdate=December 27, 2017|language=en}}</ref>
+
+Roskam supports [[adult stem cell|adult]] and [[cord blood|umbilical cord]] [[stem cell]] research. He has argued against [[embryonic stem cell]] research in the Illinois Senate, even if privately funded,<ref name="StemCellDebate">{{cite news|title=Duckworth joins stem cell debate|url=http://www.topix.net/content/trb/2253609877194232426640078648792098326074|publisher=The Chicago Tribune|author=Biemer, John|date=August 2, 2006}}{{Dead link|date=September 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and voted against the Stem Cell Research Enhancement Act in Congress.<ref>{{cite web |url=http://clerk.house.gov/evs/2007/roll020.xml|title=Final Vote Results for Roll Call 20 |publisher=Clerk.house.gov|accessdate=March 17, 2015}}</ref>
+
+===Foreign policy===
+====Israel====
+In March 2016, the Israeli newspaper ''Arutz Sheva'' described Roskam's long-term efforts to combat the [[BDS movement]], which he described as "an insidious effort to marginalize Israel" and "part of a longer-term strategy for people not to protest against Israel, but people that actually want Israel destroyed." Roskam noted a law that "makes BDS an issue in America's trade policy, not just Israel's" by ensuring that American "trade negotiators are doing everything they can to push back against European BDS in particular." Roskam complained, however, that the Obama White House had "given mixed signals" on Israel.<ref>Watch: Meet the man leading Congress's war on BDS; Arutz Sheva; March 21, 2016; http://www.israelnationalnews.com/News/News.aspx/209692</ref>
+
+In April 2018, Roskam and [[Grace Meng]] (D-NY) wrote a letter requesting $500 million for U.S.-Israeli defense cooperation, including $70 million for the [[Iron Dome missile defense system]]. Roskam said that "US-Israel missile defense cooperation is a critical investment in the safety and security of Israel and stability in the Middle East."<ref>Kranish, Shoshana; CONGRESSIONAL REPS PEN LETTER REQUESTING U.S. ARMY ACQUIRE IRON DOME; JPOst; April 20, 2018; https://www.jpost.com/American-Politics/Congressional-reps-pen-letter-requesting-US-Army-acquire-Iron-Dome-551333</ref>
+
+====Hezbollah====
+In a March 2016 letter to the EU Ambassador in Washington, [[David O’Sullivan]], Roskam and Grace Meng (D-NY) asked that the EU label [[Hezbollah]]'s political wing a terrorist organization. “While the 2013 EU designation of Hezbollah’s military wing was a step in the right direction,” they wrote, “distinguishing between Hezbollah’s military and political arms is a distinction without a difference.”<ref>Two members of US Congress urge the EU to follow example of the Gulf states and designate whole Hezbollah as a terrorist group; EIPA; March 11, 2016; http://eipa.eu.com/2016/03/two-members-of-us-congress-urge-the-eu-to-follow-example-of-the-gulf-states-and-designate-whole-hezbollah-as-a-terrorist-group/</ref>
+
+====Iran====
+In July 2010, Roskam and Mike Quigley introduced a House resolution condemning Iranian textbooks that “applaud martyrdom and contain anti-Israel, anti-Semitic, and anti-Western passages aimed at radicalizing students.”<ref>Education in Iran; National Review; July 1, 2010; https://www.nationalreview.com/corner/education-iran-peter-roskam/</ref>
+
+Roskam was an adamant opponent of the 2015 [[Joint Comprehensive Plan of Action|internal nuclear agreement with Iran]], saying that he viewed it as important to fight the agreement in every possible way.<ref name="Herszenhorn">Herszenhorn, David M.  [https://www.nytimes.com/2015/09/10/world/middleeast/iran-nuclear-deal-republican-house-debate.html "Iran Deal Debate Delayed as Talk of Secret Deals Divides G.O.P."], ''New York Times'', September 9, 2015.</ref>
+
+He and then-fellow U.S. Representative [[Mike Pompeo]] successfully pressured House Republican leadership to hold a vote on whether to approve the Iran agreement, rather than an originally planned vote on a "resolution of disapproval" against the agreement,<ref>Sherman, Jake. [http://www.politico.com/story/2015/09/iran-vote-pete-roskam-house-213407 GOP lawmaker tries to slow Iran vote]", ''[[Politico]]'', September 8, 2015; retrieved February 18, 2017.</ref> in a bid to "force Democrats to assert their support for the contentious accord, a vote Republicans hope will be more politically costly than the originally planned vote on a resolution disapproving of the nuclear deal."<ref name="Herszenhorn"/>
+
+In 2016, Roskam opposed the [[United States Department of the Treasury|Treasury Department]]'s grant of a license to [[Airbus]] and [[Boeing]] to deliver planes contracted for by [[Iran Air]]. Roskam said that Congress would attempt to stymie the aviation agreements by making delivery of the aircraft difficult and expensive.<ref>Erdbrink, Thomas & Nicola Clark. [https://www.nytimes.com/2016/09/22/world/middleeast/iran-airbus-boeing-aircraft.html U.S. Allows Boeing and Airbus to Sell Planes to Iran], ''[[The New York Times]]'', September 21, 2016.</ref>
+
+====Qatar====
+Roskam wants the U.S. government to hold accountable Qatar for its support of Hamas. He has appealed to the Obama Administration for support. He joined the U.S. Treasury Department in his criticism.<ref>[http://gulfnewsjournal.com/stories/510548507-roots-of-american-universities-grow-deeper-in-qatar-drawing-criticism "Roots of American universities grow deeper in Qatar, drawing criticism"], ''Gulf News Journal'', June 8, 2015; retrieved August 21, 2015.</ref>
+
+On July 31, 2014, Roskam joined Secretary of State [[John Kerry]] and Treasury Secretary [[Jack Lew]] to urge the Obama Administration to end the United States partnership with [[Qatar]]. Roskam, Kerry and Lew cited Qatar's support of [[Hamas]] as one of the primary reasons.<ref>{{cite web |title=Roskam Urges Obama Administration to End Partnership with Chief Hamas Sponsor Qatar |url=http://roskam.house.gov/media-center/press-releases/roskam-urges-obama-administration-to-end-partnership-with-chief-hamas|website=U.S. Representative Peter Roskam|publisher=United States House of Representatives|accessdate=July 6, 2015|date=July 31, 2014}}</ref><ref>{{cite web|title=Letter to Secretary Kerry and Secretary Lew |url=http://roskam.house.gov/sites/roskam.house.gov/files/Roskam%20Qatar.pdf|website=U.S. Representative Peter Roskam|publisher=U.S. House of Representatives|accessdate=July 6, 2015 |format=PDF|date=July 31, 2014}}</ref>
+
+Roskam cited an article published by ''The New York Times'', which accused Qatar's emir of pledging $400 million in financial aid to Hamas in October 2012.<ref name=hamas>{{cite web|title=Roskam, Barrow Lead Effort Urging Qatar to Abandon Support for Hamas|url=http://roskam.house.gov/media-center/press-releases/roskam-barrow-lead-effort-urging-qatar-to-abandon-support-for-hamas |website=U.S. Representative Peter Roskam|publisher=United States House of Representatives |accessdate=July 6, 2015|date=August 2, 2013}}</ref>
+
+In December 2014, Roskam and Sherman requested new sanctions on Qatar in a letter to Secretary of Treasury Jack Lew. They also asked for a detailed accounting of public and private financing from within Qatar for Hamas, [[Al-Qaeda]], the [[Islamic State of Iraq and the Levant|Islamic State]], and the [[al-Nusra Front]].<ref>{{cite news|last1=Dettmer|first1=Jamie|title=U.S. Ally Qatar Shelters Jihadi Moneymen|url=http://www.thedailybeast.com/articles/2014/12/10/rich-little-qatar-big-ugly-ties-to-terror.html|accessdate=July 6, 2015|work=The Daily Beast|date=December 10, 2014}}</ref>
+
+====Cuba====
+Roskam opposes the [[Cuban Thaw|normalization of U.S.-Cuba relations]], accusing the Obama administration of "appeasement" and saying that the restoration of American-Cuban relations "rewards and legitimizes the Castros' decades of repressive, dictatorial rule."<ref name="SkibaCuba">Skiba, Katherine. [http://www.chicagotribune.com/news/local/breaking/chi-sen-durbin-overjoyed-to-welcome-home-cuban-detainee-gross-20141217-story.html Durbin 'overjoyed' Gross is home; Roskam questions shift in U.S.-Cuba ties], ''Chicago Tribune'', December 17, 2014.</ref> He criticized the 2014 agreement that led to the release of U.S. government contractor [[Alan Gross]] from Cuban captivity in exchange for the release of [[Cuban Five|three Cubans]] imprisoned in the U.S. for espionage, calling it a "dangerous mistake."<ref name="SkibaCuba"/>
+
+====Guantanamo Bay====
+Roskam adamantly opposed [[Barack Obama|President Obama]]'s planned relocation of [[Guantanamo Bay detention camp]] inmates to [[Thomson Correctional Center]] in [[Thompson, Illinois]], calling it "a misguided decision that will ultimately be regretted."<ref>[http://thehill.com/blogs/congress-blog/homeland-security/72507-illinois-deserves-better-than-this-rep-peter-roskam "Illinois deserves better than this"], ''[[The Hill (newspaper)|The Hill]]'', December 16, 2009.</ref>
+
+====Kosovo====
+In February 2017, Roskam led a bipartisan House delegation that visited Kosovo to reiterate American support for that country.<ref>US Congress delegation in Kosovo to show bipartisan support; AP News; February 18, 2017; https://www.apnews.com/b005222d31fd4b1f811f6ab0e7ff9203/US-Congress-delegation-in-Kosovo-to-show-bipartisan-support</ref>
+
+====Iraq War====
+
+On September 21, 2006, Roskam said that the U.S. should "[[stay the course]]" and that U.S. troops should not return home until Iraq is safe.<ref>Corcoran, Pat. [http://www.pioneerlocal.com/cgi-bin/ppo-story/localnews/current/eg/09-21-06-1035978.html "Iraq not central in war on terror, Duckworth says"], ''Elk Grove Times'', September 21, 2006.</ref>
+
+==Political campaigns==
+===1998===
+{{Main|United States House of Representatives elections, 1998#Illinois}}
+Roskam ran for Congress in 1998 in [[Illinois' 13th congressional district]] to replace retiring Congressman [[Harris W. Fawell]], but lost in the Republican primary to state Representative [[Judy Biggert]], who went on to win the general election. Roskam received 40% of the vote to Biggert's 45%.<ref>{{cite web|url=http://www.fec.gov/pubrec/fe1998/ilh.htm|title=1998 U.S. House of Representatives Results|accessdate=April 21, 2006|deadurl=yes |archiveurl=https://web.archive.org/web/20050410172430/http://www.fec.gov/pubrec/fe1998/ilh.htm|archivedate=April 10, 2005}}</ref>
+
+In 1999, at Biggert's request, the [[Federal Election Commission]] (FEC) investigated a mailing sent out by a [[political action committee]] (PAC), the Campaign for Working Families (CWF), in support of Roskam. The FEC did not find the Roskam campaign at fault, but CWF was found to have violated election law. The PAC was led by conservative activist [[Gary Bauer]].<ref>{{cite web |url=http://eqs.sdrdc.com/eqsdocs/00003C0B.pdf|title=Federal Election Commission|accessdate=June 27, 2006|deadurl=yes |archiveurl=https://web.archive.org/web/20070927003218/http://eqs.sdrdc.com/eqsdocs/00003C0B.pdf|archivedate=September 27, 2007}}</ref>
+
+===2006===
+[[File:Il06 109.gif|thumb|right|325px|The 6th congressional district from 2003 to 2013]]
+{{Main|Illinois's 6th congressional district election, 2006}}
+In March 2006, Roskam, running unopposed, won the Republican nomination to attempt to fill the seat in the 6th; his former boss, Hyde, was retiring after 32 years in Congress.<ref name="RoskamBio"/> His opponent in the November general election was an [[Iraq War]] veteran, [[Democratic Party (United States)|Democrat]] [[Tammy Duckworth]]. Hyde endorsed Roskam. The competitive race was called "the nation's most-watched congressional contest" by Eric Krol of the ''[[Daily Herald (Arlington Heights)|Daily Herald]].''<ref name="most-watched">Krol, Eric.{{cite news|title=Debate on immigrants stokes race|url=http://www.roskamforcongress.com/blog/comments.cfm?entry_id=10 |format=reprint|work=[[Daily Herald (Arlington Heights)|Daily Herald]]|publisher=Paddock Publications, Inc.|date=October 12, 2006|accessdate=October 18, 2006 |archiveurl=https://web.archive.org/web/20061004192055/http://www.roskamforcongress.com/blog/comments.cfm?entry_id=10|archivedate=October 4, 2006|deadurl=yes}}</ref>
+
+Roskam was endorsed by the [[Teamsters]] [[labor union]],<ref>{{cite web |url=http://www.teamster.org/06news/hn_060517_5.asp|title=Joint Council 25 Endorses Peter Roskam for Congress|accessdate=November 6, 2006|deadurl=yes |archiveurl=https://web.archive.org/web/20060930013328/http://www.teamster.org/06news/hn_060517_5.asp|archivedate=September 30, 2006}}</ref> The [[International Union of Operating Engineers]] Local 150, and the [[Veterans of Foreign Wars]]. On November 7, 2006, Roskam defeated Duckworth by a margin of 51% to 49%.<ref name="2006electionCNN">{{cite news |url=http://www.cnn.com/ELECTION/2006/pages/results/states/IL/H/06/index.html|title=Elections 2006 |publisher=CNN.com|accessdate=March 17, 2015}}</ref>
+
+===2008===
+{{Main|United States House of Representatives elections in Illinois, 2008#District 6}}
+In March 2008, Roskam was again nominated to run for the 6th District seat in the Republican Primary. He was opposed by Democrat [[Jill Morgenthaler]].
+In late October, ''The Chicago Sun-Times'' reported that Roskam launched a new website at ObamaVotersForRoskam.com. The website displayed a fragment of a quotation from Democratic Presidential front-runner [[Barack Obama]] which seemed to indicate that Obama admires Roskam.<ref>{{cite web|url=http://www.suntimes.com/news/politics/1250701,CST-NWS-cong30.article |title=Politics |publisher=Suntimes.com|accessdate=March 17, 2015}}</ref> The portion of the Obama quotation omitted by Roskam goes: "Having said that, have I said that he's wrong? I love him, but he's wrong." The ''Daily Herald'' called the website a "... move to grab a hold of Obama's coattails ..."<ref>{{cite web|url=http://www.dailyherald.com/story/?id=246599|title=GOP irony: Roskam reaching out for Obama voters|publisher=Dailyherald.com|date=October 30, 2008|accessdate=March 17, 2015}}</ref> ''[[Hardball with Chris Matthews]]'' featured a segment on Roskam's website.<ref>{{cite web|url=http://progressillinois.com/2008/10/30/hardball-roskam-website|title=Hardball Highlights "Obama Voters For Roskam" Website (UPDATED)|publisher=Progress Illinois}}</ref> The Morgenthaler campaign pointed out that Obama supports Morgenthaler, not Roskam.<ref>Murray, Matthew. [http://www.rollcall.com/issues/54_52/politics/29662-1.html "Illinois: Nervous Roskam Eyes Possible Ticket-Splitter"], rollcall.com, October 30, 2008.</ref> However, the district reverted to form, and Roskam won re-election by a 16% margin (58% to 42%).<ref name="2008electionDH">{{cite web |url=http://www.dailyherald.com/story/?id=248529&src=2|title=Morgenthaler concedes to Roskam |publisher=Dailyherald.com|date=November 5, 2008|accessdate=March 17, 2015}}</ref>
+
+===2010===
+{{Main|United States House of Representatives elections in Illinois, 2010#District 6}}
+Peter Roskam defeated Democratic nominee Ben Lowe by a 27% margin in the 2010 midterm election.<ref name="2010election">{{cite web |url=http://www.elections.il.gov/Downloads/ElectionInformation/VoteTotals/2010GEOfficialVote.pdf|title=General Election of November 2, 2010|accessdate=February 1, 2014|page=41|publisher=Illinois State Board of Elections}}</ref>
+
+===2012===
+{{Main|United States House of Representatives elections in Illinois, 2012#District 6}}
+Roskam defeated Democratic nominee Leslie Coolidge, a former partner at [[KPMG]], by an 18.4% margin in the 2012 election.<ref>Toeplitz, Shira. {{cite web |url=http://www.rollcall.com/issues/57_61/leslie_coolidge_faces_tough_climb_against_peter_roskam-210425-1.html|title=Leslie Coolidge Faces Tough Climb Against Peter Roskam|date=November 17, 2011 |accessdate=November 18, 2011|work=[[Roll Call]]}}</ref>
+
+===2014===
+{{Main|United States House of Representatives elections in Illinois, 2014#District 6}}
+Roskam defeated Democratic nominee Michael Mason, a retired postal manager, by a 34% margin in the 2014 general election.<ref name=2014election/>
+
+===2016===
+{{Main|United States House of Representatives elections in Illinois, 2016#District 6}}
+In the Republican primary, Roskam defeated [[Glen Ellyn, Illinois|Glen Ellyn]] Park District commissioner Jay Kinzler, who ran to the [[Right-wing politics|political right]] of Roskam,<ref>{{cite news|last1=Sanchez|first1=Robert|title=Kinzler: Roskam Doesn't Vote Like a Conservative Republican|url=http://www.dailyherald.com/article/20160215/news/160219363|date=February 15, 2016 |publisher=''[[Daily Herald (Arlington Heights)|Daily Herald]]''|accessdate=February 19, 2016}}</ref> with 68.8% of the vote.<ref>{{cite web |url=https://www.elections.il.gov/ElectionResults.aspx?ID=SKR13%2f24Geo%3d|title=2016 Illinois primary results|date=March 15, 2016|publisher=Chicago Tribune|accessdate=December 12, 2016}}</ref>
+
+===2018===
+In February 2018, it was reported that seven Democratic candidates were vying to challenge Roskam for his seat. They included scientist and engineer Sean Casten; Becky Anderson Wilkins, co-owner of Anderson’s Bookshops and a member of the Naperville City Council; College of Lake County Trustee Amanda Howland; regulatory attorney Jennifer Zordani; Palatine resident Ryan Huffman; Barrington Hills plan commissioner Kelly Mazeski; and Carole Cheney of Naperville.<ref>Keeperman, Britney; U.S. Rep. Peter Roskam talks health care, tax bill, gun control; Northwest Herald; February 23, 2018; http://www.nwherald.com/2018/02/22/u-s-rep-peter-roskam-talks-health-care-tax-bill-gun-control/ag5v40t/</ref> The primary was won by Casten.<ref>Dann, Carrie; We now know who'll take on Peter Roskam in IL-6; NBC News; March 21, 2018; https://www.nbcnews.com/card/sean-casten-will-take-peter-roskam-il-6-n858716</ref>
+
+==Electoral history==
+* '''1992 General Election for Illinois House of Representatives – 40th district'''<ref>[[Chicago Sun-Times]]. Illinois House Races. Page 30. November 5, 1992.</ref>
+** Peter Roskam (R), 61%
+** Pat Cullerton (D), 39%
+* '''1994 General Election for Illinois House of Representatives – 40th district'''
+** Peter Roskam (R), unopposed
+* '''1996 General Election for Illinois House of Representatives – 40th district'''<ref>Democratic Party of DuPage County, [http://www.lakedemocrats.org/dupage/nov96.txt 1996 Election results for DuPage County] {{webarchive|url=https://web.archive.org/web/20070928002126/http://www.lakedemocrats.org/dupage/nov96.txt|date=September 28, 2007}}</ref>
+** Peter Roskam (R), 71%
+** Kevin Schuele (D), 29%
+* '''2006 General Election for U.S. House of Representatives – 6th District'''<ref name="2006electionCNN"/>
+** Peter Roskam (R), 51%
+** [[Tammy Duckworth]] (D), 49%
+* '''2008 General Election for U.S. House of Representatives – 6th District'''<ref name="2008electionDH"/>
+** Peter Roskam (R), 59%
+** [[Jill Morgenthaler]] (D), 41%
+* '''2010 General Election for U.S. House of Representatives – 6th District'''<ref name="2010election"/>
+** Peter Roskam (R), 64%
+** [[Ben Lowe (candidate)|Ben Lowe]] (D), 36%
+* '''2012 General Election for U.S. House of Representatives – 6th District'''<ref>{{cite web|url=http://elections.huffingtonpost.com/2012/results/illinois#house-races|title=Illinois: House of Representatives: Voting|publisher=Elections.huffingtonpost.com|accessdate=March 17, 2015}}</ref>
+** Peter Roskam (R), 59%
+** Leslie Coolidge (D), 41%
+* '''2014 General Election for U.S. House of Representatives – 6th District'''<ref name=2014election>{{cite web|url=http://www.elections.il.gov/ElectionInformation/GetVoteTotals.aspx|title=Illinois General Election 2014|publisher=Illinois State Board of Elections|date=November 4, 2014|accessdate=December 26, 2014}}</ref>
+** Peter Roskam (R), 67%
+** Michael Mason (D), 33%
+* '''2016 General Election for U.S. House of Representatives – 6th District'''<ref name=2016election>{{cite web|url=https://www.elections.il.gov/ElectionResults.aspx?ID=vlS7uG8NT%2f0%3d|title=Illinois General Election 2016|publisher=Illinois State Board of Elections|date=November 8, 2016|accessdate=January 8, 2017}}</ref>
+** Peter Roskam (R), 59%
+** Amanda Howland (D), 41%
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* [http://ethics.house.gov/press-release/statement-chairman-and-ranking-member-committee-ethics-regarding-representative-pete-0 Statement of the Chairman and Ranking Member of the Committee on Ethics Regarding Representative Peter Roskam], [[United States House Committee on Ethics]], September 11, 2013; accessed June 25, 2017.
+
+==External links==
+{{commons category|Peter Roskam}}
+* [http://roskam.house.gov/ Congressman Peter Roskam] official U.S. House website
+* [https://www.roskamforcongress.com/ Campaign website]
+* {{DMOZ|Regional/North_America/United_States/Illinois/Government/Federal/US_House_of_Representatives/Peter_Roskam_%5BR-6%5D}}
+* {{C-SPAN|peterroskam}}
+* {{CongLinks | congbio=r000580 | votesmart=6382 | fec=H6IL06117 | congress=peter-roskam/1848 }}
+
+{{s-start}}
+{{s-par|us-il-hs}}
+{{s-bef|before=[[Daniel Cronin]]}}
+{{s-ttl|title=Member of the [[Illinois House of Representatives]]<br>from the 40th district|years=1993–1999}}
+{{s-aft|after=[[Randy Hultgren]]}}
+|-
+{{s-par|us-il-sen}}
+{{s-bef|before=[[Beverly Fawell]]}}
+{{s-ttl|title=Member of the [[Illinois Senate]]<br>from the 48th district|years=2000–2007}}
+{{s-aft|after=[[Randy Hultgren]]}}
+|-
+{{s-par|us-hs}}
+{{s-bef|before=[[Henry Hyde]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Illinois|U.S. House of Representatives]]<br>from [[Illinois's 6th congressional district]]|years=2007–present}}
+{{s-inc}}
+|-
+{{s-ppo}}
+{{s-bef|before=[[Kevin McCarthy (California politician)|Kevin McCarthy]]}}
+{{s-ttl|title=[[Party leaders of the United States House of Representatives|House Republican Chief Deputy Whip]]|years=2011–2014}}
+{{s-aft|after=[[Patrick McHenry]]}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Ed Perlmutter]]}}
+{{s-ttl|title=[[Seniority in the United States House of Representatives|United States Representatives by seniority]]|years=147th}}
+{{s-aft|after=[[John Sarbanes]]}}
+{{s-end}}
+
+{{IL-FedRep}}
+{{USHouseCurrent}}
+{{Authority control}}
+
+{{DEFAULTSORT:Roskam, Peter}}
+[[Category:1961 births]]
+[[Category:21st-century American politicians]]
+[[Category:American Anglicans]]
+[[Category:American people of Dutch descent]]
+[[Category:Chicago-Kent College of Law alumni]]
+[[Category:Illinois lawyers]]
+[[Category:Illinois Republicans]]
+[[Category:Illinois state senators]]
+[[Category:Living people]]
+[[Category:Members of the Illinois House of Representatives]]
+[[Category:Members of the United States House of Representatives from Illinois]]
+[[Category:People from Glen Ellyn, Illinois]]
+[[Category:People from Wheaton, Illinois]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:University of Illinois at Urbana–Champaign alumni]]

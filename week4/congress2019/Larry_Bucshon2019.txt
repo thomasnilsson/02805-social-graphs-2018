@@ -1,0 +1,235 @@
+{{Use mdy dates|date=December 2014}}
+{{Infobox officeholder
+|name         = Larry Bucshon
+|image        = Larry Bucshon official congressional photo.jpg
+|state        = [[Indiana]]
+|district     = {{ushr|IN|8|8th}}
+|term_start   = January 3, 2011
+|term_end     = 
+|predecessor  = [[Brad Ellsworth]]
+|successor    =  
+|birth_name   = Larry Dean Bucshon
+|birth_date   = {{birth date and age|1962|5|31}}
+|birth_place  = [[Taylorville, Illinois]], U.S.
+|death_date   = 
+|death_place  = 
+|party        = [[Republican Party (United States)|Republican Party]]
+|spouse       = Kathryn Bucshon
+|children     = 4
+|education    = [[University of Illinois at Urbana–Champaign]] ([[Bachelor of Science|BS]])<br>[[University of Illinois at Chicago]] ([[Doctor of Medicine|MD]])
+|allegiance   = {{flag|United States}}
+|serviceyears = 1989–1998
+|branch       = {{flag|United States Navy}}
+|unit         = [[File:Seal of the United States Navy Reserve.svg|23px]] [[United States Navy Reserve]]
+}}
+'''Larry Dean Bucshon''' {{IPAc-en|b|uː|ˈ|ʃ|ɔː|n|}} (born May 31, 1962) is an American politician and [[Cardiac surgery|heart surgeon]] who has been the [[United States House of Representatives|U.S. Representative]] for {{ushr|IN|8}} since 2011. He is a member of the [[Republican Party (United States)|Republican Party]].
+
+== Early life, education, and early career ==
+Bucshon was born in [[Taylorville, Illinois]] on May 31, 1962<ref name=CQRollGuide>{{cite news|title=Guide to the New Congress |date=November 4, 2010 |url=http://innovation.cq.com/newmember/2010elexnguide.pdf |work=[[Roll Call|CQ Roll Call]] |accessdate=November 24, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110708200600/http://innovation.cq.com/newmember/2010elexnguide.pdf |archivedate=July 8, 2011}}</ref> and raised in [[Kincaid, Illinois]]. His father, Ronald, was a [[coal miner]], [[U.S. Navy|Navy serviceman]], and lifelong [[Democratic Party (United States)|Democrat]] while his mother, Barbara, was a [[nurse]].<ref name=LanghorneEvansville>{{cite news | first = Thomas | last = Langhorne | title = 2010 Vote: 8th District Profile of Larry Bucshon, Voters in the 8th District will choose between state lawmaker and heart surgeon | date = September 26, 2010 | url = http://www.courierpress.com/news/2010/sep/26/no-headline---26a0xbucshonprofile/ | work = Evansville Courier Press | accessdate = October 7, 2010 }}</ref>
+
+Bucshon graduated from the [[University of Illinois at Urbana-Champaign]] and got his medical degree from the [[University of Illinois Medical School]] at [[Chicago]]. Following medical school, Bucshon completed a residency at the [[Medical College of Wisconsin]], where he served as chief resident in surgery and remained there to complete a fellowship in cardiothoracic surgery.  He also received training at the Milwaukee Veterans Affairs Hospital.<ref name=LanghorneEvansville /> During this time, he enlisted with the [[United States Navy Reserve]], where he served for almost a decade.
+
+== Medical career ==
+Bucshon specialized in [[cardiothoracic surgery]] and has performed hundreds of heart surgeries. From 1995 to 1998, he was in private medical practice in [[Wichita, Kansas]].<ref name=LanghorneEvansville /> Bucshon joined Ohio Valley HeartCare in 1998, where he served as the group's president. He was named St. Mary's Medical Staff Physician of the Year in 2007. He also served as Chief of Cardiothoracic Surgery and Medical Director of the open heart recovery intensive care unit at St. Mary's Hospital.<ref name=campaignsite>{{cite web|title=About|url=http://www.bucshonforcongress.com/about|work=Bucshon for Congress|accessdate=November 27, 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20120113192253/http://www.bucshonforcongress.com/about|archivedate=January 13, 2012|df=mdy-all}}</ref>
+
+==U.S. House of Representatives==
+
+=== Elections ===
+
+==== 2010 ====
+{{See also|United States House of Representatives elections in Indiana, 2010#District 8}}
+Bucshon faced Democratic nominee [[State legislature (United States)|State Representative]] [[Trent Van Haaften]] in the race to fill the seat vacated by Congressman [[Brad Ellsworth]], who was running for Senate.<ref name=campaignsite />
+
+Bucshon received support from the [[National Republican Congressional Committee]] and was named a [[GOP Young Gun]].<ref>{{cite web|title=Candidates|url=http://www.gopyoungguns.com/Candidates|work=GOP Young Guns|publisher=NRCC|accessdate=November 27, 2011|deadurl=yes|archiveurl=https://web.archive.org/web/20110721184917/http://www.gopyoungguns.com/Candidates|archivedate=July 21, 2011|df=mdy-all}}</ref>  During the campaign, Bucshon was endorsed by several conservative interest groups and elected officials, including the Indiana Chamber of Commerce Congressional Action Committee, [[United States Chamber of Commerce]], [[National Right to Life Committee]], Indiana Right to Life, Indiana Manufacturers Association, Campaign for Working Families, House Minority Leader [[John Boehner]], U.S. Congressman [[Mike Pence]], and Indiana Governor [[Mitch Daniels]].<ref>[http://www.cqpolitics.com/wmspage.cfm?docid=news-000003731122 CQ Politics] {{webarchive|url=https://web.archive.org/web/20100918035229/http://www.cqpolitics.com/wmspage.cfm?docid=news-000003731122 |date=September 18, 2010 }}</ref> Bucshon received significant campaign contributions from medical groups.<ref>{{cite news | first = Alex | last = Isenstadt | title = Doc groups helping their own | date = October 6, 2010 | url = http://www.politico.com/news/stories/1010/43210.html | work = [[Politico (newspaper)|Politico]] | accessdate = October 7, 2010}}</ref>
+
+Bucshon defeated van Haaften by a margin of 21 points, winning all 18 counties in the district.<ref name=INSOS10>{{cite web | url = http://www.in.gov/apps/sos/election/general/general2010?page=office&partyID=-1&officeID=5&districtID=8 | title = Election Results, United States Representative | accessdate = November 30, 2010 | date = November 22, 2010 | publisher = [[Secretary of State of Indiana|Indiana Secretary of State]]}}</ref>
+
+====2012====
+Bucshon again faced Kristi Risk in the 2012 Republican primary.<ref>{{cite web|title=RISK SAYS FORMER CARDIOLOGIST, CONGRESSMAN BUCSHON CONTINUALLY DEMONSTRATES A CHANGE OF 'HEART' IN WASHINGTON|url=http://www.kristiriskforcongress.com/pressreleases/risksaysformercardiologistbucshoncontinuallydemonstrateschangeofheartinwashington.htm|work=Kristi Risk for Congress|accessdate=November 27, 2011}}</ref> Bucshon edged out Risk in the 2010 GOP primary, with 16,262 votes to Risk's 14,273.<ref>{{cite news|last=Langhorne|first=Thomas|title=Bucshon to face GOP opponent Kristi Risk for 8th District seat|url=http://www.courierpress.com/news/2011/aug/17/bucshon-face-gop-opponant-8th-district-seat/|accessdate=November 27, 2011|newspaper=Evansville Courier Press|date=August 17, 2011}}</ref>
+
+In the general election, Bucshon defeated former state Rep. Dave Crooks.<ref>{{cite news|last=Bradner|first=Eric|title=Bucshon wins re-election to 8th District seat in Indiana|url=http://www.courierpress.com/news/2012/nov/06/bucshon-wins-re-election-8th-district-seat-indiana/|accessdate=March 18, 2013|newspaper=Courier Journal|date=November 6, 2012}}</ref>
+
+====2014====
+The conservative [[Club for Growth]] announced that it would target Bucshon for defeat in the 2014 Republican primary,<ref>{{cite news|last=Howey|first=Brian|title=HOWEY: Clowning around with Chocola and Mourdock|url=http://newsandtribune.com/opinion/x2000913866/HOWEY-Clowning-around-with-Chocola-and-Mourdock|accessdate=March 18, 2013|newspaper=News and Tribune|date=March 18, 2013}}</ref> but he was re-elected nonetheless.{{citation needed|date=March 2015}}
+
+Bucshon is a member of the [[Republican Main Street Partnership]].<ref>{{cite web|title=Members|author=|url=https://republicanmainstreet.org/members/|format=|publisher=Republican Mains Street Partnership|date=|accessdate=22 September 2017}}</ref>
+
+===Tenure===
+
+==== Taxes and spending ====
+
+Buschon voted in favor of the [[Tax Cuts and Jobs Act of 2017]].<ref name="Almukhtar">{{cite web|last1=Almukhtar|first1=Sarah|title=How Each House Member Voted on the Tax Bill|url=https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-house-live-vote.html?_r=1|website=The New York Times|accessdate=28 December 2017|date=19 December 2017}}</ref> After voting, he stated that there would be "dramatic" economic growth that will "fully cover the amount of revenue decreases" regarding tax cuts. Buschon claimed that people would complete their tax filing on a postcard, however the same tax filing structure remains in place.<ref name="Taylor121917">{{cite web|last1=Taylor|first1=Dave|title=Economists assess income tax overhaul|url=http://www.tribstar.com/news/local_news/economists-assess-income-tax-overhaul/article_2f43a035-2fc6-5e0e-a0bb-36ed8c385b3f.html|website=Terre Haute Tribune Star|accessdate=28 December 2017|language=en}}</ref>
+
+Bucshon supports lower corporate and individual taxes.  He has called for freezing spending at 2008 levels, extending the [[Bush tax cuts]] for all income brackets, and reviewing all government programs for places to reduce spending.<ref name=LanghorneEvansville />  He has stated that Republicans need to "first admit we were partially to blame for the increased government spending over the past decade."<ref name=LanghorneEvansville /><ref name=FoulkesTerreHaute>{{cite news | first = Arthur | last = Foulkes | title = 8th District candidate meets with biz leaders | date = September 24, 2010 | publisher = Community Newspaper Holdings, Inc. | url = http://tribstar.com/news/x1535827387/8th-District-candidate-meets-with-biz-leaders | work = [[Tribune-Star|Terre Haute Tribune Star]] | accessdate = October 7, 2010}}</ref> Bucshon supports simplifying the personal and corporate tax codes.<ref name=AddressesTownHall>{{cite news | first = Richard| last = Gootee | title = Rep. Larry Bucshon addresses spending at town hall meeting | date = April 18, 2011 | url = http://www.courierpress.com/news/2011/apr/19/no-headline---19a0xbucshon/ | work = Evansville Courier Press | accessdate = April 19, 2011}}</ref>
+
+Bucshon voted for the [[Budget Control Act of 2011]], which created a [[Joint Select Committee on Deficit Reduction]]. Bucshon also supported a [[balanced budget amendment]] that would require the federal government to spend no more than it collects in [[revenue]] each year. During his 2010 campaign, Bucshon said one of his campaign goals was to lower taxes for all Americans.<ref name="AddressesTownHall"/>
+
+In 2010 Bucshon signed a pledge sponsored by [[Americans for Prosperity]] promising to vote against any Global Warming legislation that would raise taxes.<ref>http://americansforprosperity.org/files/Bucshon_Larry.pdf{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==== Health care ====
+Bucshon supports the repeal of the [[Affordable Health Care for America Act]]. Bucshon supports reforms that expand and reform high-risk pools and federal reinsurance programs and lower costs.<ref name=LanghorneEvansville />  Bucshon wants to increase transparency in medical care costs.<ref name=FoulkesTerreHaute /> Bucshon has called for cuts in health care programs.<ref>Foulkes, Arthur. [http://tribstar.com/news/x69807297/Bucshon-warns-against-unsustainable-health-care-programs "Bucshon warns against ‘unsustainable’ health care programs."] ''The Tribune-Star'', April 22, 2011.</ref><ref name="votesmart1">{{cite web|url=http://www.votesmart.org/candidate/evaluations/120335/larry-bucshon|title=The Voter's Self Defense System|website=Vote Smart|accessdate=January 31, 2018}}</ref>
+
+==== Gun laws ====
+Bucshon, who describes himself as "an ardent supporter of protecting the [[Second Amendment to the United States Constitution|Second Amendment]]", has supported several bills that loosen restrictions on gun ownership. Bucshon co-sponsored the National Right-to-Carry Reciprocity Act of 2011, which requires all states to honor concealed carry permits from other states within their borders, irrespective of their own gun laws. The [[National Rifle Association]] and the Gun Owners of America have both given Bucshon an "A" rating.<ref name="votesmart1"/>
+
+==== Abortion ====
+Bucshon is [[pro-life]]. During his time in Congress, he has supported bills that seek to establish a legal framework for challenging the [[Roe v. Wade]] Supreme Court decision. He has said he believes that abortion should be legal in cases where the mother's life may be in danger. Bucshon co-sponsored the Life at Conception Act, which declares that life begins at the moment of conception and is entitled to legal protection from that point forward.<ref name="votesmart1"/>
+
+In October 2015, Bucshon was named to serve on the [[United States House Committee on Energy and Commerce Select Investigative Panel on Planned Parenthood|Select Investigative Panel on Planned Parenthood]].<ref>{{cite web|url=https://www.washingtonpost.com/news/powerpost/wp/2015/10/23/boehners-next-select-committee-focusing-on-planned-parenthood-to-be-led-by-marsha-blackburn/|title=Boehner's next select committee, focusing on Planned Parenthood, to be led by Marsha Blackburn|author=Paul Kane|date=October 23, 2015|work=Washington Post|accessdate=October 23, 2015}}</ref>
+
+==== Social Security ====
+Bucshon supports a comprehensive strategy to ensure the long-term sustainability of [[Social Security (United States)|Social Security]] for current and future beneficiaries.<ref name=LanghorneEvansville />
+
+==== Energy ====
+Bucshon describes himself as a "long term friend of coal." His biggest contributors include Koch brothers, Murray energy.<ref>{{cite news|last=Barniak|first=Janice|title=New mine to create 330 new jobs|url=http://www.tristate-media.com/pdclarion/article_56f2da0a-1714-11e1-9903-001cc4c002e0.html|accessdate=November 27, 2011|newspaper=Princeton Daily Clarion|date=November 24, 2011}}</ref> He supports the [[Keystone XL pipeline project]].<ref>{{cite web|title=Congressman Larry Bucshon Comments on Keystone XL Pipeline Announcement|url=http://bucshon.house.gov/press-release/congressman-larry-bucshon-comments-keystone-xl-pipeline-announcement|work=bucshon.house.gov|accessdate=November 27, 2011}}</ref>
+
+==== Transportation ====
+On November 2, 2011 the ''[[Evansville Courier & Press]]'' reported that Bucshon planned to introduce an amendment to the transportation funding bill that would allow governors to re-allocate federal transportation funding from designated programs to projects they designate as emergencies.<ref>{{cite news|last=Bradner|first=Eric|title=Bucshon proposal would allow access to federal dollars in transportation crisis|url=http://www.courierpress.com/news/2011/nov/02/no-headline---ev_bucshon-bridges/|accessdate=November 27, 2011|newspaper=Evansville Courier Press|date=November 2, 2011}}</ref>
+
+==== Federal grants ====
+On July 10, 2014, Bucshon introduced the [[Research and Development Efficiency Act]] ({{usbill|113|H.R.|5056}}), a bill that would instruct the [[Office of Science and Technology Policy]] to establish a working group under the authority of the [[National Science and Technology Council]] to review federal regulations affecting research and research universities and make recommendations on how to streamline them and reduce the regulatory burden on such researchers.<ref name=5056text>{{cite web|title=Text of the Research and Development Efficiency Act|url=https://www.govtrack.us/congress/bills/113/hr5056/text|website=govtrack.us|accessdate=July 17, 2014}}</ref><ref name=5056allactions>{{cite web|title=H.R. 5056 – All Actions|url=https://beta.congress.gov/bill/113th-congress/house-bill/5056/all-actions|publisher=United States Congress|accessdate=July 16, 2014}}</ref> Bucshon said that his goal is "to alleviate some of the burden placed on our research universities so they can get back to their main goal of conducting basic science research."<ref name=BucshonSpeechPR>{{cite web|title=Dr. Bucshon Urges Colleagues to Support Bill to Alleviate Burden on Research and Research Universities |url=http://bucshon.house.gov/press-release/dr-bucshon-urges-colleagues-support-bill-alleviate-burden-hoosier-research |publisher=House Office of Rep. Bucshon |accessdate=July 17, 2014 |date=July 14, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140718035512/http://bucshon.house.gov/press-release/dr-bucshon-urges-colleagues-support-bill-alleviate-burden-hoosier-research |archivedate=July 18, 2014 |df= }}</ref>
+
+==== Climate change ====
+During a September 17, 2014 hearing of the [[United States House Committee on Science, Space and Technology|Committee on Science, Space and Technology]], Bucshon was questioning [[John Holdren]], Director of the White House [[Office of Science and Technology Policy]]. When Holdren encouraged Bucshon to read the scientific literature on [[global warming]], Bucshon replied "Of all the climatologists whose careers depend on the climate changing to keep themselves publishing articles -- yes, I could read that, but I don't believe it."<ref>{{cite web|url=http://www.indystar.com/story/behind-closed-doors/2014/09/23/daily-show-skewers-bucshon-on-climate-change/16096515/|title='The Daily Show' skewers Rep. Larry Bucshon on climate change|publisher=|accessdate=January 31, 2018}}</ref>
+
+==== Cannabis ====
+
+Bucshon has a "D" rating from [[NORML]] for his voting history regarding [[cannabis]]-related causes. Bucshon opposes veterans having access to medical marijuana if recommended by their [[Veterans Health Administration]] doctor and if it is legal for medicinal purposes in their state of residence.<ref name="NORML">{{cite web|title=Indiana Scorecard|url=http://norml.org/congressional-scorecard/indiana|website=NORML|accessdate=28 December 2017|language=en-us}}</ref>
+
+===Committee assignments===
+* '''[[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]'''
+** [[United States House Energy Subcommittee on Health|Subcommittee on Health]]
+** [[United States House Energy Subcommittee on Environment and Economy|Subcommittee on Environment and Economy]]
+** [[United States House Energy Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]]
+
+===Caucus memberships===
+* [[Congressional Constitution Caucus]]<ref>{{cite web|title=Members|author=|url=https://congressionalconstitutioncaucus-garrett.house.gov/about-us/membership|format=|publisher=Congressional Constitution Caucus|date=|accessdate=8 May 2018}}</ref>
+* '''[[Republican Study Committee]]'''<ref>{{cite web|title=Member List|author=|url=https://rsc-walker.house.gov/|format=|publisher=|date=|accessdate=6 November 2017}}</ref>
+
+== Personal life ==
+Bucshon met his wife Kathryn, who is also a [[physician]] and a practicing [[anesthesiologist]] in Evansville, during his medical residency.<ref>{{cite web|title=Larry Bucshon Full Biography|url=http://bucshon.house.gov/about-me/full-biography|website=Larry Bucshon Congressman|accessdate=December 2, 2014}}</ref> They now live in [[Newburgh, Indiana|Newburgh]],<ref>[http://www.courier-journal.com/article/20100912/NEWS02/309130031 Three Indiana U.S. House races could help determine control], Louisville Courier Journal</ref> [[Warrick County, Indiana]] with their four children. He is a member of Our Redeemer Lutheran Church ([[Lutheran Church–Missouri Synod|LCMS]]) in [[Evansville, Indiana|Evansville]].<ref>{{cite web|url=http://www.votesmart.org/bio.php?can_id=120335|title=The Voter's Self Defense System|website=Vote Smart|accessdate=January 31, 2018}}</ref>
+
+==Electoral history==
+{{main|United States House of Representatives elections, 2010}}
+{{Election box begin|title=2010 8th Congressional District of Indiana Elections<ref name="INSOS10" />}}
+{{Election box candidate with party link
+  |party      = Republican Party (US)
+  |candidate  = Larry Bucshon
+  |votes      = 117,259
+  |percentage = 58
+  |change     = }}
+{{Election box candidate with party link
+  |party      = Democratic Party (US)
+  |candidate  = [[Trent Van Haaften]]
+  |votes      = 76,265
+  |percentage = 37
+  |change     = }}
+{{Election box candidate with party link
+  |party      = Libertarian Party (US)
+  |candidate  = John Cunningham
+  |votes      = 10,240
+  |percentage = 5
+  |change     = }}
+{{Election box end}}
+
+{{Election box begin|title=2012 8th Congressional District of Indiana Elections<ref>[[United States House of Representatives elections in Indiana, 2012]]</ref>}}
+{{Election box candidate with party link
+  |party      = Republican Party (US)
+  |candidate  = Larry Bucshon
+  |votes      = 151,533
+  |percentage = 56
+  |change     = }}
+{{Election box candidate with party link
+  |party      = Democratic Party (US)
+  |candidate  = David Crooks
+  |votes      = 122,325
+  |percentage = 43
+  |change     = }}
+{{Election box candidate with party link
+  |party      = Libertarian Party (US)
+  |candidate  = Bart Gadau
+  |votes      = 10,134
+  |percentage = 4
+  |change     = }}
+{{Election box end}}
+
+{{Election box begin|title=2014 8th Congressional District of Indiana Elections<ref>[[United States House of Representatives elections in Indiana, 2014]]</ref>}}
+{{Election box candidate with party link
+  |party      = Republican Party (US)
+  |candidate  = Larry Bucshon
+  |votes      = 103344
+  |percentage = 60
+  |change     = }}
+{{Election box candidate with party link
+  |party      = Democratic Party (US)
+  |candidate  = Thomas R. Spangler
+  |votes      = 61384
+  |percentage = 36
+  |change     = }}
+{{Election box candidate with party link
+  |party      = Libertarian Party (US)
+  |candidate  = Andrew Horning
+  |votes      = 6587
+  |percentage = 4
+  |change     = }}
+{{Election box end}}
+
+==See also==
+* [[Physicians in the United States Congress]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://bucshon.house.gov/ Congressman Larry Bucshon] official U.S. House site
+* [http://www.bucshonforcongress.com/ Larry Bucshon for Congress]
+* {{Dmoz|Regional/North_America/United_States/Indiana/Government/Federal/US_House_of_Representatives/Larry_Bucshon_%5BR-8%5D}}
+* {{C-SPAN|larrybucshon}}
+* {{CongLinks | congbio=B001275 | votesmart=120335 | fec=H0IN08114 | congress=larry-bucshon/2018 }}<!--
+Links formerly displayed via the CongLinks template:
+* [http://ballotpedia.org/Larry_Bucshon Biography] at [[Ballotpedia]]
+* [http://www.nndb.com/people/593/000266792 Biography] at [[NNDB]]
+* [http://www.govtrack.us/congress/members/412427 Congressional profile] at [[GovTrack]]
+* [http://www.opencongress.org/people/show/412427 Congressional profile] at [[Participatory Politics Foundation|OpenCongress]]
+* [http://www.rollcall.com/members/31061.html Congressional profile] at ''[[Roll Call]]''
+* [http://www.opensecrets.org/politicians/summary.php?cid=N00031227 Financial information (federal office)] at [[Center for Responsive Politics|OpenSecrets.org]]
+* [http://apps.washingtonpost.com/politics/capitol-assets/member/larry-bucshon Financial investments (personal)] at ''[[The Washington Post]]''
+* [http://www.legistorm.com/member/2754/Rep_Larry_Bucshon_IN.html Staff salaries, trips and personal finance] at LegiStorm.com
+* [http://www.ontheissues.org/IN/Larry_Bucshon.htm Issue positions and quotes] at [[On the Issues]]
+* [http://www.c-spanvideo.org/larrybucshon Appearances] on [[C-SPAN]] programs
+* [http://www.washingtonpost.com/politics/gIQAD7JXKP_topic.html Collected news and commentary] at ''[[The Washington Post]]''
+* -->
+
+{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox
+|state=Indiana
+|district=8
+|before=[[Brad Ellsworth]]
+|after=Incumbent|years=January 3, 2011 – present}}
+{{s-prec|usa}}
+{{s-bef|before=[[Mo Brooks]]<br>R-[[Alabama]]}}
+{{s-ttl|title='' [[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=196th}}
+{{s-aft|after=[[David Cicilline]]<br>D-[[Rhode Island]]}}
+{{s-end}}
+{{IndianaUSRepresentatives}}
+{{USHouseCurrent}}
+{{IN-FedRep}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Bucshon, Larry}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:American Lutherans]]
+[[Category:American cardiac surgeons]]
+[[Category:Military personnel from Indiana]]
+[[Category:Physicians from Indiana]]
+[[Category:Indiana Republicans]]
+[[Category:Members of the United States House of Representatives from Indiana]]
+[[Category:University of Illinois at Urbana–Champaign alumni]]
+[[Category:Medical College of Wisconsin alumni]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:People from Taylorville, Illinois]]
+[[Category:People from Newburgh, Indiana]]
+[[Category:21st-century American politicians]]

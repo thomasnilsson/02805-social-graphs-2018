@@ -1,0 +1,137 @@
+{{Use mdy dates|date=November 2014}}
+{{Infobox congressman
+| name        =J. French Hill
+<!-- Commented out because image was deleted: | image       = French_Hill_(politician).jpg -->
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Arkansas' 2nd congressional district|Arkansas' 2nd district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Tim Griffin]]
+| succeeded   = 
+| birth_date  = {{Birth date and age|1956|12|5}}
+| birth_place = [[Little Rock, Arkansas]], U.S.
+| death_date  =
+| death_place =
+| birthname   = 
+| nationality = [[United States|American]]
+| party       = [[Republican Party (United States)|Republican]]
+| residence   = Little Rock, Arkansas
+| alma_mater  = {{nowrap|[[Vanderbilt University]] <small>([[B.S.]])</small><br/>[[UCLA School of Management]]}}
+| occupation  =banker, investor }}
+
+'''James French Hill''' (born December 5, 1956) is an American politician who was elected to serve [[Arkansas' 2nd congressional district]] in the [[United States House of Representatives elections, 2014]]. He will take office on January 3, 2015.
+
+==Early life, education, and career==
+Hill attended [[Vanderbilt University]] and graduated ''[[magna cum laude]]'' with a bachelor of science degree in economics. He pledged the [[Phi Kappa Psi]] fraternity, which he served as president. He also attended the [[UCLA Anderson School of Management|UCLA Anderson Graduate School of Management]] where he earned a certified corporate director designation.<ref>{{cite web|url=http://www.arkansasbusiness.com/people/lists/profile/310/j-french-hill|title=J. French Hill - 40 Under 40 - 1996 - Arkansas Business News - ArkansasBusiness.com|publisher=|accessdate=November 5, 2014}}</ref>
+
+Hill served in [[George H. W. Bush]]’s administration as Executive Secretary to the President’s Economic Policy Council and as Deputy Assistant Secretary of the Treasury for Corporate Finance.<ref>http://www.smei.org/?694</ref>
+
+Hill founded and is currently the CEO and Chairman of the Board Delta Trust and Banking Corporation in Little Rock.<ref>http://www.simmonsfirst.com/investment/dt_investments/advisors/fh.aspx</ref>
+
+==2014 congressional elections==
+Hill decided to run for [[Arkansas' 2nd congressional district]] after Republican congressman Tim Griffin decided to run for [[Lieutenant Governor of Arkansas]]. Hill defeated Democrat Pat Hays, the Mayor of [[North Little Rock, Arkansas|North Little Rock]],<ref>{{cite web|url=http://www.thv11.com/story/news/politics/2014/11/04/gops-french-hill-wins-us-house-seat-in-arkansas/18512501/|title=GOP's French Hill wins US House seat in Arkansas|author=Associated Press, news source|date=November 4, 2014|publisher=|accessdate=November 5, 2014}}</ref> 52%-44%.<ref>{{cite web|url=http://www.cnn.com/election/2014/results/state/AR/house/02|title=Arkansas House results -- 2014 Election Center -- Elections and Politics from CNN.com|work=CNN|accessdate=November 5, 2014}}</ref>
+
+==Personal life==
+Hill, a ninth generation Arkansan, lives in Little Rock. He is married to Martha McKenzie (originally of Dallas, Texas) and has two children.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.electfrench.com/ 2014 campaign website]
+
+<!--{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Arkansas|
+  district=2 |
+  before=[[Tim Griffin]] |
+  start=2015
+}}
+{{S-end}}-->
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Hill, French
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = December 5, 1956
+| PLACE OF BIRTH    = [[Little Rock, Arkansas]], U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Hill, French}}
+[[Category:Living people]]
+[[Category:People from Little Rock, Arkansas]]
+[[Category:Vanderbilt University alumni]]
+[[Category:Arkansas Republicans]]
+[[Category:UCLA Anderson School of Management alumni]]
+[[Category:1956 births]]{{Use mdy dates|date=November 2014}}
+{{Infobox congressman
+| name        =J. French Hill
+<!-- Commented out because image was deleted: | image       = French_Hill_(politician).jpg -->
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Arkansas' 2nd congressional district|Arkansas' 2nd district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Tim Griffin]]
+| succeeded   = 
+| birth_date  = {{Birth date and age|1956|12|5}}
+| birth_place = [[Little Rock, Arkansas]], U.S.
+| death_date  =
+| death_place =
+| birthname   = 
+| nationality = [[United States|American]]
+| party       = [[Republican Party (United States)|Republican]]
+| residence   = Little Rock, Arkansas
+| alma_mater  = {{nowrap|[[Vanderbilt University]] <small>([[B.S.]])</small><br/>[[UCLA School of Management]]}}
+| occupation  =banker, investor }}
+
+'''James French Hill''' (born December 5, 1956) is an American politician who was elected to serve [[Arkansas' 2nd congressional district]] in the [[United States House of Representatives elections, 2014]]. He will take office on January 3, 2015.
+
+==Early life, education, and career==
+Hill attended [[Vanderbilt University]] and graduated ''[[magna cum laude]]'' with a bachelor of science degree in economics. He pledged the [[Phi Kappa Psi]] fraternity, which he served as president. He also attended the [[UCLA Anderson School of Management|UCLA Anderson Graduate School of Management]] where he earned a certified corporate director designation.<ref>{{cite web|url=http://www.arkansasbusiness.com/people/lists/profile/310/j-french-hill|title=J. French Hill - 40 Under 40 - 1996 - Arkansas Business News - ArkansasBusiness.com|publisher=|accessdate=November 5, 2014}}</ref>
+
+Hill served in [[George H. W. Bush]]’s administration as Executive Secretary to the President’s Economic Policy Council and as Deputy Assistant Secretary of the Treasury for Corporate Finance.<ref>http://www.smei.org/?694</ref>
+
+Hill founded and is currently the CEO and Chairman of the Board Delta Trust and Banking Corporation in Little Rock.<ref>http://www.simmonsfirst.com/investment/dt_investments/advisors/fh.aspx</ref>
+
+==2014 congressional elections==
+Hill decided to run for [[Arkansas' 2nd congressional district]] after Republican congressman Tim Griffin decided to run for [[Lieutenant Governor of Arkansas]]. Hill defeated Democrat Pat Hays, the Mayor of [[North Little Rock, Arkansas|North Little Rock]],<ref>{{cite web|url=http://www.thv11.com/story/news/politics/2014/11/04/gops-french-hill-wins-us-house-seat-in-arkansas/18512501/|title=GOP's French Hill wins US House seat in Arkansas|author=Associated Press, news source|date=November 4, 2014|publisher=|accessdate=November 5, 2014}}</ref> 52%-44%.<ref>{{cite web|url=http://www.cnn.com/election/2014/results/state/AR/house/02|title=Arkansas House results -- 2014 Election Center -- Elections and Politics from CNN.com|work=CNN|accessdate=November 5, 2014}}</ref>
+
+==Personal life==
+Hill, a ninth generation Arkansan, lives in Little Rock. He is married to Martha McKenzie (originally of Dallas, Texas) and has two children.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.electfrench.com/ 2014 campaign website]
+
+<!--{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Arkansas|
+  district=2 |
+  before=[[Tim Griffin]] |
+  start=2015
+}}
+{{S-end}}-->
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Hill, French
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = December 5, 1956
+| PLACE OF BIRTH    = [[Little Rock, Arkansas]], U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Hill, French}}
+[[Category:Living people]]
+[[Category:People from Little Rock, Arkansas]]
+[[Category:Vanderbilt University alumni]]
+[[Category:Arkansas Republicans]]
+[[Category:UCLA Anderson School of Management alumni]]
+[[Category:1956 births]]

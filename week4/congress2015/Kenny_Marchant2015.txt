@@ -1,0 +1,103 @@
+{{Infobox Congressman
+|birth_name = Kenny Ewell Marchant
+| image name = Kenny Marchant Official.jpg
+| birth_date = {{birth date and age|1951|02|23}}
+| birth_place = [[Bonham, Texas]]
+| state = [[Texas]]
+| district = [[Texas's 24th congressional district|24th]]
+| term_start = January 3, 2005
+| preceded = [[Martin Frost]]
+| succeeded = Incumbent
+| party = [[Republican Party (United States)|Republican]]
+| spouse = Donna Marchant
+| religion = [[Church of the Nazarene]]
+| occupation= construction company owner
+| alma_mater= [[Southern Nazarene University]]
+| residence= [[Coppell, Texas]] 
+}}
+
+'''Kenny Ewell Marchant''' (born February 23, 1951) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|Texas|24}}, serving since 2005. He is a member of the [[Republican Party (United States)|Republican Party]]. The district includes several areas around [[Dallas]] and [[Fort Worth]].
+
+==Early life, education and career==
+Marchant was born February 23, 1951 in [[Bonham, Texas]], but grew up in [[Carrollton, Texas|Carrollton]], a Dallas suburb. He graduated from [[R.L. Turner High School]] in Carrollton and attended college at [[Southern Nazarene University|Southern Nazarene University (SNU)]] in [[Bethany, Oklahoma]], graduating with a business degree. He worked as a real estate developer and he owned a homebuilding company prior to entering politics. 
+
+Marchant served on the Carrollton City Council from 1980 to 1984, and was [[mayor]] of Carrollton from 1984 to 1986.
+
+==Texas House of Representatives==
+He was a member of the [[Texas House of Representatives]] from 1987 to 2004. During three of his nine terms in the Texas House, Marchant served as chairman of the Committee on Financial Institutions. He pushed for legislation that reorganized the Texas Banking Code. In 2002, he was chosen as Chairman of the Texas House Republican Caucus. In 2004, he was named a Top Ten Legislator by ''[[Texas Monthly]]'' and Legislator of the Year by the Texas Municipal League.<ref>{{cite news| url=http://www.washingtonpost.com/wp-srv/elections/2004/candidates/22457/ | work=The Washington Post}}</ref>
+
+==U.S. House of Representatives==
+
+===Committee assignments===
+*'''[[United States House Committee on Ways and Means|Committee on Ways and Means]]'''
+**[[United States House Ways and Means Subcommittee on Oversight|Subcommittee on Oversight]]
+**[[United States House Ways and Means Subcommittee on Select Revenue Measures|Subcommittee on Select Revenue Measures]]
+
+*'''[[United States House Committee on Education and the Workforce|Committee on Education and the Workforce]]'''
+**[[United States House Education Subcommittee on Early Childhood, Elementary and Secondary Education|Subcommittee on Early Childhood, Elementary and Secondary Education]]
+**[[United States House Education Subcommittee on Health, Employment, Labor, and Pensions|Subcommittee on Health, Labor, and Pensions]]
+
+*[[Republican Study Committee]]
+*[[Tea Party Caucus]]
+
+In the 110th Congress, Marchant served on the [[United States House Committee on Financial Services]], [[Committee on Education and Labor]], and [[Oversight and Government Reform Committee]].<ref>[http://www.marchant.house.gov/index.php?option=com_content&task=view&id=22&Itemid=20 Congressman Kenny Marchant - 24th District of Texas - Legislation<!-- Bot generated title -->]</ref>
+
+==Political positions==
+Marchant worked closely with Bush when he was [[governor of Texas]], and bills himself as a staunch conservative.  However, he has occasionally broken ranks with the GOP, as he did to increase the [[minimum wage]].<ref>[http://www.dallasnews.com/sharedcontent/dws/dn/opinion/points/stories/DN-mckenzie_20edi.ART.State.Edition1.379bba4.html Works well with others? What a flaw! | Dallas Morning News | News for Dallas, Texas | Opinion: Points<!-- Bot generated title -->]</ref> He has said that his top priority on [[Capitol Hill]] will be cutting the federal [[Government budget deficit|deficit]] with [[fiscal conservative]] policies.  The [[Sunlight Foundation]] pointed out that among the 435 members of the U.S. House of Representatives in 2008, Marchant has the fifth-highest amount of investment in oil stocks.<ref>{{cite web|title=The Sunlight Foundation Blog - Oil Industry Influence: Personal Finances'|date=August 8, 2008 |url= http://blog.sunlightfoundation.com/2008/08/08/oil-industry-influence-personal-finances/|publisher=Sunlight Foundation}} Retrieved on August 8, 2008</ref>
+
+==Political campaigns==
+Marchant had planned to run for Congress two years earlier in a bid to represent the newly created {{ushr|Texas|32|32nd district}} in suburban Dallas, but fellow Republican [[Pete Sessions]], an incumbent, chose to run there instead. During the [[2003 Texas redistricting]], Marchant, in his position on the Texas House's Redistricting Committee, was ideally positioned to help draw Texas districts.  As part of this effort, the 24th District, represented by 13-term [[Democratic Party (United States)|Democrat]] [[Martin Frost]], was reconfigured from a heavily Democratic district with a sizable Latino population into a heavily Republican district that was over 73 percent white.  While [[Al Gore]] easily carried the old 24th in the 2000 presidential election, [[George W. Bush]] would have won the new 24th with a staggering 68 percent of the vote.  Marchant was elected to Congress in 2004, and was reelected in 2006 (with 60% of the ballots cast) and 2008 (with 56% of the ballots cast).
+
+==Personal life==
+Marchant is married to Donna Marchant and has four children as well as two grandchildren.<ref>{{cite web|title=About Kenny|url=http://marchant.house.gov/biography/}}</ref> They live in [[Coppell, Texas|Coppell]], a Dallas suburb.
+Marchant's son Matthew Marchant is the current mayor of [[Carrollton, Texas]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.marchant.house.gov/ Congressman Kenny Marchant] official U.S. House site
+*[http://www.kennyforcongress.com/ Kenny Marchant for Congress]
+*{{Dmoz|Regional/North_America/United_States/Texas/Government/Federal/US_House_of_Representatives/Kenny_Marchant_%5BR-24%5D}}
+*{{CongLinks | congbio = m001158 | ballot = Kenny_Marchant | nndb = 221/000086960 | votesmart = 5549 | govtrack = 400656 | opencong = 400656 | rollcall = 18463 | politifact = | fec = H4TX24094 | opensecrets = N00026710 | assets = kenny-marchant | legistorm = 350/Rep_Kenny_Marchant_TX.html | followthemoney = 16639 | ontheissues = TX/Kenny_Marchant.htm | congress = kenny-marchant/1806 | worldcat = | cspan = 1013059 | imdb = | bloomberg = | nyt = | wsj = | washpo = gIQAZ91QKP }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox
+| state=Texas
+| district=24
+| before=[[Martin Frost]]
+| years=2005–Present
+| after=Incumbent}}
+{{s-prec|usa}}
+{{s-bef|before=[[Dan Lipinski]]<br><small>D-[[Illinois]]}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=183rd}}
+{{s-aft|after=[[Michael McCaul]]<br><small>R-[[Texas]]}}
+{{s-end}}
+
+{{TX-FedRep}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Marchant, Kenny
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =February 23, 1951
+| PLACE OF BIRTH    =[[Bonham, Texas]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Marchant, Kenny}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Texas]]
+[[Category:Members of the Texas House of Representatives]]
+[[Category:Mayors of places in Texas]]
+[[Category:People from Carrollton, Texas]]
+[[Category:People from Bonham, Texas]]
+[[Category:Southern Nazarene University alumni]]
+[[Category:American members of the Church of the Nazarene]]
+[[Category:Texas city council members]]
+[[Category:People from Coppell, Texas]]
+[[Category:Tea Party movement activists]]
+[[Category:Texas Republicans]]
+[[Category:Republican Party members of the United States House of Representatives]]

@@ -1,0 +1,143 @@
+{{Use mdy dates|date=October 2014}}
+{{Infobox Officeholder
+|name=Barry Loudermilk
+| image  =Barry Loudermilk.jpg
+|caption=<small>Loudermilk speaking in [[Woodstock, Georgia]] (2014)<small>
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Georgia's 11th congressional district|Georgia's 11th district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Phil Gingrey]]
+| succeeded   = 
+<!--| state         = [[Georgia (U.S. state)|Georgia]]
+| district      = [[Georgia's 11th congressional district|11th]]
+| term_start    = January 3, 2015
+| succeeded     = [[Phil Gingrey]]-->
+| state_senate1 = Georgia
+| district1     = 14th  
+| term_start1   = 2013
+| term_end1     = August 27, 2013
+| predecessor1  = [[George Hooks]]
+| succeeded1    = [[Bruce Thompson (Georgia politician)|Bruce Thompson]]
+| state_senate2 = Georgia
+| district2     = 52nd  
+| term_start2   = 2011
+| term_end2     = 2013
+| predecessor2  = Preston Smith
+| succeeded2    = Chuck Hufstetler
+| state_house3  = Georgia
+| district3     = 14th
+| term_start3   = 2005
+| term_end3     = 2011
+| predecessor3  = Tom Knox
+| succeeded3    = Christian Coomer
+| birth_date={{birth date and age|1963|12|22}}
+| birth_place=[[Riverdale, Georgia|Riverdale]], [[Georgia (U.S. state)|Georgia]], U.S.
+| party         = [[Republican Party (United States)|Republican]]
+| residence     = [[Cassville, Georgia]]
+}}
+
+'''Barry D. Loudermilk''' (born December 22, 1963)  is an American [[politician]] from the state of [[Georgia (U.S. state)|Georgia]]. He will become the next U.S. Congressman from {{ushr|GA|11}}, which covers part of Atlanta's northern suburbs, in the 114th Congress. Loudermilk won the Republican nomination for the seat in a runoff on July 22, 2014 over [[Bob Barr]], and won the general election on November 4, 2014.<ref>{{cite news|title=Barry Loudermilk wins Georgia GOP runoff to succeed Rep. Gingrey|url=http://www.timesfreepress.com/news/2014/jul/22/barry-loudermilk-wins-georgia-gop-runoff-succeed-r/|accessdate=July 23, 2014|agency=Associated Press|publisher=Chattanooga Times Free Press|date=July 22, 2014}}</ref>
+
+==Career==
+Loudermilk was a member of the [[Georgia State Senate]] for almost three years, representing the 14th district. He previously served in the [[Georgia House of Representatives]] from 2005 until 2011.<ref>{{cite web|url=http://www.senate.ga.gov/senators/en-US/member.aspx?Member=156&Session=23 |title=Senator Barry Loudermilk |publisher=Georgia State Senate |accessdate=January 7, 2014}}</ref> Loudermilk resigned from the state Senate on August 27, 2013, to focus on his congressional bid.<ref>{{cite web|url=http://www.daily-tribune.com/view/full_story/23462727/article-Loudermilk-resigns-from-state-Senate-to-run-campaign?instance=homesecondleft |title=Loudermilk Resigns from Senate to Run Campaign |publisher=Daily-Tribune.com |date=August 28, 2013 |accessdate=November 26, 2013}}</ref>
+
+Loudermilk is a native of [[Georgia (U.S. state)|Georgia]]. He entered politics in 2001, when he was elected as Chairman of the Bartow County Republican Party until 2004. He was subsequently elected to the State House. Loudermilk was elected to the State Senate in 2010, and was sworn in in 2011. As a state senator, he served as Chair to the Senate Science and Technology Committee and as Secretary to the Veterans, Military and Homeland Security and Public Safety Committees. He was also a member of the Senate Transportation Committee.  He holds an Associate degree in Telecommunications Technology and a Bachelor of Science in Occupational Education and Information Systems Technology.
+
+Loudermilk has been endorsed by evangelical Christian minister [[David Barton (author)|David Barton]].<ref>[http://www.huffingtonpost.com/2013/09/11/barry-loudermilk-david-barton_n_3907809.html]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{CongLinks|votesmart=31618|ballot=Barry_Loudermilk}}
+
+{{Persondata
+| NAME              = Loudermilk, Barry
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = 
+| PLACE OF BIRTH    = 
+| DATE OF DEATH     = 
+| PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Loudermilk, Barry}}
+[[Category:Living people]]
+[[Category:Georgia (U.S. state) Republicans]]
+[[Category:Georgia (U.S. state) State Senators]]
+[[Category:Members of the Georgia House of Representatives]]
+[[Category:People from Bartow County, Georgia]]
+
+
+{{GeorgiaUS-politician-stub}}{{Use mdy dates|date=October 2014}}
+{{Infobox Officeholder
+|name=Barry Loudermilk
+| image  =Barry Loudermilk.jpg
+|caption=<small>Loudermilk speaking in [[Woodstock, Georgia]] (2014)<small>
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Georgia's 11th congressional district|Georgia's 11th district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Phil Gingrey]]
+| succeeded   = 
+<!--| state         = [[Georgia (U.S. state)|Georgia]]
+| district      = [[Georgia's 11th congressional district|11th]]
+| term_start    = January 3, 2015
+| succeeded     = [[Phil Gingrey]]-->
+| state_senate1 = Georgia
+| district1     = 14th  
+| term_start1   = 2013
+| term_end1     = August 27, 2013
+| predecessor1  = [[George Hooks]]
+| succeeded1    = [[Bruce Thompson (Georgia politician)|Bruce Thompson]]
+| state_senate2 = Georgia
+| district2     = 52nd  
+| term_start2   = 2011
+| term_end2     = 2013
+| predecessor2  = Preston Smith
+| succeeded2    = Chuck Hufstetler
+| state_house3  = Georgia
+| district3     = 14th
+| term_start3   = 2005
+| term_end3     = 2011
+| predecessor3  = Tom Knox
+| succeeded3    = Christian Coomer
+| birth_date={{birth date and age|1963|12|22}}
+| birth_place=[[Riverdale, Georgia|Riverdale]], [[Georgia (U.S. state)|Georgia]], U.S.
+| party         = [[Republican Party (United States)|Republican]]
+| residence     = [[Cassville, Georgia]]
+}}
+
+'''Barry D. Loudermilk''' (born December 22, 1963)  is an American [[politician]] from the state of [[Georgia (U.S. state)|Georgia]]. He will become the next U.S. Congressman from {{ushr|GA|11}}, which covers part of Atlanta's northern suburbs, in the 114th Congress. Loudermilk won the Republican nomination for the seat in a runoff on July 22, 2014 over [[Bob Barr]], and won the general election on November 4, 2014.<ref>{{cite news|title=Barry Loudermilk wins Georgia GOP runoff to succeed Rep. Gingrey|url=http://www.timesfreepress.com/news/2014/jul/22/barry-loudermilk-wins-georgia-gop-runoff-succeed-r/|accessdate=July 23, 2014|agency=Associated Press|publisher=Chattanooga Times Free Press|date=July 22, 2014}}</ref>
+
+==Career==
+Loudermilk was a member of the [[Georgia State Senate]] for almost three years, representing the 14th district. He previously served in the [[Georgia House of Representatives]] from 2005 until 2011.<ref>{{cite web|url=http://www.senate.ga.gov/senators/en-US/member.aspx?Member=156&Session=23 |title=Senator Barry Loudermilk |publisher=Georgia State Senate |accessdate=January 7, 2014}}</ref> Loudermilk resigned from the state Senate on August 27, 2013, to focus on his congressional bid.<ref>{{cite web|url=http://www.daily-tribune.com/view/full_story/23462727/article-Loudermilk-resigns-from-state-Senate-to-run-campaign?instance=homesecondleft |title=Loudermilk Resigns from Senate to Run Campaign |publisher=Daily-Tribune.com |date=August 28, 2013 |accessdate=November 26, 2013}}</ref>
+
+Loudermilk is a native of [[Georgia (U.S. state)|Georgia]]. He entered politics in 2001, when he was elected as Chairman of the Bartow County Republican Party until 2004. He was subsequently elected to the State House. Loudermilk was elected to the State Senate in 2010, and was sworn in in 2011. As a state senator, he served as Chair to the Senate Science and Technology Committee and as Secretary to the Veterans, Military and Homeland Security and Public Safety Committees. He was also a member of the Senate Transportation Committee.  He holds an Associate degree in Telecommunications Technology and a Bachelor of Science in Occupational Education and Information Systems Technology.
+
+Loudermilk has been endorsed by evangelical Christian minister [[David Barton (author)|David Barton]].<ref>[http://www.huffingtonpost.com/2013/09/11/barry-loudermilk-david-barton_n_3907809.html]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{CongLinks|votesmart=31618|ballot=Barry_Loudermilk}}
+
+{{Persondata
+| NAME              = Loudermilk, Barry
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = 
+| PLACE OF BIRTH    = 
+| DATE OF DEATH     = 
+| PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Loudermilk, Barry}}
+[[Category:Living people]]
+[[Category:Georgia (U.S. state) Republicans]]
+[[Category:Georgia (U.S. state) State Senators]]
+[[Category:Members of the Georgia House of Representatives]]
+[[Category:People from Bartow County, Georgia]]
+
+
+{{GeorgiaUS-politician-stub}}

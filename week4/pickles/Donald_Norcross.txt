@@ -1,0 +1,418 @@
+{{Moresources|date=November 2014}}
+{{Infobox congressman
+| image              = 
+| imagesize          = 
+| state              = [[New Jersey]]
+| district           = [[New Jersey's 1st congressional district|1st]]
+| term_start         = November 12, 2014 <!-- NOTE: not on January 3, 2015 -->
+| term_end           =
+| preceded           = [[Rob Andrews]]
+| succeeded          = 
+| state_senate2      = New Jersey
+| district2          = [[New Jersey Legislative Districts, 2011 apportionment#District 5|5th]]
+| term_start2        = January 19, 2010
+| term_end2          = November 12, 2014
+| preceded2          = [[Dana L. Redd]]
+| succeeded2         = [[Nilsa Cruz-Perez]]
+| office3            = Member of the [[New Jersey General Assembly]] from the [[New Jersey Legislative Districts, 2001 apportionment#District 5|5th]] district
+| term_start3        = January 12, 2010
+| term_end3          = January 19, 2010
+| preceded3          = [[Joseph J. Roberts|Joseph J. Roberts, Jr.]]
+| succeeded3         = [[Gilbert "Whip" Wilson|Gilbert L. Wilson]]
+| birth_date         = {{Birth date and age|1958|12|13|mf=y}}
+| birth_place        = {{nowrap|[[Pennsauken, New Jersey]], U.S.}}
+| death_date         =
+| death_place        =
+| religion           = Lutheran<ref>[http://ccbq.capwiz.com/bio/id/63224 Religion: Lutheran per biodata], ccbq.capwiz.com; accessed December 1, 2014.</ref>
+| spouse             = Andrea Doran
+| children           = 3
+| party              = [[Democratic Party (United States)|Democratic]]
+| residence          = [[Camden, New Jersey]]
+| alma_mater         = [[Camden County College]] <small>([[Associate of Science|A.S.]])</small>
+| occupation         = Assistant Business Manager<br>IBEW Local 351
+| website            = http://norcross.house.gov}}
+
+'''Donald W. Norcross''' (born December 13, 1958) is an American labor leader and Democratic Party politician who is currently serving as the United States Representative for [[New Jersey's 1st congressional district]]. He won the seat in 2014 following the resignation of former Rep. [[Rob Andrews]]. Prior to his service in the House, he represented the [[New Jersey Legislative Districts, 2001 redistricting#District 5|5th District]] in the [[New Jersey Senate]] from 2010-14. Norcross was sworn in as a Member of the United States House of Representatives by House Speaker [[John Boehner]] on November 12, 2014, having been elected in a special election to serve as representative of New Jersey's 1st Congressional District, and was added to the rolls of the House upon executing the oath of office.
+
+==Personal life==
+Norcross was born in 1958<ref name=Courier-Post>{{cite news|title=Another Norcross on the rise|url=http://pqasb.pqarchiver.com/courierpostonline/access/1856401991.html?FMT=ABS&amp;date=Sep+06,+2009|work=[[Courier-Post]]|first=Jane|last=Roh|date=2009-09-06}}</ref> at [[Cooper University Hospital]] in Camden, the son of George E. Norcross, Jr. He and his three brothers were raised in [[Pennsauken Township, New Jersey|Pennsauken Township]]. He graduated from [[Camden County College]] with a degree in criminal justice.<ref name=Courier-Post/>
+
+Norcross is married to Andrea Doran, an echocardiographer. They have three children.<ref name=Courier-Post/><ref name="biodata"/>
+
+Norcross has been active in the United Way of Camden County for close to two decades, serving as chairman from 2002 through 2004 and since as a member of the organization's Executive Board. He is currently a board member of the United Way of Greater Philadelphia and Southern New Jersey. Since 1993, he has also been a member of the Board of Trustees of the Union Organization for Social Service (UOSS), the nation's first labor agency devoted to community service. Norcross is a founding member and on the executive board of The Home Port Alliance, a coalition that brought back the retired ''[[USS New Jersey (BB-62)|USS New Jersey]]'' to serve as a monument for veterans and an attraction for the revitalization of the Camden/Philadelphia Waterfront. {{cn|date=November 2014}}
+
+==Career==
+In 1980, he served as an apprentice in the [[International Brotherhood of Electrical Workers]], eventually becoming assistant business manager of the IBEW Local 351.<ref>{{cite web|url=http://camdencountydems.com/content/norcross-why-im-running-state-assembly|title=Norcross: Why I'm running for the State Assembly|date=2009-09-02|accessdate=2009-11-03}}</ref> A former president of the Southern New Jersey Building Trades Council, Norcross served as president of the Southern New Jersey AFL-CIO Central Labor Council for 16 years.<ref name="biodata">[http://norcross.house.gov Profile], norcross.house.gov; accessed November 17, 2014.</ref>
+
+Norcross and his running mate, Camden City Council President [[Angel Fuentes]], were elected to the Assembly in 2009 after Democratic incumbents [[Nilsa Cruz-Perez]] and [[Joseph J. Roberts]] both retired. Shortly thereafter, Norcross was appointed to the Senate seat vacated by Dana Redd who was elected as Mayor of Camden. Norcross won the Senate special election in 2010 to finish out the term, then was re-elected to the New Jersey Senate in 2011 and 2013.<ref name="phillyblogs"/><ref name="biodata"/>
+
+Committee Assignments:
+Chair, Law and Public Safety
+Military and Veterans Affairs
+Transportation
+Chair, School Facilities and Construction subcommittee for the Joint Committee on Public Schools
+Fire Safety Commission
+
+===Run for Congress===
+{{main|United States House of Representatives elections in New Jersey, 2014}}
+On February 4, 2014, South Jersey Congressman [[Rob Andrews]] announced he would be resigning from Congress by the end of the month, and he did so on February 18.<ref name="robandrews">[http://www.washingtonpost.com/blogs/post-politics/wp/2014/02/04/n-j-democrat-rob-andrews-expected-to-resign-from-congress "N.J. Democrat Rob Andrews to resign from Congress"], washingtonpost.com; accessed November 17, 2014.</ref> 
+
+Norcross announced his candidacy February 5, and within a week, he was endorsed by every New Jersey congressional Democrat, State Senate President [[Stephen Sweeney]], General Assembly Majority Leader [[Louis Greenwald]], [[Mayor of Camden, New Jersey|Mayor of Camden]] [[Dana Redd]], U.S. Senator [[Cory Booker]] and former Governor [[Jim Florio]].<ref name="phillyblogs">[http://www.philly.com/philly/blogs/capitolinq/Andrews-to-leave-Congress-in-Feb.html Rob Andrews to leave Congress], philly.com; accessed November 17, 2014.</ref>
+
+===Election history===
+{{Election box begin no change|title=New Jersey State Senate elections, 2011<ref name=Results2011>[http://www.njelections.org/election-results/2011-official-gen-elect-state-senate-results-121411.pdf Official List Candidate Returns for State Senate For November 2011 General Election], [[New Jersey Department of State]], December 14, 2011. Accessed January 7, 2012.</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Donald W. Norcross ([[incumbent]])
+  |votes      = 17,712
+  |percentage = 56.8
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Keith Walker
+  |votes      = 13,444
+  |percentage = 43.2
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+
+{{Election box begin no change | title= New Jersey State Senate Special elections, 2010<ref>[http://njelections.org/results_2010_doe.html] "New Jersey Senate, (retrieved on 12/12/11).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Donald W. Norcross ([[incumbent]])
+  |votes      = 28,801
+  |percentage = 65.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Harry E. Trout
+  |votes      = 15,041
+  |percentage = 34.3
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Congbio|N000188}}
+*[http://www.njleg.state.nj.us/members/BIO.asp?Leg=324 Legislative web page], [[New Jersey Legislature]]
+*''New Jersey Legislature financial disclosure forms''
+**[http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2011.pdf 2011] [http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2010.pdf 2010] [http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2009.pdf 2009]
+
+{{s-start}}
+{{s-par|us-nj-sen}}
+{{succession box|title=[[New Jersey Senate|New Jersey State Senator]] - District 5|before=[[Dana Redd]]|after=Incumbent |years=January 19, 2010 - present}}
+{{s-par|us-nj-hs}}
+{{succession box|title=[[New Jersey General Assembly|New Jersey State Assemblyman]] - District 5|before=[[Joseph J. Roberts]] |after=[[Gilbert "Whip" Wilson]] |years=January 12, 2010 - January 19, 2010}}
+{{s-end}}
+
+{{NJ-FedRep}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Norcross, Donald
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = New Jersey State Senator
+| DATE OF BIRTH     = December 13, 1958
+| PLACE OF BIRTH    = [[Camden, New Jersey]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+
+{{DEFAULTSORT:Norcross, Donald}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:American electricians]]
+[[Category:American labor leaders]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Members of the New Jersey General Assembly]]
+[[Category:Members of the United States House of Representatives from New Jersey]]
+[[Category:New Jersey Democrats]]
+[[Category:New Jersey State Senators]]
+[[Category:People from Camden, New Jersey]]
+[[Category:People from Pennsauken Township, New Jersey]]{{Moresources|date=November 2014}}
+{{Infobox congressman
+| image              = 
+| imagesize          = 
+| state              = [[New Jersey]]
+| district           = [[New Jersey's 1st congressional district|1st]]
+| term_start         = November 12, 2014 <!-- NOTE: not on January 3, 2015 -->
+| term_end           =
+| preceded           = [[Rob Andrews]]
+| succeeded          = 
+| state_senate2      = New Jersey
+| district2          = [[New Jersey Legislative Districts, 2011 apportionment#District 5|5th]]
+| term_start2        = January 19, 2010
+| term_end2          = November 12, 2014
+| preceded2          = [[Dana L. Redd]]
+| succeeded2         = [[Nilsa Cruz-Perez]]
+| office3            = Member of the [[New Jersey General Assembly]] from the [[New Jersey Legislative Districts, 2001 apportionment#District 5|5th]] district
+| term_start3        = January 12, 2010
+| term_end3          = January 19, 2010
+| preceded3          = [[Joseph J. Roberts|Joseph J. Roberts, Jr.]]
+| succeeded3         = [[Gilbert "Whip" Wilson|Gilbert L. Wilson]]
+| birth_date         = {{Birth date and age|1958|12|13|mf=y}}
+| birth_place        = {{nowrap|[[Pennsauken, New Jersey]], U.S.}}
+| death_date         =
+| death_place        =
+| religion           = Lutheran<ref>[http://ccbq.capwiz.com/bio/id/63224 Religion: Lutheran per biodata], ccbq.capwiz.com; accessed December 1, 2014.</ref>
+| spouse             = Andrea Doran
+| children           = 3
+| party              = [[Democratic Party (United States)|Democratic]]
+| residence          = [[Camden, New Jersey]]
+| alma_mater         = [[Camden County College]] <small>([[Associate of Science|A.S.]])</small>
+| occupation         = Assistant Business Manager<br>IBEW Local 351
+| website            = http://norcross.house.gov}}
+
+'''Donald W. Norcross''' (born December 13, 1958) is an American labor leader and Democratic Party politician who is currently serving as the United States Representative for [[New Jersey's 1st congressional district]]. He won the seat in 2014 following the resignation of former Rep. [[Rob Andrews]]. Prior to his service in the House, he represented the [[New Jersey Legislative Districts, 2001 redistricting#District 5|5th District]] in the [[New Jersey Senate]] from 2010-14. Norcross was sworn in as a Member of the United States House of Representatives by House Speaker [[John Boehner]] on November 12, 2014, having been elected in a special election to serve as representative of New Jersey's 1st Congressional District, and was added to the rolls of the House upon executing the oath of office.
+
+==Personal life==
+Norcross was born in 1958<ref name=Courier-Post>{{cite news|title=Another Norcross on the rise|url=http://pqasb.pqarchiver.com/courierpostonline/access/1856401991.html?FMT=ABS&amp;date=Sep+06,+2009|work=[[Courier-Post]]|first=Jane|last=Roh|date=2009-09-06}}</ref> at [[Cooper University Hospital]] in Camden, the son of George E. Norcross, Jr. He and his three brothers were raised in [[Pennsauken Township, New Jersey|Pennsauken Township]]. He graduated from [[Camden County College]] with a degree in criminal justice.<ref name=Courier-Post/>
+
+Norcross is married to Andrea Doran, an echocardiographer. They have three children.<ref name=Courier-Post/><ref name="biodata"/>
+
+Norcross has been active in the United Way of Camden County for close to two decades, serving as chairman from 2002 through 2004 and since as a member of the organization's Executive Board. He is currently a board member of the United Way of Greater Philadelphia and Southern New Jersey. Since 1993, he has also been a member of the Board of Trustees of the Union Organization for Social Service (UOSS), the nation's first labor agency devoted to community service. Norcross is a founding member and on the executive board of The Home Port Alliance, a coalition that brought back the retired ''[[USS New Jersey (BB-62)|USS New Jersey]]'' to serve as a monument for veterans and an attraction for the revitalization of the Camden/Philadelphia Waterfront. {{cn|date=November 2014}}
+
+==Career==
+In 1980, he served as an apprentice in the [[International Brotherhood of Electrical Workers]], eventually becoming assistant business manager of the IBEW Local 351.<ref>{{cite web|url=http://camdencountydems.com/content/norcross-why-im-running-state-assembly|title=Norcross: Why I'm running for the State Assembly|date=2009-09-02|accessdate=2009-11-03}}</ref> A former president of the Southern New Jersey Building Trades Council, Norcross served as president of the Southern New Jersey AFL-CIO Central Labor Council for 16 years.<ref name="biodata">[http://norcross.house.gov Profile], norcross.house.gov; accessed November 17, 2014.</ref>
+
+Norcross and his running mate, Camden City Council President [[Angel Fuentes]], were elected to the Assembly in 2009 after Democratic incumbents [[Nilsa Cruz-Perez]] and [[Joseph J. Roberts]] both retired. Shortly thereafter, Norcross was appointed to the Senate seat vacated by Dana Redd who was elected as Mayor of Camden. Norcross won the Senate special election in 2010 to finish out the term, then was re-elected to the New Jersey Senate in 2011 and 2013.<ref name="phillyblogs"/><ref name="biodata"/>
+
+Committee Assignments:
+Chair, Law and Public Safety
+Military and Veterans Affairs
+Transportation
+Chair, School Facilities and Construction subcommittee for the Joint Committee on Public Schools
+Fire Safety Commission
+
+===Run for Congress===
+{{main|United States House of Representatives elections in New Jersey, 2014}}
+On February 4, 2014, South Jersey Congressman [[Rob Andrews]] announced he would be resigning from Congress by the end of the month, and he did so on February 18.<ref name="robandrews">[http://www.washingtonpost.com/blogs/post-politics/wp/2014/02/04/n-j-democrat-rob-andrews-expected-to-resign-from-congress "N.J. Democrat Rob Andrews to resign from Congress"], washingtonpost.com; accessed November 17, 2014.</ref> 
+
+Norcross announced his candidacy February 5, and within a week, he was endorsed by every New Jersey congressional Democrat, State Senate President [[Stephen Sweeney]], General Assembly Majority Leader [[Louis Greenwald]], [[Mayor of Camden, New Jersey|Mayor of Camden]] [[Dana Redd]], U.S. Senator [[Cory Booker]] and former Governor [[Jim Florio]].<ref name="phillyblogs">[http://www.philly.com/philly/blogs/capitolinq/Andrews-to-leave-Congress-in-Feb.html Rob Andrews to leave Congress], philly.com; accessed November 17, 2014.</ref>
+
+===Election history===
+{{Election box begin no change|title=New Jersey State Senate elections, 2011<ref name=Results2011>[http://www.njelections.org/election-results/2011-official-gen-elect-state-senate-results-121411.pdf Official List Candidate Returns for State Senate For November 2011 General Election], [[New Jersey Department of State]], December 14, 2011. Accessed January 7, 2012.</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Donald W. Norcross ([[incumbent]])
+  |votes      = 17,712
+  |percentage = 56.8
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Keith Walker
+  |votes      = 13,444
+  |percentage = 43.2
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+
+{{Election box begin no change | title= New Jersey State Senate Special elections, 2010<ref>[http://njelections.org/results_2010_doe.html] "New Jersey Senate, (retrieved on 12/12/11).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Donald W. Norcross ([[incumbent]])
+  |votes      = 28,801
+  |percentage = 65.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Harry E. Trout
+  |votes      = 15,041
+  |percentage = 34.3
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Congbio|N000188}}
+*[http://www.njleg.state.nj.us/members/BIO.asp?Leg=324 Legislative web page], [[New Jersey Legislature]]
+*''New Jersey Legislature financial disclosure forms''
+**[http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2011.pdf 2011] [http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2010.pdf 2010] [http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2009.pdf 2009]
+
+{{s-start}}
+{{s-par|us-nj-sen}}
+{{succession box|title=[[New Jersey Senate|New Jersey State Senator]] - District 5|before=[[Dana Redd]]|after=Incumbent |years=January 19, 2010 - present}}
+{{s-par|us-nj-hs}}
+{{succession box|title=[[New Jersey General Assembly|New Jersey State Assemblyman]] - District 5|before=[[Joseph J. Roberts]] |after=[[Gilbert "Whip" Wilson]] |years=January 12, 2010 - January 19, 2010}}
+{{s-end}}
+
+{{NJ-FedRep}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Norcross, Donald
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = New Jersey State Senator
+| DATE OF BIRTH     = December 13, 1958
+| PLACE OF BIRTH    = [[Camden, New Jersey]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+
+{{DEFAULTSORT:Norcross, Donald}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:American electricians]]
+[[Category:American labor leaders]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Members of the New Jersey General Assembly]]
+[[Category:Members of the United States House of Representatives from New Jersey]]
+[[Category:New Jersey Democrats]]
+[[Category:New Jersey State Senators]]
+[[Category:People from Camden, New Jersey]]
+[[Category:People from Pennsauken Township, New Jersey]]{{Moresources|date=November 2014}}
+{{Infobox congressman
+| image              = 
+| imagesize          = 
+| state              = [[New Jersey]]
+| district           = [[New Jersey's 1st congressional district|1st]]
+| term_start         = November 12, 2014 <!-- NOTE: not on January 3, 2015 -->
+| term_end           =
+| preceded           = [[Rob Andrews]]
+| succeeded          = 
+| state_senate2      = New Jersey
+| district2          = [[New Jersey Legislative Districts, 2011 apportionment#District 5|5th]]
+| term_start2        = January 19, 2010
+| term_end2          = November 12, 2014
+| preceded2          = [[Dana L. Redd]]
+| succeeded2         = [[Nilsa Cruz-Perez]]
+| office3            = Member of the [[New Jersey General Assembly]] from the [[New Jersey Legislative Districts, 2001 apportionment#District 5|5th]] district
+| term_start3        = January 12, 2010
+| term_end3          = January 19, 2010
+| preceded3          = [[Joseph J. Roberts|Joseph J. Roberts, Jr.]]
+| succeeded3         = [[Gilbert "Whip" Wilson|Gilbert L. Wilson]]
+| birth_date         = {{Birth date and age|1958|12|13|mf=y}}
+| birth_place        = {{nowrap|[[Pennsauken, New Jersey]], U.S.}}
+| death_date         =
+| death_place        =
+| religion           = Lutheran<ref>[http://ccbq.capwiz.com/bio/id/63224 Religion: Lutheran per biodata], ccbq.capwiz.com; accessed December 1, 2014.</ref>
+| spouse             = Andrea Doran
+| children           = 3
+| party              = [[Democratic Party (United States)|Democratic]]
+| residence          = [[Camden, New Jersey]]
+| alma_mater         = [[Camden County College]] <small>([[Associate of Science|A.S.]])</small>
+| occupation         = Assistant Business Manager<br>IBEW Local 351
+| website            = http://norcross.house.gov}}
+
+'''Donald W. Norcross''' (born December 13, 1958) is an American labor leader and Democratic Party politician who is currently serving as the United States Representative for [[New Jersey's 1st congressional district]]. He won the seat in 2014 following the resignation of former Rep. [[Rob Andrews]]. Prior to his service in the House, he represented the [[New Jersey Legislative Districts, 2001 redistricting#District 5|5th District]] in the [[New Jersey Senate]] from 2010-14. Norcross was sworn in as a Member of the United States House of Representatives by House Speaker [[John Boehner]] on November 12, 2014, having been elected in a special election to serve as representative of New Jersey's 1st Congressional District, and was added to the rolls of the House upon executing the oath of office.
+
+==Personal life==
+Norcross was born in 1958<ref name=Courier-Post>{{cite news|title=Another Norcross on the rise|url=http://pqasb.pqarchiver.com/courierpostonline/access/1856401991.html?FMT=ABS&amp;date=Sep+06,+2009|work=[[Courier-Post]]|first=Jane|last=Roh|date=2009-09-06}}</ref> at [[Cooper University Hospital]] in Camden, the son of George E. Norcross, Jr. He and his three brothers were raised in [[Pennsauken Township, New Jersey|Pennsauken Township]]. He graduated from [[Camden County College]] with a degree in criminal justice.<ref name=Courier-Post/>
+
+Norcross is married to Andrea Doran, an echocardiographer. They have three children.<ref name=Courier-Post/><ref name="biodata"/>
+
+Norcross has been active in the United Way of Camden County for close to two decades, serving as chairman from 2002 through 2004 and since as a member of the organization's Executive Board. He is currently a board member of the United Way of Greater Philadelphia and Southern New Jersey. Since 1993, he has also been a member of the Board of Trustees of the Union Organization for Social Service (UOSS), the nation's first labor agency devoted to community service. Norcross is a founding member and on the executive board of The Home Port Alliance, a coalition that brought back the retired ''[[USS New Jersey (BB-62)|USS New Jersey]]'' to serve as a monument for veterans and an attraction for the revitalization of the Camden/Philadelphia Waterfront. {{cn|date=November 2014}}
+
+==Career==
+In 1980, he served as an apprentice in the [[International Brotherhood of Electrical Workers]], eventually becoming assistant business manager of the IBEW Local 351.<ref>{{cite web|url=http://camdencountydems.com/content/norcross-why-im-running-state-assembly|title=Norcross: Why I'm running for the State Assembly|date=2009-09-02|accessdate=2009-11-03}}</ref> A former president of the Southern New Jersey Building Trades Council, Norcross served as president of the Southern New Jersey AFL-CIO Central Labor Council for 16 years.<ref name="biodata">[http://norcross.house.gov Profile], norcross.house.gov; accessed November 17, 2014.</ref>
+
+Norcross and his running mate, Camden City Council President [[Angel Fuentes]], were elected to the Assembly in 2009 after Democratic incumbents [[Nilsa Cruz-Perez]] and [[Joseph J. Roberts]] both retired. Shortly thereafter, Norcross was appointed to the Senate seat vacated by Dana Redd who was elected as Mayor of Camden. Norcross won the Senate special election in 2010 to finish out the term, then was re-elected to the New Jersey Senate in 2011 and 2013.<ref name="phillyblogs"/><ref name="biodata"/>
+
+Committee Assignments:
+Chair, Law and Public Safety
+Military and Veterans Affairs
+Transportation
+Chair, School Facilities and Construction subcommittee for the Joint Committee on Public Schools
+Fire Safety Commission
+
+===Run for Congress===
+{{main|United States House of Representatives elections in New Jersey, 2014}}
+On February 4, 2014, South Jersey Congressman [[Rob Andrews]] announced he would be resigning from Congress by the end of the month, and he did so on February 18.<ref name="robandrews">[http://www.washingtonpost.com/blogs/post-politics/wp/2014/02/04/n-j-democrat-rob-andrews-expected-to-resign-from-congress "N.J. Democrat Rob Andrews to resign from Congress"], washingtonpost.com; accessed November 17, 2014.</ref> 
+
+Norcross announced his candidacy February 5, and within a week, he was endorsed by every New Jersey congressional Democrat, State Senate President [[Stephen Sweeney]], General Assembly Majority Leader [[Louis Greenwald]], [[Mayor of Camden, New Jersey|Mayor of Camden]] [[Dana Redd]], U.S. Senator [[Cory Booker]] and former Governor [[Jim Florio]].<ref name="phillyblogs">[http://www.philly.com/philly/blogs/capitolinq/Andrews-to-leave-Congress-in-Feb.html Rob Andrews to leave Congress], philly.com; accessed November 17, 2014.</ref>
+
+===Election history===
+{{Election box begin no change|title=New Jersey State Senate elections, 2011<ref name=Results2011>[http://www.njelections.org/election-results/2011-official-gen-elect-state-senate-results-121411.pdf Official List Candidate Returns for State Senate For November 2011 General Election], [[New Jersey Department of State]], December 14, 2011. Accessed January 7, 2012.</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Donald W. Norcross ([[incumbent]])
+  |votes      = 17,712
+  |percentage = 56.8
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Keith Walker
+  |votes      = 13,444
+  |percentage = 43.2
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+
+{{Election box begin no change | title= New Jersey State Senate Special elections, 2010<ref>[http://njelections.org/results_2010_doe.html] "New Jersey Senate, (retrieved on 12/12/11).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Donald W. Norcross ([[incumbent]])
+  |votes      = 28,801
+  |percentage = 65.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Harry E. Trout
+  |votes      = 15,041
+  |percentage = 34.3
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Congbio|N000188}}
+*[http://www.njleg.state.nj.us/members/BIO.asp?Leg=324 Legislative web page], [[New Jersey Legislature]]
+*''New Jersey Legislature financial disclosure forms''
+**[http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2011.pdf 2011] [http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2010.pdf 2010] [http://www.njleg.state.nj.us/ethics/FinancialDisclosure/NorcrossD2009.pdf 2009]
+
+{{s-start}}
+{{s-par|us-nj-sen}}
+{{succession box|title=[[New Jersey Senate|New Jersey State Senator]] - District 5|before=[[Dana Redd]]|after=Incumbent |years=January 19, 2010 - present}}
+{{s-par|us-nj-hs}}
+{{succession box|title=[[New Jersey General Assembly|New Jersey State Assemblyman]] - District 5|before=[[Joseph J. Roberts]] |after=[[Gilbert "Whip" Wilson]] |years=January 12, 2010 - January 19, 2010}}
+{{s-end}}
+
+{{NJ-FedRep}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Norcross, Donald
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = New Jersey State Senator
+| DATE OF BIRTH     = December 13, 1958
+| PLACE OF BIRTH    = [[Camden, New Jersey]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+
+{{DEFAULTSORT:Norcross, Donald}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:American electricians]]
+[[Category:American labor leaders]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Members of the New Jersey General Assembly]]
+[[Category:Members of the United States House of Representatives from New Jersey]]
+[[Category:New Jersey Democrats]]
+[[Category:New Jersey State Senators]]
+[[Category:People from Camden, New Jersey]]
+[[Category:People from Pennsauken Township, New Jersey]]

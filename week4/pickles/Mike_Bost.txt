@@ -1,0 +1,217 @@
+{{Use mdy dates|date=October 2014}}
+{{Infobox State Representative 
+| name= Mike Bost
+|image = <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+|caption = 
+| order       = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Illinois's 12th congressional district|Illinois's 12th]] district
+| term_start  = January 3, 2015
+| term_end    = 
+| predecessor = [[William Enyart]]
+| succeeding  = [[William Enyart]]
+| state_house1=Illinois
+| state1=Illinois
+| district1=115th
+| term_start1   = January, 1995
+| term_end1     = 
+| preceded1=Gerald Hawkins<ref name=tribune>{{cite news|title=Final Illinois House Endorsements|url=http://articles.chicagotribune.com/1994-10-21/news/9410210041_1_endorsed-school-board-president-southern|accessdate=May 22, 2014|newspaper=Chicago Tribune|date=October 21, 1994}}</ref>
+| succeeded1= [[Terri Bryant]]
+| birth_date={{birth date and age|1960|12|30}}
+| birth_place=[[Murphysboro, Illinois]]
+|party        = [[Republican Party (United States)|Republican]]
+|otherparty   =  <!--For additional political affiliations-->
+| spouse=Tracy
+|partner      =  <!--For those with a domestic partner and not married-->
+|relations    =
+|children     = 
+| residence=[[Murphysboro, Illinois]]
+| alma_mater=
+|occupation   = 
+| profession=Firefighter
+|committees   =
+| religion=[[non-denominational]]
+|signature    =
+|signature_alt=
+|website      = {{URL|http://www.mikebost.org}}
+|footnotes    =
+<!-- militaryservice -->
+|allegiance   = {{flag|United States}}
+|branch       = [[File:USMC logo.svg|20px]] [[United States Marine Corps]]
+|serviceyears = 1979-1982
+|rank         = 
+|unit         =  
+}}
+'''Mike Bost''' (born December 30, 1960) is the U.S Representative-elect for [[Illinois's 12th congressional district]]. He is a member of the [[Republican Party (United States)|Republican Party]]. Previously, he was member of the [[Illinois House of Representatives]], representing the 115th district since 1995.
+
+==Early life and career==
+Bost graduated from Murphysboro High School<ref>{{cite news|last1=Moser|first1=Whet|title=The Politics of Mike Bost’s Pension Rant: Upstate, Downstate|url=http://www.chicagomag.com/Chicago-Magazine/The-312/May-2012/The-Politics-of-Mike-Bosts-Pension-Rant-Upstate-Downstate/|accessdate=August 21, 2014|publisher=Chicago Magazine|date=May 31, 2012}}</ref> and attended the [[University of Illinois]] Certified Firefighter II Academy, later becoming a firefighter. Bost served in the [[United States Marine Corps]] from 1979 to 1982.<ref>{{cite web|title=Representative Mike Bost (R)|url=http://www.ilga.gov/house/rep.asp?MemberID=1823|website=Illinois General Assembly|accessdate=August 21, 2014}}</ref>
+
+Bost ran his family's Murphysboro-based trucking business for ten years. Since 1989, Bost and his wife Tracy have owned and operated White House Beauty Salon in Murphysboro.<ref name=life>{{cite news|last1=Vaughn|first1=Lindsey Rae|title=Candidate makes stops in Union County|url=http://www.annanews.com/news/article_0d53bf8c-0851-11e4-a923-001a4bcf887a.html|accessdate=July 11, 2014|publisher=Gazette-Democrat|date=July 10, 2014}}</ref>
+
+==State legislature==
+Bost was first elected to the [[Illinois House of Representatives]] in November 1994, having lost his first campaign in 1992. In his 1994 campaign against incumbent Gerald Hawkins, he was endorsed by the ''[[Chicago Tribune]]''.<ref name=tribune/>
+
+In May 2012, members of the Illinois House were given just twenty minutes to review and vote on a two-hundred page pension overhaul bill. Displeased with the situation, Bost ranted on the House floor.<ref>{{cite news|title=Bost rant on House floor goes viral|url=http://thesouthern.com/news/local/govt-and-politics/bost-rant-on-house-floor-goes-viral/article_94a20b44-aa5f-11e1-bf2f-0019bb2963f4.html|newspaper=The Southern|date=May 30, 2012}}</ref><ref>{{cite news|title=Watch: Ill. lawmaker loses cool over pension bill|url=http://www.cbsnews.com/8301-505267_162-57443462/watch-ill-lawmaker-loses-cool-over-pension-bill/|newspaper=CBS News|date=May 30, 2012}}</ref> Bost's rant earned him the runner-up spot on [[CNN|CNN’s]] list of “Best Celebrity Flip-Outs of All-Time."<ref>{{cite news|last=Moos|first=Jeanne|title=Richard Sherman's rant now among the best celebrity flip outs of all-time|url=http://outfront.blogs.cnn.com/2014/01/20/richard-sherman-rant/|accessdate=May 22, 2014|newspaper=CNN|date=January 20, 2014}}</ref> Bost joked about his inclusion on the list, saying "I thought I was going to be No. 1."<ref name=ivn/>
+
+In November 2013, Bost presented fellow U.S. Marine Archibald Mosley with Illinois House Resolution 706 for his lifetime accomplishments, including being among the first African-Americans to serve in the U.S. Marines. The presentation was part of a [[National Association for the Advancement of Colored People|NAACP]] program.<ref>{{cite news|last1=Mariano|first1=Nick|title=Salute to success: NAACP gather for banquet; reminder of work that remains|url=http://thesouthern.com/news/salute-to-success-naacp-gather-for-banquet-reminder-of-work/article_be01dc72-5593-11e3-83ae-0019bb2963f4.html|accessdate=July 11, 2014|publisher=The Southern|date=November 25, 2013}}</ref><ref>{{cite web|title=Bill Status of HR0706  98th General Assembly|url=http://www.ilga.gov/legislation/BillStatus.asp?DocNum=706&GAID=12&DocTypeID=HR&LegId=77566&SessionID=85&GA=98|publisher=Illinois General Assembly|accessdate=July 11, 2014}}</ref>
+
+===Committees===
+As of 2014, Bost serves on the following state legislative committees:<ref>{{cite web|title=Representative Mike Bost (R)|url=http://www.ilga.gov/house/rep.asp?MemberID=1823|publisher=Illinois General Assembly|accessdate=July 11, 2014}}</ref>
+* Appropriations-Higher Education
+* Bio-Technology
+* Higher Education
+* Public Utilities
+
+==2014 congressional election==
+{{Main|United States House of Representatives elections in Illinois, 2014#District 12}}
+Bost ran for U.S. Congress in [[Illinois's 12th congressional district]]. He ran unopposed in the Republican primary, and he faced incumbent Democratic Representative [[William Enyart]] in the general election.<ref>{{cite news|last=McDermott|first=Kevin|title=Paper-flinging Illinois candidate Mike Bost being highlighted by national Republicans|url=http://www.stltoday.com/news/local/govt-and-politics/kevin-mcdermott/paper-flinging-illinois-candidate-mike-bost-being-highlighted-by-national/article_4160b06f-ab60-5b35-9a8e-5f3529415cdf.html|accessdate=May 22, 2014|newspaper=St. Louis Post-Dispatch|date=March 26, 2014}}</ref> Illinois' largely agricultural 12th district leans Democratic, although it is home to many undecided voters, and Enyart was considered vulnerable in the 2014 race.<ref name=ivn/>   ''[[The Cook Political Report]]'' rated this race as "Toss Up"<ref>{{cite news|title=Race Rated Leans Democratic|url=http://cookpolitical.com/house/charts/race-ratings|date=June 26, 2014}}</ref> and the ''[[National Journal]]'' believed this district was the 21st most likely to flip Republican in 2014.<ref name=ivn>{{cite news|last=Wicklander|first=Carl|title=Large Percentage of Undecided Voters in IL-12 Leaves Election a Toss-Up|url=http://ivn.us/2014/02/03/large-percentage-undecided-voters-il-12-leaves-election-toss/|accessdate=May 22, 2014|newspaper=Independent Voter Network|date=March 2, 2014}}</ref>
+
+Bost said he ran because "the federal government has basically blown everything they are doing right now." He says he intends to fight for job growth and immigration reform.<ref>{{cite news|last=Hale|first=Caleb|title=Murphysboro state legislator says it’s time|url=http://thesouthern.com/news/local/murphysboro-state-legislator-says-it-s-time/article_2b79f6a6-f679-11e2-9f92-0019bb2963f4.html|accessdate=May 22, 2014|newspaper=The Southern|date=July 27, 2013}}</ref> Bost challenged opponent Enyart to as many as a dozen debates, though Enyart “has thus far replied vaguely to forums.”<ref>{{cite news|last1=Wicklander|first1=Carl|title=Ill. GOP Hopeful Mike Bost Forms Small Business Coalition to Compete in CD-12|url=http://ivn.us/2014/07/14/ill-gop-hopeful-mike-bost-forms-small-business-coalition-compete-cd-12/|accessdate=August 21, 2014|publisher=Independent Voter News|date=July 14, 2014}}</ref>
+
+Bost was endorsed by the Illinois Chamber of Commerce.<ref>{{cite news|last1=Grimm|first1=Nathan|title=Illinois Chamber endorses Bost for representative|url=http://www.thetelegraph.com/news/news/50101521/Illinois-Chamber-endorses-Bost-for-representative?template=art_smartphone|accessdate=October 14, 2014|publisher=The Telegraph|date=August 7, 2014}}</ref>
+
+Bost won the election, taking 52 percent of the vote to Enyart's 41 percent.  When he takes office at the start of the 114th Congress, he will be the first Republican to represent this district since 1945, and only the fourth person to represent the district since 1933.{{cn|date=November 2014}}
+
+==Personal life==
+Bost and his wife Tracy have three children and nine grandchildren.<ref name=life/> 
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://ilga.gov/house/Rep.asp?MemberID=1823 Representative Mike Bost (R) 115th District] at the Illinois General Assembly - 
+**By session: [http://ilga.gov/house/Rep.asp?GA=98&MemberID=1823 98th], [http://www.ilga.gov/house/Rep.asp?GA=97&MemberID=1584 97th], [http://www.ilga.gov/house/Rep.asp?GA=96&MemberID=1361 96th], [http://ilga.gov/house/Rep.asp?GA=95&MemberID=1138 95th], [http://www.ilga.gov/house/Rep.asp?GA=94&MemberID=896 94th], [http://www.ilga.gov/house/Rep.asp?GA=93&MemberID=604 93rd]
+*[http://bostforcongress.com Mike Bost for Congress]
+*{{CongLinks | ballot = Mike_Bost | votesmart = 6302 | fec = H4IL12060 | followthemoney = 1527 | c-span = | imdb = }}
+*[http://bost.ilhousegop.org State Representative Mike Bost] at Illinois House GOP
+*{{ballotpedia|Mike_Bost|Mike Bost}}
+
+{{Illinois House of Representatives}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Bost, Mike
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =1960-12-30
+| PLACE OF BIRTH    =[[Murphysboro, Illinois]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bost, Mike}}
+[[Category:Members of the Illinois House of Representatives]]
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:Illinois Republicans]]
+[[Category:People from Jackson County, Illinois]]
+[[Category:Baptists from the United States]]
+[[Category:American firefighters]]
+[[Category:United States Marines]]
+[[Category:Members of the United States House of Representatives from Illinois]]
+[[Category:Republican Party members of the United States House of Representatives]]{{Use mdy dates|date=October 2014}}
+{{Infobox State Representative 
+| name= Mike Bost
+|image = <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+|caption = 
+| order       = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Illinois's 12th congressional district|Illinois's 12th]] district
+| term_start  = January 3, 2015
+| term_end    = 
+| predecessor = [[William Enyart]]
+| succeeding  = [[William Enyart]]
+| state_house1=Illinois
+| state1=Illinois
+| district1=115th
+| term_start1   = January, 1995
+| term_end1     = 
+| preceded1=Gerald Hawkins<ref name=tribune>{{cite news|title=Final Illinois House Endorsements|url=http://articles.chicagotribune.com/1994-10-21/news/9410210041_1_endorsed-school-board-president-southern|accessdate=May 22, 2014|newspaper=Chicago Tribune|date=October 21, 1994}}</ref>
+| succeeded1= [[Terri Bryant]]
+| birth_date={{birth date and age|1960|12|30}}
+| birth_place=[[Murphysboro, Illinois]]
+|party        = [[Republican Party (United States)|Republican]]
+|otherparty   =  <!--For additional political affiliations-->
+| spouse=Tracy
+|partner      =  <!--For those with a domestic partner and not married-->
+|relations    =
+|children     = 
+| residence=[[Murphysboro, Illinois]]
+| alma_mater=
+|occupation   = 
+| profession=Firefighter
+|committees   =
+| religion=[[non-denominational]]
+|signature    =
+|signature_alt=
+|website      = {{URL|http://www.mikebost.org}}
+|footnotes    =
+<!-- militaryservice -->
+|allegiance   = {{flag|United States}}
+|branch       = [[File:USMC logo.svg|20px]] [[United States Marine Corps]]
+|serviceyears = 1979-1982
+|rank         = 
+|unit         =  
+}}
+'''Mike Bost''' (born December 30, 1960) is the U.S Representative-elect for [[Illinois's 12th congressional district]]. He is a member of the [[Republican Party (United States)|Republican Party]]. Previously, he was member of the [[Illinois House of Representatives]], representing the 115th district since 1995.
+
+==Early life and career==
+Bost graduated from Murphysboro High School<ref>{{cite news|last1=Moser|first1=Whet|title=The Politics of Mike Bost’s Pension Rant: Upstate, Downstate|url=http://www.chicagomag.com/Chicago-Magazine/The-312/May-2012/The-Politics-of-Mike-Bosts-Pension-Rant-Upstate-Downstate/|accessdate=August 21, 2014|publisher=Chicago Magazine|date=May 31, 2012}}</ref> and attended the [[University of Illinois]] Certified Firefighter II Academy, later becoming a firefighter. Bost served in the [[United States Marine Corps]] from 1979 to 1982.<ref>{{cite web|title=Representative Mike Bost (R)|url=http://www.ilga.gov/house/rep.asp?MemberID=1823|website=Illinois General Assembly|accessdate=August 21, 2014}}</ref>
+
+Bost ran his family's Murphysboro-based trucking business for ten years. Since 1989, Bost and his wife Tracy have owned and operated White House Beauty Salon in Murphysboro.<ref name=life>{{cite news|last1=Vaughn|first1=Lindsey Rae|title=Candidate makes stops in Union County|url=http://www.annanews.com/news/article_0d53bf8c-0851-11e4-a923-001a4bcf887a.html|accessdate=July 11, 2014|publisher=Gazette-Democrat|date=July 10, 2014}}</ref>
+
+==State legislature==
+Bost was first elected to the [[Illinois House of Representatives]] in November 1994, having lost his first campaign in 1992. In his 1994 campaign against incumbent Gerald Hawkins, he was endorsed by the ''[[Chicago Tribune]]''.<ref name=tribune/>
+
+In May 2012, members of the Illinois House were given just twenty minutes to review and vote on a two-hundred page pension overhaul bill. Displeased with the situation, Bost ranted on the House floor.<ref>{{cite news|title=Bost rant on House floor goes viral|url=http://thesouthern.com/news/local/govt-and-politics/bost-rant-on-house-floor-goes-viral/article_94a20b44-aa5f-11e1-bf2f-0019bb2963f4.html|newspaper=The Southern|date=May 30, 2012}}</ref><ref>{{cite news|title=Watch: Ill. lawmaker loses cool over pension bill|url=http://www.cbsnews.com/8301-505267_162-57443462/watch-ill-lawmaker-loses-cool-over-pension-bill/|newspaper=CBS News|date=May 30, 2012}}</ref> Bost's rant earned him the runner-up spot on [[CNN|CNN’s]] list of “Best Celebrity Flip-Outs of All-Time."<ref>{{cite news|last=Moos|first=Jeanne|title=Richard Sherman's rant now among the best celebrity flip outs of all-time|url=http://outfront.blogs.cnn.com/2014/01/20/richard-sherman-rant/|accessdate=May 22, 2014|newspaper=CNN|date=January 20, 2014}}</ref> Bost joked about his inclusion on the list, saying "I thought I was going to be No. 1."<ref name=ivn/>
+
+In November 2013, Bost presented fellow U.S. Marine Archibald Mosley with Illinois House Resolution 706 for his lifetime accomplishments, including being among the first African-Americans to serve in the U.S. Marines. The presentation was part of a [[National Association for the Advancement of Colored People|NAACP]] program.<ref>{{cite news|last1=Mariano|first1=Nick|title=Salute to success: NAACP gather for banquet; reminder of work that remains|url=http://thesouthern.com/news/salute-to-success-naacp-gather-for-banquet-reminder-of-work/article_be01dc72-5593-11e3-83ae-0019bb2963f4.html|accessdate=July 11, 2014|publisher=The Southern|date=November 25, 2013}}</ref><ref>{{cite web|title=Bill Status of HR0706  98th General Assembly|url=http://www.ilga.gov/legislation/BillStatus.asp?DocNum=706&GAID=12&DocTypeID=HR&LegId=77566&SessionID=85&GA=98|publisher=Illinois General Assembly|accessdate=July 11, 2014}}</ref>
+
+===Committees===
+As of 2014, Bost serves on the following state legislative committees:<ref>{{cite web|title=Representative Mike Bost (R)|url=http://www.ilga.gov/house/rep.asp?MemberID=1823|publisher=Illinois General Assembly|accessdate=July 11, 2014}}</ref>
+* Appropriations-Higher Education
+* Bio-Technology
+* Higher Education
+* Public Utilities
+
+==2014 congressional election==
+{{Main|United States House of Representatives elections in Illinois, 2014#District 12}}
+Bost ran for U.S. Congress in [[Illinois's 12th congressional district]]. He ran unopposed in the Republican primary, and he faced incumbent Democratic Representative [[William Enyart]] in the general election.<ref>{{cite news|last=McDermott|first=Kevin|title=Paper-flinging Illinois candidate Mike Bost being highlighted by national Republicans|url=http://www.stltoday.com/news/local/govt-and-politics/kevin-mcdermott/paper-flinging-illinois-candidate-mike-bost-being-highlighted-by-national/article_4160b06f-ab60-5b35-9a8e-5f3529415cdf.html|accessdate=May 22, 2014|newspaper=St. Louis Post-Dispatch|date=March 26, 2014}}</ref> Illinois' largely agricultural 12th district leans Democratic, although it is home to many undecided voters, and Enyart was considered vulnerable in the 2014 race.<ref name=ivn/>   ''[[The Cook Political Report]]'' rated this race as "Toss Up"<ref>{{cite news|title=Race Rated Leans Democratic|url=http://cookpolitical.com/house/charts/race-ratings|date=June 26, 2014}}</ref> and the ''[[National Journal]]'' believed this district was the 21st most likely to flip Republican in 2014.<ref name=ivn>{{cite news|last=Wicklander|first=Carl|title=Large Percentage of Undecided Voters in IL-12 Leaves Election a Toss-Up|url=http://ivn.us/2014/02/03/large-percentage-undecided-voters-il-12-leaves-election-toss/|accessdate=May 22, 2014|newspaper=Independent Voter Network|date=March 2, 2014}}</ref>
+
+Bost said he ran because "the federal government has basically blown everything they are doing right now." He says he intends to fight for job growth and immigration reform.<ref>{{cite news|last=Hale|first=Caleb|title=Murphysboro state legislator says it’s time|url=http://thesouthern.com/news/local/murphysboro-state-legislator-says-it-s-time/article_2b79f6a6-f679-11e2-9f92-0019bb2963f4.html|accessdate=May 22, 2014|newspaper=The Southern|date=July 27, 2013}}</ref> Bost challenged opponent Enyart to as many as a dozen debates, though Enyart “has thus far replied vaguely to forums.”<ref>{{cite news|last1=Wicklander|first1=Carl|title=Ill. GOP Hopeful Mike Bost Forms Small Business Coalition to Compete in CD-12|url=http://ivn.us/2014/07/14/ill-gop-hopeful-mike-bost-forms-small-business-coalition-compete-cd-12/|accessdate=August 21, 2014|publisher=Independent Voter News|date=July 14, 2014}}</ref>
+
+Bost was endorsed by the Illinois Chamber of Commerce.<ref>{{cite news|last1=Grimm|first1=Nathan|title=Illinois Chamber endorses Bost for representative|url=http://www.thetelegraph.com/news/news/50101521/Illinois-Chamber-endorses-Bost-for-representative?template=art_smartphone|accessdate=October 14, 2014|publisher=The Telegraph|date=August 7, 2014}}</ref>
+
+Bost won the election, taking 52 percent of the vote to Enyart's 41 percent.  When he takes office at the start of the 114th Congress, he will be the first Republican to represent this district since 1945, and only the fourth person to represent the district since 1933.{{cn|date=November 2014}}
+
+==Personal life==
+Bost and his wife Tracy have three children and nine grandchildren.<ref name=life/> 
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://ilga.gov/house/Rep.asp?MemberID=1823 Representative Mike Bost (R) 115th District] at the Illinois General Assembly - 
+**By session: [http://ilga.gov/house/Rep.asp?GA=98&MemberID=1823 98th], [http://www.ilga.gov/house/Rep.asp?GA=97&MemberID=1584 97th], [http://www.ilga.gov/house/Rep.asp?GA=96&MemberID=1361 96th], [http://ilga.gov/house/Rep.asp?GA=95&MemberID=1138 95th], [http://www.ilga.gov/house/Rep.asp?GA=94&MemberID=896 94th], [http://www.ilga.gov/house/Rep.asp?GA=93&MemberID=604 93rd]
+*[http://bostforcongress.com Mike Bost for Congress]
+*{{CongLinks | ballot = Mike_Bost | votesmart = 6302 | fec = H4IL12060 | followthemoney = 1527 | c-span = | imdb = }}
+*[http://bost.ilhousegop.org State Representative Mike Bost] at Illinois House GOP
+*{{ballotpedia|Mike_Bost|Mike Bost}}
+
+{{Illinois House of Representatives}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Bost, Mike
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =1960-12-30
+| PLACE OF BIRTH    =[[Murphysboro, Illinois]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bost, Mike}}
+[[Category:Members of the Illinois House of Representatives]]
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:Illinois Republicans]]
+[[Category:People from Jackson County, Illinois]]
+[[Category:Baptists from the United States]]
+[[Category:American firefighters]]
+[[Category:United States Marines]]
+[[Category:Members of the United States House of Representatives from Illinois]]
+[[Category:Republican Party members of the United States House of Representatives]]

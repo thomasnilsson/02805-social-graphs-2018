@@ -1,0 +1,163 @@
+{{Infobox congressman
+|birthname     =
+|name          = Steve Knight
+|image         = Steve Knight.jpg
+|state         = [[California]]
+|district      = [[California's 25th congressional district|25th]]
+|term_start    = January 3, 2015
+|term_end      = 
+|succeeding    = [[Buck McKeon]]
+|succeeded     = 
+|state_senate2   = California State
+|district2       = [[California's 21st Senate district|21st]]
+|term_start2     = December 3, 2012
+|term_end2       = 
+|predecessor2    = [[Sharon Runner]] ''(redistricted)''
+|successor2      = 
+|state_assembly3 = California
+|district3      = [[California's 36th State Assembly district|36th]]
+|term_start3    = December 1, 2008
+|term_end3      = November 30, 2012
+|predecessor3   = [[Sharon Runner]]
+|successor3     = [[Steve Fox (politician)|Steve Fox]]
+|office4        = [[Palmdale, California|Palmdale]] City Councillor
+|term_start4     = December 5, 2005
+|term_end4       = December 1, 2008
+|predecessor4    = 
+|successor4      = [[Laura Bettencourt]]
+|birth_date     = {{birth date and age|1966|12|17}}
+|birth_place    = [[Edwards Air Force Base]], [[California]]
+|death_date     = 
+|death_place    = 
+|nationality    = [[United States|American]]
+|party          = [[Republican Party (United States)|Republican]]
+|spouse         = Lily Knight
+|residence      = [[Palmdale, California|Palmdale]], [[California]]
+|occupation     = Politician
+|profession     = Police officer
+|religion       = 
+|signature      = 
+|website        = 
+|footnotes      = 
+<!--Military service-->
+|allegiance     = [[United States]]
+|branch         = [[United States Army|Army]]
+}}
+
+'''Stephen Knight''' (born December 17, 1966<ref>{{cite web|url=https://www.facebook.com/pages/Steve-Knight-for-Senate/283938464089?sk=info|title=Steve Knight Facebook page}}</ref>) is an [[United States|American]] politician. He represents the [[California's 21st Senate district|21st]] district in the [[California State Senate]], encompassing northeastern [[Los Angeles County, California|Los Angeles]] and western [[San Bernardino County, California|San Bernardino]] counties in the [[High Desert (California)|High Desert]] region. He is also congressman-elect for California's 25th Congressional District.  He supported Proposition 8<ref>{{cite web|url=http://www.montereyherald.com/ci_11729329|title=Panel backs Prop. 8 challenge|work=montereyherald.com}}</ref> that was ruled unconstitutional by SCOTUS on June 26, 2013.<ref>{{cite web|url=http://abcnews.go.com/Politics/supreme-court-rules-gay-marriage-cases/story?id=19492896|title=The Supreme Court Rules on DOMA and Proposition 8 Cases - ABC News|work=ABC News}}</ref> Knight opposed bi-lingual education in a mostly latino populated city<ref>{{cite web|url=http://en.wikipedia.org/wiki/Palmdale,_California#Demographics|title=Palmdale, California|publisher=}}</ref> and courted further controversy in voting against the images of the Confederate flag being removed from state property.<ref>{{cite web|url=http://www.latimes.com/local/political/la-me-pc-steve-knight-flag-20140827-story.html|title=Confederate flag vote puts Knight on spot in congressional race|date=27 August 2014|work=latimes.com}}</ref> Knight has consistently voted against an increase of minimum wage, gun control with semi-automatic weapons and water regulations for the city.<ref>{{cite web|url=http://votesmart.org/candidate/key-votes/71098/steve-knight#.VDc2W_fn_mQ|title=Project Vote Smart - The Voter's Self Defense System|work=Project Vote Smart}}</ref>
+He currently lives in [[Palmdale, California|Palmdale]] with his wife Lily and two children.
+
+He also served in the California State Assembly from 2008-2012.
+
+His father, [[William J. Knight|William J. "Pete" Knight]], represented geographically similar Senate and Assembly districts from 1992 to 2004.
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* {{Official website|http://cssrc.us/web/21/}}
+* [http://steveknight.org/ Campaign website]
+
+{{California State Senate}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Knight, Steve
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = December 17, 1966
+| PLACE OF BIRTH    = [[Edwards Air Force Base]], [[California]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Knight, Steve}}
+[[Category:1966 births]]
+[[Category:California city council members]]
+[[Category:California Republicans]]
+[[Category:Living people]]
+[[Category:Los Angeles Police Department officers]]
+[[Category:California State Senators]]
+[[Category:Members of the California State Assembly]]
+[[Category:People from Kern County, California]]
+[[Category:People from Palmdale, California]]
+[[Category:United States Army officers]]{{Infobox congressman
+|birthname     =
+|name          = Steve Knight
+|image         = Steve Knight.jpg
+|state         = [[California]]
+|district      = [[California's 25th congressional district|25th]]
+|term_start    = January 3, 2015
+|term_end      = 
+|succeeding    = [[Buck McKeon]]
+|succeeded     = 
+|state_senate2   = California State
+|district2       = [[California's 21st Senate district|21st]]
+|term_start2     = December 3, 2012
+|term_end2       = 
+|predecessor2    = [[Sharon Runner]] ''(redistricted)''
+|successor2      = 
+|state_assembly3 = California
+|district3      = [[California's 36th State Assembly district|36th]]
+|term_start3    = December 1, 2008
+|term_end3      = November 30, 2012
+|predecessor3   = [[Sharon Runner]]
+|successor3     = [[Steve Fox (politician)|Steve Fox]]
+|office4        = [[Palmdale, California|Palmdale]] City Councillor
+|term_start4     = December 5, 2005
+|term_end4       = December 1, 2008
+|predecessor4    = 
+|successor4      = [[Laura Bettencourt]]
+|birth_date     = {{birth date and age|1966|12|17}}
+|birth_place    = [[Edwards Air Force Base]], [[California]]
+|death_date     = 
+|death_place    = 
+|nationality    = [[United States|American]]
+|party          = [[Republican Party (United States)|Republican]]
+|spouse         = Lily Knight
+|residence      = [[Palmdale, California|Palmdale]], [[California]]
+|occupation     = Politician
+|profession     = Police officer
+|religion       = 
+|signature      = 
+|website        = 
+|footnotes      = 
+<!--Military service-->
+|allegiance     = [[United States]]
+|branch         = [[United States Army|Army]]
+}}
+
+'''Stephen Knight''' (born December 17, 1966<ref>{{cite web|url=https://www.facebook.com/pages/Steve-Knight-for-Senate/283938464089?sk=info|title=Steve Knight Facebook page}}</ref>) is an [[United States|American]] politician. He represents the [[California's 21st Senate district|21st]] district in the [[California State Senate]], encompassing northeastern [[Los Angeles County, California|Los Angeles]] and western [[San Bernardino County, California|San Bernardino]] counties in the [[High Desert (California)|High Desert]] region. He is also congressman-elect for California's 25th Congressional District.  He supported Proposition 8<ref>{{cite web|url=http://www.montereyherald.com/ci_11729329|title=Panel backs Prop. 8 challenge|work=montereyherald.com}}</ref> that was ruled unconstitutional by SCOTUS on June 26, 2013.<ref>{{cite web|url=http://abcnews.go.com/Politics/supreme-court-rules-gay-marriage-cases/story?id=19492896|title=The Supreme Court Rules on DOMA and Proposition 8 Cases - ABC News|work=ABC News}}</ref> Knight opposed bi-lingual education in a mostly latino populated city<ref>{{cite web|url=http://en.wikipedia.org/wiki/Palmdale,_California#Demographics|title=Palmdale, California|publisher=}}</ref> and courted further controversy in voting against the images of the Confederate flag being removed from state property.<ref>{{cite web|url=http://www.latimes.com/local/political/la-me-pc-steve-knight-flag-20140827-story.html|title=Confederate flag vote puts Knight on spot in congressional race|date=27 August 2014|work=latimes.com}}</ref> Knight has consistently voted against an increase of minimum wage, gun control with semi-automatic weapons and water regulations for the city.<ref>{{cite web|url=http://votesmart.org/candidate/key-votes/71098/steve-knight#.VDc2W_fn_mQ|title=Project Vote Smart - The Voter's Self Defense System|work=Project Vote Smart}}</ref>
+He currently lives in [[Palmdale, California|Palmdale]] with his wife Lily and two children.
+
+He also served in the California State Assembly from 2008-2012.
+
+His father, [[William J. Knight|William J. "Pete" Knight]], represented geographically similar Senate and Assembly districts from 1992 to 2004.
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* {{Official website|http://cssrc.us/web/21/}}
+* [http://steveknight.org/ Campaign website]
+
+{{California State Senate}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Knight, Steve
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = December 17, 1966
+| PLACE OF BIRTH    = [[Edwards Air Force Base]], [[California]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Knight, Steve}}
+[[Category:1966 births]]
+[[Category:California city council members]]
+[[Category:California Republicans]]
+[[Category:Living people]]
+[[Category:Los Angeles Police Department officers]]
+[[Category:California State Senators]]
+[[Category:Members of the California State Assembly]]
+[[Category:People from Kern County, California]]
+[[Category:People from Palmdale, California]]
+[[Category:United States Army officers]]

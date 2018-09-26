@@ -1,0 +1,463 @@
+{{Infobox politician
+| name        = Curt Clawson
+| image       = File:Curt Clawson 2014 Congressional Photo.jpg
+| image_size  = 
+| caption     = 
+| state       = [[Florida]]
+| district    = [[Florida's 19th congressional district|19th]]
+| term_start  = June 25, 2014
+| term_end    = 
+| predecessor = [[Trey Radel]]
+| birth_date  = {{birth date and age|1959|9|28}}
+| birth_place = [[Tacoma, Washington]], U.S.<ref>[http://noc.www3.capwiz.com/bio/id/27749 NEUROSURGERY://ON-CALL - Rep. Curt Clawson (R-Florida) biography<!-- Bot generated title -->]</ref>
+| residence   = [[Bonita Springs, Florida]]
+| occupation  = Automotive Executive
+| known_for   = 
+| education   = 
+| alma_mater  = [[Purdue University]]<br>[[Harvard Business School]]
+| home_town   = Bonita Springs, Florida
+| party       = [[Republican Party (United States)|Republican]]
+| religion    = [[The Church of Jesus Christ of Latter-day Saints]] (Mormon)
+| spouse      = 
+| website     = [http://clawson.house.gov/ Official website]
+| footnotes   = 
+}}
+'''Curtis J. Clawson''' (born September 28, 1959) is an American politician who has been the [[United States House of Representatives|United States Representative]] for [[Florida's 19th congressional district]] since 2014. He is the former chief executive of Hayes Lemmerz, a Michigan-based automobile wheel and brakes supplier.<ref name="naples">{{cite news | url=http://www.naplesnews.com/business/exclusive-curt-clawson-business-record-congress-19 | title=NDN exclusive: Curt Clawson touts business acumen, but record is marred | work=[[Naples Daily News]] | date=12 March 2014 | accessdate=27 July 2014}}</ref><ref>{{cite news |last= |first= |date=April 22, 2014 |title=Ex-C.E.O. Wins Florida Primary for House Seat |url=http://www.nytimes.com/2014/04/23/us/politics/ex-ceo-wins-florida-primary-for-house-seat.html |newspaper=New York Times |location=New York City |publisher=New York Times Company |accessdate=April 23, 2014}}</ref>
+
+==Education and career==
+
+Clawson attended [[Batesville High School (Indiana)|Batesville High School]] in [[Batesville, Indiana]].  A high school basketball star, he was recruited by [[Gene Keady]] for [[Purdue University]].<ref name="CJC"/>  At Purdue, he was a 2x All-Academic Big Ten selection (1982-83 & 1983-84).  He was a team captain for the 1983-84 Big Ten Champions, was a member of 2x NCAA teams (1982-83 & 1983-84) and an NIT Finalist team (1981–82).<ref name="TampaTimesLeary04222014"/>  He graduated in 1984 with a BA in Spanish and a BS from the [[Krannert School of Management]].<ref name="CJC"/>  He was named a "Purdue Old Master" in 2010 and received the Distinguished Alumni Award in 2014<ref name="CJC">[http://www.cla.purdue.edu/alumni/awards/distinguishedalumni/Recipients/Clawson.html Curtis J. Clawson : College of Liberal Arts : Purdue University<!-- Bot generated title -->]</ref>
+
+In 1990, he earned an MBA from [[Harvard University]].<ref name="CJC"/>
+
+==U.S. House of Representatives==
+===Elections===
+;2014 special election
+{{main|Florida's 19th congressional district special election, 2014}}
+Clawson was the [[Republican Party (United States)|Republican Party]] nominee in a [[Florida's 19th congressional district special election, 2014|special election]] to fill Florida's 19th district U.S. House of Representatives seat vacated by [[Trey Radel]].<ref name="WashPostSullivan04232014">Sullivan, Sean. [http://www.washingtonpost.com/blogs/post-politics/wp/2014/04/22/curt-clawson-wins-republican-nomination-in-florida-special-election/ Curt Clawson wins Republican nomination in Florida special election], ''Washington Post'', April 23, 2014.</ref> and won the election on June 24, 2014. On April 22, 2014, Clawson defeated State Senate Majority Leader [[Lizbeth Benacquisto]] and former State Representative [[Paige Kreegel]] with 38% of the vote to Benacquisto's 26% and Kreegel's 25%.<ref name="WashPostSullivan04232014"/>  Clawson was endorsed in the primary by the [[Tea Party Express]].<ref name="TampaTimesLeary04222014">{{cite news |last=Leary |first=Alex |date=April 22, 2014 |title=Tea party candidate Curt Clawson wins Republican primary to replace former Rep. Trey Radel |url=http://www.tampabay.com/news/politics/national/tea-party-candidate-curt-clawson-wins-republican-primary-to-replace-former/2176397 |newspaper=Tampa Bay Times |location=Tampa |publisher=Times Publishing Company |accessdate=April 23, 2014 }}</ref>  He spent $2 million on advertising and in one of his ads he challenged U.S. President [[Barack Obama]] to a game of one on one basketball.<ref name="TampaTimesLeary04222014"/>
+
+==Tenure==
+During a House hearing on the July 24, 2014, Clawson mistook [[Nisha Desai Biswal]] and Arun M. Kumar, two senior U.S. officials of [[Indian American]] descent, for representatives of the [[India|Indian government]], saying, "I am familiar with your country, I love your country. Anything I can do to make the relationship with India better, I'm willing and enthusiastic about doing so. […] Just as your capital is welcome here to produce good-paying jobs in the U.S., I’d like our capital to be welcome there. I ask cooperation and commitment and priority from your government in so doing. Can I have that?"<ref>{{cite news|last1=Giri|first1=Nathan|title=Congressman Mistakes U.S. Officials For Indian Ones|url=http://time.com/3038010/congressman-curt-clawson-mistakes-u-s-officials-for-indian-officials/|accessdate=26 July 2014|agency=TIME}}</ref> He apologized for the gaffe the next day. “I made a mistake in speaking before being fully briefed and I apologize. I’m a quick study, but in this case I shot an air ball.” he said.<ref>{{cite web|last1=McCalmot|first1=Lucy|title=Curt Clawson sorry for nationality gaffe|url=http://www.politico.com/story/2014/07/curt-clawson-mistakes-staff-indians-109391.html|accessdate=26 July 2014}}</ref>
+
+==Electoral history==
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite news |url=http://hosted.ap.org/dynamic/files/elections/2014/by_county/FL_Page_0422.html?SITE=AP&SECTION=POLITICS |work = Associated Press | accessdate = July 21, 2014}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Curt Clawson
+| party = Republican Party (United States)
+| votes = 26,857
+| percentage = 38
+}}
+{{Election box candidate with party link no change
+| candidate = [[Lizbeth Benacquisto]]
+| party = Republican Party (United States)
+| votes = 18,032
+| percentage = 26
+}}
+{{Election box candidate with party link no change
+| candidate = [[Paige Kreegel]]
+| party = Republican Party (United States)
+| votes = 17,762
+| percentage = 25
+}}
+{{Election box candidate with party link no change
+| candidate = Michael Dreikorn
+| party = Republican Party (United States)
+| votes = 7,560
+| percentage = 11
+}}
+{{Election box total no change
+| votes = 70,211
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Florida's 19th Congressional District special election, 2014<ref>http://enight.elections.myflorida.com/Special/</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Curt Clawson
+| party = Republican Party (United States)
+| votes = 66,917
+| percentage = 66.95
+}}
+{{Election box candidate with party link no change
+| candidate = April Freeman
+| party = Democratic Party (United States)
+| votes = 29,306
+| percentage = 29.32
+}}
+{{Election box candidate with party link no change
+| candidate = Ray Netherwood
+| party = Libertarian Party (United States)
+| votes = 3,729
+| percentage = 3.73
+}}
+{{Election box candidate with party link no change
+| candidate = Write-ins
+| party = N/A
+| votes = 6
+| percentage = 0.01
+}}
+{{Election box total no change
+| votes = 99,958
+| percentage = 100
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://clawson.house.gov/ Congressman Curt Clawson] official U.S. House website
+*[http://www.curtclawson.com/ The Outsider for Congress] official campaign website
+*{{Dmoz|Regional/North_America/United_States/Florida/Government/Federal/US_House/Curt_Clawson_%5BR-19%5D}}
+*{{CongLinks | congbio = C001102 | nndb = | votesmart = 148899 | govtrack = 412449 | opencong = | rollcall = | fec = H4FL19074 | congress = | }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |state=Florida|district=19|before=Trey Radel|after=incumbent|years=2014–}}
+{{s-prec|usa}}
+{{s-bef|before=[[David Jolly]]<br><small>R-Florida}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=432rd}}
+{{s-aft|after=[[Alma Adams]]<br><small>D-[[North Carolina]]}}
+{{s-end}}
+
+{{FL-FedRep}}
+{{U.S. Florida Representatives}}
+
+{{Persondata
+| NAME              = Clawson, Curt
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = September 28, 1959
+| PLACE OF BIRTH    = Tacoma, Washington, U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Clawson, Curt}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Florida Republicans]]
+[[Category:Tea Party movement activists]]
+[[Category:People from Tacoma, Washington]]
+[[Category:Purdue Boilermakers men's basketball players]]
+[[Category:Harvard Business School alumni]]
+[[Category:Businesspeople from Florida]]
+[[Category:People from Lee County, Florida]]
+[[Category:Members of the United States House of Representatives from Florida]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:American Latter Day Saints]]
+[[Category:People from Batesville, Indiana]]
+
+
+{{Florida-politician-stub}}{{Infobox politician
+| name        = Curt Clawson
+| image       = File:Curt Clawson 2014 Congressional Photo.jpg
+| image_size  = 
+| caption     = 
+| state       = [[Florida]]
+| district    = [[Florida's 19th congressional district|19th]]
+| term_start  = June 25, 2014
+| term_end    = 
+| predecessor = [[Trey Radel]]
+| birth_date  = {{birth date and age|1959|9|28}}
+| birth_place = [[Tacoma, Washington]], U.S.<ref>[http://noc.www3.capwiz.com/bio/id/27749 NEUROSURGERY://ON-CALL - Rep. Curt Clawson (R-Florida) biography<!-- Bot generated title -->]</ref>
+| residence   = [[Bonita Springs, Florida]]
+| occupation  = Automotive Executive
+| known_for   = 
+| education   = 
+| alma_mater  = [[Purdue University]]<br>[[Harvard Business School]]
+| home_town   = Bonita Springs, Florida
+| party       = [[Republican Party (United States)|Republican]]
+| religion    = [[The Church of Jesus Christ of Latter-day Saints]] (Mormon)
+| spouse      = 
+| website     = [http://clawson.house.gov/ Official website]
+| footnotes   = 
+}}
+'''Curtis J. Clawson''' (born September 28, 1959) is an American politician who has been the [[United States House of Representatives|United States Representative]] for [[Florida's 19th congressional district]] since 2014. He is the former chief executive of Hayes Lemmerz, a Michigan-based automobile wheel and brakes supplier.<ref name="naples">{{cite news | url=http://www.naplesnews.com/business/exclusive-curt-clawson-business-record-congress-19 | title=NDN exclusive: Curt Clawson touts business acumen, but record is marred | work=[[Naples Daily News]] | date=12 March 2014 | accessdate=27 July 2014}}</ref><ref>{{cite news |last= |first= |date=April 22, 2014 |title=Ex-C.E.O. Wins Florida Primary for House Seat |url=http://www.nytimes.com/2014/04/23/us/politics/ex-ceo-wins-florida-primary-for-house-seat.html |newspaper=New York Times |location=New York City |publisher=New York Times Company |accessdate=April 23, 2014}}</ref>
+
+==Education and career==
+
+Clawson attended [[Batesville High School (Indiana)|Batesville High School]] in [[Batesville, Indiana]].  A high school basketball star, he was recruited by [[Gene Keady]] for [[Purdue University]].<ref name="CJC"/>  At Purdue, he was a 2x All-Academic Big Ten selection (1982-83 & 1983-84).  He was a team captain for the 1983-84 Big Ten Champions, was a member of 2x NCAA teams (1982-83 & 1983-84) and an NIT Finalist team (1981–82).<ref name="TampaTimesLeary04222014"/>  He graduated in 1984 with a BA in Spanish and a BS from the [[Krannert School of Management]].<ref name="CJC"/>  He was named a "Purdue Old Master" in 2010 and received the Distinguished Alumni Award in 2014<ref name="CJC">[http://www.cla.purdue.edu/alumni/awards/distinguishedalumni/Recipients/Clawson.html Curtis J. Clawson : College of Liberal Arts : Purdue University<!-- Bot generated title -->]</ref>
+
+In 1990, he earned an MBA from [[Harvard University]].<ref name="CJC"/>
+
+==U.S. House of Representatives==
+===Elections===
+;2014 special election
+{{main|Florida's 19th congressional district special election, 2014}}
+Clawson was the [[Republican Party (United States)|Republican Party]] nominee in a [[Florida's 19th congressional district special election, 2014|special election]] to fill Florida's 19th district U.S. House of Representatives seat vacated by [[Trey Radel]].<ref name="WashPostSullivan04232014">Sullivan, Sean. [http://www.washingtonpost.com/blogs/post-politics/wp/2014/04/22/curt-clawson-wins-republican-nomination-in-florida-special-election/ Curt Clawson wins Republican nomination in Florida special election], ''Washington Post'', April 23, 2014.</ref> and won the election on June 24, 2014. On April 22, 2014, Clawson defeated State Senate Majority Leader [[Lizbeth Benacquisto]] and former State Representative [[Paige Kreegel]] with 38% of the vote to Benacquisto's 26% and Kreegel's 25%.<ref name="WashPostSullivan04232014"/>  Clawson was endorsed in the primary by the [[Tea Party Express]].<ref name="TampaTimesLeary04222014">{{cite news |last=Leary |first=Alex |date=April 22, 2014 |title=Tea party candidate Curt Clawson wins Republican primary to replace former Rep. Trey Radel |url=http://www.tampabay.com/news/politics/national/tea-party-candidate-curt-clawson-wins-republican-primary-to-replace-former/2176397 |newspaper=Tampa Bay Times |location=Tampa |publisher=Times Publishing Company |accessdate=April 23, 2014 }}</ref>  He spent $2 million on advertising and in one of his ads he challenged U.S. President [[Barack Obama]] to a game of one on one basketball.<ref name="TampaTimesLeary04222014"/>
+
+==Tenure==
+During a House hearing on the July 24, 2014, Clawson mistook [[Nisha Desai Biswal]] and Arun M. Kumar, two senior U.S. officials of [[Indian American]] descent, for representatives of the [[India|Indian government]], saying, "I am familiar with your country, I love your country. Anything I can do to make the relationship with India better, I'm willing and enthusiastic about doing so. […] Just as your capital is welcome here to produce good-paying jobs in the U.S., I’d like our capital to be welcome there. I ask cooperation and commitment and priority from your government in so doing. Can I have that?"<ref>{{cite news|last1=Giri|first1=Nathan|title=Congressman Mistakes U.S. Officials For Indian Ones|url=http://time.com/3038010/congressman-curt-clawson-mistakes-u-s-officials-for-indian-officials/|accessdate=26 July 2014|agency=TIME}}</ref> He apologized for the gaffe the next day. “I made a mistake in speaking before being fully briefed and I apologize. I’m a quick study, but in this case I shot an air ball.” he said.<ref>{{cite web|last1=McCalmot|first1=Lucy|title=Curt Clawson sorry for nationality gaffe|url=http://www.politico.com/story/2014/07/curt-clawson-mistakes-staff-indians-109391.html|accessdate=26 July 2014}}</ref>
+
+==Electoral history==
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite news |url=http://hosted.ap.org/dynamic/files/elections/2014/by_county/FL_Page_0422.html?SITE=AP&SECTION=POLITICS |work = Associated Press | accessdate = July 21, 2014}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Curt Clawson
+| party = Republican Party (United States)
+| votes = 26,857
+| percentage = 38
+}}
+{{Election box candidate with party link no change
+| candidate = [[Lizbeth Benacquisto]]
+| party = Republican Party (United States)
+| votes = 18,032
+| percentage = 26
+}}
+{{Election box candidate with party link no change
+| candidate = [[Paige Kreegel]]
+| party = Republican Party (United States)
+| votes = 17,762
+| percentage = 25
+}}
+{{Election box candidate with party link no change
+| candidate = Michael Dreikorn
+| party = Republican Party (United States)
+| votes = 7,560
+| percentage = 11
+}}
+{{Election box total no change
+| votes = 70,211
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Florida's 19th Congressional District special election, 2014<ref>http://enight.elections.myflorida.com/Special/</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Curt Clawson
+| party = Republican Party (United States)
+| votes = 66,917
+| percentage = 66.95
+}}
+{{Election box candidate with party link no change
+| candidate = April Freeman
+| party = Democratic Party (United States)
+| votes = 29,306
+| percentage = 29.32
+}}
+{{Election box candidate with party link no change
+| candidate = Ray Netherwood
+| party = Libertarian Party (United States)
+| votes = 3,729
+| percentage = 3.73
+}}
+{{Election box candidate with party link no change
+| candidate = Write-ins
+| party = N/A
+| votes = 6
+| percentage = 0.01
+}}
+{{Election box total no change
+| votes = 99,958
+| percentage = 100
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://clawson.house.gov/ Congressman Curt Clawson] official U.S. House website
+*[http://www.curtclawson.com/ The Outsider for Congress] official campaign website
+*{{Dmoz|Regional/North_America/United_States/Florida/Government/Federal/US_House/Curt_Clawson_%5BR-19%5D}}
+*{{CongLinks | congbio = C001102 | nndb = | votesmart = 148899 | govtrack = 412449 | opencong = | rollcall = | fec = H4FL19074 | congress = | }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |state=Florida|district=19|before=Trey Radel|after=incumbent|years=2014–}}
+{{s-prec|usa}}
+{{s-bef|before=[[David Jolly]]<br><small>R-Florida}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=432rd}}
+{{s-aft|after=[[Alma Adams]]<br><small>D-[[North Carolina]]}}
+{{s-end}}
+
+{{FL-FedRep}}
+{{U.S. Florida Representatives}}
+
+{{Persondata
+| NAME              = Clawson, Curt
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = September 28, 1959
+| PLACE OF BIRTH    = Tacoma, Washington, U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Clawson, Curt}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Florida Republicans]]
+[[Category:Tea Party movement activists]]
+[[Category:People from Tacoma, Washington]]
+[[Category:Purdue Boilermakers men's basketball players]]
+[[Category:Harvard Business School alumni]]
+[[Category:Businesspeople from Florida]]
+[[Category:People from Lee County, Florida]]
+[[Category:Members of the United States House of Representatives from Florida]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:American Latter Day Saints]]
+[[Category:People from Batesville, Indiana]]
+
+
+{{Florida-politician-stub}}{{Infobox politician
+| name        = Curt Clawson
+| image       = File:Curt Clawson 2014 Congressional Photo.jpg
+| image_size  = 
+| caption     = 
+| state       = [[Florida]]
+| district    = [[Florida's 19th congressional district|19th]]
+| term_start  = June 25, 2014
+| term_end    = 
+| predecessor = [[Trey Radel]]
+| birth_date  = {{birth date and age|1959|9|28}}
+| birth_place = [[Tacoma, Washington]], U.S.<ref>[http://noc.www3.capwiz.com/bio/id/27749 NEUROSURGERY://ON-CALL - Rep. Curt Clawson (R-Florida) biography<!-- Bot generated title -->]</ref>
+| residence   = [[Bonita Springs, Florida]]
+| occupation  = Automotive Executive
+| known_for   = 
+| education   = 
+| alma_mater  = [[Purdue University]]<br>[[Harvard Business School]]
+| home_town   = Bonita Springs, Florida
+| party       = [[Republican Party (United States)|Republican]]
+| religion    = [[The Church of Jesus Christ of Latter-day Saints]] (Mormon)
+| spouse      = 
+| website     = [http://clawson.house.gov/ Official website]
+| footnotes   = 
+}}
+'''Curtis J. Clawson''' (born September 28, 1959) is an American politician who has been the [[United States House of Representatives|United States Representative]] for [[Florida's 19th congressional district]] since 2014. He is the former chief executive of Hayes Lemmerz, a Michigan-based automobile wheel and brakes supplier.<ref name="naples">{{cite news | url=http://www.naplesnews.com/business/exclusive-curt-clawson-business-record-congress-19 | title=NDN exclusive: Curt Clawson touts business acumen, but record is marred | work=[[Naples Daily News]] | date=12 March 2014 | accessdate=27 July 2014}}</ref><ref>{{cite news |last= |first= |date=April 22, 2014 |title=Ex-C.E.O. Wins Florida Primary for House Seat |url=http://www.nytimes.com/2014/04/23/us/politics/ex-ceo-wins-florida-primary-for-house-seat.html |newspaper=New York Times |location=New York City |publisher=New York Times Company |accessdate=April 23, 2014}}</ref>
+
+==Education and career==
+
+Clawson attended [[Batesville High School (Indiana)|Batesville High School]] in [[Batesville, Indiana]].  A high school basketball star, he was recruited by [[Gene Keady]] for [[Purdue University]].<ref name="CJC"/>  At Purdue, he was a 2x All-Academic Big Ten selection (1982-83 & 1983-84).  He was a team captain for the 1983-84 Big Ten Champions, was a member of 2x NCAA teams (1982-83 & 1983-84) and an NIT Finalist team (1981–82).<ref name="TampaTimesLeary04222014"/>  He graduated in 1984 with a BA in Spanish and a BS from the [[Krannert School of Management]].<ref name="CJC"/>  He was named a "Purdue Old Master" in 2010 and received the Distinguished Alumni Award in 2014<ref name="CJC">[http://www.cla.purdue.edu/alumni/awards/distinguishedalumni/Recipients/Clawson.html Curtis J. Clawson : College of Liberal Arts : Purdue University<!-- Bot generated title -->]</ref>
+
+In 1990, he earned an MBA from [[Harvard University]].<ref name="CJC"/>
+
+==U.S. House of Representatives==
+===Elections===
+;2014 special election
+{{main|Florida's 19th congressional district special election, 2014}}
+Clawson was the [[Republican Party (United States)|Republican Party]] nominee in a [[Florida's 19th congressional district special election, 2014|special election]] to fill Florida's 19th district U.S. House of Representatives seat vacated by [[Trey Radel]].<ref name="WashPostSullivan04232014">Sullivan, Sean. [http://www.washingtonpost.com/blogs/post-politics/wp/2014/04/22/curt-clawson-wins-republican-nomination-in-florida-special-election/ Curt Clawson wins Republican nomination in Florida special election], ''Washington Post'', April 23, 2014.</ref> and won the election on June 24, 2014. On April 22, 2014, Clawson defeated State Senate Majority Leader [[Lizbeth Benacquisto]] and former State Representative [[Paige Kreegel]] with 38% of the vote to Benacquisto's 26% and Kreegel's 25%.<ref name="WashPostSullivan04232014"/>  Clawson was endorsed in the primary by the [[Tea Party Express]].<ref name="TampaTimesLeary04222014">{{cite news |last=Leary |first=Alex |date=April 22, 2014 |title=Tea party candidate Curt Clawson wins Republican primary to replace former Rep. Trey Radel |url=http://www.tampabay.com/news/politics/national/tea-party-candidate-curt-clawson-wins-republican-primary-to-replace-former/2176397 |newspaper=Tampa Bay Times |location=Tampa |publisher=Times Publishing Company |accessdate=April 23, 2014 }}</ref>  He spent $2 million on advertising and in one of his ads he challenged U.S. President [[Barack Obama]] to a game of one on one basketball.<ref name="TampaTimesLeary04222014"/>
+
+==Tenure==
+During a House hearing on the July 24, 2014, Clawson mistook [[Nisha Desai Biswal]] and Arun M. Kumar, two senior U.S. officials of [[Indian American]] descent, for representatives of the [[India|Indian government]], saying, "I am familiar with your country, I love your country. Anything I can do to make the relationship with India better, I'm willing and enthusiastic about doing so. […] Just as your capital is welcome here to produce good-paying jobs in the U.S., I’d like our capital to be welcome there. I ask cooperation and commitment and priority from your government in so doing. Can I have that?"<ref>{{cite news|last1=Giri|first1=Nathan|title=Congressman Mistakes U.S. Officials For Indian Ones|url=http://time.com/3038010/congressman-curt-clawson-mistakes-u-s-officials-for-indian-officials/|accessdate=26 July 2014|agency=TIME}}</ref> He apologized for the gaffe the next day. “I made a mistake in speaking before being fully briefed and I apologize. I’m a quick study, but in this case I shot an air ball.” he said.<ref>{{cite web|last1=McCalmot|first1=Lucy|title=Curt Clawson sorry for nationality gaffe|url=http://www.politico.com/story/2014/07/curt-clawson-mistakes-staff-indians-109391.html|accessdate=26 July 2014}}</ref>
+
+==Electoral history==
+{{Election box begin no change
+| title = Republican primary results<ref>{{cite news |url=http://hosted.ap.org/dynamic/files/elections/2014/by_county/FL_Page_0422.html?SITE=AP&SECTION=POLITICS |work = Associated Press | accessdate = July 21, 2014}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Curt Clawson
+| party = Republican Party (United States)
+| votes = 26,857
+| percentage = 38
+}}
+{{Election box candidate with party link no change
+| candidate = [[Lizbeth Benacquisto]]
+| party = Republican Party (United States)
+| votes = 18,032
+| percentage = 26
+}}
+{{Election box candidate with party link no change
+| candidate = [[Paige Kreegel]]
+| party = Republican Party (United States)
+| votes = 17,762
+| percentage = 25
+}}
+{{Election box candidate with party link no change
+| candidate = Michael Dreikorn
+| party = Republican Party (United States)
+| votes = 7,560
+| percentage = 11
+}}
+{{Election box total no change
+| votes = 70,211
+| percentage = 100
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Florida's 19th Congressional District special election, 2014<ref>http://enight.elections.myflorida.com/Special/</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Curt Clawson
+| party = Republican Party (United States)
+| votes = 66,917
+| percentage = 66.95
+}}
+{{Election box candidate with party link no change
+| candidate = April Freeman
+| party = Democratic Party (United States)
+| votes = 29,306
+| percentage = 29.32
+}}
+{{Election box candidate with party link no change
+| candidate = Ray Netherwood
+| party = Libertarian Party (United States)
+| votes = 3,729
+| percentage = 3.73
+}}
+{{Election box candidate with party link no change
+| candidate = Write-ins
+| party = N/A
+| votes = 6
+| percentage = 0.01
+}}
+{{Election box total no change
+| votes = 99,958
+| percentage = 100
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://clawson.house.gov/ Congressman Curt Clawson] official U.S. House website
+*[http://www.curtclawson.com/ The Outsider for Congress] official campaign website
+*{{Dmoz|Regional/North_America/United_States/Florida/Government/Federal/US_House/Curt_Clawson_%5BR-19%5D}}
+*{{CongLinks | congbio = C001102 | nndb = | votesmart = 148899 | govtrack = 412449 | opencong = | rollcall = | fec = H4FL19074 | congress = | }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |state=Florida|district=19|before=Trey Radel|after=incumbent|years=2014–}}
+{{s-prec|usa}}
+{{s-bef|before=[[David Jolly]]<br><small>R-Florida}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=432rd}}
+{{s-aft|after=[[Alma Adams]]<br><small>D-[[North Carolina]]}}
+{{s-end}}
+
+{{FL-FedRep}}
+{{U.S. Florida Representatives}}
+
+{{Persondata
+| NAME              = Clawson, Curt
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = September 28, 1959
+| PLACE OF BIRTH    = Tacoma, Washington, U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Clawson, Curt}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Florida Republicans]]
+[[Category:Tea Party movement activists]]
+[[Category:People from Tacoma, Washington]]
+[[Category:Purdue Boilermakers men's basketball players]]
+[[Category:Harvard Business School alumni]]
+[[Category:Businesspeople from Florida]]
+[[Category:People from Lee County, Florida]]
+[[Category:Members of the United States House of Representatives from Florida]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:American Latter Day Saints]]
+[[Category:People from Batesville, Indiana]]
+
+
+{{Florida-politician-stub}}

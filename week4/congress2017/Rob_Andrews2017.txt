@@ -1,0 +1,433 @@
+{{for|others|Robert Andrews (disambiguation)}}
+{{Use mdy dates|date=November 2013}}
+{{Infobox Officeholder
+|name        = Rob Andrews
+|image       = Robbieandrews.jpeg
+|state       = [[New Jersey]]
+|district    = {{ushr|New Jersey|1|1st}}
+|term_start  = November 6, 1990
+|term_end    = February 18, 2014
+|predecessor = [[James Florio]]
+|successor   = [[Donald Norcross]]
+|birth_name  = Robert Ernest Andrews
+|birth_date  = {{birth date and age|1957|8|4}}
+|birth_place = [[Camden, New Jersey|Camden]], [[New Jersey]], [[United States|U.S.]]
+|death_date  = 
+|death_place = 
+|party       = [[Democratic Party (United States)|Democratic]]
+|spouse      = [[Camille Andrews|Camille Spinello]]
+|children    = Jackie<br>Josie
+|alma_mater  = [[Bucknell University]] <small>([[Bachelor of Arts|B.A.]])</small><br>[[Cornell Law School]] <small>([[Juris Doctor|J.D.]])</small>
+|religion    = [[Episcopal Church (United States)|Episcopalianism]]
+}}
+'''Robert Ernest "Rob" Andrews''' (born August 4, 1957) is an American politician and lawyer who is known as one of the primary authors of the [[Patient Protection and Affordable Care Act|Affordable Care Act]]. He currently leads Dilworth Paxon’s Government Relations practice.
+
+First elected to Congress in 1990, Andrews served for 24 years as the [[United States House of Representatives|U.S. Representative]] for {{ushr|NJ|1}}, which includes most of [[Camden County, New Jersey|Camden County]] and parts of [[Burlington County, New Jersey|Burlington County]] and [[Gloucester County, New Jersey|Gloucester County]]. In the U.S. House of Representatives, he served as chairman of the [[United States House Education Subcommittee on Health, Employment, Labor, and Pensions|Subcommittee on Health, Employment, Labor, and Pensions]].
+
+== Early life, education, and early career ==
+Andrews was born in [[Camden, New Jersey]], the son of Josephine ([[née]] Amies) and Ernest Andrews. He grew up in [[Bellmawr, New Jersey|Bellmawr]] and attended [[Triton Regional High School (New Jersey)|Triton Regional High School]] in [[Runnemede, New Jersey|Runnemede]].<ref>[http://bioguide.congress.gov/scripts/biodisplay.pl?index=a000210 Robert Ernest Andrews], ''[[Biographical Directory of the United States Congress]]''. Retrieved October 7, 2007.</ref>  Andrews was the first in his family to attend college, graduating from [[Bucknell University]] in 1979 with a [[Bachelor of Arts|BA]] in [[political science]], summa cum laude. He later attended [[Cornell Law School|Cornell University Law School]], earning his [[Juris Doctor|JD]] degree with honors in 1982.
+
+For several years, Andrews was involved in legal education as a member of ''[[Cornell Law Review]]''‍‍ '‍s board of editors. He also was an adjunct [[professor]] at [[Rutgers School of Law - Camden|Rutgers University-Camden Law School]]. From 1983 onward, Andrews operated a private law practice. In 1986, he was elected as a member of the [[Camden County, New Jersey|Camden County]] [[Board of Chosen Freeholders]], where he served for four years, including two years as freeholder director (1988–1990).
+
+==U.S. House of Representatives==
+
+===Elections===
+In 1990, after a 15-year incumbent Democratic U.S. Congressman [[James Florio]] resigned from the [[United States House of Representatives|U.S. House of Representatives]] to take office as [[Governor of New Jersey]], Andrews won the 1990 special election and simultaneous general election against Gloucester County Freeholder Daniel J. Mangini.<ref name=1990Win>{{cite news |url=http://articles.philly.com/1990-11-07/news/25930201_1_freeholder-director-washington-township-party-activists |title=Andrews Holds Off Mangini's Challenge Captures Seat In Congress Held For Years By Florio |date=November 7, 1990 |first=Alan |last=Sipress |newspaper=[[Philadelphia Inquirer]] |accessdate=December 22, 2013}}</ref>  He subsequently won re-election every two years until his retirement. Andrews had the 10th longest tenure among U.S. Representatives in New Jersey history, and the fifth longest among Democrats state.<ref>{{cite web |url=http://editions.lib.umn.edu/smartpolitics/2014/02/04/andrews-exits-us-house-with-to/ |title= Andrews Exits US House with Top 10 Longest Tenure in New Jersey History |work=Smart Politics |first=Eric |last=Ostermeier |date= February 4, 2014}}</ref> In November 2004, he received more votes than anyone ever elected to the U.S. House of Representatives from New Jersey, a record which he broke once again in 2012.<ref name="house">{{cite news|work=Congressman Robert E. Andrews|title=Biography|url=http://www.house.gov/andrews/about_biography.shtml}}</ref>
+
+Andrews was a candidate for the [[Democratic primary in New Jersey, 2008|Democratic nomination]] in the [[United States Senate election in New Jersey, 2008|2008 U.S. Senate election]], being defeated by incumbent [[United States Senate|U.S. Senator]] [[Frank Lautenberg]].
+
+===Tenure===
+During his tenure, Andrews was considered a “key champion of health care legislation in the U.S. Congress.”<ref>{{Cite web|url = http://news.yale.edu/2011/03/21/congressman-rob-andrews-yale-talk-about-health-care-law|title = Congressman Rob Andrews at Yale to Talk About Health Care Law|date = March 21, 2011|accessdate = |website = YaleNews|publisher = Yale University|last = |first = }}</ref> According to [[Barack Obama|President Barack Obama]], he was an “original author” of the Affordable Care Act and was a “vital partner in its passage and implementation.”<ref>{{Cite web|title = Statement from the President on the Retirement of Congressman Rob Andrews|url = https://www.whitehouse.gov/the-press-office/2014/02/04/statement-president-retirement-congressman-rob-andrews|accessdate = 2015-10-02}}</ref>
+
+While in office, Andrews was generally considered a moderate by Democratic standards, though he voted with his party most of the time. ''[[The New York Times]]'' characterized him as "fiscally conservative ... and socially moderate."<ref>[http://www.house.gov/andrews/about_biography.shtml Robert E. Andrews - First District of New Jersey]</ref>  He earned a lifetime rating of 17.24 from the [[American Conservative Union]] and a 2007 rating of 100 from [[Americans for Democratic Action]].<ref>[http://web.archive.org/web/20080510125244/http://www.acuratings.org/2007all.htm#NJ ACU Ratings]</ref><ref>[http://www.votesmart.org/issue_rating_category.php?can_id=26949&type=category&category=45&go.x=10&go.y=10 Ratings on liberal issues collated by Project Vote Smart]</ref>  He has a liberal rating of 76.2 and a conservative rating of 23.8 from the ''[[National Journal]]''.<ref>[http://www.nationaljournal.com/voteratings/states/index.htm?state=nj#vr National Journal's 2007 Vote Ratings for New Jersey]</ref>
+
+Andrews served for his entire Congressional career on the [[United States House Committee on Education and Labor|House Committee on Education and Labor]]. He was the Democratic leader and ranking member on the [[United States House Education Subcommittee on Employer-Employee Relations|Education Subcommittee on Employer-Employee Relations]], and was the chairman of the [[United States House Education Subcommittee on Health, Employment, Labor, and Pensions|Education Subcommittee on Health, Employment, Labor, and Pensions.]] He also served on the [[United States House Committee on Armed Services|House Armed Services Committee]].
+
+===Committee assignments===
+* '''[[United States House Committee on Armed Services|Committee on Armed Services]]'''
+** [[United States House Armed Services Subcommittee on Strategic Forces|Subcommittee on Strategic Forces]]
+** [[United States House Armed Services Subcommittee on Emerging Threats and Capabilities|Subcommittee on Emerging Threats and Capabilities]]
+* '''[[United States House Committee on Education and the Workforce|Committee on Education and the Workforce]]'''
+** [[United States House Education Subcommittee on Higher Education and Workforce Training|Subcommittee on Higher Education and Workforce Training]]
+** [[United States House Education Subcommittee on Health, Employment, Labor, and Pensions|Subcommittee on Health, Employment, Labor, and Pensions]] (Ranking Member)
+* '''[[Steering and Policy Committees of the United States House of Representatives|Co-Chairman of the Steering and Policy Committee]]'''
+<ref>http://www.democraticleader.gov/Pelosi_Announces_Steering_And_Policy_Members</ref>
+
+===Caucus memberships===
+* Congressional Arts Caucus
+
+===Controversies===
+In 2014 Andrews came under investigation by the House Ethics Committee for improper use of campaign funds. The identical substance of the accusations made were dismissed in their entirety by the Federal Elections Commission in May 2014.<ref>{{Cite web|url = http://www.citizensforethics.org/page/-/PDFs/Legal/5_28_2014_FEC_Decision_Rob_Andrews_nepotism.pdf?nocdn=1|title = Letter from FEC to Citizens for Responsibility and Ethics in Washington|date = May 28, 2014|accessdate = |website = citizensforethics.org|publisher = Citizens for Responsibility and Ethics in Washington|last = Shonkwiler|first = Mark}}</ref>
+
+==Personal life==
+Andrews is married to [[Camille Andrews|Camille Spinello Andrews]], an associate dean of enrollment and projects at [[Rutgers School of Law - Camden]]. They have two daughters, Jackie and Josie.<ref>[http://camlaw.rutgers.edu/bio/912/ Profile of Camille Spinello Andrews] from [[Rutgers School of Law - Camden]]. Retrieved December 23, 2006.</ref>
+
+==Electoral history==
+
+<div style="overflow: auto; width: 98%;">
+{| class="wikitable"
+|+[[New Jersey's 1st congressional district]]: Results 1990–2012<ref>{{Cite web|title = Office of the Clerk of the U.S. House of Representatives|url = http://clerk.house.gov/member_info/electioninfo/index.aspx|website = clerk.house.gov|accessdate = 2015-10-02|first = Office of the Clerk, U.S. House of|last = Representatives}}</ref><ref>{{Cite web|url = http://ballotpedia.org/New_Jersey%27s_1st_Congressional_District_elections,_2012|title = New Jersey's 1st Congressional District elections, 2012|date = |accessdate = |website = Ballotpedia|publisher = |last = |first = }}</ref>
+!Year
+!Democrat
+!Votes
+!Pct
+!Republican
+!Votes
+!Pct
+!3rd Party
+!Party
+!Votes
+!Pct
+!3rd Party
+!Party
+!Votes
+!Pct
+!3rd Party
+!Party
+!Votes
+!Pct
+!3rd Party
+!Party
+!Votes
+!Pct
+|-
+|1990<br>
+(special)
+|'''Rob Andrews'''
+|71,373
+|55%
+|Daniel J. Mangini
+|58,087
+|45%
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|1990
+|'''Rob Andrews'''
+|72,415
+|54%
+|Daniel J. Mangini
+|57,299
+|43%
+|Jerry Zeldin
+|Libertarian
+|1,592
+|1%
+|Walter E. Konstanty
+|Pride and Honesty
+|1,422
+|1%
+|William H. Harris
+|Populist
+|1,066
+|1%
+|
+|
+|
+|
+|-
+|1992
+|'''Rob Andrews'''
+|153,525
+|67%
+|Lee A. Solomon
+|65,123
+|29%
+|James E. Smith
+|Pro-Life Pro-Family Veteran
+|3,761
+|2%
+|Jerry Zeldin
+|Libertarian
+|2,641
+|1%
+|Kenneth L. Lowndes
+|Pro-Life Independent Conservative
+|2,163
+|1%
+|Nicholas Pastuch
+|America First Populist
+|859
+|<1%
+|-
+|1994
+|'''Rob Andrews'''
+|108,155
+|72%
+|James N. Hogan
+|41,505
+|28%
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|1996
+|'''Rob Andrews'''
+|160,413
+|76%
+|Mel Suplee
+|44,287
+|21%
+|Michael Edmondson
+|Independent
+|2,668
+|1%
+|Patricia A.Bily
+|Independent
+|1,873
+|1%
+|Norman E.Wahner
+|Independent
+|1,493
+|1%
+|
+|
+|
+|
+|-
+|1998
+|'''Rob Andrews'''
+|90,279
+|73%
+|Ronald L. Richards
+|27,855
+|23%
+|David E.West, Jr.
+|Independent
+|1,684
+|1%
+|Joseph W.Stockman
+|Independent
+|1,324
+|1%
+|Edward Forchion
+|Independent
+|1,257
+|1%
+|James E.Barber
+|Independent
+|943
+|1%
+|-
+|2000
+|'''Rob Andrews'''
+|167,327
+|76%
+|Charlene Cathcart
+|46,455
+|21%
+|Catherine L.Parrish
+|Independent
+|3,090
+|1%
+|Edward Forchion
+|Independent
+|1,959
+|1%
+|Joseph A.Patalivo
+|Independent
+|781
+|<1%
+|
+|
+|
+|
+|-
+|2002
+|'''Rob Andrews'''
+|121,846
+|93%
+|''(no candidate)''
+|
+|
+|Timothy Haas
+|Libertarian
+|9,543
+|7%
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|2004
+|'''Rob Andrews'''
+|201,163
+|75%
+|S. Daniel Hutchison
+|66,109
+|25%
+|Arturo F. Croce
+|E Pluribus Unum
+|931
+|<1%
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|2006
+|'''Rob Andrews'''
+|140,110
+|100%
+|''(no candidate)''
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|2008
+|'''Rob Andrews'''
+|191,796
+|72%
+|Dale M. Glading
+|70,466
+|26%
+|Matthew Thieke
+|Green
+|1,778
+|<1%
+|Margaret Chapman
+|Back toBasics
+|1,188
+|<1%
+|Everitt M.Williams, III
+|Think Independently
+|954
+|<1%
+|Alvin Lindsay
+|Lindsay for Congress
+|483
+|<1%
+|-
+|2010
+|'''Rob Andrews'''
+|106,334
+|63%
+|Dale M. Glading
+|58,562
+|35%
+|Mark Heacock
+|Green
+|1,593
+|<1%
+|Margaret Chapman
+|Time for Change
+|1,257
+|<1%
+|Nicky I. Petrutz
+|Defend American Constitution
+|521
+|<1%
+|-
+|2012
+|'''Rob Andrews'''
+|210,470
+|68%
+|Gregory W. Horton
+|92,459
+|30%
+|John William Reitter
+|Green
+|4,413
+|1%
+|Margaret Chapman
+|Reform Party
+|1,177
+|<1%<br>
+<br>
+|}
+</div>
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+*[http://clerk.house.gov/member_info/vacancies_pr.aspx?pr=house&vid=89 Office of former Congressman], constituent services
+*{{Dmoz|Regional/North_America/United_States/New_Jersey/Government/Federal/US_House_of_Representatives/Robert_E._Andrews_%5BD-01%5D}}{{CongLinks | congbio = a000210 | ballot = Robert_Andrews | nndb = 328/000032232 | votesmart = 26949 | govtrack = 400008 | opencong = 400008 | rollcall = 315 | politifact = rob-andrews | fec = H0NJ01066 | opensecrets = N00000826 | assets = robert-andrews | legistorm = 107/Rep_Robert_Andrews.html | followthemoney = 90829 | ontheissues = NJ/Rob_Andrews.htm | congress = robert-andrews/21 | worldcat = | cspan = 19670 | imdb = 4440618 | bloomberg = | nyt = | washpo = gIQAJy6OAP }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[James Florio]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from New Jersey|U.S. House of Representatives]]<br>from [[New Jersey's 1st congressional district]]|years=1990–2014}}
+{{s-aft|after=[[Donald Norcross]]}}
+|-
+{{s-ppo}}
+{{s-bef|before=[[George Miller (California politician)|George Miller]]}}
+{{s-ttl|title=Chairperson of [[Steering and Policy Committees of the United States House of Representatives|House Democratic Policy Committee]]|years=2013–2014}}
+{{s-aft|after=[[George Miller (California politician)|George Miller]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Andrews, Rob}}
+[[Category:1957 births]]
+[[Category:American Episcopalians]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Bucknell University alumni]]
+[[Category:Cornell Law School alumni]]
+[[Category:County freeholders in New Jersey]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from New Jersey]]
+[[Category:New Jersey Democrats]]
+[[Category:People from Bellmawr, New Jersey]]
+[[Category:Politicians from Camden, New Jersey]]
+[[Category:People from Haddon Heights, New Jersey]]
+[[Category:New Jersey gubernatorial candidates]]
+[[Category:21st-century American politicians]]

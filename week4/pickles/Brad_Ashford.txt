@@ -1,0 +1,371 @@
+{{Use mdy dates|date=September 2011}}
+{{Infobox congressman
+| name        =Brad Ashford
+| image       = 
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Nebraska's 2nd congressional district|Nebraska's 2nd district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Lee Terry]]
+| succeeded   = 
+|state_senate2 = Nebraska
+|district2     = 20th
+|term_start2   = January 2007
+|term_end2     = 
+|predecessor2  = [[Jim Jensen (Nebraska politician)|Jim Jensen]]
+|successor2    = 
+|state_senate3 = Nebraska
+|district3    = 6th
+|term_start3  = January 1987
+|term_end3    = January 1995
+|predecessor3 = [[Peter Hoagland]]
+|successor3   = [[Pam Brown (Nebraska politician)|Pam Brown]]
+|birth_date   = {{birth date and age|1949|11|10}}
+|birth_place  = [[Omaha, Nebraska|Omaha]], [[Nebraska]], [[United States|U.S.]]
+|death_date   = 
+|death_place  = 
+|party        = [[Democratic Party (United States)|Democratic]] {{small|(Before 1988)}}<br> [[Republican Party (United States)|Republican]] {{small|(Before 2011)}}<br>[[Independent (politician)|Independent]] {{small|(2011–2013)}}<br>[[Democratic Party (United States)|Democratic]] {{small|(2013–present)}}
+|spouse       = Ann Ferlic
+|alma_mater   = [[Colgate University]]<br>[[Creighton University]]
+}}
+'''Brad Ashford''' (born November 10, 1949) is an American politician who serves as a member of the [[Nebraska Legislature]], representing the 20th district since 2007. He previously represented the 6th district from 1987 to 1995. He is the [[Democratic Party (United States)|Democratic]] winner in [[Nebraska's 2nd congressional district]] in the [[United States House of Representatives elections in Nebraska, 2014#District 2|2014 elections]].
+
+==Early life, education and career==
+Born in [[Omaha, Nebraska]], he attended [[Westside High School (Omaha)|Westside High School]]. He received his B.A. from [[Colgate University]] in 1971. He got his [[Juris Doctor|J.D.]] from [[Creighton University]] School of Law in 1974.<ref name=Ashford></ref>
+
+*AV-Rated Attorney, Bradford and Cohen, 1975-Present
+*Co-Owner, Nebraska Clothing Company, 1993-2006
+*Vice President/Business Development Investor, Discoverwhy.com, 1998-2003
+*Judge, Nebraska Court of Industrial Relations, 1984-1986
+*Hearing Examiner, Nebraska Department of Education, 1983-1984<ref name=Ashford></ref>
+
+He is a member of the following professional organizations:
+*Executive Director, Omaha Housing Authority, 2004
+*Member, American Arbitration Association
+*Member, American Bar Association
+*Member, Minnesota Bar Association
+*Member, Nebraska Bar Association
+*Member, Nebraska Bar Foundation
+*Member, Nebraska Court of Industrial Relations
+*Member, Omaha Bar Association
+
+==Political career==
+Ashford has had the following political experience:
+*Senator, Nebraska Legislature, 1987-1995, 2006-present
+*Judge, Nebraska Court of Industrial Relations, 1984-1986
+*Attorney, General Counsel's Office, Federal Highway Administration, Washington, D.C. 1974-1975<ref name=Ashford></ref>
+
+He was first elected to the Legislature in 1986 serving Nebraska's 6th legislative district. He was reelected in 1990 and retired in 1994. He ran for legislature again in 2006, and was elected to serve Nebraska's 20th legislative district. He is chairman of the Judiciary Committee and serves on the Education Committee and the Committee on Committees. 
+
+He is on the following committees:
+*Business and Labor, Member
+*Judiciary, Chair
+*Urban Affairs, Member<ref name=Ashford>{{cite web|title=Senator Brad Ashford's Biography|url=http://votesmart.org/candidate/biography/56766|publisher=Project Vote Smart|accessdate=21 October 2012}}</ref>
+
+== Campaigns and elections ==
+===2nd Congressional District===
+In 1994, Brad Ashford, then a state senator, ran in the [[Republican Party (United States)|Republican]] primary for [[Nebraska's 2nd congressional district]] seat.<ref>{{cite web|url=http://watchdog.org/128551/omaha-democrats-candidate-congress-ex-republican-ashford/|title=Omaha Democrats have candidate for Congress: Ex-Republican Ashford « Watchdog.org|work=Watchdog.org|accessdate=October 9, 2014}}</ref> [[Jon Lynn Christensen|Jon Christensen]] won the 1994 primary with 52.70% (26,494 votes). Ashford was second in the primary with 24.55% (12,340 votes), and Ron Staskiewicz finished third in the primary with 22.75% or 11,436 votes. Christensen defeated incumbent Congressman [[Peter Hoagland]] of the [[Democratic Party (United States)|Democratic Party]] in the general election on November 8, 1994.<ref>http://www.fec.gov/pubrec/fe1994/federalelections94.pdf</ref>
+
+In 2014, Brad Ashford was elected as Representative for the 2nd Congressional District, defeating 8-term Republican incumbent Lee Terry by more than two percentage points. <ref>http://electionresults.sos.ne.gov/resultsSW.aspx?type=SEARCH&text=brad</ref>
+
+===Omaha Mayor===
+State Senator Brad Ashford ran for Mayor of Omaha in 2013 as an [[Independent (politician)|independent]] candidate.  Ashford was defeated in the primary.
+{{Election box begin no change
+| title = Omaha mayoral primary results, April 2, 2013<ref>{{cite web|url=http://www.votedouglascounty.com/meer/el45_4.htm|title=2013 Primary Election Unofficial Results|date=April 2, 2013|accessdate=April 15, 2013|work=Douglas County Election Commission}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jean Stothert
+| party = Nonpartisan
+| votes = 18,870
+| percentage = 32.20
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jim Suttle (incumbent)
+| party = Nonpartisan
+| votes = 14,309
+| percentage = 24.41
+}}
+{{Election box candidate with party link no change
+| candidate = Dave Nabity
+| party = Nonpartisan
+| votes = 10,204
+| percentage = 17.41
+}}
+{{Election box candidate with party link no change
+| candidate = Brad Ashford
+| party = Nonpartisan
+| votes = 7,745
+| percentage = 13.21
+}}
+{{Election box candidate with party link no change
+| candidate = Dan Welch
+| party = Nonpartisan
+| votes = 7,083
+| percentage = 12.08
+}}
+{{Election box candidate with party link no change
+| candidate = Maura DeLuca
+| party = Nonpartisan
+| votes = 195
+| percentage = 0.33
+}}
+{{Election box candidate with party link no change
+| candidate = Mort Sullivan
+| party = Nonpartisan
+| votes = 153
+| percentage = 0.26
+}}
+{{Election box candidate no change
+| candidate = 
+| party = Write-in
+| votes = 52
+| percentage = 0.09
+}}
+{{Election box total no change
+| votes = 58,611
+| percentage = 100
+}}
+{{Election box end}}
+
+==Personal life==
+Ashford is married to Ann Ferlic, and has three children: John, Ellie, and Tom.
+
+He has been a member of the following community organizations:
+*Member, Omaha Suburban Rotary
+*Member, Westside High School Open Enrollment Committee
+*Member, [[Phi Beta Kappa]]
+*Former Board Member, Downtown Omaha, Incorporated
+*Past Vice President, Old Market Association
+*Past Chair, Omaha Housing Authority
+*Past Board Member, RACECO
+*Former Member, Salvation Army Advisory Board<ref name=Ashford></ref>
+
+== References ==
+* {{cite web | title=Nebraska Unicameral Legislature  | work=Sen. Brad Ashford | url=http://news.legislature.ne.gov/dist20| accessdate=March 10, 2007}}
+{{reflist}}
+
+==External links==
+*[http://news.legislature.ne.gov/dist20/ Sen. Brad Ashford] at the Nebraska Legislature
+*{{CongLinks | ballot = Brad_Ashford | votesmart = 56766 | followthemoney = 7813 }}
+*[http://openstates.org/ne/legislators/NEL000020/ Profile] at OpenStates,org
+
+{{s-start}}
+{{s-par|us-ne}}
+{{s-bef|before=[[Peter Hoagland]]}}
+{{s-ttl|title=Member of the [[Nebraska Legislature]]<br>from the 6th district|years=1987–1995}}
+{{s-aft|after=[[Pam Brown (Nebraska politician)|Pam Brown]]}}
+|-
+{{s-bef|before=[[Jim Jensen (Nebraska politician)|Jim Jensen]]}}
+{{s-ttl|title=Member of the [[Nebraska Legislature]]<br>from the 20th district|years=2007–present}}
+{{s-inc}}
+{{s-end}}
+
+{{Nebraska Legislature}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Ashford, Brad
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =November 10, 1949
+| PLACE OF BIRTH    =[[Omaha, Nebraska]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Ashford, Brad}}
+[[Category:1949 births]]
+[[Category:Colgate University alumni]]
+[[Category:Creighton University alumni]]
+[[Category:Living people]]
+[[Category:Nebraska State Senators]]
+[[Category:Nebraska Republicans]]
+[[Category:Nebraska Democrats]]
+[[Category:Nebraska Independents]]
+[[Category:People from Omaha, Nebraska]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Members of the United States House of Representatives from Nebraska]]{{Use mdy dates|date=September 2011}}
+{{Infobox congressman
+| name        =Brad Ashford
+| image       = 
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Nebraska's 2nd congressional district|Nebraska's 2nd district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Lee Terry]]
+| succeeded   = 
+|state_senate2 = Nebraska
+|district2     = 20th
+|term_start2   = January 2007
+|term_end2     = 
+|predecessor2  = [[Jim Jensen (Nebraska politician)|Jim Jensen]]
+|successor2    = 
+|state_senate3 = Nebraska
+|district3    = 6th
+|term_start3  = January 1987
+|term_end3    = January 1995
+|predecessor3 = [[Peter Hoagland]]
+|successor3   = [[Pam Brown (Nebraska politician)|Pam Brown]]
+|birth_date   = {{birth date and age|1949|11|10}}
+|birth_place  = [[Omaha, Nebraska|Omaha]], [[Nebraska]], [[United States|U.S.]]
+|death_date   = 
+|death_place  = 
+|party        = [[Democratic Party (United States)|Democratic]] {{small|(Before 1988)}}<br> [[Republican Party (United States)|Republican]] {{small|(Before 2011)}}<br>[[Independent (politician)|Independent]] {{small|(2011–2013)}}<br>[[Democratic Party (United States)|Democratic]] {{small|(2013–present)}}
+|spouse       = Ann Ferlic
+|alma_mater   = [[Colgate University]]<br>[[Creighton University]]
+}}
+'''Brad Ashford''' (born November 10, 1949) is an American politician who serves as a member of the [[Nebraska Legislature]], representing the 20th district since 2007. He previously represented the 6th district from 1987 to 1995. He is the [[Democratic Party (United States)|Democratic]] winner in [[Nebraska's 2nd congressional district]] in the [[United States House of Representatives elections in Nebraska, 2014#District 2|2014 elections]].
+
+==Early life, education and career==
+Born in [[Omaha, Nebraska]], he attended [[Westside High School (Omaha)|Westside High School]]. He received his B.A. from [[Colgate University]] in 1971. He got his [[Juris Doctor|J.D.]] from [[Creighton University]] School of Law in 1974.<ref name=Ashford></ref>
+
+*AV-Rated Attorney, Bradford and Cohen, 1975-Present
+*Co-Owner, Nebraska Clothing Company, 1993-2006
+*Vice President/Business Development Investor, Discoverwhy.com, 1998-2003
+*Judge, Nebraska Court of Industrial Relations, 1984-1986
+*Hearing Examiner, Nebraska Department of Education, 1983-1984<ref name=Ashford></ref>
+
+He is a member of the following professional organizations:
+*Executive Director, Omaha Housing Authority, 2004
+*Member, American Arbitration Association
+*Member, American Bar Association
+*Member, Minnesota Bar Association
+*Member, Nebraska Bar Association
+*Member, Nebraska Bar Foundation
+*Member, Nebraska Court of Industrial Relations
+*Member, Omaha Bar Association
+
+==Political career==
+Ashford has had the following political experience:
+*Senator, Nebraska Legislature, 1987-1995, 2006-present
+*Judge, Nebraska Court of Industrial Relations, 1984-1986
+*Attorney, General Counsel's Office, Federal Highway Administration, Washington, D.C. 1974-1975<ref name=Ashford></ref>
+
+He was first elected to the Legislature in 1986 serving Nebraska's 6th legislative district. He was reelected in 1990 and retired in 1994. He ran for legislature again in 2006, and was elected to serve Nebraska's 20th legislative district. He is chairman of the Judiciary Committee and serves on the Education Committee and the Committee on Committees. 
+
+He is on the following committees:
+*Business and Labor, Member
+*Judiciary, Chair
+*Urban Affairs, Member<ref name=Ashford>{{cite web|title=Senator Brad Ashford's Biography|url=http://votesmart.org/candidate/biography/56766|publisher=Project Vote Smart|accessdate=21 October 2012}}</ref>
+
+== Campaigns and elections ==
+===2nd Congressional District===
+In 1994, Brad Ashford, then a state senator, ran in the [[Republican Party (United States)|Republican]] primary for [[Nebraska's 2nd congressional district]] seat.<ref>{{cite web|url=http://watchdog.org/128551/omaha-democrats-candidate-congress-ex-republican-ashford/|title=Omaha Democrats have candidate for Congress: Ex-Republican Ashford « Watchdog.org|work=Watchdog.org|accessdate=October 9, 2014}}</ref> [[Jon Lynn Christensen|Jon Christensen]] won the 1994 primary with 52.70% (26,494 votes). Ashford was second in the primary with 24.55% (12,340 votes), and Ron Staskiewicz finished third in the primary with 22.75% or 11,436 votes. Christensen defeated incumbent Congressman [[Peter Hoagland]] of the [[Democratic Party (United States)|Democratic Party]] in the general election on November 8, 1994.<ref>http://www.fec.gov/pubrec/fe1994/federalelections94.pdf</ref>
+
+In 2014, Brad Ashford was elected as Representative for the 2nd Congressional District, defeating 8-term Republican incumbent Lee Terry by more than two percentage points. <ref>http://electionresults.sos.ne.gov/resultsSW.aspx?type=SEARCH&text=brad</ref>
+
+===Omaha Mayor===
+State Senator Brad Ashford ran for Mayor of Omaha in 2013 as an [[Independent (politician)|independent]] candidate.  Ashford was defeated in the primary.
+{{Election box begin no change
+| title = Omaha mayoral primary results, April 2, 2013<ref>{{cite web|url=http://www.votedouglascounty.com/meer/el45_4.htm|title=2013 Primary Election Unofficial Results|date=April 2, 2013|accessdate=April 15, 2013|work=Douglas County Election Commission}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jean Stothert
+| party = Nonpartisan
+| votes = 18,870
+| percentage = 32.20
+}}
+{{Election box winning candidate with party link no change
+| candidate = Jim Suttle (incumbent)
+| party = Nonpartisan
+| votes = 14,309
+| percentage = 24.41
+}}
+{{Election box candidate with party link no change
+| candidate = Dave Nabity
+| party = Nonpartisan
+| votes = 10,204
+| percentage = 17.41
+}}
+{{Election box candidate with party link no change
+| candidate = Brad Ashford
+| party = Nonpartisan
+| votes = 7,745
+| percentage = 13.21
+}}
+{{Election box candidate with party link no change
+| candidate = Dan Welch
+| party = Nonpartisan
+| votes = 7,083
+| percentage = 12.08
+}}
+{{Election box candidate with party link no change
+| candidate = Maura DeLuca
+| party = Nonpartisan
+| votes = 195
+| percentage = 0.33
+}}
+{{Election box candidate with party link no change
+| candidate = Mort Sullivan
+| party = Nonpartisan
+| votes = 153
+| percentage = 0.26
+}}
+{{Election box candidate no change
+| candidate = 
+| party = Write-in
+| votes = 52
+| percentage = 0.09
+}}
+{{Election box total no change
+| votes = 58,611
+| percentage = 100
+}}
+{{Election box end}}
+
+==Personal life==
+Ashford is married to Ann Ferlic, and has three children: John, Ellie, and Tom.
+
+He has been a member of the following community organizations:
+*Member, Omaha Suburban Rotary
+*Member, Westside High School Open Enrollment Committee
+*Member, [[Phi Beta Kappa]]
+*Former Board Member, Downtown Omaha, Incorporated
+*Past Vice President, Old Market Association
+*Past Chair, Omaha Housing Authority
+*Past Board Member, RACECO
+*Former Member, Salvation Army Advisory Board<ref name=Ashford></ref>
+
+== References ==
+* {{cite web | title=Nebraska Unicameral Legislature  | work=Sen. Brad Ashford | url=http://news.legislature.ne.gov/dist20| accessdate=March 10, 2007}}
+{{reflist}}
+
+==External links==
+*[http://news.legislature.ne.gov/dist20/ Sen. Brad Ashford] at the Nebraska Legislature
+*{{CongLinks | ballot = Brad_Ashford | votesmart = 56766 | followthemoney = 7813 }}
+*[http://openstates.org/ne/legislators/NEL000020/ Profile] at OpenStates,org
+
+{{s-start}}
+{{s-par|us-ne}}
+{{s-bef|before=[[Peter Hoagland]]}}
+{{s-ttl|title=Member of the [[Nebraska Legislature]]<br>from the 6th district|years=1987–1995}}
+{{s-aft|after=[[Pam Brown (Nebraska politician)|Pam Brown]]}}
+|-
+{{s-bef|before=[[Jim Jensen (Nebraska politician)|Jim Jensen]]}}
+{{s-ttl|title=Member of the [[Nebraska Legislature]]<br>from the 20th district|years=2007–present}}
+{{s-inc}}
+{{s-end}}
+
+{{Nebraska Legislature}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Ashford, Brad
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =November 10, 1949
+| PLACE OF BIRTH    =[[Omaha, Nebraska]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Ashford, Brad}}
+[[Category:1949 births]]
+[[Category:Colgate University alumni]]
+[[Category:Creighton University alumni]]
+[[Category:Living people]]
+[[Category:Nebraska State Senators]]
+[[Category:Nebraska Republicans]]
+[[Category:Nebraska Democrats]]
+[[Category:Nebraska Independents]]
+[[Category:People from Omaha, Nebraska]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Members of the United States House of Representatives from Nebraska]]

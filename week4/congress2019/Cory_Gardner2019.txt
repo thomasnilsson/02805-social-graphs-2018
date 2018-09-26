@@ -1,0 +1,386 @@
+{{Use mdy dates|date=May 2018}}
+{{Infobox officeholder
+|name         = Cory Gardner
+|image        = Cory Gardner official Senate portrait.jpeg
+|jr/sr        = United States Senator
+|state        = [[Colorado]]
+|alongside    = [[Michael Bennet]]
+|term_start   = January 3, 2015
+|term_end     = 
+|predecessor  = [[Mark Udall]]
+|successor    =
+|office1      = Chair of the [[National Republican Senatorial Committee]]
+|leader1      = [[Mitch McConnell]]
+|term_start1  = January 3, 2017
+|term_end1    = 
+|predecessor1 = [[Roger Wicker]]
+|successor1   = 
+|state2       = [[Colorado]]
+|district2    = {{ushr|CO|4|4th}}
+|term_start2  = January 3, 2011
+|term_end2    = January 3, 2015
+|predecessor2 = [[Betsy Markey]]
+|successor2   = [[Ken Buck]]
+|state_house3 = Colorado
+|district3    = 63rd
+|term_start3  = June 23, 2005
+|term_end3    = January 2, 2011
+|predecessor3 = [[Greg Brophy]]
+|successor3   = [[Jon Becker]]
+|birth_name   = Cory Scott Gardner
+|birth_date   = {{birth date and age|1974|8|22}}
+|birth_place  = [[Yuma, Colorado]], U.S.
+|death_date   =
+|death_place  =
+|nationality = American
+|party        = [[Republican Party (United States)|Republican]]
+|spouse       = Jaime Gardner
+|children     = 3
+|education    = [[Colorado State University]] ([[Bachelor of Arts|BA]])<br>[[University of Colorado Boulder]] ([[Juris Doctor|JD]])
+|website      = {{url|gardner.senate.gov|Senate website}}
+}}
+
+'''Cory Scott Gardner'''<ref>{{cite web |url=http://www.legistorm.com/memberbio/2735/Rep_Cory_Gardner_CO.html|title=Representative Cory Scott Gardner (Cory) (R-Colorado, 4th)|publisher=LegiStorm|accessdate=June 14, 2011}}</ref> (born August 22, 1974) is an American politician serving as the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[Colorado]] since 2015. A [[Republican Party (United States)|Republican]], he was previously the [[United States House of Representatives|U.S. Representative]] for [[Colorado's 4th congressional district]] from 2011 to 2015 and a member of the [[Colorado House of Representatives]] from 2005 to 2011.
+
+Gardner announced his candidacy for the U.S. Senate in March 2014, quickly clearing the Republican primary field,<ref>{{cite web|url=http://thehill.com/blogs/ballot-box/201036-gardners-final-primary-foe-drops-bid-in-colorado|title=Gardner gets clear primary path in Colorado|date=March 18, 2014|accessdate=March 18, 2014}}</ref> and defeated Democratic incumbent [[Mark Udall]] in the [[United States Senate election in Colorado, 2014|November 2014 race]].<ref name="abc.results">{{Cite news|url=http://abc30.com/news/republicans-up-5-seats-in-race-to-control-senate/380215 |title=Republicans up 5 seats in race to control Senate|accessdate=December 17, 2016}}</ref> Since 2017, Gardner has been chairman of the [[National Republican Senatorial Committee]], ranking him sixth in the Senate Republican leadership.
+
+==Early life, education, and early political career==
+Gardner was born on August 22, 1974 in [[Yuma, Colorado]],<ref>{{cite web|title=Cory Gardner's Political Summary|url=http://votesmart.org/candidate/30004/cory-gardner#.VAjni0h8Gnc |publisher=Project Vote Smart|accessdate=September 4, 2014}}</ref> the son of Cindy L. (née Pagel) and John W. Gardner. He is of Irish, German, Austrian, and English descent.<ref>{{cite web |url=http://freepages.genealogy.rootsweb.ancestry.com/%7Ebattle/reps/gardner.htm|title=Cory Gardner ancestry|publisher=Freepages.genealogy.rootsweb.ancestry.com|accessdate=November 17, 2012}}</ref> He graduated ''[[summa cum laude]]'' from [[Colorado State University]] with a [[Bachelor of Arts]] in [[political science]] in 1997.<ref name="NatlJGardner">[http://www.nationaljournal.com/almanac/2014-new-members/colorado-senate-cory-gardner-r-20141104 Colorado Senate: Cory Gardner (R)], ''[[National Journal]]''; accessed January 30, 2017.</ref>
+
+In college, Gardner switched from the [[Democratic Party (United States)|Democratic Party]] to the Republican Party<ref>{{cite news|last=Murray|first=Sara|date=October 17, 2014|title=GOP Senate Candidate Puts Colorado Democrats Off Balance|url=https://www.wsj.com/articles/gop-senate-candidate-puts-colorado-democrats-off-balance-1413587405|newspaper=Wall Street Journal|location=[[New York City|New York]]|accessdate=October 18, 2014|quote=He entered Colorado State University as a Democrat and switched to the Republican Party in college.}}</ref> and interned at the [[Colorado State Capitol]].<ref>{{cite news|last1=Kosena|first1=Jason|title=Cory Gardner joins Tom Lucero in GOP bid against Betsy Markey|url=http://www.coloradostatesman.com/content/991020-cory-gardner-joins-tom-lucero-gop-bid-against-betsy-markey|accessdate=September 4, 2014 |publisher=Colorado Statesman|date=May 15, 2009}}</ref> He went to law school at the [[University of Colorado School of Law|University of Colorado]] to earn his [[Juris Doctor]] in 2001.<ref name="NatlJGardner"/> Gardner served as [[General Counsel]] and Legislative Director for former U.S. Senator [[Wayne Allard]] of Colorado from 2002-05.<ref name="NatlJGardner"/><ref name=wsj>{{cite web|title=Cory Gardner (R)|url=http://projects.wsj.com/campaign2012/candidates/view/cory-gardner--CO-H|website=Election 2012|publisher=Wall Street Journal|accessdate=September 4, 2014}}</ref>
+
+==Colorado House of Representatives==
+
+===Elections===
+Gardner was appointed to the Colorado House of Representatives in 2005 and elected to a full term in 2006. He represented District 63 in the Colorado House of Representatives from 2005 through 2011.<ref name=wsj/>
+
+===Tenure===
+Gardner proposed legislation in 2006 that would set aside money in a rainy-day fund that would help protect the state from future economic downturns. His proposal relied on Referendum C money{{clarify|date=October 2014}} for future budget emergencies.<ref>{{cite news |url=http://nl.newsbank.com/nl-search/we/Archives?p_product=DP&p_theme=dp&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=10F65265527762F0&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |author=Couch, Mark P.|title=Rainy day funding bills see daylight|work=Denver Post|date=January 26, 2006|accessdate=November 17, 2012}}</ref> He staunchly opposed any tax increases. He helped create the Colorado Clean Energy Development Authority, which issued bonds to finance projects that involve the production, transportation and storage of clean energy until it was repealed in 2012.<ref name=DOE>{{cite web|title=Clean Energy Development Authority |url=http://www.afdc.energy.gov/laws/law/CO/6291|publisher=United States Department of Energy |accessdate=April 15, 2014}}</ref><ref>{{cite web|url=http://gardner.house.gov/about-me/biography |title=Biography &#124; Congressman Cory Gardner|publisher=Gardner.house.gov|accessdate=November 17, 2012}}</ref>
+
+In June 2006, he called on Republican Governor [[Bill Owens (Colorado politician)|Bill Owens]] to call a special session addressing the issue of [[Illegal immigration to the United States|illegal immigration]].<ref>{{cite news|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=SJAB&p_theme=sjab&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=1123D1069CD55518&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |title=Court ruling riles solons |work=Journal-Advocate|date=June 13, 2006|author=Mangalonzo, John|accessdate=November 17, 2012}}</ref>
+
+In 2006, Gardner opposed legislation to allow pharmacists to prescribe emergency contraception,<ref name="Marcotte">{{cite web|last1=Marcotte|first1=Amanda|title=Why Is This Anti-Contraception Republican in Favor of Over-the-Counter Birth Control Pills?|url=http://www.slate.com/blogs/xx_factor/2014/06/23/cory_gardner_on_contraception_colorado_senate_candidate_supports_over_the.html|publisher=Slate|accessdate=July 13, 2014}}</ref> and offered an amendment to the budget to prohibit the state Medicaid plan from purchasing [[Emergency contraception#Plan B|Plan B emergency contraception]].<ref>{{cite web|last1=Couch|first1=Mark P. |title=Legislature 2006 House gives OK to budget|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=DP&p_theme=dp&p_action=search&p_maxdocs=200&s_dispstring=Cory%20Gardner%20AND%20date%2803/31/2006%20to%2003/31/2006%29&p_field_date-0=YMD_date&p_params_date-0=date:B,E&p_text_date-0=03/31/2006%20to%2003/31/2006%29&p_field_advanced-0=&p_text_advanced-0=%28%22Cory%20Gardner%22%29&xcal_numdocs=50&p_perpage=25&p_sort=YMD_date:D&xcal_useweights=no|publisher=The Denver Post|accessdate=July 13, 2014|date=March 31, 2006}}</ref>
+
+In 2007, Gardner voted against a bill requiring hospitals to inform survivors of a sexual assault of the availability of emergency contraception.<ref>{{cite web|title=Gardner, under fire on personhood, suggests making birth control available over the counter|url=http://kdvr.com/2014/06/19/planned-parenthood-joins-chorus-attacking-gardner-on-personhood|publisher=Fox 31 Denver|accessdate=July 15, 2014}}</ref><ref>{{cite web|url=http://www.leg.state.co.us/clics/clics2007a/csl.nsf/fsbillcont/1F793DB59E15039A87257251007C3BA1?Open&file=060_enr.pdf|title=Senate Bill 07-690|accessdate=November 24, 2014}}</ref>
+
+''[[The Denver Post]]'' hailed Gardner as "the GOP Idea Man". He was named one of the Top 40 young Republican lawmakers by the magazine ''Rising Tide''. He became House Minority Whip in January 2007.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=355746|title=United States > Colorado > CO State House > Minority Whip|publisher=www.ourcampaigns.com|accessdate=June 14, 2011}}</ref>
+
+===Committee assignments===
+* House Education Committee<ref>{{cite web|last=Associated|first=The |url=http://www.summitdaily.com/article/20070330/NEWS/70330010|title=GOP calls for House education chairman to step down over e-mail|publisher=SummitDaily.com|accessdate=November 17, 2012}}</ref><ref>{{cite web|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&p_multi=CSGB&d_place=CSGB&p_theme=newslibrary2&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=116DF41746FC3D10&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|title=NewsLibrary.com – newspaper archive, clipping service – newspapers and other news sources|publisher=Nl.newsbank.com |date=January 23, 2007|accessdate=November 17, 2012}}</ref>
+* House Agriculture and Natural Resources Committee
+* Legislative Council<ref>{{cite web|url=http://www.ballotpedia.org/wiki/index.php/Cory_Gardner |title=Cory Gardner profile|publisher=Ballotpedia|accessdate=November 17, 2012}}</ref>
+
+==U.S. House of Representatives==
+[[File: Cory Gardner, Official Portrait, 112th Congress.jpg|thumb|Gardner's 112th Congressional session official photo]]
+
+===Elections===
+;2010
+{{Main|United States House of Representatives elections in Colorado, 2010#District 4}}
+Gardner won the Republican primary in the 4th Congressional District to challenge Democratic incumbent [[Betsy Markey]]. Also running were American Constitution Party nominee Doug Aden and Independent Ken "Wasko" Waszkiewicz. In an early September poll, Gardner was up 50% to 39% over Markey.<ref>{{cite news|url=http://www.nationalreview.com/battle10/245491/gardner-leads-markey-50-39-first-public-co-4-poll-michael-sandoval#|author=Sandoval, Michael|title=Gardner Leads Markey 50-39 in First Public CO-4 Poll|work=National Review|date=September 2, 2010 |accessdate=November 17, 2012}}</ref>
+
+Gardner was named one of the GOP Young Guns. He was endorsed by former U.S. Congressman [[Tom Tancredo]].<ref>{{cite news|url=http://www.huffingtonpost.com/2010/08/29/tom-tancredo-standing-by-_n_698316.html|title=Tom Tancredo Standing By Endorsement Of Cory Gardner Over ACP Candidate In CD-4|work=Huffington Post Denver|date=October 29, 2010|accessdate=November 17, 2012}}</ref> On November 2, 2010, Gardner defeated Markey, 52%–41%.
+
+;2012
+{{Main|United States House of Representatives elections in Colorado, 2012#District 4}}
+Gardner ran unopposed in the Republican primary before going on to defeat Democratic nominee [[Brandon Shaffer]] 59%–37% in the general election.<ref>{{cite web|title=Official Results |url=http://results.enr.clarityelections.com/CO/43032/116650/en/summary.html|website=Colorado Election Results|publisher=Colorado Secretary of State|accessdate=September 5, 2014}}</ref> He was helped by the 2010 redistricting, which cut [[Fort Collins, Colorado|Fort Collins]] and [[Larimer County, Colorado|Larimer County]] out of the district. Fort Collins had long been the 4th's largest city. For years, Larimer and the district's second-largest county, [[Weld County, Colorado|Weld County]], home to [[Greeley, Colorado|Greeley]], accounted for 85 percent of the district's population even though they only took up 15 percent of its land.
+
+===Tenure===
+
+====Energy and environmental issues====
+Shortly after taking office, Gardner introduced legislation that would speed up clean-air permits for companies engaged in offshore drilling in Alaska, which he says would create jobs and reduce dependence on foreign oil.<ref>{{cite news |url=http://www.bizjournals.com/denver/morning_call/2011/06/house-passes-gardner-bill-on-offshore.html|title=House passes Gardner bill on offshore drilling|newspaper=Denver Business Journal|date=June 23, 2011|accessdate=January 10, 2012}}</ref> The House passed Gardner's bill by a vote of 253 to 166 on June 22, 2011.<ref>{{cite news|title=Rep. Gardner's Jobs and Permitting Act Passes House|date=June 22, 2011|url=http://gardner.house.gov/press-release/rep-gardner%E2%80%99s-jobs-and-permitting-act-passes-house|accessdate=August 18, 2011}}</ref>
+
+On June 6, 2013, Gardner introduced the [[Reducing Excessive Deadline Obligations Act of 2013 (H.R. 2279; 113th Congress)]], a bill that would amend the [[Comprehensive Environmental Response, Compensation, and Liability Act of 1980]] and the [[Solid Waste Disposal Act]].<ref name=2279sum>{{cite web|title=H.R. 2279 – Summary|url=http://beta.congress.gov/bill/113th/house-bill/2279 |publisher=United States Congress|accessdate=January 7, 2014}}</ref> The bill would change the frequency of reports from the [[United States Environmental Protection Agency]] (EPA) about solid waste regulations.<ref name=billboosts>{{cite news|last=Hattem|first=Julian|title=Bills boosting states' environmental oversight pass first hurdle|url=http://thehill.com/blogs/e2-wire/303959-bills-boosting-states-environmental-oversight-pass-first-hurdle|accessdate=January 7, 2014 |newspaper=The Hill|date=June 6, 2013}}</ref> Rather than automatically reviewing the regulations every three years, the EPA would be able to review them on an as needed basis.<ref name=housestart2014>{{cite news|last=Kasperowicz|first=Pete|title=House to start 2014 with bill curbing EPA|url=http://thehill.com/blogs/floor-action/house/194190-house-to-start-2014-with-bill-reining-in-epa|accessdate=January 7, 2014|newspaper=The Hill|date=December 31, 2013}}</ref> It would also grant precedence to state requirements for solid waste disposal when creating new federal requirements.<ref name="billboosts"/>
+
+On March 6, 2014, Gardner introduced the [[Domestic Prosperity and Global Freedom Act (H.R. 6; 113th Congress)]], a bill that would direct the [[United States Department of Energy]] (DOE) to issue a decision on an application for authorization to export [[natural gas]] within 90 days after the later of: (1) the end of the comment period for that decision as set forth in the [[Federal Register]], or (2) the date of enactment of this Act.<ref name=hr6sum>{{cite web|title=H.R. 6 – Summary|url=https://beta.congress.gov/bill/113th-congress/house-bill/6|publisher=United States Congress|accessdate=June 25, 2014}}</ref>
+
+====Economic issues====
+In March 2011, Gardner introduced bipartisan legislation that would require congressional committees to hold hearings on programs that are deemed duplicative by a U.S. Government Accountability Office report. Gardner has said he believes such a measure would reduce waste in government.<ref>{{cite web|last=Sherry|first=Allison|title=Beltway Breakfast – Gardner tackles duplication, so does Udall, Bennet talks Race to the Top, GOP applauds themselves for cutting another $4 billion|url=http://blogs.denverpost.com/thespot/2011/03/02/beltway-breakfast-gardner-tackles-duplication-so-does-udall-bennet-talks-race-to-the-top-gop-applauds-themselves-for-cutting-another-4-billion/24327/|work=The Spot|publisher=The Denver Post|accessdate=January 10, 2012}}</ref><ref>{{cite web|url=http://gardner.house.gov/press-release/rep-gardner-announces-resolution-tackle-duplicative-programs-and-govt-waste|title=Rep. Gardner Announces Resolution to Tackle Duplicative Programs and Govt. Waste|accessdate=November 17, 2012}}</ref>
+
+Gardner voted for the [[Paul Ryan Budget|Ryan budget plan]].<ref>{{cite web |url=http://politics.nytimes.com/congress/votes/112/house/1/277|title=House Vote 277 – Passes Ryan Budget Bill|publisher=The New York Times|accessdate=August 26, 2011}}</ref><ref>{{cite news |last1=Marcos|first1=Cristina|title=Dems target House GOP Senate hopefuls after Ryan vote |url=http://thehill.com/blogs/floor-action/senate/203217-dems-target-house-gop-senate-hopefuls-after-ryan-vote|accessdate=September 5, 2014|publisher=The Hill|date=April 10, 2014}}</ref>
+
+On July 10, 2014, Gardner introduced legislation to reform the [[Earned Income Tax Credit]] program. The legislation seeks to reduce fraud in the program and dedicate the savings to increasing the credit for working families.<ref>{{cite web|title=Gardner Bill Would Improve EITC Program|url=http://krai.com/gardner-bill-improve-eitc-program/#more-21324|publisher=KRAI |accessdate=July 14, 2014}}</ref>
+
+In August 2014, Gardner broke ranks with the Republican Party and voted against a bill that would have dismantled the [[Deferred Action for Childhood Arrivals]].<ref>{{cite news|last1=Foley |first1=Elise|title=House Votes To Strip Deportation Relief From Dreamers |url=http://www.huffingtonpost.com/2014/08/01/house-bill-daca_n_5643287.html|accessdate=September 4, 2014|publisher=Huffington Post|date=August 1, 2014}}</ref> Gardner has stated that he supports immigration reform in the form of a guest worker program and increased border security.<ref>{{cite news|last1=Siegler|first1=Kirk|title=Colo. Democrats Bet On Immigration To Boost Udall's Re-Election Bid|url=https://www.npr.org/2014/08/28/343900791/colo-democrats-bet-on-immigration-to-boost-udalls-re-election-bid|accessdate=September 4, 2014|publisher=NPR}}</ref>
+
+====Health care====
+In 2011, he voted in support of the "Respect for Rights of Conscience Act", which states that "nothing in the Affordable Care Act shall be construed to authorize a health plan to require a provider to provide, participate in, or refer for a specific item or service contrary to the provider's religious beliefs or moral convictions."<ref>{{cite web|title=Gardner, under fire on personhood, suggests making birth control available over the counter |url=http://kdvr.com/2014/06/19/planned-parenthood-joins-chorus-attacking-gardner-on-personhood |publisher=Fox 31 Denver|accessdate=July 12, 2014}}</ref>
+
+At the end of 2013, Gardner announced that he would introduce a bill to prohibit executives of [[healthcare exchange|state healthcare exchanges]] from getting bonuses.<ref>Martin, Aaron. [http://riponadvance.com/news/gardner-bill-curb-aca-compensation/5840 "Gardner bill would curb ACA compensation"], RiponAdvance.com; retrieved February 14, 2014.</ref>
+
+====Social issues====
+In 2012, Gardner was one of 33 Republicans to vote for the Senate version of the [[Violence Against Women Act|Violence Against Women Act of 1994 (VAWA)]], which re-authorized the bill and expanded protections for Native Americans, immigrants, and gays.<ref>{{cite web |last1=Bartels |first1=Lynn |title=Rep. Cory Gardner is praised by Planned Parenthood? |url=http://blogs.denverpost.com/thespot/2014/03/28/cory-gardner-plannedparenthood/107325/ |publisher=The Denver Post |accessdate=July 15, 2014}}</ref>
+
+In 2012-13, Gardner co-sponsored [[personhood]] legislation titled the "Life Begins at Conception Act".<ref name=politico_personhood>{{cite web|title=Cory Gardner changes stance on personhood |url=http://www.politico.com/story/2014/03/cory-gardner-personhood-colorado-senate-election-2014-104963.html|publisher=Associated Press|accessdate=July 12, 2014}}</ref> Gardner later said that he changed his mind on personhood, after listening to voters.<ref>{{cite web|title=Udall hits Gardner on personhood; Gardner, GOP hit back at 'divisive' attacks|url=http://kdvr.com/2014/06/17/gop-preempts-new-udall-tv-ad-attacking-gardner-on-personhood|publisher=Fox 31 Denver|accessdate=July 12, 2014}}</ref> According to ''The Denver Post'', "Gardner conceded that with his new position on personhood, he might be accused of flip-flopping simply to make himself more palatable to statewide voters."<ref name=denverpost_personhood>{{cite web|last1=Bartels|first1=Lynn|title=Cory Gardner changes position on personhood issue|url=http://www.denverpost.com/news/ci_25395470/senate-bombshell-cory-gardner-says-cant-support-personhood|publisher=The Denver Post|accessdate=July 12, 2014}}</ref> The nonpartisan Factcheck.org said "It would be clearer to say that Gardner supports efforts to ban abortion that could also ban some forms of birth control. As for his change of position, voters in Colorado should know Gardner still supports a federal bill that would prompt the same concerns over birth control as the state measure he says he rejects on the same grounds."<ref>Factcheck.org. August 15, 2014. [http://www.factcheck.org/2014/08/a-fight-over-birth-control-in-colorado], Factcheck.org; retrieved October 27, 2014.</ref>
+
+In June 2014, Gardner called for [[Over-the-counter drug|over-the-counter]] access to [[Oral contraceptive pill|oral contraceptives]] and said the [[combined oral contraceptive pill|birth control pill]] would be safer and cheaper if it was available over the counter.<ref>{{cite news |last1=Gardner|first1=Cory|title=Cory Gardner: Women should be able to buy the pill without a prescription|url=http://www.denverpost.com/opinion/ci_25995739/women-should-be-able-buy-pill-without-prescription|accessdate=July 11, 2014|publisher=Denver Post|date=June 19, 2014}}</ref>
+
+===Committee assignments===
+* '''[[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]'''
+** [[United States House Energy Subcommittee on Energy and Power|Subcommittee on Energy and Power]]
+** [[United States House Energy Subcommittee on Communications and Technology|Subcommittee on Communications and Technology]]
+** [[United States House Energy Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]]
+* [[Republican Study Committee]]
+
+==U.S. Senate==
+
+===Committee assignments===
+[[File:U.S. Secretary of Defense Ash Carter and Senators Joni Ernst, Daniel Sullivan, John McCain, Tom Cotton, Lindsey Graham, and Cory Gardner attending the 2016 International Institute for Strategic Studies Asia Security Summit in Singapore.jpg|thumb|300px|U.S. Secretary of Defense [[Ash Carter]] and Senators [[Joni Ernst]], [[Dan Sullivan (U.S. Senator)|Daniel Sullivan]], [[John McCain]], [[Tom Cotton]], [[Lindsey Graham]], and Cory Gardner attending the 2016 [[International Institute for Strategic Studies]] Asia Security Summit in Singapore]]
+* '''[[United States Senate Committee on Commerce, Science, and Transportation|Committee on Commerce, Science, and Transportation]]'''
+** [[United States Senate Commerce Subcommittee on Aviation Operations, Safety, and Security|Subcommittee on Aviation Operations, Safety, and Security]]
+** [[United States Senate Commerce Subcommittee on Communications, Technology, and the Internet|Subcommittee on Communications, Technology, and the Internet]]
+** [[United States Senate Commerce Subcommittee on Consumer Protection, Product Safety, and Insurance|Subcommittee on Consumer Protection, Product Safety, and Insurance]]
+** [[United States Senate Commerce Subcommittee on Science and Space|Subcommittee on Science and Space]]
+* '''[[United States Senate Committee on Energy and Natural Resources|Committee on Energy and Natural Resources]]'''
+** [[United States Senate Energy Subcommittee on Energy|Subcommittee on Energy]] (Chairman)
+** [[United States Senate Energy Subcommittee on Public Lands, Forests and Mining|Subcommittee on Public Lands, Forests and Mining]]
+** [[United States Senate Energy Subcommittee on Water and Power|Subcommittee on Water and Power]]
+* '''[[United States Senate Committee on Foreign Relations|Committee on Foreign Relations]]'''
+** [[United States Senate Foreign Relations Subcommittee on Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights and Global Women's Issues|Subcommittee on Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights and Global Women's Issues]]
+** [[United States Senate Foreign Relations Subcommittee on Europe and Regional Security Cooperation|Subcommittee on Europe and Regional Security Cooperation]]
+** [[United States Senate Foreign Relations Subcommittee on East Asia, The Pacific and International Cybersecurity Policy|Subcommittee on East Asia, The Pacific and International Cybersecurity Policy]] (Chairman)
+** [[United States Senate Foreign Relations Subcommittee on International Development, Multilateral Institutions and International Economic, Energy and Environmental Policy|Subcommittee on International Development, Multilateral Institutions and International Economic, Energy and Environmental Policy]]
+* '''[[United States Senate Committee on Small Business and Entrepreneurship|Committee on Small Business and Entrepreneurship]]'''
+
+===Caucus memberships===
+* [[Congressional NextGen 9-1-1 Caucus]]<ref>{{cite web |title=Members|url=http://www.ng911institute.org/about-the-congressional-nextgen-9-1-1-caucus |publisher=Congressional NextGen 9-1-1 Caucus|accessdate=14 June 2018}}</ref>
+
+===Elections===
+;2014
+{{main|United States Senate election in Colorado, 2014}}
+Gardner was the Republican nominee for Senate, and won against incumbent Senator Mark Udall in the general election. Gardner won by a 2% margin over Udall, with a 49% to 46% advantage. Gardner received 965,974 votes to Udall's 916,245 votes.<ref name="abc.results"/><ref>{{cite news|last1=Lee |first1=Kurtis|title=Rep. Cory Gardner wins big at assembly, will challenge Sen. Mark Udall |url=http://www.denverpost.com/news/ci_25553402/u-s-rep-cory-gardner-clear-favorite-become |accessdate=October 28, 2014|publisher=Denver Post|date=April 12, 2014}}</ref>
+
+In October 2014, the ''Denver Post'' endorsed Gardner, writing that "he has emphasized economic and energy issues (and was, for example, an early supporter among Republicans of renewable energy). ... "his past views on same-sex marriage are becoming irrelevant now that the Supreme Court has let appeals court rulings stand and marriage equality appears unstoppable. And contrary to Udall's tedious refrain, Gardner's election would pose no threat to abortion rights."<ref>{{cite news |title=Cory Gardner for U.S. Senate|url=http://www.denverpost.com/ci_26701817/cory-gardner-u-s-senate|accessdate=October 28, 2014|publisher=Denver Post|date=October 10, 2014}}</ref> Former [[Denver Broncos]] quarterback [[John Elway]] endorsed Gardner.<ref>{{cite news|last1=Richardson |first1=Valerie|title=NFL politics: Elway backs Gardner in Colorado as progressives target Denver Broncos fans|url=http://www.washingtontimes.com/news/2014/oct/23/elway-backs-gardner-progressives-aim-broncos-fans|accessdate=October 28, 2014|publisher=Washington Times|date=October 23, 2014}}</ref>
+
+[[No Labels]] performed independent get-out-the-vote efforts on behalf of its Problem Solvers, including Gardner.<ref>{{cite news|last1=Rogers|first1=Alex|title=How Joe Manchin Ended Up Getting Out the Vote Against a Fellow Democrat|url=http://time.com/3542074/joe-manchin-no-labels-cory-gardner-mark-udall-colorado/|accessdate=October 28, 2014|publisher=Time}}</ref>
+
+===Tenure===
+Gardner was ranked the 8th most bipartisan Senator in the first session of the [[115th United States Congress]] by the Bipartisan Index, a metric created by The Lugar Center and [[Georgetown University|Georgetown's]] [[McCourt School of Public Policy]] to assess [[United States Congress|Congressional]] bipartisanship.<ref>{{cite news |url=http://www.thelugarcenter.org/assets/htmldocuments/Senate%20Scores%20115th%20Congress%20First%20Session.pdf|publisher=The Lugar Center|title=The Lugar Center - McCourt School Bipartisan Index |date=April 24, 2018|access-date=July 2, 2018|location=Washington, D.C.}}</ref> GovTrack noted that of the 157 bills Gardner cosponsored in 2017, 41% were introduced by legislators that were not Republican.<ref>{{cite news |url=https://www.govtrack.us/congress/members/cory_gardner/412406/report-card/2017|title=Sen. Cory Gardner’s 2017 Report Card|publisher=GovTrack|location=Washington, D.C.|date=January 6, 2018 |accessdate=July 2, 2018}}</ref>
+
+==Political Positions==
+
+===Gun law===
+
+In 2014, the [[National Rifle Association]] (NRA) endorsed Gardner and gave him an "A" rating for being "the only candidate in this race who will support the rights of Colorado's law-abiding gun owners and sportsmen," according to the NRA-Political Victory Fund's Chris W. Cox.<ref name="NRAEndorse14">{{cite web|title=NRA Endorses Cory Gardner for U.S. Senate in Colorado |url=https://www.nrapvf.org/articles/20140909/nra-endorses-cory-gardner-for-us-senate-in-colorado |website=NRA-PVF|accessdate=October 4, 2017|language=en}}</ref> As of 2017, Gardner has received $3,879,064 in donations from the NRA.<ref name="Leonhardt1005g">{{cite web|last1=Leonhardt |first1=David|last2=Philbrick|first2=Ian Prasad|last3=Thompson|first3=Stuart A.|title=The Congress Members Receiving the Most N.R.A. Funding |url=https://www.nytimes.com/interactive/2017/10/04/opinion/thoughts-prayers-nra-funding-senators.html|website=The New York Times|accessdate=October 5, 2017|date=October 4, 2017}}</ref>
+
+In 2016, Gardner voted against the Feinstein Amendment, which sought to ban gun sales to anyone known or suspected of being a terrorist. He also opposed an amendment making it necessary for background checks to take place for guns bought at [[gun show]]s and online.<ref name="Verlee103">{{cite web|last1=Verlee|first1=Megan|title=4 Gun Control Measures Fail: How Colorado's Senators Voted|url=http://www.cpr.org/news/story/4-gun-control-measures-fail-how-colorados-senators-voted |website=Colorado Public Radio|accessdate=October 4, 2017|language=en}}</ref>
+
+In response to the [[2017 Las Vegas Strip shooting]], Gardner requested that the shooting not be "politicized" and offered [[thoughts and prayers]] to the victims.<ref name="Jenkins17">{{cite web |last1=Jenkins|first1=Nash|title=Republicans Are Already Rejecting New Gun Control Laws |url=http://time.com/4966877/las-vegas-shooting-gun-control-republicans/ |website=Time |accessdate=October 4, 2017}}</ref><ref name="Chryssafis">{{cite web|last1=Chryssafis |first1=Katerina|title=Colorado Officials React to Deadly Las Vegas Shooting |url=http://www.westernslopenow.com/news/local-news/colorado-officials-react-to-deadly-las-vegas-shooting/823225545|website=Western Slope Now|accessdate=October 4, 2017|date=October 3, 2017}}</ref>
+
+===Health care===
+
+Gardner was part of the group of 13 Republican Senators drafting the [[2017 Patient Protection and Affordable Care Act replacement proposals#Senate legislation|Senate version]] of the [[American Health Care Act of 2017|American Health Care Act]], which is the GOP legislation to repeal-and-replace the Affordable Care Act (Obamacare).<ref>{{Cite web |url=http://www.cnn.com/2017/05/05/politics/senate-republican-health-care-men/index.html |title=GOP defends having no women in health care group|last=Bash|first=Dana|last2=Fox|first2=Lauren|date=May 9, 2017|website=CNN|archive-url=|archive-date=|dead-url=|access-date=June 14, 2017 |last3=Barrett|first3=Ted}}</ref> He voted in favor of all variations of AHCA that came up for a vote in the Senate.<ref>{{Cite news |url=https://www.nytimes.com/interactive/2017/07/25/us/politics/senate-votes-repeal-obamacare.html |title=How Each Senator Voted on Obamacare Repeal Proposals|last=Parlapiano|first=Alicia|date=July 25, 2017|work=The New York Times|access-date=September 23, 2017|last2=Andrews|first2=Wilson |language=en-US|issn=0362-4331|last3=Lee|first3=Jasmine C.|last4=Shorey|first4=Rachel}}</ref> The ''[[The New York Times|New York Times]]'' reported that in September 2017, when the GOP made another attempt to pass legislation to repeal the Affordable Care Act, Gardner warned Republican legislators at a closed luncheon that failure to pass any repeal legislation would lead to a backlash by big donors to the Republican, as well as the grassroots.<ref>{{Cite news |url=https://www.nytimes.com/2017/09/22/us/politics/republican-donors-obamacare-repeal.html |title=Behind New Obamacare Repeal Vote: 'Furious' G.O.P. Donors |last=Hulse|first=Carl |date=September 22, 2017|work=The New York Times|access-date=September 23, 2017|language=en-US |issn=0362-4331}}</ref>
+
+===Immigration and refugees===
+
+Gardner criticized President [[Donald Trump]]'s 2017 [[Executive Order 13769|executive order]] to impose a ban on travel to the U.S. by citizens of seven Muslim-majority countries, saying: "While I am supportive of strengthening our screening processes and securing our borders, a blanket travel ban goes too far. I also believe that lawful residents of the United States should be permitted to enter the country. I urge the Administration to take the appropriate steps to fix this overly broad executive order."<ref name="Blake1">{{cite web|last1=Blake|first1=Aaron|title=Whip Count: Here's where Republicans stand on Trump's controversial travel ban |url=https://www.washingtonpost.com/news/the-fix/wp/2017/01/29/heres-where-republicans-stand-on-president-trumps-controversial-travel-ban|newspaper=Washington Post|date=January 31, 2017}}</ref>
+
+===Energy and environmental issues===
+
+Gardner has stated that he believes [[climate change]] is occurring, but he is unsure whether humans are causing it.<ref>{{cite web|title=GOP civil war: A coup in Colorado |url=http://www.politico.com/story/2014/03/colorado-elections-2014-cory-gardner-mark-udall-105082.html|publisher=Politico|accessdate=August 20, 2014}}</ref><ref>{{cite news|last1=Scott |first1=Dylan|title=GOP Climate Change Skeptic Touts Wind Farm Support In Colorado |url=http://talkingpointsmemo.com/dc/cory-gardner-wind-farm-ad|accessdate=September 4, 2014 |publisher=Talking Points Memo}}</ref><ref>{{cite news|last1=Carroll|first1=Rick|title=Senate candidate Cory Gardner stumps in Aspen|url=http://www.postindependent.com/news/12688644-113/udall-gardner-sen-aspen|accessdate=September 4, 2014|publisher=The Aspen Times}}</ref><ref>{{cite news |title=At House E.P.A. Hearing, Both Sides Claim Science |url=https://www.nytimes.com/2011/03/09/science/earth/09climate.html |last=Broder |first=John M. |newspaper=[[The New York Times]] |date=March 9, 2011 |page=17 |accessdate=January 22, 2017}}</ref>  Gardner supports construction of the [[Keystone Pipeline]]. He is pro-[[fracking]].<ref>{{cite news |last1=Restuccia|first1=Andrew|title=Keystone and the Udall-Gardner race |url=http://www.politico.com/story/2014/05/colorado-energys-continental-divide-106541.html |accessdate=September 5, 2014|publisher=Politico}}</ref>
+
+===Economic issues===
+
+Gardner signed the [[Taxpayer Protection Pledge|Americans for Tax Reform]]'s [[Taxpayer Protection Pledge]].<ref name="ATR">{{cite web|title=The Taxpayer Protection Pledge Signers 112th Congressional List|url=http://s3.amazonaws.com/atrfiles/files/files/091411-federalpledgesigners.pdf |publisher=Americans for Tax Reform|accessdate=November 30, 2011}}</ref> He supports legislation which would require that the [[US Federal Reserve]] be audited.<ref>{{cite news |url=https://www.reuters.com/article/2014/07/10/us-usa-fed-politics-idUSKBN0FF0C420140710|title=Fed independence questioned as Republicans ramp up pressure|publisher=Reuters|date=July 10, 2014 |accessdate=July 14, 2014}}</ref>
+
+===Same sex marriage===
+
+In response to the October 2014 announcement from the U.S. Supreme Court allowing [[same-sex marriage]] to become the law in 30 states including Colorado, Gardner reaffirmed his position that marriage should only be between a man and a woman but stated, "This issue is in the hands of the courts and we must honor their legal decisions."<ref>Stokols, Eli. [http://kdvr.com/2014/10/07/gardner-my-views-on-marriage-have-long-been-clear Gardner: 'My views on marriage have long been clear’], kdvr.com; retrieved October 7, 2014.</ref>
+
+===Net Neutrality===
+Gardner is an opponent of the Obama-era FCC policies on [[net neutrality]], referring to the regulations as "brazen abuse of power and overreach".<ref>{{cite web|last1=Chuang|first1=Tamara |title=Where Colorado's 9 members of Congress stand on net neutrality |url=https://www.denverpost.com/2017/12/14/colorado-congress-net-neutrality/|website=The Denver Post|publisher=The Denver Post|accessdate=May 16, 2018|date=December 14, 2017}}</ref> On May 16, Gardner voted against The Congressional Review Act bill to reinstate net neutrality.<ref>{{cite web |last1=Lejeune|first1=Tristan|title=Senate votes to save net neutrality rules |url=http://thehill.com/policy/technology/387985-senate-votes-to-save-net-neutrality-rules |website=TheHill|publisher=The Hill|accessdate=May 16, 2018|language=en|date=May 16, 2018}}</ref><ref>{{cite web|last1=Snider|first1=Mike|title=Senate votes for net neutrality return, but major hurdles remain|url=https://www.usatoday.com/story/tech/news/2018/05/16/senate-net-neutrality-vote-would-overturn-fccs-lighter-touch-plan/615801002/|website=USA Today|accessdate=May 16, 2018}}</ref>
+
+==Electoral history==
+{{Election box begin|title=Colorado District 63 election, 2006<ref>{{cite web |url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=302126|title=CO State House District 63 Race|date=November 7, 2006|publisher=Our Campaigns|accessdate=June 14, 2011}}</ref>}}
+{{Election box candidate with party link|party=Republican Party (US)|candidate=Cory Gardner|votes=15,736|percentage=73%|change=}}
+{{Election box candidate with party link|party=Democratic Party (US)|candidate=Pauline Artery|votes=5,732|percentage=27%|change=}}{{Election box end}}
+
+{{Election box begin|title=Colorado District 63 election, 2008<ref>{{cite web |url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=464175|title=CO State House 063 Race|publisher=Our Campaigns|accessdate=June 14, 2011}}</ref>}}
+{{Election box candidate with party link|party=Republican Party (US)|candidate=Cory Gardner*|votes=|percentage=|change=}}
+{{Election box end}}
+{| class="wikitable"
+! colspan="5" |Colorado's 4th Congressional District election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|'''+%'''
+|-
+|Republican
+|Cory Gardner
+|138,634
+|52%
+|
+|-
+|Democratic
+|Betsy Markey*
+|109,249
+|41%
+|
+|-
+|Constitution
+|Doug Aden
+|12,312
+|5%
+|
+|-
+|Independent
+|Ken "Wasko" Waskiewicz
+|3,986
+|2%
+|
+|}
+{| class="wikitable"
+! colspan="5" |Colorado's 4th Congressional District election, 2012
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|'''+%'''
+|-
+|Republican
+|Cory Gardner*
+|200,006
+|58%
+|
+|-
+|Democratic
+|Brandon Shaffer
+|125,800
+|37%
+|
+|-
+|Libertarian
+|Josh Gilliland
+|10,682
+|3%
+|
+|-
+|Constitution
+|Doug Aden
+|5,848
+|2%
+|
+|}
+{| class="wikitable"
+! colspan="5" |U.S. Senate election in Colorado, 2014
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|'''+%'''
+|-
+|Republican
+|Cory Gardner
+|983,891
+|48%
+|
+|-
+|Democratic
+|Mark Udall*
+|944,203
+|46%
+|
+|-
+|Libertarian
+|Gaylon Kent
+|52,876
+|3%
+|
+|-
+|Independent
+|Steve Shogan
+|29,472
+|1%
+|
+|-
+|Independent
+|Raul Acosta
+|24,151
+|1%
+|
+|-
+|Unity
+|Bill Hammons
+|6,427
+|0%
+|
+|-
+|Independent (Write-in)
+|Willoughby
+|21
+|0%
+|
+|-
+|Republican (Write-in)
+|Kathleen Cunningham
+|17
+|0%
+|
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [https://gardner.senate.gov/ U.S. Senator Cory Gardner] official U.S. Senate site
+* [http://corygardner.com Campaign website]
+* {{Dmoz|Regional/North_America/United_States/Colorado/Government/Federal/US_Senate/Cory_Gardner_%5BR%5D}}
+* {{C-SPAN|corygardner}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Betsy Markey]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Colorado|U.S. House of Representatives]]<br/>from [[Colorado's 4th congressional district]]|years=2011–2015}}
+{{s-aft|after=[[Ken Buck]]}}
+|-
+{{s-ppo}}
+{{s-bef|before=[[Bob Schaffer]]}}
+{{s-ttl|title={{nowrap|[[Republican Party (United States)|Republican]] nominee for [[List of United States Senators from Colorado|U.S. Senator]] from [[Colorado]]}}<br/>([[Classes of United States Senators|Class 2]])|years=[[United States Senate election in Colorado, 2014|2014]]}}
+{{s-inc|recent}}
+|-
+{{s-bef|before=[[Roger Wicker]]}}
+{{s-ttl|title=Chair of the [[National Republican Senatorial Committee]]|years=2017–present}}
+{{s-inc}}
+|-
+{{s-par|us-sen}}
+{{s-bef|before=[[Mark Udall]]}}
+{{s-ttl|title=[[List of United States Senators from Colorado|U.S. Senator (Class 2) from Colorado]]|years=2015–present|alongside=[[Michael Bennet]]}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Bill Cassidy]]}}
+{{s-ttl|title=[[Seniority in the United States Senate|United States Senators by seniority]]|years=80th}}
+{{s-aft|after=[[James Lankford]]}}
+{{s-end}}
+
+{{Current Colorado statewide political officials}}
+{{CO-FedRep}}
+{{US Senate leaders current}}
+{{Current U.S. Senators}}
+{{United States Senators from Colorado}}
+{{NRSC Chairs}}
+{{ColoradoUSRepresentatives}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gardner, Cory}}
+[[Category:1974 births]]
+[[Category:21st-century American lawyers]]
+[[Category:21st-century American politicians]]
+[[Category:American people of Austrian descent]]
+[[Category:American people of English descent]]
+[[Category:American people of German descent]]
+[[Category:American people of Irish descent]]
+[[Category:Colorado Democrats]]
+[[Category:Colorado Republicans]]
+[[Category:Colorado State University alumni]]
+[[Category:Living people]]
+[[Category:Members of the Colorado House of Representatives]]
+[[Category:Members of the United States House of Representatives from Colorado]]
+[[Category:People from Yuma County, Colorado]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:Republican Party United States Senators]]
+[[Category:United States Senators from Colorado]]

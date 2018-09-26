@@ -1,0 +1,243 @@
+{{BLP sources|date=March 2013}}
+{{Infobox politician
+|name=Lucille Roybal-Allard
+|image=Lucille roybal.jpg
+|birth_name = Lucille Elsa Roybal
+|birth_date={{birth date and age|1941|6|12}}
+|birth_place=[[Boyle Heights, California|Boyle Heights]], [[California]], [[United States|U.S.]]
+|occupation=Public affairs officer<br>Fund raising executive
+|alma_mater=[[California State University, Los Angeles]]
+|state=[[California]]
+|district=[[California's 40th congressional district|40th]]
+|term_start=January 3, 2013
+|term_end=
+|predecessor=[[Ed Royce]]
+|successor=
+|state1=[[California]]
+|district1=[[California's 34th congressional district|34th]]
+|term_start1=January 3, 2003
+|term_end1=January 3, 2013
+|predecessor1=[[Grace Napolitano]]
+|successor1=[[Xavier Becerra]]
+|state2=[[California]]
+|district2=[[California's 33rd congressional district|33rd]]
+|term_start2=January 3, 1993
+|term_end2=January 3, 2003
+|predecessor2=[[David Dreier]]
+|successor2=[[Diane Watson]]
+|state_assembly3=California
+|district3=[[California's 56th Assembly district|56th]]
+|term_start3=1986
+|term_end3=1992
+|predecessor3=[[Gloria Molina]]
+|successor3=[[Martha Escutia]]
+|party=[[Democratic Party (United States)|Democratic]]
+|religion=[[Catholic Church|Roman Catholic]]
+|spouse=Edward Allard
+|children=Ricardo Olivarez<br>Lisa Marie Roybal Elliott<br>Angela Allard (stepdaughter)<br>Guy Mark Allard (stepson)
+|residence=[[Los Angeles]], [[California]], [[United States|U.S.]]
+}}
+'''Lucille Elsa Roybal-Allard''' (born June 12, 1941) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CA|40}}, serving in Congress since 1993. She is a member of the [[Democratic Party (United States)|Democratic Party]]. Since redistricting in 2010, the district no longer includes downtown Los Angeles.
+
+==Early life, education and career==
+She was born in [[Boyle Heights, California]], the daughter of Representative [[Edward R. Roybal]] and Lucille Beserra Roybal. She was educated at [[Ramona Convent Secondary School]] in Alhambra, California, and [[California State University, Los Angeles]].
+
+She was a public relations officer and fund raising executive. She was also a member of the [[California State Assembly]] <ref name="CA">[http://capitolmuseum.ca.gov/english/legislature/history/index.html Capitol Museum]{{Dead link|date=June 2013}}</ref> from 1986 to 1992.
+
+==U.S. House of Representatives==
+
+===Committee assignments===
+*'''[[United States House Committee on Appropriations|Committee on Appropriations]]'''
+**[[United States House Appropriations Subcommittee on Homeland Security|Subcommittee on Homeland Security]]
+**[[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Subcommittee on Labor, Health and Human Services, Education, and Related Agencies]]
+
+===Caucuses===
+*[[Congressional Asian Pacific American Caucus]] (Associate Member)
+
+She currently sits on the House Appropriations and Standards of Official Conduct committees. She has also served as the chair of the California Democratic congressional delegation (1998–1999) and of the [[Congressional Hispanic Caucus]]. She has also been active in the Congressional Children's Caucus and on the Democratic Homeland Security and the Livable Communities task forces.
+
+She is the first Mexican-American woman to serve in Congress. Along with [[Nydia Velazquez]] of [[New York City]], she was the second [[Latino|Latina]] after [[Ileana Ros-Lehtinen]] of [[Miami]], and with Velazquez, the first Democrat and the first elected to a full term.
+
+===Legislation===
+Roybal-Allard introduced the [[Newborn Screening Saves Lives Reauthorization Act of 2013 (H.R. 1281; 113th Congress)]] into the House on March 20, 2013. The bill would amend the [[Public Health Service Act]] to [[authorization bill|reauthorize]] grant programs and other initiatives to promote expanded [[newborn screening|screening of newborns]] and children for heritable disorders.<ref name=cbo1281>{{cite web|title=CBO - H.R. 1281|url=http://www.cbo.gov/publication/45434|publisher=Congressional Budget Office|accessdate=24 June 2014}}</ref> Roybal-Allard argued that "newborn screening not only transforms and save lives - it saves money."<ref name=RoyPR22>{{cite web|title=Rep. Roybal-Allard and Rep. Simpson introduce the Newborn Screening Saves Lives Authorization Act|url=http://roybal-allard.house.gov/news/documentsingle.aspx?DocumentID=325195|publisher=House Office of Rep. Roybal-Allard|accessdate=24 June 2014|date=22 March 2013}}</ref> According to Roybal-Allard, in [[California]] "newborns are screened for more than 40 preventable and treatable conditions – and for every one dollar California spends on screening, it yields a benefit of over $9 as we prevent disease in children who are diagnosed with these treatable conditions."<ref name="RoyPR22"/>
+
+==Political campaigns==
+In 1992, she won the Democratic nomination for the newly created 33rd District. She won handily in November, and has been reelected ten times as of 2012. Her district was renumbered as the 34th after the 2000 Census and the 40th after the 2010 Census.
+
+==Personal life==
+Roybal-Allard is married to Edward T. Allard III. She has two children, Ricardo Olivarez and Lisa Marie Roybal Elliott<ref name="press">[http://www.house.gov/list/press/ca34_roybal-allard/photos070329b.html LRA Press Release]</ref> (born Olivarez), two stepchildren, Angela Allard and Guy Mark Allard, and four grandchildren. Her husband is a management consultant and a retired [[Marine Corps]] [[Captain (land)|captain]]. She lives in [[East Los Angeles, California]].
+
+==See also==
+*[[NALEO]]
+* [[Children's Act for Responsible Employment (CARE Act)]] a bill the Congresswoman introduced in 2009 to achieve parity among minor workers in the agricultural industry with that of other industries. See also the related film [[The Harvest (documentary)]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://roybal-allard.house.gov/ Congresswoman Lucille Roybal-Allard] official U.S. House site
+*[http://www.lucilleforcongress.org/ Lucille Roybal-Allard for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Lucille_Roybal-Allard_%5BD-40%5D}}
+*{{CongLinks | congbio = r000486 | ballot = Lucille_Roybal_Allard | nndb = 294/000040174 | votesmart = 26766 | govtrack = 400347 | opencong = 400347 | rollcall = 60 | politifact = | fec = H2CA33048 | opensecrets = N00006671 | assets = lucille-roybal-allard | legistorm = 449/Rep_Lucille_Roybal_Allard_CA.html | followthemoney = | ontheissues = CA/Lucille_Roybal-Allard.htm | congress = lucille-roybal-allard/997 | worldcat = lccn-n2004-64493 | cspan = 26136 | imdb = 4234213 | bloomberg = | nyt = | washpo = gIQAozxLAP }}
+*[http://www.sourcewatch.org/index.php?title=Lucille_Roybal-Allard Profile] at [[SourceWatch]]
+
+{{s-start}}
+{{s-par|us-ca-hs}}
+{{succession box|before=[[Gloria Molina]]|title=[[California State Assembly]]woman,<br>56th District|years=1986–1992|after=[[Martha Escutia]]}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox|state=California|district=33|before=[[David Dreier]]|years=1993–2003|after=[[Diane Watson]]}}
+{{USRepSuccessionBox|state=California|district=34|before=[[Grace Napolitano]]|after=[[Xavier Becerra]]|years=2003–2013|after=Incumbent}}
+{{USRepSuccessionBox|state=California|district=40|before=[[Ed Royce]]|years=2013–present|after=Incumbent}}
+{{s-prec|usa}}
+{{s-bef|before=[[John Mica]]<br><small>R-[[Florida]]</small>}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=63rd}}
+{{s-aft|after=[[Ed Royce]]<br><small>R-[[California]]</small>}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{CHC Chairs}}
+{{CHC Members}}
+{{Authority control|VIAF=41233238}}
+
+{{Persondata
+| NAME              =Roybal-Allard, Lucille
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =June 12, 1941
+| PLACE OF BIRTH    =[[Boyle Heights, California|Boyle Heights]], [[California]], [[United States|U.S.]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Roybal-Allard, Lucille}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:California State University, Los Angeles alumni]]
+[[Category:California Democrats]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Hispanic and Latino American members of the United States Congress]]
+[[Category:Hispanic and Latino American women in politics]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:Members of the California State Assembly]]
+[[Category:Women state legislators in California]]
+[[Category:Democratic Party members of the United States House of Representatives]]{{BLP sources|date=March 2013}}
+{{Infobox politician
+|name=Lucille Roybal-Allard
+|image=Lucille roybal.jpg
+|birth_name = Lucille Elsa Roybal
+|birth_date={{birth date and age|1941|6|12}}
+|birth_place=[[Boyle Heights, California|Boyle Heights]], [[California]], [[United States|U.S.]]
+|occupation=Public affairs officer<br>Fund raising executive
+|alma_mater=[[California State University, Los Angeles]]
+|state=[[California]]
+|district=[[California's 40th congressional district|40th]]
+|term_start=January 3, 2013
+|term_end=
+|predecessor=[[Ed Royce]]
+|successor=
+|state1=[[California]]
+|district1=[[California's 34th congressional district|34th]]
+|term_start1=January 3, 2003
+|term_end1=January 3, 2013
+|predecessor1=[[Grace Napolitano]]
+|successor1=[[Xavier Becerra]]
+|state2=[[California]]
+|district2=[[California's 33rd congressional district|33rd]]
+|term_start2=January 3, 1993
+|term_end2=January 3, 2003
+|predecessor2=[[David Dreier]]
+|successor2=[[Diane Watson]]
+|state_assembly3=California
+|district3=[[California's 56th Assembly district|56th]]
+|term_start3=1986
+|term_end3=1992
+|predecessor3=[[Gloria Molina]]
+|successor3=[[Martha Escutia]]
+|party=[[Democratic Party (United States)|Democratic]]
+|religion=[[Catholic Church|Roman Catholic]]
+|spouse=Edward Allard
+|children=Ricardo Olivarez<br>Lisa Marie Roybal Elliott<br>Angela Allard (stepdaughter)<br>Guy Mark Allard (stepson)
+|residence=[[Los Angeles]], [[California]], [[United States|U.S.]]
+}}
+'''Lucille Elsa Roybal-Allard''' (born June 12, 1941) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CA|40}}, serving in Congress since 1993. She is a member of the [[Democratic Party (United States)|Democratic Party]]. Since redistricting in 2010, the district no longer includes downtown Los Angeles.
+
+==Early life, education and career==
+She was born in [[Boyle Heights, California]], the daughter of Representative [[Edward R. Roybal]] and Lucille Beserra Roybal. She was educated at [[Ramona Convent Secondary School]] in Alhambra, California, and [[California State University, Los Angeles]].
+
+She was a public relations officer and fund raising executive. She was also a member of the [[California State Assembly]] <ref name="CA">[http://capitolmuseum.ca.gov/english/legislature/history/index.html Capitol Museum]{{Dead link|date=June 2013}}</ref> from 1986 to 1992.
+
+==U.S. House of Representatives==
+
+===Committee assignments===
+*'''[[United States House Committee on Appropriations|Committee on Appropriations]]'''
+**[[United States House Appropriations Subcommittee on Homeland Security|Subcommittee on Homeland Security]]
+**[[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Subcommittee on Labor, Health and Human Services, Education, and Related Agencies]]
+
+===Caucuses===
+*[[Congressional Asian Pacific American Caucus]] (Associate Member)
+
+She currently sits on the House Appropriations and Standards of Official Conduct committees. She has also served as the chair of the California Democratic congressional delegation (1998–1999) and of the [[Congressional Hispanic Caucus]]. She has also been active in the Congressional Children's Caucus and on the Democratic Homeland Security and the Livable Communities task forces.
+
+She is the first Mexican-American woman to serve in Congress. Along with [[Nydia Velazquez]] of [[New York City]], she was the second [[Latino|Latina]] after [[Ileana Ros-Lehtinen]] of [[Miami]], and with Velazquez, the first Democrat and the first elected to a full term.
+
+===Legislation===
+Roybal-Allard introduced the [[Newborn Screening Saves Lives Reauthorization Act of 2013 (H.R. 1281; 113th Congress)]] into the House on March 20, 2013. The bill would amend the [[Public Health Service Act]] to [[authorization bill|reauthorize]] grant programs and other initiatives to promote expanded [[newborn screening|screening of newborns]] and children for heritable disorders.<ref name=cbo1281>{{cite web|title=CBO - H.R. 1281|url=http://www.cbo.gov/publication/45434|publisher=Congressional Budget Office|accessdate=24 June 2014}}</ref> Roybal-Allard argued that "newborn screening not only transforms and save lives - it saves money."<ref name=RoyPR22>{{cite web|title=Rep. Roybal-Allard and Rep. Simpson introduce the Newborn Screening Saves Lives Authorization Act|url=http://roybal-allard.house.gov/news/documentsingle.aspx?DocumentID=325195|publisher=House Office of Rep. Roybal-Allard|accessdate=24 June 2014|date=22 March 2013}}</ref> According to Roybal-Allard, in [[California]] "newborns are screened for more than 40 preventable and treatable conditions – and for every one dollar California spends on screening, it yields a benefit of over $9 as we prevent disease in children who are diagnosed with these treatable conditions."<ref name="RoyPR22"/>
+
+==Political campaigns==
+In 1992, she won the Democratic nomination for the newly created 33rd District. She won handily in November, and has been reelected ten times as of 2012. Her district was renumbered as the 34th after the 2000 Census and the 40th after the 2010 Census.
+
+==Personal life==
+Roybal-Allard is married to Edward T. Allard III. She has two children, Ricardo Olivarez and Lisa Marie Roybal Elliott<ref name="press">[http://www.house.gov/list/press/ca34_roybal-allard/photos070329b.html LRA Press Release]</ref> (born Olivarez), two stepchildren, Angela Allard and Guy Mark Allard, and four grandchildren. Her husband is a management consultant and a retired [[Marine Corps]] [[Captain (land)|captain]]. She lives in [[East Los Angeles, California]].
+
+==See also==
+*[[NALEO]]
+* [[Children's Act for Responsible Employment (CARE Act)]] a bill the Congresswoman introduced in 2009 to achieve parity among minor workers in the agricultural industry with that of other industries. See also the related film [[The Harvest (documentary)]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://roybal-allard.house.gov/ Congresswoman Lucille Roybal-Allard] official U.S. House site
+*[http://www.lucilleforcongress.org/ Lucille Roybal-Allard for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Lucille_Roybal-Allard_%5BD-40%5D}}
+*{{CongLinks | congbio = r000486 | ballot = Lucille_Roybal_Allard | nndb = 294/000040174 | votesmart = 26766 | govtrack = 400347 | opencong = 400347 | rollcall = 60 | politifact = | fec = H2CA33048 | opensecrets = N00006671 | assets = lucille-roybal-allard | legistorm = 449/Rep_Lucille_Roybal_Allard_CA.html | followthemoney = | ontheissues = CA/Lucille_Roybal-Allard.htm | congress = lucille-roybal-allard/997 | worldcat = lccn-n2004-64493 | cspan = 26136 | imdb = 4234213 | bloomberg = | nyt = | washpo = gIQAozxLAP }}
+*[http://www.sourcewatch.org/index.php?title=Lucille_Roybal-Allard Profile] at [[SourceWatch]]
+
+{{s-start}}
+{{s-par|us-ca-hs}}
+{{succession box|before=[[Gloria Molina]]|title=[[California State Assembly]]woman,<br>56th District|years=1986–1992|after=[[Martha Escutia]]}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox|state=California|district=33|before=[[David Dreier]]|years=1993–2003|after=[[Diane Watson]]}}
+{{USRepSuccessionBox|state=California|district=34|before=[[Grace Napolitano]]|after=[[Xavier Becerra]]|years=2003–2013|after=Incumbent}}
+{{USRepSuccessionBox|state=California|district=40|before=[[Ed Royce]]|years=2013–present|after=Incumbent}}
+{{s-prec|usa}}
+{{s-bef|before=[[John Mica]]<br><small>R-[[Florida]]</small>}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=63rd}}
+{{s-aft|after=[[Ed Royce]]<br><small>R-[[California]]</small>}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{CHC Chairs}}
+{{CHC Members}}
+{{Authority control|VIAF=41233238}}
+
+{{Persondata
+| NAME              =Roybal-Allard, Lucille
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =June 12, 1941
+| PLACE OF BIRTH    =[[Boyle Heights, California|Boyle Heights]], [[California]], [[United States|U.S.]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Roybal-Allard, Lucille}}
+[[Category:1941 births]]
+[[Category:Living people]]
+[[Category:California State University, Los Angeles alumni]]
+[[Category:California Democrats]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Hispanic and Latino American members of the United States Congress]]
+[[Category:Hispanic and Latino American women in politics]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:Members of the California State Assembly]]
+[[Category:Women state legislators in California]]
+[[Category:Democratic Party members of the United States House of Representatives]]

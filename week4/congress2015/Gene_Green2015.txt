@@ -1,0 +1,151 @@
+{{for|the Major League Baseball player|Gene Green (baseball)}}
+{{distinguish|Gene Greene|Eugene A. Greene}}
+{{Infobox Congressman
+| name = Gene Green
+| image = Gene Green, Official Portrait, c112th Congress.jpg
+| birth_date = {{birth date and age|1947|10|17}}
+| birth_place = [[Houston, Texas]]
+| state = [[Texas]]
+| district = [[Texas's 29th congressional district|29th]]
+| term_start = January 3, 1993
+| preceded = ''District established'' 
+| succeeded = Incumbent
+| state_senate2 = Texas
+| district2 = 6th
+| term_start2 = 1987
+| term_end2 = 1993
+| preceded2 = Lindon Williams
+| succeeded2 = Dan Shelley
+| state_house3 = Texas
+| district3 = 140th
+| term_start3 = 1981
+| term_end3 = 1985
+| preceded3 = ''District Created''
+| succeeded3 = Gene Haney
+| state_house4 = Texas
+| district4 95th
+| term_start4 = 1973
+| term_end4 = 1981
+| preceded4 = J. W. Buchanan
+| succeeded4 = Reby Cary
+| party = [[Democratic Party (US)|Democratic]]
+| spouse = Helen Green
+| religion = [[Methodist]]
+| alma_mater= [[University of Houston]]
+| occupation= attorney
+| residence= [[Houston, Texas]]
+| alma_mater= [[University of Houston]]
+}}
+
+'''Raymond Eugene "Gene" Green''' (born October 17, 1947) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|TX|29}}, serving since 1993. He is a member of the [[Democratic Party (United States)|Democratic Party]]. The district includes most of eastern [[Houston]], along with large portions of Houston's eastern suburbs.
+
+==Early life, education, and early career==
+Green was born in Houston and he graduated from the [[University of Houston]], earning a bachelor's degree in business administration in 1971 and a law degree in 1977. He held positions as a business manager and a private attorney prior to his election to Congress.
+
+==Texas legislature==
+Green was first elected to the [[Texas House of Representatives]] in 1972. He was elected to the [[Texas Senate]] in 1985.
+
+==U.S. House of Representatives==
+[[Image:Ggmayorbrown.jpg|Gene Green, former Houston mayor [[Lee P. Brown]], and others|right|thumb]]
+
+===Elections===
+Green was first elected to the [[United States House of Representatives|U.S. House]] in 1992.  Although the 29th was (then as now) drawn as a majority-Hispanic district, Green finished second in the five-way Democratic primary, behind [[Houston City Council|city councilman]] [[Ben Reyes]].  Green defeated Reyes in the runoff by only 180 votes, all but assuring him of election in this heavily Democratic district.  Green has been reelected eight times, never facing substantive electoral opposition.  He ran unopposed in 1998, 2002 and 2004.
+
+===Tenure===
+Green is the only caucasian Democrat representing a significant portion of Houston, and one of only three in the entire Texas delegation (the others being [[Lloyd Doggett]] and [[Beto O'Rourke]]).
+
+Since 1996, Green has been a member of the powerful House Energy and Commerce Committee. In 2011, he became Ranking Member of the Subcommittee on Environment and the Economy. He also serves on the Subcommittee on Energy and Power and the Subcommittee on Oversight and Investigations.
+
+===Legislative issues===
+Since being elected to the House of Representatives, Green has been a champion of education, labor, energy, domestic manufacturing, health issues, NASA's Johnson Space Center, and Social Security and veterans benefits. He has worked hard to improve access to quality health care, support initiatives to improve our economy and increased job training, and maintain financial aid for students.
+
+Congressman Green voted in favor of the Iraq Resolution in 2002, and gave a speech on the house floor linking Saddam Hussein to the [[September 11 attacks]] in 2001. Despite the Democratic leadership's general disapproval of the war, Green voted against measures aimed at placing a timetable on military withdrawal.
+
+In September 2004, he proposed the [[Every Vote Counts Amendment]], which would have abolished the [[United States Electoral College|U.S. electoral college]] in [[United States presidential election]]s.
+
+Congressman Green has also proposed legislation addressing domestic and global electronic waste (e-waste) concerns. H.R. 2284, The Responsible Electronics Recycling Act of 2011, was introduced in the 112th Congress to prohibit the exportation of some electronics whose improper disposal may create environmental, health, or national security risks. 
+
+Rep. Green also served on the Energy and Commerce Committee's Subcommittee on Health during drafting of the Affordable Care Act of 2010 and helped write and amend the legislation.  Since then, he has continued to be a champion for increased access to affordable and quality health care.
+
+===Committee assignments===
+*'''[[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]'''
+**[[United States House Energy Subcommittee on Energy and Power|Subcommittee on Energy and Power]]
+**[[United States House Energy Subcommittee on Environment and Economy|Subcommittee on Environment and Economy]] 
+**[[United States House Energy Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]]
+
+;Caucus memberships
+*Congressional Arts Caucus
+*Congressional Vision Caucus
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.house.gov/green/ Congressman Gene Green] official U.S. House site
+*[http://genegreencampaign.com/ Gene Green for Congress]
+*{{Dmoz|Regional/North_America/United_States/Texas/Government/Federal/US_House_of_Representatives/Gene_Green_%5BD-29%5D|Gene Green}}
+*{{CongLinks | congbio = g000410 | ballot = Gene_Green | nndb = 735/000038621 | votesmart = 27100 | govtrack = 400160 | opencong = 400160 | rollcall = 486 | politifact = gene-green | fec = H2TX29030 | opensecrets = N00005870 | assets = raymond-green | legistorm = 258/Rep_Gene_Green_TX.html | followthemoney = | ontheissues = TX/Gene_Green.htm | congress = gene-green/462 | worldcat = | cspan = 26156 | imdb = | bloomberg = | nyt = | wsj = | washpo = gIQAYwnpAP }}
+*[http://www.worldenergysource.com/newasf/wetv.cfm?vfile=wetv_genegreen World Energy Television Interview] ''Gene Green on WorldEnergySource.com World Energy Television''{{deadlink|date=March 2014}}
+
+{{S-start}}
+{{s-par|us-tx-hs}}
+{{TXHouseSuccession box
+|  district = 95
+|  hometown = Houston
+|  before = [[J. W. Buchanan]]
+|  after = [[Reby Cary]]
+|  years = 1973–1981}}
+{{TXHouseSuccession box
+|  district = 140
+|  hometown = Houston
+|  before = New district
+|  after = [[Eugene R. Haney|Eugene R. “Gene” Haney]]
+|  years = 1981–1985}}
+{{s-par|us-tx-sen}}
+{{TXSenateSuccession box
+|  district = 6
+|  hometown = Houston
+|  before = [[Lindon Williams]]
+|  after = [[Dan Shelley]]
+|  years = 1987–1993}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox
+|  state = Texas
+|  district = 29
+|  before = New district
+|  years = 1993–Present}}
+{{s-off}}
+{{succession box
+|title=Chairman of [[United States House Committee on Standards of Official Conduct|House Ethics Committee]]
+|before=[[Stephanie Tubbs Jones]]<br>Ohio
+|years=2008–2009
+|after=[[Zoe Lofgren]]<br>California}}
+{{s-prec|usa}}
+{{s-bef|before=[[Bob Goodlatte]]<br><small>R-[[Virginia]]}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=54th}}
+{{s-aft|after=[[Luis Gutierrez]]<br><small>D-[[Illinois]]}}
+{{S-end}}
+
+{{TX-FedRep}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Green, Gene
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =October 17, 1947
+| PLACE OF BIRTH    =[[Houston, Texas]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Green, Gene}}
+[[Category:Members of the United States House of Representatives from Texas]]
+[[Category:Texas State Senators]]
+[[Category:Members of the Texas House of Representatives]]
+[[Category:University of Houston alumni]]
+[[Category:University of Houston Law Center alumni]]
+[[Category:American Methodists]]
+[[Category:People from Houston, Texas]]
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Texas Democrats]]
+[[Category:Democratic Party members of the United States House of Representatives]]

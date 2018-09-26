@@ -1,0 +1,179 @@
+{{For|other persons named Bill Long|Bill Long (disambiguation){{!}}Bill Long}}
+{{Infobox officeholder
+|name        = Billy Long
+|image       = Billy Long official congressional photo.jpg
+|state       = [[Missouri]]
+|district    = {{ushr|MO|7|7th}}
+|term_start  = January 3, 2011
+|term_end    = 
+|predecessor = [[Roy Blunt]]
+|successor   = 
+|birth_date  = {{birth date and age|1955|8|11}}
+|birth_place = [[Springfield, Missouri|Springfield]], [[Missouri]], [[United States|U.S.]]
+|death_date  = 
+|death_place = 
+|party       = [[Republican Party (United States)|Republican]]
+|spouse      = Barbara Long
+|alma_mater  = [[University of Missouri|University of Missouri, Columbia]]
+|website     = {{url|long.house.gov|House website}}
+}}
+'''William H. "Billy" Long II'''<ref>{{cite web|url=http://www.legistorm.com/memberbio/2770/Rep_Billy_Long_MO.html |title=Representative William H. Long (Billy) (R-Missouri, 7th) – Biography from |publisher=LegiStorm |date= |accessdate=2011-07-25}}</ref> (born August 11, 1955)<ref>John Bicknell [http://news.yahoo.com/s/cq/20101103/pl_cq_politics/politics000003758822 112th Congress: Billy Long, R-Mo. (7th District))]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }} ''[[CQ Politics]]'' November 3, 2010</ref> is an [[United States|American]] politician currently serving as the incumbent [[U.S. Representative]] for [[Missouri's 7th congressional district]] since 2011. The district includes much of the southwestern quadrant of the state and is anchored in [[Springfield, Missouri|Springfield]]. The district also includes [[Joplin, Missouri|Joplin]] and the popular tourist destination of [[Branson, Missouri|Branson]].
+
+A member of the [[Republican Party (United States)|Republican Party]], he was elected to fill the district's vacant seat in the 2010 midterm elections following the successful election of its then-incumbent [[Roy Blunt]] to the [[United States Senate|U.S. Senate]].
+
+== Early life and education ==
+Long is a fourth-generation native of Missouri. He was born in [[Springfield, Missouri|Springfield]] in 1955. He attended the [[University of Missouri]] and was a member of the [[Delta Upsilon]] fraternity prior to dropping out to attend the Missouri Auction School in [[Kansas City, Missouri|Kansas City]]. He received his Certified Auctioneer Institute designation via the National Auctioneers Association Education Institute and Trustees.<ref>{{cite web|url=http://www.congress.org/election/candidate/id/153758 |title=Election |publisher=Congress.org |date= |accessdate=2011-07-25}}</ref><ref>{{cite web|url=http://billylongforcongress.com/Groups/1000059963/Billy_Long_for/About_Billy_Long/About_Billy_Long.aspx |title=About Billy Long |publisher=Billy Long for Congress |date=2010-11-02 |accessdate=2011-07-25}}</ref>
+
+== Professional career ==
+Long owned Billy Long Auctions, [[Limited liability company|LLC]]. He was also a talk radio show host on the Springfield-based station [[KWTO (AM)|KWTO]]. He is a member of the [[National Association of Realtors]], [[National Auctioneers Association]], [[United States Chamber of Commerce|the Springfield Area Chamber of Commerce]], the [[National Rifle Association]], and the Greater Springfield Board of Realtors.<ref>{{cite web|url=http://www.billylongforcongress.com/Groups/1000059963/Billy_Long_for/About_Billy_Long/About_Billy_Long.aspx |title=About Billy Long |publisher=Billy Long for Congress |date=2010-11-02 |accessdate=2011-07-25}}</ref>
+
+Long also participated in the [[World Poker Tour]] participating in professional sanctioned games including the Southern Poker Championship at the Beau Rivage and the Bellagio Cup.
+
+==U.S. House of Representatives==
+
+===2010===
+{{See also|United States House of Representatives elections in Missouri, 2010#District 7}}
+Long joined the race for the 7th Congressional District after incumbent [[U.S. Representative]] [[Roy Blunt]] chose to run for the [[U.S. Senate]] seat that was being vacated by [[Kit Bond]]. In the crowded seven-way Republican primary—the ''de facto'' real election in the most Republican district in the state—Long narrowly won with 36 percent of the vote. He easily defeated Democratic challenger Scott Eckersley by a nearly two-to-one margin of victory.
+{{Election box begin no change
+|title= 2010 Election for U.S. Representative of Missouri's 7th Congressional District
+}}
+{{Election box winning candidate with party link no change
+ |party = Republican Party (United States)
+ |candidate = Billy Long 
+ |votes = 141,010
+ |percentage = 63.39
+ }}
+{{Election box candidate with party link no change
+ |party = Democratic Party (United States)
+ |candidate = Scott Eckersley
+ |votes = 67,545
+ |percentage = 30.37
+ }}
+{{Election box candidate with party link no change
+ |party = Libertarian Party (United States)
+ |candidate = Kevin Craig 
+ |votes = 13,866
+ |percentage = 6.23
+ }}
+{{Election box candidate with party link no change
+ |party = Write-in candidate|Write-ins 
+ |candidate = Others
+ |votes = 10
+ |percentage = 0.00
+}}
+{{Election box end}}
+
+===2012===
+{{See also|United States House of Representatives elections in Missouri, 2012#District 7}}
+{{Election box begin no change
+|title= 2012 Election for U.S. Representative of Missouri's 7th Congressional District
+}}
+{{Election box winning candidate with party link no change
+ |party = Republican Party (United States)
+ |candidate = Billy Long 
+ |votes = 203,565
+ |percentage = 63.87
+ }}
+{{Election box candidate with party link no change
+ |party = Democratic Party (United States)
+ |candidate = Jim Evans
+ |votes = 98,498
+ |percentage = 30.90
+ }}
+{{Election box candidate with party link no change
+ |party = Libertarian Party (United States)
+ |candidate = Kevin Craig 
+ |votes = 16,668
+ |percentage = 5.23
+ }}
+{{Election box candidate with party link no change
+ |party = Write-in candidate|Write-ins 
+ |candidate = Others
+ |votes = 9
+ |percentage = 0.00
+}}
+{{Election box end}}
+
+===2014===
+{{See also|United States House of Representatives elections in Missouri, 2014#District 7}}
+In the August 5th, 2014 primary race, Long defeated sole Republican challenger Marshall Works 62.4% to 37.6%.<ref>{{cite web |title=2014 Missouri House Primaries Results |work=[[Politico]] |publisher= |date=August 6, 2014 |url=http://www.politico.com/2014-election/results/map/house/missouri/ |accessdate=August 8, 2014}}</ref>
+
+{{Election box begin no change
+|title= 2014 Election for U.S. Representative of Missouri's 7th Congressional District
+}}
+{{Election box winning candidate with party link no change
+ |party = Republican Party (United States)
+ |candidate = Billy Long 
+ |votes = 104,054
+ |percentage = 63.46
+ }}
+{{Election box candidate with party link no change
+ |party = Democratic Party (United States)
+ |candidate = Jim Evans
+ |votes = 47,282
+ |percentage = 28.84
+ }}
+{{Election box candidate with party link no change
+ |party = Libertarian Party (United States)
+ |candidate = Kevin Craig 
+ |votes = 12,584
+ |percentage = 7.68
+ }}
+{{Election box candidate with party link no change
+ |party = Write-in candidate|Write-ins 
+ |candidate = Others
+ |votes = 37
+ |percentage = 0.02
+}}
+{{Election box end}}
+
+===Legislation===
+Since 2011 Rep. Long has sponsored 14 bills, one [[resolution (law)|resolution]] and one [[concurrent resolution]], and co-sponsored 844 other pieces of legislation.<ref>{{cite web |url=https://www.congress.gov/member/billy-long/L000576 |title=Legislation Sponsored or Cosponsored by Billy Long |website=Congress.gov |publisher=[[Library of Congress]] |access-date=April 27, 2016}}</ref>
+
+===Committee assignments===
+
+<!--1st sentence not necessary, rest does not discuss Billy Long. Long is a member of the House Energy and Commerce Committee.  This influential House committee has jurisdiction over our nation’s telecommunications, consumer protection, food and drug safety, public health research, environmental quality, energy policy, and interstate and foreign commerce.
+
+As of July 31, 2014, the House Energy and Commerce Committee has held 172 hearings  and marked up and debated 60 bills. Fifty-three bills have been approved by the House and 18 bills ultimately signed by the president, thus making the Energy and Commerce Committee the most active committee in the House of Representatives. -->
+* '''[[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]'''
+** [[United States House Energy Subcommittee on Commerce, Manufacturing and Trade|Subcommittee on Energy and Power]]
+** [[United States House Energy Subcommittee on Communications and Technology|Subcommittee on Communications and Technology]]
+** [[United States House Energy Subcommittee on Oversight and Investigations|Subcommittee on Health]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.billylong.com/ Billy Long Auctions]
+* [http://long.house.gov Congressman Billy Long] official U.S. House site
+* [http://www.billylongforcongress.com/ Billy Long for Congress]
+* {{Dmoz|Regional/North_America/United_States/Missouri/Government/Federal/US_House_of_Representatives/Billy_Long_%5BR-7%5D}}
+* {{C-SPAN|billylong}}
+{{CongLinks | congbio = L000576 | ballot = Billy_Long | nndb = 218/000265420 | votesmart = 123401 | govtrack = 412445 | opencong = 412445 | rollcall = 32000 | politifact = | fec = H0MO07075 | opensecrets = N00030676 | assets = billy-long | legistorm = 2770/Rep_Billy_Long_MO.html | followthemoney = | ontheissues = House/Billy_Long.htm | congress = billy-long/2033 | worldcat = | c-span = billylong | imdb = | bloomberg = | nyt = | washpo = gIQA4szZKP }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Roy Blunt]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Missouri|U.S. House of Representatives]]<br>from [[Missouri's 7th congressional district]]|years=2011–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Raúl Labrador]]}}
+{{s-ttl|title=[[Seniority in the United States House of Representatives|United States Representatives by seniority]]|years=265th}}
+{{s-aft|after=[[Tom Marino]]}}
+{{s-end}}
+
+{{MO-FedRep}}
+{{USHouseCurrent}}
+
+{{DEFAULTSORT:Long, Billy}}
+[[Category:1955 births]]
+[[Category:American auctioneers]]
+[[Category:Indiana University alumni]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Missouri]]
+[[Category:Missouri Republicans]]
+[[Category:Politicians from Springfield, Missouri]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:University of Missouri alumni]]
+[[Category:21st-century American politicians]]

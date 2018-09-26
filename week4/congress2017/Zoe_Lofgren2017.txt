@@ -1,0 +1,478 @@
+{{Use mdy dates|date=January 2015}}
+{{Infobox officeholder
+|name         = Zoe Lofgren
+|image        = Zoe Lofgren, Official Portrait, 112th Congress.jpg
+|state        = [[California]]
+|district     = {{ushr|CA|19|19th}}
+|term_start   = January 3, 2013
+|term_end     = 
+|predecessor  = [[Jeff Denham]]
+|successor    = 
+|state1       = [[California]]
+|district1    = {{ushr|CA|16|16th}}
+|term_start1  = January 3, 1995
+|term_end1    = January 3, 2013
+|predecessor1 = [[Don Edwards]]
+|successor1   = [[Jim Costa]]
+|office2      = Chairperson of the [[United States House Committee on Ethics|House Ethics Committee]]
+|term_start2  = January 3, 2009
+|term_end2    = January 3, 2011
+|predecessor2 = [[Gene Green]]
+|successor2   = [[Jo Bonner]]
+|birth_name   = Sue Lofgren
+|birth_date   = {{birth date and age|1947|12|21}}
+|birth_place  = [[San Mateo, California|San Mateo]], [[California]], [[United States|U.S.]]
+|death_date   = 
+|death_place  = 
+|party        = [[Democratic Party (United States)|Democratic]]
+|spouse       = John Collins
+|alma_mater   = [[Stanford University]]<br>[[Santa Clara University School of Law|Santa Clara University]]
+|religion     = [[Evangelical Lutheran Church in America|Lutheranism]]
+}}
+'''Zoe Lofgren''' (born '''Sue Lofgren''';<ref name="google1">{{cite book|url=https://books.google.com/books?id=cVtFJ5tvINsC&pg=PA289 |title=Encyclopedia of Women and American Politics |author=Lynne E. Ford |publisher= |date=December 21, 1947 |accessdate=August 4, 2014}}</ref> December 21, 1947), pronounced {{respell|ZO|'}},<ref>{{cite web|url=http://www.patronsaintpr.com/samples/DESK/cdobd.htm|title=Guide to Frequently Mispronounced Congressional Names}}</ref> is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CA|19}}, serving in Congress since 1995. She is a member of the [[Democratic Party (United States)|Democratic Party]]. The district, numbered as the 16th District from 1995 to 2013, includes most of [[San Jose, California|San Jose]].
+
+She is the ranking member on both the [[United States House Committee on House Administration|House Committee on House Administration]] [[United States House Administration Subcommittee on Oversight|Subcommittee on Oversight]], and on the [[United States House Committee on the Judiciary|House Committee on the Judiciary]] [[United States House Judiciary Subcommittee on Immigration Policy and Enforcement|Subcommittee on Immigration Policy and Enforcement]].
+
+==Early life, education, and early career==
+A [[San Francisco Bay Area|Bay Area]] resident, Lofgren attended [[Gunn High School]] (1966) in [[Palo Alto, California|Palo Alto]],<ref name="google2">{{cite web|url=https://books.google.com/books?id=L-_zoKQ-mvQC&pg=PA26&dq=john+collins+married+lofgren+zoe&hl=en&sa=X&ei=YfreU7XlBceYyATpgYKgDw&ved=0CCgQ6AEwAg#v=onepage&q=john%20collins%20married%20lofgren%20zoe&f=false |title=Official Congressional Directory, 2005–2006, 109th Congress, Convened ... |publisher=Congress, Joint Committee on Printing |date= |accessdate=August 4, 2014}}</ref> and while in high school, Lofgren was a member of the [[Junior State of America]], a student-run political debate, activism, and student governance organization.<ref>{{cite web|url=http://www.jsa.org/wp-content/uploads/JSA-notables.doc|title=Notable Alumni of the Junior State of America}}</ref> She earned her B.A. at [[Stanford University]] (1970) and a [[Juris Doctor|J.D.]] at [[Santa Clara University School of Law]] (1975).<ref name="google1"/>
+
+In 1978 she married John Marshall Collins.<ref name="google2"/>
+
+Returning to San Jose, Lofgren worked in [[Don Edwards]]' district office, while at the same time earning her law degree. After two years as partner at an immigration law firm in San Jose, she was elected first to a community college board, then to the [[Santa Clara County, California|Santa Clara County]] [[board of supervisors|Board of Supervisors]], where she served for 13 years.{{citation needed|date=August 2014}}
+
+==U.S. House of Representatives==
+
+In 1994, Lofgren entered the Democratic primary in what was then the 16th District, after Edwards retired after 32 years in Congress. It was the real contest in this heavily Democratic district.  A decided underdog, she managed to defeat the favorite, former San Jose mayor [[Tom McEnery]]. Lofgren's victory virtually assured her of becoming only the second person to represent the district since its creation in 1963 (it was numbered as the 9th District from 1963 to 1975, as the 10th from 1975 to 1993, the 16th from 1993 to 2013, and has been the 19th since 2013).  She has been reelected ten times with no substantive opposition.
+
+[[File:Zoe Lofgren 109th pictorial.jpg|upright|left|thumb|Earlier photo of Lofgren (2005)]]
+Lofgren is the chair of the 34-member California Democratic Congressional Delegation. She serves on the Judiciary Committee and is the chair of the House Judiciary Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law. In April 2011, she became the first member of Congress to call for federal investigation into the [[Secure Communities]] deportation program.<ref name="la-now">{{cite news | url=http://latimesblogs.latimes.com/lanow/2011/04/congresswoman-calls-for-investigation-of-enforcement-program-that-screens-for-illegal-immigrants-in-.html | title=Congresswoman calls for investigation of enforcement program that screens for illegal immigrants in jails | author=Romney, Lee | newspaper=[[Los Angeles Times]] | date=April 22, 2011}}</ref>
+
+Beginning in 2009, Lofgren served as chair of the [[United States House Committee on Standards of Official Conduct|House Ethics Committee]].  In doing so, she presided over a rare [[Censure in the United States|sanction of censure]], against long-time member [[Charles B. Rangel]].<ref name="wapo-full">{{cite news | url=http://www.washingtonpost.com/wp-dyn/content/article/2010/12/02/AR2010120201626.html?hpid=topnews | title=House censures Rep. Charles Rangel in 333–79 vote | author=Kane, Paul | author2=Farentholt, David A. | newspaper=[[The Washington Post]] | date=December 2, 2010}}</ref>
+
+In the [[Stop Online Piracy Act]] [[House Judiciary Committee]] hearings, she defended the current state of the internet in opposition of the bill.  She has also opposed the [[data retention]] requirements in the H.R. 1981 (the [[Protecting Children from Internet Pornographers Act of 2011]]).<ref>{{cite news | first = Grant | last = Gross | title = House Panel Votes to Require ISPs to Keep Customer Records | date = July 28, 2011 | url = http://www.pcworld.com/article/236866/house_panel_votes_to_require_isps_to_keep_customer_records.html | work = PC World | accessdate = October 25, 2011}}</ref>
+
+In February 2013, Lofgren became one of the sponsors of the [[Fair Access to Science and Technology Research Act]] to expedite open access to taxpayer-funded research.<ref>{{cite web |url=http://lofgren.house.gov/index.php?option=com_content&view=article&id=783&Itemid=130 |archiveurl=https://web.archive.org/web/20131025054356/http://lofgren.house.gov/index.php?option=com_content&view=article&id=783&Itemid=130 |archivedate=October 25, 2013 |title=Reps. Zoe Lofgren, Mike Doyle and Kevin Yoder Introduce Bill Expanding Access to Federally Funded Research}}</ref>
+
+In May, 2016, Lofgren was publicly reprimanded during a House Judiciary Committee hearing after calling a witness an "ignorant bigot." Following the reprimand, Lofgren responded, "I cannot allow that kind of bigotry to go into the record unchallenged.” <ref>http://www.huffingtonpost.com/entry/zoe-lofgren-transphobia_us_5746eee4e4b0dacf7ad403eb</ref>
+
+[[File:Representative Zoe Lofgren (22308739733).jpg|thumb|Lofgren participates in a remote Judiciary Committee roundtable in Santa Clara, California in 2015.]]
+
+===Committee assignments===
+* '''[[United States House Committee on House Administration]]'''
+** [[United States House Administration Subcommittee on Oversight|Subcommittee on Oversight]] (Ranking Member)
+* '''[[United States House Committee on the Judiciary]]'''
+** [[United States House Judiciary Subcommittee on Intellectual Property, Competition, and the Internet|Subcommittee on Intellectual Property, Competition, and the Internet]]
+** [[United States House Judiciary Subcommittee on Immigration Policy and Enforcement|Subcommittee on Immigration Policy and Enforcement]] (Ranking Member)
+* '''[[United States House Committee on Science, Space and Technology]]'''
+** [[United States House Science Subcommittee on Energy and Environment|Subcommittee on Energy and Environment]]
+** [[United States House Science Subcommittee on Investigations and Oversight|Subcommittee on Investigations and Oversight]]
+
+===Caucuses===
+* [[Congressional Asian Pacific American Caucus]] (Associate Member)
+
+====Other leadership positions====
+* Chair of the California Democratic Congressional Delegation
+
+==Electoral history==
+{{Election box begin no change | title= 16th Congressional District of California, Democratic Primary election, June 7, 1994<ref>[http://www.ourcampaigns.com/RaceDetail.html?RaceID=208219 Our Campaigns] "California District 16 – Democratic Primary Race," (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren
+  |votes      = 16,168
+  |percentage = 45.3
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = [[Tom McEnery]]
+  |votes      = 15,037
+  |percentage = 42.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Dick Lane
+  |votes      = 1,537
+  |percentage = 4.3
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Cynthia Williamson
+  |votes      = 1,414
+  |percentage = 4.0
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Tom Harney
+  |votes      = 780
+  |percentage = 2.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Edward R. Dykes
+  |votes      = 721
+  |percentage = 2.0
+}}
+{{Election box total no change|
+  |votes      = 35,657
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box end}}
+{{Election box begin no change | title= [[United States House of Representatives elections, 1994]]<ref>[http://clerk.house.gov/member_info/electionInfo/1994election.pdf Office of the Clerk of the United States House of Representatives] "Statistics of the Congressional Election of November 8, 1994" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren
+  |votes      = 74,935
+  |percentage = 65.0
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Lyle J. Smith
+  |votes      = 40,409
+  |percentage = 35.0
+}}
+{{Election box candidate no party in partisan race no change|
+  |party      = independent (politician)
+  |candidate  = Barraza ([[Write-in candidate|write-in]])
+  |votes      = 8
+  |percentage = 0.0
+}}
+{{Election box total no change|
+  |votes      = 115,352
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+  |loser      = Republican Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change | title= [[United States House of Representatives elections, 1996]]<ref>[http://clerk.house.gov/member_info/electionInfo/1996election.pdf Office of the Clerk of the United States House of Representatives] "Statistics of the Congressional Election of November 5, 1996" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren ([[incumbent]])
+  |votes      = 94,020
+  |percentage = 65.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Chuck Wojslaw
+  |votes      = 43,197
+  |percentage = 30.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Libertarian Party (United States)
+  |candidate  = David Bonino
+  |votes      = 4,124
+  |percentage = 2.8
+}}
+{{Election box candidate with party link no change|
+  |party      = Natural Law Party (United States)
+  |candidate  = Abaan Abu-Shumays
+  |votes      = 1,866
+  |percentage = 1.3
+}}
+{{Election box total no change|
+  |votes      = 143,207
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change | title= [[United States House of Representatives elections, 1998]]<ref>[http://clerk.house.gov/member_info/electionInfo/1998election.pdf Office of the Clerk of the United States House of Representatives] "Statistics of the Congressional Election of November 3, 1998" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren ([[incumbent]])
+  |votes      = 85,503
+  |percentage = 72.82
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Horace Eugene Thayn
+  |votes      = 27,494
+  |percentage = 23.42
+}}
+{{Election box candidate with party link no change|
+  |party      = Natural Law Party (United States)
+  |candidate  = John H. Black
+  |votes      = 4,417
+  |percentage = 3.76
+}}
+{{Election box total no change|
+  |votes      = 117,414
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change | title= [[United States House of Representatives elections, 2000]]<ref>[http://clerk.house.gov/member_info/electionInfo/2000election.pdf Office of the Clerk of the United States House of Representatives] "Statistics of the Congressional Election of November 7, 2000" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren ([[incumbent]])
+  |votes      = 115,118
+  |percentage = 72.1
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Horace "Gene" Thayn
+  |votes      = 37,213
+  |percentage = 23.3
+}}
+{{Election box candidate with party link no change|
+  |party      = Libertarian Party (United States)
+  |candidate  = Dennis Michael Umphress
+  |votes      = 4,742
+  |percentage = 3.0
+}}
+{{Election box candidate with party link no change|
+  |party      = Natural Law Party (United States)
+  |candidate  = Edward J. Klein
+  |votes      = 2,673
+  |percentage = 1.6
+}}
+{{Election box total no change|
+  |votes      = 159,746
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner     = Democratic Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change | title=[[United States House of Representatives elections, 2002]]<ref>[http://sos.ca.gov/elections/sov/2002_general/congress.pdf 2002 Office of the Clerk of the United States House of Representatives] {{webarchive |url=https://web.archive.org/web/20090203072316/http://sos.ca.gov/elections/sov/2002_general/congress.pdf |date=February 3, 2009 }} "Statistics of the Congressional Election of November 5, 2002" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren ([[incumbent]])
+  |votes      = 72,370
+  |percentage = 67.1
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Douglas Adams McNea
+  |votes      = 32,182
+  |percentage = 29.8
+}}
+{{Election box candidate with party link no change|
+  |party      = Libertarian Party (United States)
+  |candidate  = Dennis Michael Umphress
+  |votes      = 3,434
+  |percentage = 3.1
+}}
+{{Election box total no change|
+  |votes      = 104,556
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner    = Democratic Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change | title=[[United States House of Representatives elections, 2004]]<ref>[http://sos.ca.gov/elections/sov/2004_general/us20reps20all20formatted.pdf Office of the Clerk of the United States House of Representatives] {{dead link|date=August 2016|bot=medic}}{{cbignore|bot=medic}} "Statistics of the Congressional Election of November 2, 2004" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren ([[incumbent]])
+  |votes      = 129,222
+  |percentage = 70.9
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Lawrence R. Wiesner
+  |votes      = 47,992
+  |percentage = 26.4
+}}
+{{Election box candidate with party link no change|
+  |party      = Libertarian Party (United States)
+  |candidate  = Markus Welch
+  |votes      = 5,067
+  |percentage = 2.7
+}}
+{{Election box total no change|
+  |votes      = 182,281
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner    = Democratic Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change | title=[[United States House of Representatives elections, 2006]]<ref>[http://sos.ca.gov/elections/sov/2006_general/congress.pdf 2006 Office of the Clerk of the United States House of Representatives] {{webarchive |url=https://web.archive.org/web/20081127061822/http://sos.ca.gov/elections/sov/2006_general/congress.pdf |date=November 27, 2008 }} "Statistics of the Congressional Election of November 7, 2006" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren ([[incumbent]])
+  |votes      = 98,929
+  |percentage = 72.8
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Charel Winston
+  |votes      = 37,130
+  |percentage = 27.2
+}}
+{{Election box total no change|
+  |votes      = 136,059
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner    = Democratic Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change | title=[[United States House of Representatives elections, 2008]]<ref>[http://sos.ca.gov/elections/sov/2008_general/congress.pdf 2006 Office of the Clerk of the United States House of Representatives]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }} "Statistics of the Congressional Election of November 4, 2008" (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change|
+  |party      = Democratic Party (United States)
+  |candidate  = Zoe Lofgren ([[incumbent]])
+  |votes      = 146,481
+  |percentage = 71.3
+}}
+{{Election box candidate with party link no change|
+  |party      = Republican Party (United States)
+  |candidate  = Charel Winston
+  |votes      = 49,399
+  |percentage = 24.1
+}}
+{{Election box candidate with party link no change|
+  |party      = Libertarian Party (United States)
+  |candidate  = Steven Wells
+  |votes      = 9,447
+  |percentage = 4.6
+}}
+{{Election box total no change|
+  |votes      = 205,327
+  |percentage = 100.0
+}}
+{{Election box turnout no change|
+  |percentage =
+}}
+{{Election box hold with party link without swing|
+  |winner    = Democratic Party (United States)
+}}
+{{Election box end}}
+{{Election box begin no change
+| title = [[United States House of Representatives elections, 2010]]
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Zoe Lofgren ([[incumbent]])
+| votes = 105,841
+| percentage = 67.9
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Daniel Sahagun
+| votes = 37,913
+| percentage = 24.3
+}}
+{{Election box candidate with party link no change
+| party = Libertarian Party (United States)
+| candidate = Edward M. Gonzalez
+| votes = 12,304
+| percentage = 7.8
+}}
+{{Election box total no change
+| votes = 156,058
+| percentage = 100.0
+}}
+{{Election box hold with party link no change
+| winner = Democratic Party (United States)}}
+{{Election box end}}
+{{Election box begin no change
+| title = [[United States House of Representatives elections, 2012]]<ref>[http://www.sos.ca.gov/elections/sov/2012-general/12-us-reps.pdf Office of the California Secretary of State] {{webarchive |url=https://web.archive.org/web/20131019044155/http://www.sos.ca.gov/elections/sov/2012-general/12-us-reps.pdf |date=October 19, 2013 }} (retrieved on August 8, 2009).</ref>}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Zoe Lofgren ([[incumbent]])
+| votes = 162,300
+| percentage = 73.2
+}}
+{{Election box candidate with party link no change
+| party = Republican Party (United States)
+| candidate = Robert Murray
+| votes = 59,313
+| percentage = 26.8
+}}
+{{Election box total no change
+| votes = 221,613
+| percentage = 100.0
+}}
+{{Election box hold with party link no change
+| winner = Democratic Party (United States)
+}}
+{{Election box end}}
+
+==See also==
+* [[SOPA]]
+* [[PROTECT IP Act]]
+* [[Aaron's Law]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons category|Zoe Lofgren}}
+* [http://www.house.gov/lofgren/ Congresswoman Zoe Lofgren] official U.S. House site
+* [http://www.lofgrenforcongress.com/ Zoe Lofgren for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Zoe_Lofgren_%5BD-19%5D}}
+*{{C-SPAN|Zoe Lofgren}}
+{{CongLinks | congbio = l000397 | ballot = Zoe_Lofgren | nndb = 632/000039515 | votesmart = 21899 | govtrack = 400245 | opencong = 400245 | rollcall = 43 | politifact = zoe-lofgren | fec = H4CA16049 | opensecrets = N00007479 | assets = zoe-lofgren | legistorm = 342/Rep_Zoe_Lofgren.html | followthemoney = | ontheissues = CA/Zoe_Lofgren.htm | congress = zoe-lofgren/701 | worldcat = lccn-no2004-3055 | cspan = 36520 | imdb = 2828952 | bloomberg = | nyt = | washpo = gIQAi3CLAP }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Don Edwards]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 16th congressional district]]|years=1995–2013}}
+{{s-aft|after=[[Jim Costa]]}}
+|-
+{{s-bef|before=[[Gene Green]]}}
+{{s-ttl|title=Chairperson of the [[United States House Committee on Ethics|House Ethics Committee]]|years=2009–2011}}
+{{s-aft|after=[[Jo Bonner]]}}
+|-
+{{s-bef|before=[[Jeff Denham]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 19th congressional district]]|years=2013–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Frank LoBiondo]]}}
+{{s-ttl|title=[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]|years=62nd}}
+{{s-aft|after=[[Mac Thornberry]]}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{USHouseCurrent}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lofgren, Zoe}}
+[[Category:1947 births]]
+[[Category:American Lutherans]]
+[[Category:American women lawyers]]
+[[Category:California Democrats]]
+[[Category:California lawyers]]
+[[Category:County supervisors in California]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:People from Palo Alto, California]]
+[[Category:Politicians from San Jose, California]]
+[[Category:Santa Clara University School of Law alumni]]
+[[Category:Stanford University alumni]]
+[[Category:United States congressional aides]]
+[[Category:Women in California politics]]
+[[Category:21st-century American politicians]]
+[[Category:21st-century women politicians]]

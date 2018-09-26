@@ -1,0 +1,609 @@
+{{Infobox state representative 
+|name         = Elizabeth Esty
+|image        =Elizabeth Esty, Official Portrait, 113th Congress.jpg
+| state=[[Connecticut]]
+| district=[[Connecticut's 5th congressional district|5th]]
+|term_start   = January 3, 2013
+| preceded=[[Chris Murphy (politician)|Chris Murphy]]
+|state_house2 = Connecticut
+|district2    = 103rd
+|term_start2  = January 7, 2009
+|term_end2    = January 5, 2011
+|predecessor2 = [[Al Adinolfi]]
+|successor2   = [[Al Adinolfi]]
+|birth_date   = {{birth date and age|1959|8|25}}
+|birth_place  = [[Oak Park, Illinois]]
+|birthname    = Elizabeth Henderson
+|nationality  = [[United States|American]]
+|party        = [[Democratic Party (United States)|Democratic]]
+|spouse       = [[Daniel C. Esty]]
+|children     = 
+|residence    = [[Cheshire, Connecticut]]
+|alma_mater   = [[Harvard University]] <small>([[Bachelor of Arts|A.B.]])</small> <br /> [[Yale University]] <small>([[Juris Doctor|J.D.]])</small>
+|religion     = [[Congregationalist]]
+|website      = [http://esty.house.gov/ Representative Elizabeth Esty]}}
+
+'''Elizabeth Henderson Esty''' (born August 25, 1959) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CT|5}}.  She is a member of the [[Democratic Party (United States)|Democratic Party]], having been elected on November 6, 2012. Previously she was a member of the [[Connecticut House of Representatives]], representing the 103rd Assembly District, which consisted of [[Cheshire, Connecticut|Cheshire]] and parts of [[Hamden, Connecticut|Hamden]] and [[Wallingford, Connecticut|Wallingford]]. She also served two terms on the Cheshire Town Council.
+
+Esty defeated two challengers in the August 14, 2012, Democratic primary to become the Democratic nominee in [[Connecticut's 5th congressional district]], and on November 6, she defeated challenger [[Andrew Roraback]].
+
+==Early life, education, and career==
+Elizabeth Henderson was born in 1959 in [[Oak Park, Illinois]].<ref>[http://www.rollcall.com/new-members/elizabeth-esty-house-d-conn-5.html]</ref> Her father worked as an engineer in a construction company and the family moved numerous times during her childhood. She was raised in [[Minnesota]] and graduated from [[Winona Senior High School]]. She earned an A.B. from [[Harvard College]] in 1981 and a J.D. from [[Yale Law School]] in 1985. She also studied International Relations at [[L'Institut d'études politiques]] in Paris for a year on a [[Rotary Scholarship]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/</ref> Esty volunteered for [[Planned Parenthood]] in college.<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/4/</ref>
+
+Esty has been a law clerk for a federal judge, a Supreme Court lawyer at [[Sidley Austin LLP]] in Washington, DC, and Professor at [[American University]]. She is a member of the Cheshire Public Library Board, Legal Advisor to the [[League of Women Voters|Connecticut League of Women Voters Consensus Project]], Chair of the Board of Trustees for the First Congregational Church of Cheshire, lay member of the Committee on Ministry New Haven Association of the [[United Church of Christ]], and a member of the Parent-Teacher Association.<ref>http://votesmart.org/candidate/biography/72826</ref>
+
+==Connecticut House of Representatives==
+
+===Elections===
+In 2008, she challenged Republican State Representative [[Alfred Adinolfi]] of Connecticut's 103rd Assembly District. She defeated him 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=455786</ref> In 2010, Adinolfi challenged her in a rematch and defeated her 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=664825</ref>
+
+===Tenure===
+She opposed Governor [[Jodi Rell]]'s proposal to eliminate the state’s Office of Consumer Counsel. She cut her own pay by 10%. When [[aerospace]] manufacturer [[Pratt & Whitney]] closed its Cheshire plant in 2009, Esty was among several politicians who fought to get workers new job placements or early retirement packages. She opposes the [[Capital punishment in Connecticut|death penalty]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/8/</ref>
+
+===Committee assignments===
+*Appropriations Committee
+*Energy and Technology Committee
+*Public Health Committee<ref>http://www.ballotpedia.org/wiki/index.php/Elizabeth_Esty</ref>
+
+==U.S. House of Representatives==
+
+===2012 election===
+{{Main|United States House of Representatives elections in Connecticut, 2012#District 5}}
+In 2012, Democratic U.S. Congressman [[Chris Murphy (politician)|Chris Murphy]] of [[Connecticut's 5th congressional district]] decided to retire in order to run for the U.S. Senate. Esty decided to run. She was endorsed by [[EMILY's List]].<ref>http://atr.rollcall.com/connecticut-elizabeth-esty-wins-5th-district-democratic-nomination/</ref> She also won the newspaper endorsements from the ''[[New York Times]]'', ''[[Hartford Courant]]'' and the ''[[Torrington, Connecticut|Torrington Register-Citizen]]''. She defeated Daniel Roberti and State House Speaker [[Christopher G. Donovan|Chris Donovan]] in the primary.
+
+In the November 6 [[general election]], Esty defeated State Senator [[Andrew Roraback]] to become the district's next representative.<ref>{{cite web|last=Christoffersen|first=John|title=Democrat Esty wins Conn.'s 5th District seat|url=http://www.sfgate.com/news/article/Democrat-Esty-wins-Conn-s-5th-District-seat-4015182.php|work=sfgate.com|accessdate=8 November 2012}}</ref>  Esty won despite the opposition of New York Mayor [[Michael Bloomberg]] whose PAC channeled over a million dollars to her opponent.<ref>http://politicker.com/2012/11/bloombergs-super-pac-narrowly-misses-most-congressional-targets/</ref>
+
+{{Election box begin no change
+|title = Connecticut 5th Congressional District 2012 <ref name=ConnSS>http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/2012_election_results.pdf</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Elizabeth Esty'''
+| party = Democratic Party (United States)
+| votes = '''146,098'''<ref>Includes 8,609 votes received on the line of the [[Connecticut Working Families Party]], which [[fusion voting|cross-endorsed]]</ref>
+| percentage = '''51.31'''
+}}
+{{Election box candidate with party link no change
+| candidate = Andrew Roraback
+| party = Republican Party (United States)
+| votes = 138,637<ref>Includes 9,710 votes as listed as an Independent on the ballot.</ref>
+| percentage = 48.69
+}}
+{{Election box candidate no change
+| candidate = John Pistone
+| party = Write-In
+| votes = 12
+| percentage = 0.00
+}}
+{{Election box candidate no change
+| candidate = Russ Jaeger
+| party = Write-In
+| votes = 10
+| percentage = 0.00
+}}
+{{Election box total no change
+| votes = 284,757
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Tenure===
+Esty introduced the Collinsville Renewable Energy Promotion Act in February 2013 allow the town of [[Canton, Connecticut]] to take over two lapsed licenses from the [[Federal Energy Regulatory Commission|Federal Energy Regulatory Commission (FERC)]] in order to refurbish two old local dams.<ref>{{cite news|title=Elizabeth Esty's first bill, reintroduced Collinsville dams legislation, passes House|url=http://www.foothillsmediagroup.com/articles/2013/02/18/canton/news/doc51228c29d578e656011125.txt|accessdate=12 April 2013|newspaper=The Avon News|date=February 18, 2013}}</ref>  The dams would be used to produce [[Hydroelectricity|hydroelectric power]].<ref name=316sum>{{cite web|title=H.R 316 - 113th Congress|url=http://beta.congress.gov/bill/113th-congress/house-bill/316|publisher=United States Congress|accessdate=12 April 2013}}</ref>
+
+In May 2013, Esty voted against repeal of the [[Patient Protection and Affordable Care Act]].  She then subsequently voted to delay the individual and business mandates in the law by one year.<ref>{{cite web |title=Esty Statement on Bills to Delay ACA Penalties for One Year |url=http://www.stamfordplus.com/stm/information/nws1/publish/News_1/Esty-Statement-on-Bills-to-Delay-ACA-Penalties-for-One-Year20533.shtml |publisher=StamfordPlus.com |accessdate=7 November 2013}}</ref>
+
+Etsy co-sponsored the [[STEM Education Act of 2014 (H.R. 5031; 113th Congress)]]. She said that "STEM education is critical to preparing our students for high-demand careers in [[engineering]], [[manufacturing]], and [[information technology]]."<ref name=Callahan1>{{cite news|last1=Callahan|first1=Molly|title=House passes Rep. Esty's STEM Education Act|url=http://www.myrecordjournal.com/meriden/meridennews/5036761-129/house-passes-rep-estys-stem-education-act.html|accessdate=16 July 2014|publisher=My Record Journal|date=15 July 2014}}</ref> According to Esty, she frequently hears from "manufactures and small business owners that it's increasingly difficult to find workers with the right skill sets to fill the jobs in demand."
+
+===Committee assignments===
+*'''[[United States House Committee on Science, Space and Technology|Committee on Science, Space and Technology]]'''
+**[[United States House Science Subcommittee on Research|Subcommittee on Research]]
+*'''[[United States House Committee on Transportation and Infrastructure|Committee on Transportation and Infrastructure]]'''
+**[[United States House Transportation Subcommittee on Highways and Transit|Subcommittee on Highways and Transit]]
+**[[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Subcommittee on Railroads, Pipelines, and Hazardous Materials]]
+
+==Personal life==
+Elizabeth Henderson married [[Daniel C. Esty]] in 1984. Several years later, their first child, Sarah, was born while they were working in [[Washington, D.C.]] Elizabeth became a stay-at-home mother. The family moved to Connecticut in 1994 when Dan Esty started the environmental law and policy program at Yale.,<ref>[http://ct5thdistrict.registercitizen.com/elizabeth-esty/5/ Profile of Elizabeth H. Esty]</ref> before accepting appointment as Commissioner of the [[Connecticut Department of Energy and Environmental Protection]] from Governor [[Dannel P. Malloy]] in March 2011 .<ref>{{cite web|author=Department of Environmental Protection |url=http://www.ct.gov/dep/cwp/view.asp?A=4013&Q=474242&depNav_GID=1511 |title=DEP: Governor Malloy Selects Daniel Esty to Head Newly Fused Department of Energy & Environmental Protection |publisher=Ct.gov |date=2011-02-10 |accessdate=2012-06-07}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://esty.house.gov/ Congressman Elizabeth Esty] official U.S. House site
+*[http://www.elizabethesty.com/ Elizabeth Esty for Congress] 
+*{{Dmoz|Regional/North_America/United_States/Connecticut/Government/Federal/US_House_of_Representatives/Elizabeth_Esty_%5BD-5%5D}}
+*{{CongLinks | congbio = E000293 | ballot = Elzabeth_Esty | nndb = | votesmart = 72826 | govtrack = 412524 | opencong = 412524 | rollcall = 46081 | politifact = | fec = H2CT05131 | opensecrets = N00033217 | assets = | legistorm = | followthemoney = 9058 | ontheissues = House/Elizabeth_Esty.htm | congress = elizabeth-esty/2114 | worldcat = | c-span = elizabethesty | imdb = 5530066 | bloomberg = | nyt = | washpo = 13c60a22-4bbb-11e2-8758-b64a2997a921 }}
+
+{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Connecticut|
+  district=5 |
+  before=[[Chris Murphy (politician)|Chris Murphy]] |
+  start=January 3, 2013
+}}
+{{s-prec|usa}}
+{{s-bef|before=[[William Enyart]]<br><small>D-[[Illinois]]}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=378th}}
+{{s-aft|after=[[Lois Frankel]]<br><small>D-[[Florida]]}}
+{{S-end}}
+
+{{CT-FedRep}}
+
+{{Persondata
+| NAME              = Esty, Elizabeth
+| ALTERNATIVE NAMES = Henderson, Elizabeth
+| SHORT DESCRIPTION = Connecticut politician
+| DATE OF BIRTH     = August 25, 1959
+| PLACE OF BIRTH    = [[Oak Park, Illinois]], U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Esty, Elizabeth}}
+[[Category:Living people]]
+[[Category:1959 births]]
+[[Category:Members of the Connecticut House of Representatives]]
+[[Category:Members of the United States House of Representatives from Connecticut]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Connecticut Democrats]]
+[[Category:Harvard University alumni]]
+[[Category:People from West Hartford, Connecticut]]
+[[Category:People from Oak Park, Illinois]]
+[[Category:Women state legislators in Connecticut]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Yale Law School alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]{{Infobox state representative 
+|name         = Elizabeth Esty
+|image        =Elizabeth Esty, Official Portrait, 113th Congress.jpg
+| state=[[Connecticut]]
+| district=[[Connecticut's 5th congressional district|5th]]
+|term_start   = January 3, 2013
+| preceded=[[Chris Murphy (politician)|Chris Murphy]]
+|state_house2 = Connecticut
+|district2    = 103rd
+|term_start2  = January 7, 2009
+|term_end2    = January 5, 2011
+|predecessor2 = [[Al Adinolfi]]
+|successor2   = [[Al Adinolfi]]
+|birth_date   = {{birth date and age|1959|8|25}}
+|birth_place  = [[Oak Park, Illinois]]
+|birthname    = Elizabeth Henderson
+|nationality  = [[United States|American]]
+|party        = [[Democratic Party (United States)|Democratic]]
+|spouse       = [[Daniel C. Esty]]
+|children     = 
+|residence    = [[Cheshire, Connecticut]]
+|alma_mater   = [[Harvard University]] <small>([[Bachelor of Arts|A.B.]])</small> <br /> [[Yale University]] <small>([[Juris Doctor|J.D.]])</small>
+|religion     = [[Congregationalist]]
+|website      = [http://esty.house.gov/ Representative Elizabeth Esty]}}
+
+'''Elizabeth Henderson Esty''' (born August 25, 1959) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CT|5}}.  She is a member of the [[Democratic Party (United States)|Democratic Party]], having been elected on November 6, 2012. Previously she was a member of the [[Connecticut House of Representatives]], representing the 103rd Assembly District, which consisted of [[Cheshire, Connecticut|Cheshire]] and parts of [[Hamden, Connecticut|Hamden]] and [[Wallingford, Connecticut|Wallingford]]. She also served two terms on the Cheshire Town Council.
+
+Esty defeated two challengers in the August 14, 2012, Democratic primary to become the Democratic nominee in [[Connecticut's 5th congressional district]], and on November 6, she defeated challenger [[Andrew Roraback]].
+
+==Early life, education, and career==
+Elizabeth Henderson was born in 1959 in [[Oak Park, Illinois]].<ref>[http://www.rollcall.com/new-members/elizabeth-esty-house-d-conn-5.html]</ref> Her father worked as an engineer in a construction company and the family moved numerous times during her childhood. She was raised in [[Minnesota]] and graduated from [[Winona Senior High School]]. She earned an A.B. from [[Harvard College]] in 1981 and a J.D. from [[Yale Law School]] in 1985. She also studied International Relations at [[L'Institut d'études politiques]] in Paris for a year on a [[Rotary Scholarship]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/</ref> Esty volunteered for [[Planned Parenthood]] in college.<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/4/</ref>
+
+Esty has been a law clerk for a federal judge, a Supreme Court lawyer at [[Sidley Austin LLP]] in Washington, DC, and Professor at [[American University]]. She is a member of the Cheshire Public Library Board, Legal Advisor to the [[League of Women Voters|Connecticut League of Women Voters Consensus Project]], Chair of the Board of Trustees for the First Congregational Church of Cheshire, lay member of the Committee on Ministry New Haven Association of the [[United Church of Christ]], and a member of the Parent-Teacher Association.<ref>http://votesmart.org/candidate/biography/72826</ref>
+
+==Connecticut House of Representatives==
+
+===Elections===
+In 2008, she challenged Republican State Representative [[Alfred Adinolfi]] of Connecticut's 103rd Assembly District. She defeated him 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=455786</ref> In 2010, Adinolfi challenged her in a rematch and defeated her 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=664825</ref>
+
+===Tenure===
+She opposed Governor [[Jodi Rell]]'s proposal to eliminate the state’s Office of Consumer Counsel. She cut her own pay by 10%. When [[aerospace]] manufacturer [[Pratt & Whitney]] closed its Cheshire plant in 2009, Esty was among several politicians who fought to get workers new job placements or early retirement packages. She opposes the [[Capital punishment in Connecticut|death penalty]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/8/</ref>
+
+===Committee assignments===
+*Appropriations Committee
+*Energy and Technology Committee
+*Public Health Committee<ref>http://www.ballotpedia.org/wiki/index.php/Elizabeth_Esty</ref>
+
+==U.S. House of Representatives==
+
+===2012 election===
+{{Main|United States House of Representatives elections in Connecticut, 2012#District 5}}
+In 2012, Democratic U.S. Congressman [[Chris Murphy (politician)|Chris Murphy]] of [[Connecticut's 5th congressional district]] decided to retire in order to run for the U.S. Senate. Esty decided to run. She was endorsed by [[EMILY's List]].<ref>http://atr.rollcall.com/connecticut-elizabeth-esty-wins-5th-district-democratic-nomination/</ref> She also won the newspaper endorsements from the ''[[New York Times]]'', ''[[Hartford Courant]]'' and the ''[[Torrington, Connecticut|Torrington Register-Citizen]]''. She defeated Daniel Roberti and State House Speaker [[Christopher G. Donovan|Chris Donovan]] in the primary.
+
+In the November 6 [[general election]], Esty defeated State Senator [[Andrew Roraback]] to become the district's next representative.<ref>{{cite web|last=Christoffersen|first=John|title=Democrat Esty wins Conn.'s 5th District seat|url=http://www.sfgate.com/news/article/Democrat-Esty-wins-Conn-s-5th-District-seat-4015182.php|work=sfgate.com|accessdate=8 November 2012}}</ref>  Esty won despite the opposition of New York Mayor [[Michael Bloomberg]] whose PAC channeled over a million dollars to her opponent.<ref>http://politicker.com/2012/11/bloombergs-super-pac-narrowly-misses-most-congressional-targets/</ref>
+
+{{Election box begin no change
+|title = Connecticut 5th Congressional District 2012 <ref name=ConnSS>http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/2012_election_results.pdf</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Elizabeth Esty'''
+| party = Democratic Party (United States)
+| votes = '''146,098'''<ref>Includes 8,609 votes received on the line of the [[Connecticut Working Families Party]], which [[fusion voting|cross-endorsed]]</ref>
+| percentage = '''51.31'''
+}}
+{{Election box candidate with party link no change
+| candidate = Andrew Roraback
+| party = Republican Party (United States)
+| votes = 138,637<ref>Includes 9,710 votes as listed as an Independent on the ballot.</ref>
+| percentage = 48.69
+}}
+{{Election box candidate no change
+| candidate = John Pistone
+| party = Write-In
+| votes = 12
+| percentage = 0.00
+}}
+{{Election box candidate no change
+| candidate = Russ Jaeger
+| party = Write-In
+| votes = 10
+| percentage = 0.00
+}}
+{{Election box total no change
+| votes = 284,757
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Tenure===
+Esty introduced the Collinsville Renewable Energy Promotion Act in February 2013 allow the town of [[Canton, Connecticut]] to take over two lapsed licenses from the [[Federal Energy Regulatory Commission|Federal Energy Regulatory Commission (FERC)]] in order to refurbish two old local dams.<ref>{{cite news|title=Elizabeth Esty's first bill, reintroduced Collinsville dams legislation, passes House|url=http://www.foothillsmediagroup.com/articles/2013/02/18/canton/news/doc51228c29d578e656011125.txt|accessdate=12 April 2013|newspaper=The Avon News|date=February 18, 2013}}</ref>  The dams would be used to produce [[Hydroelectricity|hydroelectric power]].<ref name=316sum>{{cite web|title=H.R 316 - 113th Congress|url=http://beta.congress.gov/bill/113th-congress/house-bill/316|publisher=United States Congress|accessdate=12 April 2013}}</ref>
+
+In May 2013, Esty voted against repeal of the [[Patient Protection and Affordable Care Act]].  She then subsequently voted to delay the individual and business mandates in the law by one year.<ref>{{cite web |title=Esty Statement on Bills to Delay ACA Penalties for One Year |url=http://www.stamfordplus.com/stm/information/nws1/publish/News_1/Esty-Statement-on-Bills-to-Delay-ACA-Penalties-for-One-Year20533.shtml |publisher=StamfordPlus.com |accessdate=7 November 2013}}</ref>
+
+Etsy co-sponsored the [[STEM Education Act of 2014 (H.R. 5031; 113th Congress)]]. She said that "STEM education is critical to preparing our students for high-demand careers in [[engineering]], [[manufacturing]], and [[information technology]]."<ref name=Callahan1>{{cite news|last1=Callahan|first1=Molly|title=House passes Rep. Esty's STEM Education Act|url=http://www.myrecordjournal.com/meriden/meridennews/5036761-129/house-passes-rep-estys-stem-education-act.html|accessdate=16 July 2014|publisher=My Record Journal|date=15 July 2014}}</ref> According to Esty, she frequently hears from "manufactures and small business owners that it's increasingly difficult to find workers with the right skill sets to fill the jobs in demand."
+
+===Committee assignments===
+*'''[[United States House Committee on Science, Space and Technology|Committee on Science, Space and Technology]]'''
+**[[United States House Science Subcommittee on Research|Subcommittee on Research]]
+*'''[[United States House Committee on Transportation and Infrastructure|Committee on Transportation and Infrastructure]]'''
+**[[United States House Transportation Subcommittee on Highways and Transit|Subcommittee on Highways and Transit]]
+**[[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Subcommittee on Railroads, Pipelines, and Hazardous Materials]]
+
+==Personal life==
+Elizabeth Henderson married [[Daniel C. Esty]] in 1984. Several years later, their first child, Sarah, was born while they were working in [[Washington, D.C.]] Elizabeth became a stay-at-home mother. The family moved to Connecticut in 1994 when Dan Esty started the environmental law and policy program at Yale.,<ref>[http://ct5thdistrict.registercitizen.com/elizabeth-esty/5/ Profile of Elizabeth H. Esty]</ref> before accepting appointment as Commissioner of the [[Connecticut Department of Energy and Environmental Protection]] from Governor [[Dannel P. Malloy]] in March 2011 .<ref>{{cite web|author=Department of Environmental Protection |url=http://www.ct.gov/dep/cwp/view.asp?A=4013&Q=474242&depNav_GID=1511 |title=DEP: Governor Malloy Selects Daniel Esty to Head Newly Fused Department of Energy & Environmental Protection |publisher=Ct.gov |date=2011-02-10 |accessdate=2012-06-07}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://esty.house.gov/ Congressman Elizabeth Esty] official U.S. House site
+*[http://www.elizabethesty.com/ Elizabeth Esty for Congress] 
+*{{Dmoz|Regional/North_America/United_States/Connecticut/Government/Federal/US_House_of_Representatives/Elizabeth_Esty_%5BD-5%5D}}
+*{{CongLinks | congbio = E000293 | ballot = Elzabeth_Esty | nndb = | votesmart = 72826 | govtrack = 412524 | opencong = 412524 | rollcall = 46081 | politifact = | fec = H2CT05131 | opensecrets = N00033217 | assets = | legistorm = | followthemoney = 9058 | ontheissues = House/Elizabeth_Esty.htm | congress = elizabeth-esty/2114 | worldcat = | c-span = elizabethesty | imdb = 5530066 | bloomberg = | nyt = | washpo = 13c60a22-4bbb-11e2-8758-b64a2997a921 }}
+
+{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Connecticut|
+  district=5 |
+  before=[[Chris Murphy (politician)|Chris Murphy]] |
+  start=January 3, 2013
+}}
+{{s-prec|usa}}
+{{s-bef|before=[[William Enyart]]<br><small>D-[[Illinois]]}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=378th}}
+{{s-aft|after=[[Lois Frankel]]<br><small>D-[[Florida]]}}
+{{S-end}}
+
+{{CT-FedRep}}
+
+{{Persondata
+| NAME              = Esty, Elizabeth
+| ALTERNATIVE NAMES = Henderson, Elizabeth
+| SHORT DESCRIPTION = Connecticut politician
+| DATE OF BIRTH     = August 25, 1959
+| PLACE OF BIRTH    = [[Oak Park, Illinois]], U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Esty, Elizabeth}}
+[[Category:Living people]]
+[[Category:1959 births]]
+[[Category:Members of the Connecticut House of Representatives]]
+[[Category:Members of the United States House of Representatives from Connecticut]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Connecticut Democrats]]
+[[Category:Harvard University alumni]]
+[[Category:People from West Hartford, Connecticut]]
+[[Category:People from Oak Park, Illinois]]
+[[Category:Women state legislators in Connecticut]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Yale Law School alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]{{Infobox state representative 
+|name         = Elizabeth Esty
+|image        =Elizabeth Esty, Official Portrait, 113th Congress.jpg
+| state=[[Connecticut]]
+| district=[[Connecticut's 5th congressional district|5th]]
+|term_start   = January 3, 2013
+| preceded=[[Chris Murphy (politician)|Chris Murphy]]
+|state_house2 = Connecticut
+|district2    = 103rd
+|term_start2  = January 7, 2009
+|term_end2    = January 5, 2011
+|predecessor2 = [[Al Adinolfi]]
+|successor2   = [[Al Adinolfi]]
+|birth_date   = {{birth date and age|1959|8|25}}
+|birth_place  = [[Oak Park, Illinois]]
+|birthname    = Elizabeth Henderson
+|nationality  = [[United States|American]]
+|party        = [[Democratic Party (United States)|Democratic]]
+|spouse       = [[Daniel C. Esty]]
+|children     = 
+|residence    = [[Cheshire, Connecticut]]
+|alma_mater   = [[Harvard University]] <small>([[Bachelor of Arts|A.B.]])</small> <br /> [[Yale University]] <small>([[Juris Doctor|J.D.]])</small>
+|religion     = [[Congregationalist]]
+|website      = [http://esty.house.gov/ Representative Elizabeth Esty]}}
+
+'''Elizabeth Henderson Esty''' (born August 25, 1959) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CT|5}}.  She is a member of the [[Democratic Party (United States)|Democratic Party]], having been elected on November 6, 2012. Previously she was a member of the [[Connecticut House of Representatives]], representing the 103rd Assembly District, which consisted of [[Cheshire, Connecticut|Cheshire]] and parts of [[Hamden, Connecticut|Hamden]] and [[Wallingford, Connecticut|Wallingford]]. She also served two terms on the Cheshire Town Council.
+
+Esty defeated two challengers in the August 14, 2012, Democratic primary to become the Democratic nominee in [[Connecticut's 5th congressional district]], and on November 6, she defeated challenger [[Andrew Roraback]].
+
+==Early life, education, and career==
+Elizabeth Henderson was born in 1959 in [[Oak Park, Illinois]].<ref>[http://www.rollcall.com/new-members/elizabeth-esty-house-d-conn-5.html]</ref> Her father worked as an engineer in a construction company and the family moved numerous times during her childhood. She was raised in [[Minnesota]] and graduated from [[Winona Senior High School]]. She earned an A.B. from [[Harvard College]] in 1981 and a J.D. from [[Yale Law School]] in 1985. She also studied International Relations at [[L'Institut d'études politiques]] in Paris for a year on a [[Rotary Scholarship]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/</ref> Esty volunteered for [[Planned Parenthood]] in college.<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/4/</ref>
+
+Esty has been a law clerk for a federal judge, a Supreme Court lawyer at [[Sidley Austin LLP]] in Washington, DC, and Professor at [[American University]]. She is a member of the Cheshire Public Library Board, Legal Advisor to the [[League of Women Voters|Connecticut League of Women Voters Consensus Project]], Chair of the Board of Trustees for the First Congregational Church of Cheshire, lay member of the Committee on Ministry New Haven Association of the [[United Church of Christ]], and a member of the Parent-Teacher Association.<ref>http://votesmart.org/candidate/biography/72826</ref>
+
+==Connecticut House of Representatives==
+
+===Elections===
+In 2008, she challenged Republican State Representative [[Alfred Adinolfi]] of Connecticut's 103rd Assembly District. She defeated him 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=455786</ref> In 2010, Adinolfi challenged her in a rematch and defeated her 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=664825</ref>
+
+===Tenure===
+She opposed Governor [[Jodi Rell]]'s proposal to eliminate the state’s Office of Consumer Counsel. She cut her own pay by 10%. When [[aerospace]] manufacturer [[Pratt & Whitney]] closed its Cheshire plant in 2009, Esty was among several politicians who fought to get workers new job placements or early retirement packages. She opposes the [[Capital punishment in Connecticut|death penalty]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/8/</ref>
+
+===Committee assignments===
+*Appropriations Committee
+*Energy and Technology Committee
+*Public Health Committee<ref>http://www.ballotpedia.org/wiki/index.php/Elizabeth_Esty</ref>
+
+==U.S. House of Representatives==
+
+===2012 election===
+{{Main|United States House of Representatives elections in Connecticut, 2012#District 5}}
+In 2012, Democratic U.S. Congressman [[Chris Murphy (politician)|Chris Murphy]] of [[Connecticut's 5th congressional district]] decided to retire in order to run for the U.S. Senate. Esty decided to run. She was endorsed by [[EMILY's List]].<ref>http://atr.rollcall.com/connecticut-elizabeth-esty-wins-5th-district-democratic-nomination/</ref> She also won the newspaper endorsements from the ''[[New York Times]]'', ''[[Hartford Courant]]'' and the ''[[Torrington, Connecticut|Torrington Register-Citizen]]''. She defeated Daniel Roberti and State House Speaker [[Christopher G. Donovan|Chris Donovan]] in the primary.
+
+In the November 6 [[general election]], Esty defeated State Senator [[Andrew Roraback]] to become the district's next representative.<ref>{{cite web|last=Christoffersen|first=John|title=Democrat Esty wins Conn.'s 5th District seat|url=http://www.sfgate.com/news/article/Democrat-Esty-wins-Conn-s-5th-District-seat-4015182.php|work=sfgate.com|accessdate=8 November 2012}}</ref>  Esty won despite the opposition of New York Mayor [[Michael Bloomberg]] whose PAC channeled over a million dollars to her opponent.<ref>http://politicker.com/2012/11/bloombergs-super-pac-narrowly-misses-most-congressional-targets/</ref>
+
+{{Election box begin no change
+|title = Connecticut 5th Congressional District 2012 <ref name=ConnSS>http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/2012_election_results.pdf</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Elizabeth Esty'''
+| party = Democratic Party (United States)
+| votes = '''146,098'''<ref>Includes 8,609 votes received on the line of the [[Connecticut Working Families Party]], which [[fusion voting|cross-endorsed]]</ref>
+| percentage = '''51.31'''
+}}
+{{Election box candidate with party link no change
+| candidate = Andrew Roraback
+| party = Republican Party (United States)
+| votes = 138,637<ref>Includes 9,710 votes as listed as an Independent on the ballot.</ref>
+| percentage = 48.69
+}}
+{{Election box candidate no change
+| candidate = John Pistone
+| party = Write-In
+| votes = 12
+| percentage = 0.00
+}}
+{{Election box candidate no change
+| candidate = Russ Jaeger
+| party = Write-In
+| votes = 10
+| percentage = 0.00
+}}
+{{Election box total no change
+| votes = 284,757
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Tenure===
+Esty introduced the Collinsville Renewable Energy Promotion Act in February 2013 allow the town of [[Canton, Connecticut]] to take over two lapsed licenses from the [[Federal Energy Regulatory Commission|Federal Energy Regulatory Commission (FERC)]] in order to refurbish two old local dams.<ref>{{cite news|title=Elizabeth Esty's first bill, reintroduced Collinsville dams legislation, passes House|url=http://www.foothillsmediagroup.com/articles/2013/02/18/canton/news/doc51228c29d578e656011125.txt|accessdate=12 April 2013|newspaper=The Avon News|date=February 18, 2013}}</ref>  The dams would be used to produce [[Hydroelectricity|hydroelectric power]].<ref name=316sum>{{cite web|title=H.R 316 - 113th Congress|url=http://beta.congress.gov/bill/113th-congress/house-bill/316|publisher=United States Congress|accessdate=12 April 2013}}</ref>
+
+In May 2013, Esty voted against repeal of the [[Patient Protection and Affordable Care Act]].  She then subsequently voted to delay the individual and business mandates in the law by one year.<ref>{{cite web |title=Esty Statement on Bills to Delay ACA Penalties for One Year |url=http://www.stamfordplus.com/stm/information/nws1/publish/News_1/Esty-Statement-on-Bills-to-Delay-ACA-Penalties-for-One-Year20533.shtml |publisher=StamfordPlus.com |accessdate=7 November 2013}}</ref>
+
+Etsy co-sponsored the [[STEM Education Act of 2014 (H.R. 5031; 113th Congress)]]. She said that "STEM education is critical to preparing our students for high-demand careers in [[engineering]], [[manufacturing]], and [[information technology]]."<ref name=Callahan1>{{cite news|last1=Callahan|first1=Molly|title=House passes Rep. Esty's STEM Education Act|url=http://www.myrecordjournal.com/meriden/meridennews/5036761-129/house-passes-rep-estys-stem-education-act.html|accessdate=16 July 2014|publisher=My Record Journal|date=15 July 2014}}</ref> According to Esty, she frequently hears from "manufactures and small business owners that it's increasingly difficult to find workers with the right skill sets to fill the jobs in demand."
+
+===Committee assignments===
+*'''[[United States House Committee on Science, Space and Technology|Committee on Science, Space and Technology]]'''
+**[[United States House Science Subcommittee on Research|Subcommittee on Research]]
+*'''[[United States House Committee on Transportation and Infrastructure|Committee on Transportation and Infrastructure]]'''
+**[[United States House Transportation Subcommittee on Highways and Transit|Subcommittee on Highways and Transit]]
+**[[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Subcommittee on Railroads, Pipelines, and Hazardous Materials]]
+
+==Personal life==
+Elizabeth Henderson married [[Daniel C. Esty]] in 1984. Several years later, their first child, Sarah, was born while they were working in [[Washington, D.C.]] Elizabeth became a stay-at-home mother. The family moved to Connecticut in 1994 when Dan Esty started the environmental law and policy program at Yale.,<ref>[http://ct5thdistrict.registercitizen.com/elizabeth-esty/5/ Profile of Elizabeth H. Esty]</ref> before accepting appointment as Commissioner of the [[Connecticut Department of Energy and Environmental Protection]] from Governor [[Dannel P. Malloy]] in March 2011 .<ref>{{cite web|author=Department of Environmental Protection |url=http://www.ct.gov/dep/cwp/view.asp?A=4013&Q=474242&depNav_GID=1511 |title=DEP: Governor Malloy Selects Daniel Esty to Head Newly Fused Department of Energy & Environmental Protection |publisher=Ct.gov |date=2011-02-10 |accessdate=2012-06-07}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://esty.house.gov/ Congressman Elizabeth Esty] official U.S. House site
+*[http://www.elizabethesty.com/ Elizabeth Esty for Congress] 
+*{{Dmoz|Regional/North_America/United_States/Connecticut/Government/Federal/US_House_of_Representatives/Elizabeth_Esty_%5BD-5%5D}}
+*{{CongLinks | congbio = E000293 | ballot = Elzabeth_Esty | nndb = | votesmart = 72826 | govtrack = 412524 | opencong = 412524 | rollcall = 46081 | politifact = | fec = H2CT05131 | opensecrets = N00033217 | assets = | legistorm = | followthemoney = 9058 | ontheissues = House/Elizabeth_Esty.htm | congress = elizabeth-esty/2114 | worldcat = | c-span = elizabethesty | imdb = 5530066 | bloomberg = | nyt = | washpo = 13c60a22-4bbb-11e2-8758-b64a2997a921 }}
+
+{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Connecticut|
+  district=5 |
+  before=[[Chris Murphy (politician)|Chris Murphy]] |
+  start=January 3, 2013
+}}
+{{s-prec|usa}}
+{{s-bef|before=[[William Enyart]]<br><small>D-[[Illinois]]}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=378th}}
+{{s-aft|after=[[Lois Frankel]]<br><small>D-[[Florida]]}}
+{{S-end}}
+
+{{CT-FedRep}}
+
+{{Persondata
+| NAME              = Esty, Elizabeth
+| ALTERNATIVE NAMES = Henderson, Elizabeth
+| SHORT DESCRIPTION = Connecticut politician
+| DATE OF BIRTH     = August 25, 1959
+| PLACE OF BIRTH    = [[Oak Park, Illinois]], U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Esty, Elizabeth}}
+[[Category:Living people]]
+[[Category:1959 births]]
+[[Category:Members of the Connecticut House of Representatives]]
+[[Category:Members of the United States House of Representatives from Connecticut]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Connecticut Democrats]]
+[[Category:Harvard University alumni]]
+[[Category:People from West Hartford, Connecticut]]
+[[Category:People from Oak Park, Illinois]]
+[[Category:Women state legislators in Connecticut]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Yale Law School alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]{{Infobox state representative 
+|name         = Elizabeth Esty
+|image        =Elizabeth Esty, Official Portrait, 113th Congress.jpg
+| state=[[Connecticut]]
+| district=[[Connecticut's 5th congressional district|5th]]
+|term_start   = January 3, 2013
+| preceded=[[Chris Murphy (politician)|Chris Murphy]]
+|state_house2 = Connecticut
+|district2    = 103rd
+|term_start2  = January 7, 2009
+|term_end2    = January 5, 2011
+|predecessor2 = [[Al Adinolfi]]
+|successor2   = [[Al Adinolfi]]
+|birth_date   = {{birth date and age|1959|8|25}}
+|birth_place  = [[Oak Park, Illinois]]
+|birthname    = Elizabeth Henderson
+|nationality  = [[United States|American]]
+|party        = [[Democratic Party (United States)|Democratic]]
+|spouse       = [[Daniel C. Esty]]
+|children     = 
+|residence    = [[Cheshire, Connecticut]]
+|alma_mater   = [[Harvard University]] <small>([[Bachelor of Arts|A.B.]])</small> <br /> [[Yale University]] <small>([[Juris Doctor|J.D.]])</small>
+|religion     = [[Congregationalist]]
+|website      = [http://esty.house.gov/ Representative Elizabeth Esty]}}
+
+'''Elizabeth Henderson Esty''' (born August 25, 1959) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|CT|5}}.  She is a member of the [[Democratic Party (United States)|Democratic Party]], having been elected on November 6, 2012. Previously she was a member of the [[Connecticut House of Representatives]], representing the 103rd Assembly District, which consisted of [[Cheshire, Connecticut|Cheshire]] and parts of [[Hamden, Connecticut|Hamden]] and [[Wallingford, Connecticut|Wallingford]]. She also served two terms on the Cheshire Town Council.
+
+Esty defeated two challengers in the August 14, 2012, Democratic primary to become the Democratic nominee in [[Connecticut's 5th congressional district]], and on November 6, she defeated challenger [[Andrew Roraback]].
+
+==Early life, education, and career==
+Elizabeth Henderson was born in 1959 in [[Oak Park, Illinois]].<ref>[http://www.rollcall.com/new-members/elizabeth-esty-house-d-conn-5.html]</ref> Her father worked as an engineer in a construction company and the family moved numerous times during her childhood. She was raised in [[Minnesota]] and graduated from [[Winona Senior High School]]. She earned an A.B. from [[Harvard College]] in 1981 and a J.D. from [[Yale Law School]] in 1985. She also studied International Relations at [[L'Institut d'études politiques]] in Paris for a year on a [[Rotary Scholarship]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/</ref> Esty volunteered for [[Planned Parenthood]] in college.<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/4/</ref>
+
+Esty has been a law clerk for a federal judge, a Supreme Court lawyer at [[Sidley Austin LLP]] in Washington, DC, and Professor at [[American University]]. She is a member of the Cheshire Public Library Board, Legal Advisor to the [[League of Women Voters|Connecticut League of Women Voters Consensus Project]], Chair of the Board of Trustees for the First Congregational Church of Cheshire, lay member of the Committee on Ministry New Haven Association of the [[United Church of Christ]], and a member of the Parent-Teacher Association.<ref>http://votesmart.org/candidate/biography/72826</ref>
+
+==Connecticut House of Representatives==
+
+===Elections===
+In 2008, she challenged Republican State Representative [[Alfred Adinolfi]] of Connecticut's 103rd Assembly District. She defeated him 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=455786</ref> In 2010, Adinolfi challenged her in a rematch and defeated her 51%-49%.<ref>http://www.ourcampaigns.com/RaceDetail.html?RaceID=664825</ref>
+
+===Tenure===
+She opposed Governor [[Jodi Rell]]'s proposal to eliminate the state’s Office of Consumer Counsel. She cut her own pay by 10%. When [[aerospace]] manufacturer [[Pratt & Whitney]] closed its Cheshire plant in 2009, Esty was among several politicians who fought to get workers new job placements or early retirement packages. She opposes the [[Capital punishment in Connecticut|death penalty]].<ref>http://ct5thdistrict.registercitizen.com/elizabeth-esty/8/</ref>
+
+===Committee assignments===
+*Appropriations Committee
+*Energy and Technology Committee
+*Public Health Committee<ref>http://www.ballotpedia.org/wiki/index.php/Elizabeth_Esty</ref>
+
+==U.S. House of Representatives==
+
+===2012 election===
+{{Main|United States House of Representatives elections in Connecticut, 2012#District 5}}
+In 2012, Democratic U.S. Congressman [[Chris Murphy (politician)|Chris Murphy]] of [[Connecticut's 5th congressional district]] decided to retire in order to run for the U.S. Senate. Esty decided to run. She was endorsed by [[EMILY's List]].<ref>http://atr.rollcall.com/connecticut-elizabeth-esty-wins-5th-district-democratic-nomination/</ref> She also won the newspaper endorsements from the ''[[New York Times]]'', ''[[Hartford Courant]]'' and the ''[[Torrington, Connecticut|Torrington Register-Citizen]]''. She defeated Daniel Roberti and State House Speaker [[Christopher G. Donovan|Chris Donovan]] in the primary.
+
+In the November 6 [[general election]], Esty defeated State Senator [[Andrew Roraback]] to become the district's next representative.<ref>{{cite web|last=Christoffersen|first=John|title=Democrat Esty wins Conn.'s 5th District seat|url=http://www.sfgate.com/news/article/Democrat-Esty-wins-Conn-s-5th-District-seat-4015182.php|work=sfgate.com|accessdate=8 November 2012}}</ref>  Esty won despite the opposition of New York Mayor [[Michael Bloomberg]] whose PAC channeled over a million dollars to her opponent.<ref>http://politicker.com/2012/11/bloombergs-super-pac-narrowly-misses-most-congressional-targets/</ref>
+
+{{Election box begin no change
+|title = Connecticut 5th Congressional District 2012 <ref name=ConnSS>http://www.sots.ct.gov/sots/lib/sots/electionservices/electionresults/2012/2012_election_results.pdf</ref>
+}}
+{{Election box candidate with party link no change
+| candidate = '''Elizabeth Esty'''
+| party = Democratic Party (United States)
+| votes = '''146,098'''<ref>Includes 8,609 votes received on the line of the [[Connecticut Working Families Party]], which [[fusion voting|cross-endorsed]]</ref>
+| percentage = '''51.31'''
+}}
+{{Election box candidate with party link no change
+| candidate = Andrew Roraback
+| party = Republican Party (United States)
+| votes = 138,637<ref>Includes 9,710 votes as listed as an Independent on the ballot.</ref>
+| percentage = 48.69
+}}
+{{Election box candidate no change
+| candidate = John Pistone
+| party = Write-In
+| votes = 12
+| percentage = 0.00
+}}
+{{Election box candidate no change
+| candidate = Russ Jaeger
+| party = Write-In
+| votes = 10
+| percentage = 0.00
+}}
+{{Election box total no change
+| votes = 284,757
+| percentage = 100.0
+}}
+{{Election box end}}
+
+===Tenure===
+Esty introduced the Collinsville Renewable Energy Promotion Act in February 2013 allow the town of [[Canton, Connecticut]] to take over two lapsed licenses from the [[Federal Energy Regulatory Commission|Federal Energy Regulatory Commission (FERC)]] in order to refurbish two old local dams.<ref>{{cite news|title=Elizabeth Esty's first bill, reintroduced Collinsville dams legislation, passes House|url=http://www.foothillsmediagroup.com/articles/2013/02/18/canton/news/doc51228c29d578e656011125.txt|accessdate=12 April 2013|newspaper=The Avon News|date=February 18, 2013}}</ref>  The dams would be used to produce [[Hydroelectricity|hydroelectric power]].<ref name=316sum>{{cite web|title=H.R 316 - 113th Congress|url=http://beta.congress.gov/bill/113th-congress/house-bill/316|publisher=United States Congress|accessdate=12 April 2013}}</ref>
+
+In May 2013, Esty voted against repeal of the [[Patient Protection and Affordable Care Act]].  She then subsequently voted to delay the individual and business mandates in the law by one year.<ref>{{cite web |title=Esty Statement on Bills to Delay ACA Penalties for One Year |url=http://www.stamfordplus.com/stm/information/nws1/publish/News_1/Esty-Statement-on-Bills-to-Delay-ACA-Penalties-for-One-Year20533.shtml |publisher=StamfordPlus.com |accessdate=7 November 2013}}</ref>
+
+Etsy co-sponsored the [[STEM Education Act of 2014 (H.R. 5031; 113th Congress)]]. She said that "STEM education is critical to preparing our students for high-demand careers in [[engineering]], [[manufacturing]], and [[information technology]]."<ref name=Callahan1>{{cite news|last1=Callahan|first1=Molly|title=House passes Rep. Esty's STEM Education Act|url=http://www.myrecordjournal.com/meriden/meridennews/5036761-129/house-passes-rep-estys-stem-education-act.html|accessdate=16 July 2014|publisher=My Record Journal|date=15 July 2014}}</ref> According to Esty, she frequently hears from "manufactures and small business owners that it's increasingly difficult to find workers with the right skill sets to fill the jobs in demand."
+
+===Committee assignments===
+*'''[[United States House Committee on Science, Space and Technology|Committee on Science, Space and Technology]]'''
+**[[United States House Science Subcommittee on Research|Subcommittee on Research]]
+*'''[[United States House Committee on Transportation and Infrastructure|Committee on Transportation and Infrastructure]]'''
+**[[United States House Transportation Subcommittee on Highways and Transit|Subcommittee on Highways and Transit]]
+**[[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Subcommittee on Railroads, Pipelines, and Hazardous Materials]]
+
+==Personal life==
+Elizabeth Henderson married [[Daniel C. Esty]] in 1984. Several years later, their first child, Sarah, was born while they were working in [[Washington, D.C.]] Elizabeth became a stay-at-home mother. The family moved to Connecticut in 1994 when Dan Esty started the environmental law and policy program at Yale.,<ref>[http://ct5thdistrict.registercitizen.com/elizabeth-esty/5/ Profile of Elizabeth H. Esty]</ref> before accepting appointment as Commissioner of the [[Connecticut Department of Energy and Environmental Protection]] from Governor [[Dannel P. Malloy]] in March 2011 .<ref>{{cite web|author=Department of Environmental Protection |url=http://www.ct.gov/dep/cwp/view.asp?A=4013&Q=474242&depNav_GID=1511 |title=DEP: Governor Malloy Selects Daniel Esty to Head Newly Fused Department of Energy & Environmental Protection |publisher=Ct.gov |date=2011-02-10 |accessdate=2012-06-07}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://esty.house.gov/ Congressman Elizabeth Esty] official U.S. House site
+*[http://www.elizabethesty.com/ Elizabeth Esty for Congress] 
+*{{Dmoz|Regional/North_America/United_States/Connecticut/Government/Federal/US_House_of_Representatives/Elizabeth_Esty_%5BD-5%5D}}
+*{{CongLinks | congbio = E000293 | ballot = Elzabeth_Esty | nndb = | votesmart = 72826 | govtrack = 412524 | opencong = 412524 | rollcall = 46081 | politifact = | fec = H2CT05131 | opensecrets = N00033217 | assets = | legistorm = | followthemoney = 9058 | ontheissues = House/Elizabeth_Esty.htm | congress = elizabeth-esty/2114 | worldcat = | c-span = elizabethesty | imdb = 5530066 | bloomberg = | nyt = | washpo = 13c60a22-4bbb-11e2-8758-b64a2997a921 }}
+
+{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Connecticut|
+  district=5 |
+  before=[[Chris Murphy (politician)|Chris Murphy]] |
+  start=January 3, 2013
+}}
+{{s-prec|usa}}
+{{s-bef|before=[[William Enyart]]<br><small>D-[[Illinois]]}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=378th}}
+{{s-aft|after=[[Lois Frankel]]<br><small>D-[[Florida]]}}
+{{S-end}}
+
+{{CT-FedRep}}
+
+{{Persondata
+| NAME              = Esty, Elizabeth
+| ALTERNATIVE NAMES = Henderson, Elizabeth
+| SHORT DESCRIPTION = Connecticut politician
+| DATE OF BIRTH     = August 25, 1959
+| PLACE OF BIRTH    = [[Oak Park, Illinois]], U.S.
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Esty, Elizabeth}}
+[[Category:Living people]]
+[[Category:1959 births]]
+[[Category:Members of the Connecticut House of Representatives]]
+[[Category:Members of the United States House of Representatives from Connecticut]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Connecticut Democrats]]
+[[Category:Harvard University alumni]]
+[[Category:People from West Hartford, Connecticut]]
+[[Category:People from Oak Park, Illinois]]
+[[Category:Women state legislators in Connecticut]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Yale Law School alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]

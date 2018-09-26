@@ -1,0 +1,175 @@
+{{for|the radio host|Tom Martino}}
+{{Infobox Congressman
+| name          = Tom Marino
+| image         = Tom_Marino_Official_Portrait,_112th_Congress.jpg
+| state         = [[Pennsylvania]]
+| district      = [[Pennsylvania's 10th congressional district|10th]]
+| term_start    = January 3, 2011
+| term_end      =
+| preceded      = [[Chris Carney]]
+| successor     = 
+| office2       = [[United States District Court for the Middle District of Pennsylvania|United States Attorney for the<br>Middle District of Pennsylvania]]
+| term_start2   = 2002
+| term_end2     = 2007
+| nominator2    = [[George W. Bush]]
+| preceded2     = David Barasch
+| succeeded2    = Martin Carlson
+| office3       = [[District Attorney]]<br>of [[Lycoming County, Pennsylvania|Lycoming County]]
+| term_start3   = 1992
+| term_end3     = 2002
+| preceded3     = [[Brett Feese]]
+| succeeded3    = Michael Dinges
+| party         = [[Republican Party (United States)|Republican]]
+| birth_name    = Thomas Anthony Marino
+| birth_date    = {{birth date and age|1952|8|13}}<ref name=CQRollGuide>{{cite news | title = Guide to the New Congress | date = 2010-11-04 | url = http://innovation.cq.com/newmember/2010elexnguide.pdf | work = [[Roll Call|CQ Roll Call]] | accessdate = 2010-11-24}}</ref>
+| birth_place   = [[Williamsport, Pennsylvania|Williamsport]], [[Pennsylvania]], [[United States|USA]]<ref name="CQRollGuide" />
+| death_date    =
+| death_place   =
+| alma_mater    = [[Lycoming College]], <small>[[Bachelor of Arts|B.A.]]</small><br>[[Dickinson School of Law]], <small>[[Juris Doctor|J.D.]]</small>
+| profession    = [[Politician]]
+| spouse        = Edie Marino
+| children      = Two
+| residence     = [[Lycoming Township, Pennsylvania]], U.S.
+| religion      = [[Roman Catholic]]
+}}
+
+'''Thomas Anthony Marino''' (born August 13, 1952) is an [[United States|American]] politician and attorney. He is currently serving his third term as the [[United States House of Representatives|U.S. Representative]] for {{ushr|PA|10}}. He is a member of the [[Republican Party (United States)|Republican Party]].
+
+==Early life and education==
+Marino was born and raised in [[Lycoming County, Pennsylvania]].<ref>{{cite web|url=http://dailyitem.com/0100_news/x1324602326/Marino-wants-less-government-lower-taxes|title=Marino wants less government, lower taxes|publisher=[[The Daily Item (Sunbury)|The Daily Item]]|date=2010-10-12|accessdate=2014-02-04}}</ref> After graduating from High School, Marino went to work in the factories of Central Pennsylvania. At 30 years old, Marino enrolled in the former Williamsport Area Community College. Marino would then transfer to Lycoming College, where he graduated ''magna cum laude'', before completing his law degree at Dickinson School of Law. He received his undergraduate degree from [[Lycoming College]] and his [[juris doctor]] from [[Dickinson School of Law]].<ref>{{cite web|url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001179|title=MARINO, Thomas A., (1952 – )|publisher=[[Biographical Directory of the United States Congress]]|accessdate=November 6, 2012}}</ref>
+
+==Law career==
+Marino served as a Lycoming County District Attorney from 1992–2002.  In 2002, Tom was appointed the United States Attorney for the Middle District of Pennsylvania by President George W. Bush.
+
+==U.S. House of Representatives==
+
+=== District ===
+The district, located in central and northeastern Pennsylvania, includes Bradford County, Juniata County, Lycoming County, Mifflin County, Pike County, Snyder County, Sullivan County, Susquehanna County, Union County, Wayne County, and portions of Perry County, Tioga County, Lackawanna County, Monroe County, and Northumberland County.
+
+===Elections===
+;2010
+{{See also|United States House of Representatives elections in Pennsylvania, 2010#District 10}}
+
+In 2010, Marino decided to challenge incumbent Democrat U.S. Congressman [[Chris Carney]] of [[Pennsylvania's 10th congressional district]]. He won the three-candidate Republican primary with 41% of the vote, defeating Dave Madeira (31%) and [[Snyder County, Pennsylvania|Snyder County]] [[County commission|Commissioner]] [[Malcolm Derk]] (28%).<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=494785|title=PA – District 10 – R Primary Race – May 18, 2010|publisher=Our Campaigns|date=|accessdate=2014-02-04}}</ref> On November 2, 2010, Marino defeated Carney 55-45%.
+
+{{Election box begin|title=2010 10th Congressional District of Pennsylvania Elections}}
+{{Election box candidate with party link
+  |party=Republican Party (US)|candidate=Tom Marino|votes=109,603|percentage=55|change=}}
+{{Election box candidate with party link
+  |party=Democratic Party (US)|candidate=[[Chris Carney]] (incumbent)|votes=89,170|percentage=45|change=}}
+{{Election box end}}
+;2012
+{{See also|United States House of Representatives elections in Pennsylvania, 2012#District 10}}
+
+Tom Marino won re-election to a second term, defeating Democratic nominee Philip Scollo 66%–34%.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=705248|title=PA – District 10 Race – Nov 06, 2012|publisher=Our Campaigns|date=|accessdate=2014-02-04}}</ref>
+
+{{Election box begin|title=2012 10th Congressional District of Pennsylvania Elections}}
+{{Election box candidate with party link
+  |party=Republican Party (US)|candidate=Tom Marino (incumbent)|votes=179,563|percentage=65.6|change=}}
+{{Election box candidate with party link
+  |party=Democratic Party (US)|candidate=[[Phil Scollo]]|votes=94,227|percentage=34.4|change=}}
+{{Election box end}}<dl role="note">
+;2014</dl>
+Congressman Marino faced off against Independent Nick Troiano and Democrat Scott Brion. Marino garnered 62% of the vote; Troiano got 13%; Brion got 25%.<ref>{{cite web|url=http://www.politico.com/2014-election/results/map/house/pennsylvania/#.VGYlP0td8ds|publisher=Politico|date=|accessdate=2014-11-12}}</ref>
+
+{{Election box begin|title=2014 10th Congressional District of Pennsylvania Elections}}
+{{Election box candidate with party link
+  |party=Republican Party (US)|candidate=Tom Marino (incumbent)|votes=112,851|percentage=62.6|change=}}
+{{Election box candidate with party link|candidate=[[Scott Brion]]|party=Democratic Party (US)|percentage=24.8|votes=44,737|change=}}{{Election box candidate with party link
+  |party=|candidate=[[Nick Troiano]]|votes=22,734|percentage=12.6|change=}}
+{{Election box end}}
+
+===Political Positions===
+Marino is one of the most conservative members of the Pennsylvania delegation. He ranked third among PA members in [[Americans for Prosperity]]’s scorecard (70%) and fifth in [[Club for Growth]]'s scorecard (63%).<ref>{{cite web|url=http://www.politicspa.com/exclusive-bradford-commissioner-might-primary-marino/46434/|title=Exclusive: Bradford Commissioner Might Primary Marino|date=2013-03-05|publisher=PoliticsPA|accessdate=2014-02-04}}</ref>
+* He's the co-chair of the Congressional Caucus on Foster Youth <ref>{{cite web|title=Congressional Caucus on Foster Youth|url=http://fosteryouthcaucus-karenbass.house.gov/|website=http://fosteryouthcaucus-karenbass.house.gov/|accessdate=12 November 2014}}</ref> and co-chair of the Cystic Fibrosis Caucus.<ref>{{cite web|title=Cystic Fibrosis Caucus|url=http://www.cff.org/GetInvolved/Advocate/CFCaucus//|website=http://www.cff.org/GetInvolved/Advocate/CFCaucus/|accessdate=12 November 2014}}</ref>
+
+In 2011, Rep. Marino became a co-sponsor of Bill H.R.3261 otherwise known as the [[Stop Online Piracy Act]].<ref name="govtrack">[http://www.govtrack.us/congress/bill.xpd?bill=h112-3261 Bill H.R.3261]</ref>
+
+Marino supports the [[Death penalty]]. He believes that the mentally ill and criminals should not be able to obtain [[Firearms law|guns]].<ref>{{cite web|last=Brady|first=Chris|url=http://www.standard-journal.com/news/local/article_23e4f56c-960c-11e2-99b7-001a4bcf887a.html|title=Marino: Keep guns away from mentally ill, felons|publisher=standard-journal.com|date=2013-03-26|accessdate=2014-02-04}}</ref>
+
+In July 2012, Marino introduced a bill to help fund local and state governments, about $800 million per year, to sustain various law enforcement activities such as prosecution, prevention, education, training, and corrections called the "[[Edward Byrne (police officer)|Edward Byrne]] Memorial Justice Assistance Grant Program Reauthorization Act of 2012". Marino said, "Local law enforcement agencies and officials need nothing less than our full support in combating crime on every level".<ref>{{cite web|url=http://marino.house.gov/press-release/house-passes-byrne-jag-program|title=House Passes Byrne-JAG Program &#124; Congressman Thomas Marino|publisher=Marino.house.gov|date=2012-08-02|accessdate=2014-02-04}}</ref><ref>{{cite web|url=http://marino.house.gov/press-release/rep-calls-bureau-prisons-make-improvements|title=Rep. Calls on Bureau of Prisons to Make Improvements &#124; Congressman Thomas Marino|publisher=Marino.house.gov|date=2013-03-15|accessdate=2014-02-04}}</ref>
+
+In July 2013, Marino voted "NO" to Rep. [[Justin Amash]]'s amendment #413 to H.R. 2397 "To end authority for the blanket collection of records under the [[Patriot Act]] and bar the NSA and other agencies from using Section 215 of the Patriot Act to collect records, including telephone call records, that pertain to persons who are not subject to an investigation under Section 215"<ref>{{cite web|url=http://www.govtrack.us/congress/votes/113-2013/h412|title=H.Amdt. 413 (Amash) to H.R. 2397: Amendment sought to end authority for the blanket collection of records under the Patriot ...|publisher=GovTrack.us|date=2013-07-24|accessdate=2014-02-04}}</ref> which Rep. [[Jim Sensenbrenner]], an author of the Patriot Act, considers un-American.<ref>{{cite web|url=http://www.huffingtonpost.com/2013/06/06/jim-sensenbrenner-nsa_n_3397440.html|title=Jim Sensenbrenner, Patriot Act Author, Slams 'Un-American' NSA Verizon Phone Records Grab|publisher=[[HuffPo]]|date=|accessdate=2014-02-04}}</ref>
+
+===Legislation===
+As of May 2016, Tom Marino has sponsored 40 bills, none of which have become law.<ref>{{Cite web|url=https://www.congress.gov/member/tom-marino/M001179?pageSize=250|title=Tom Marino|last=Marino|first=Tom|website=www.congress.gov|access-date=2016-05-08}}</ref>
+
+Marino introduced H.J.Res. 40 on March 26, 2015. This bill proposes an amendment to the U.S. Constitution to require that each law enacted by Congress be limited to only one subject and that the subject be clearly and descriptively expressed in the title of the law.
+
+Marino introduced the Animal Fighting Spectator Prohibition Act of 2013. After multiple committee considerations, the bill was in part added as an amendment in the ''Federal Agriculture Reform and Risk Management Act (FARRM Act),'' which was signed into law by President Obama in February 2014.<ref name="marinoforcongress">{{cite news|title=Marino's animal fighting bill signed into law|url=http://marino.house.gov/press-release/marinos-animal-fighting-bill-signed-law|accessdate=12 November 2014}}</ref>
+
+Marino introduced the [[Responsibly And Professionally Invigorating Development Act of 2013 (H.R. 2641; 113th Congress)|Responsibly And Professionally Invigorating Development Act of 2013]] into the House.<ref name="2641sum">{{cite web|title=H.R. 2641 – Summary|url=http://beta.congress.gov/bill/113th-congress/house-bill/2641|publisher=United States Congress|accessdate=6 March 2014}}</ref> Marino introduced this same bill in the 114th Congress. The bill aims to expedite the review process required by the [[National Environmental Policy Act]] (NEPA) for construction projects that are partly or fully financed with federal funds or require permits or approvals from federal regulatory agencies.<ref name="2641cbo">{{cite web|title=H.R. 2641 – CBO|url=http://www.cbo.gov/publication/44534|publisher=Congressional Budget Office|accessdate=6 March 2014}}</ref>
+
+===Committees===
+* '''[[United States House Committee on the Judiciary|Committee on the Judiciary]]'''
+** [https://judiciary.house.gov/subcommittee/subcommittee-on-regulatory-reform-commercial-and-antitrust-law/ Chairman of the Subcommittee on Regulatory Reform, Commercial and Antitrust Law]
+** [https://judiciary.house.gov/subcommittee/subcommittee-on-courts-intellectual-property-and-the-internet/ Subcommittee on Courts, Intellectual Property and the Internet]
+* '''[[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]]'''
+** [https://foreignaffairs.house.gov/subcommittee/asia-and-the-pacific/ Subcommittee on Asia and the Pacific]
+** [[United States House Foreign Affairs Subcommittee on Europe and Eurasia|Subcommittee on Europe and Eurasia]]
+* '''[[United States House Committee on Homeland Security|Committee on Homeland Security]]'''
+** [[United States House Homeland Security Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies|Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies]]
+** [[United States House Homeland Security Subcommittee on Emergency Preparedness, Response, and Communications|Subcommittee on Emergency Preparedness, Response, and Communications]] (Vice Chair)
+
+== Resignation from U.S Attorney's Office ==
+In 2007, Marino resigned from office of U.S. Attorney for the Middle District of Pennsylvania.  Anonymous sources claimed that Marino resigned his position while under review by the Department of Justice<ref>{{cite news|last1=Birkbeck|first1=Matt|title=Source: Marino resigned while under review|url=http://articles.mcall.com/2010-10-01/news/mc-marino-investigation-20101001_1_denaples-investigations-marino-democrat-chris-carney|accessdate=1 October 2010|publisher=The Morning Call}}</ref>  In 2007, the current US Attorney for the Middle District of PA, Peter Smith confirmed that neither Marino, nor his office, were ever under review or investigation<ref name="Marino calls accusations 'lies'">{{cite news|last1=Scarcella|first1=Francis|title=Marino calls accusations 'lies'|url=http://www.dailyitem.com/news/marino-calls-accusations-lies/article_a6f77f96-6618-11e4-b6f2-ef69c0a20f69.html|accessdate=6 November 2014|publisher=Sunbury Daily Item}}</ref>  "At no time was Marino under investigation by the Justice Department,” said Smith<ref name="Marino calls accusations 'lies'"/>  After his resignation in 2007, Marino accepted a position as an in-house attorney for DeNaples Management.
+
+==Personal life==
+Marino resides outside [[Williamsport, Pennsylvania|Williamsport]], Pennsylvania, with his wife, Edie, and his two children.<ref>{{Cite web|url=http://www.marinoforuscongress.com/index.php?option=com_content&view=article&id=22&Itemid=28|title=Marino for US Congress|deadurl=yes|archiveurl=https://web.archive.org/web/20101130163334/http://www.marinoforuscongress.com/index.php?option=com_content&view=article&id=22&Itemid=28|archivedate=November 30, 2010}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://marino.house.gov/ Congressman Tom Marino] official U.S. House site
+*[http://www.marinoforuscongress.com/ Tom Marino for Congress]
+* {{Dmoz|Regional/North_America/United_States/Pennsylvania/Government/Federal/US_House_of_Representatives/Tom_Marino_%5BR-10%5D}}
+* {{C-SPAN|tommarino}}
+{{CongLinks |congbio=M001179|ballot=Tom_Marino|nndb=273/000265475|votesmart=119478|govtrack=412468|opencong=412468|rollcall=31260|politifact=|fec=H0PA10078|opensecrets=N00031777|assets=thomas-marino|legistorm=2789/Rep_Thomas_Marino_PA.html|followthemoney=|ontheissues=PA/Tom_Marino.htm|congress=tom-marino/2053|worldcat=|c-span=tommarino|imdb=|bloomberg=|nyt=|washpo=gIQAjRiXKP}}
+
+{{s-start}}
+{{S-par|us-hs}}
+{{USRepSuccessionBox|state=Pennsylvania|district=10|before=[[Chris Carney]]|after=Incumbent|years=2011–present}}
+{{s-legal}}
+{{succession box
+| title = [[United States District Court for the Middle District of Pennsylvania|U.S. Attorney for the Middle District of Pennsylvania]]
+| years = 2002–2007
+| before = [[David Barasch]]
+| after = [[Martin C. Carlson|Martin Carlson]]
+}}
+{{succession box
+| title = [[Lycoming County, Pennsylvania|District Attorney of Lycoming County]]
+| years = 1992–2002
+| before = [[Brett Feese]]
+| after = [[Michael A. Dinges|Michael Dinges]]
+}}
+{{s-prec|usa}}
+{{s-bef
+| before = [[Billy Long]]<br><small>R-[[Missouri]]</small>
+}}
+{{s-ttl
+| title = ''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''
+| years = 266th
+}}
+{{s-aft
+| after = [[David McKinley]]<br><small>R-[[West Virginia]]</small>
+}}
+{{s-end}}
+
+{{PA-FedRep}}
+{{USHouseCurrent}}
+
+{{DEFAULTSORT:Marino, Tom}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:People from Lycoming County, Pennsylvania]]
+[[Category:United States Attorneys for the Middle District of Pennsylvania]]
+[[Category:Pennsylvania Republicans]]
+[[Category:Members of the United States House of Representatives from Pennsylvania]]
+[[Category:American people of Italian descent]]
+[[Category:Pennsylvania lawyers]]
+[[Category:District attorneys in Pennsylvania]]
+[[Category:Dickinson School of Law alumni]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:20th-century American lawyers]]
+[[Category:21st-century American politicians]]

@@ -1,0 +1,472 @@
+{{Use mdy dates|date=December 2013}}
+{{Infobox Congressman
+|name          = Ralph Hall
+|image         = Ralph Hall, official photo portrait, color.jpg
+|birth_name    = Ralph Moody Hall
+|birth_date    = {{birth date and age|1923|5|3}}
+|birth_place   = [[Fate, Texas|Fate]], [[Texas]], U.S.
+|state1        = [[Texas]]
+|district1     = [[Texas's 4th congressional district|4th]]
+|term_start1   = January 3, 1981
+|term_end1     = <!--January 3, 2015-->
+|preceded1     = [[Ray Roberts]]
+|succeeded1    = [[John Ratcliffe (American politician)|John Ratcliffe]] (elect)
+|office2       = Chairman of the [[United States House Committee on Science, Space and Technology|House Committee on Science, Space and Technology]]
+|term_start2   = January 3, 2011
+|term_end2     = January 3, 2013
+|preceded2     = [[Bart Gordon]]
+|succeeded2    = [[Lamar S. Smith]]
+|state_senate3 = Texas
+|district3     = 9th<ref name="state1">{{cite web |url=http://www.lrl.state.tx.us/legeLeaders/members/memberDisplay.cfm?memberID=707&searchparams=chamber=S~city=~countyID=0~RcountyID=~district=~first=Ralph~gender=m~last=Hall~leaderNote=~leg=~party=~roleDesc=~Committee= |title=Legislative Reference Library &#124; Legislators and Leaders &#124; Member profile |publisher=Lrl.state.tx.us |accessdate= December 26, 2013}}</ref>
+|term_start3   = January 8, 1963
+|term_end3     = January 9, 1973
+|preceded3     = [[Ray Roberts]]
+|succeeded3    = Ron Clower
+|party         = [[Republican Party (United States)|Republican]] (since 2004)<br/> [[Democratic Party (United States)|Democratic]] (1950–2004)
+|spouse        = Mary Ellen Hall (1944–2008, her death)
+|children      = Hampton Hall<br/> Brett Hall<br/> Blakeley Hall
+|religion      = [[Methodist]]
+|alma_mater    = [[Southern Methodist University]]
+|residence     = [[Rockwall, Texas|Rockwall]], [[Texas]], U.S.
+|occupation    = Attorney
+|branch        = [[United States Navy]]
+|rank          = [[Lieutenant]]
+|serviceyears  = 1942–1945
+|battles       = [[World War II]]
+}}
+
+'''Ralph Moody Hall''' (born May 3, 1923) is a [[United States Representative]] from {{ushr|Texas|4|}}. First elected in [[United States House elections, 1980|1980]], he is the dean of the [[United States Congressional Delegations from Texas|Texas congressional delegation]] and was the chairman of the [[United States House Committee on Science, Space and Technology|House Committee on Science, Space and Technology]] from 2011 to 2013. He is also a member of the [[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]. In 2004, he switched to the [[Republican Party (US)|Republican Party]] after having been a member of the [[Democratic Party (US)|Democratic Party]] for more than 50 years.
+
+At {{age|1923|5|3}}, he is the [[list of current members of the United States House of Representatives by age|oldest serving member]] of [[United States Congress|Congress]], the oldest person to ever serve in the House of Representatives, the oldest person ever elected to a House term and the oldest House member ever to cast a vote. He and the soon-to-retire<ref>{{cite news|last=Finley |first=Nolan |title=Michigan's Dingell won't seek re-election to Congress|url=http://www.detroitnews.com/article/20140224/POLITICS02/302240051 |newspaper=The Detroit News|date=February 24, 2014}}</ref> Michigan Congressman [[John Dingell]] are the last two [[Surviving U.S. veterans of World War II|World War II veterans]] serving in Congress.{{Update after|2015|1|2}}<ref>{{cite news | first = Chris | last = Good | publisher = [[ABC News]] | url = http://abcnews.go.com/blogs/politics/2013/06/frank-lautenberg-and-senate-link-to-ww-ii-laid-to-rest/ | title = Frank Lautenberg and Senate Link to WW II Laid to Rest | date = June 7, 2013 | accessdate = June 7, 2013 }}</ref>
+
+On March 6, 2014, Hall was challenged in the Republican primary by five other Republicans.<ref name="TXObs03122014"/><ref name= "TXSecState03062014"/> Hall received 45.42% of the vote, which was under 50%, the amount required to avoid a runoff election.<ref name= "TXObs03122014"/><ref name="TXSecState03062014"/> In the runoff, Hall faced former [[United States Attorney|U.S. Attorney]] [[John Ratcliffe (American politician)|John Ratcliffe]], who finished second in the primary with 28.77% of the vote.<ref name= "TXObs03122014">Hooks, Christopher. [http://www.texasobserver.org/ralph-halls-primary-challenge-sign-changing-times/ Texas Congressman Ralph Hall, 34 Year Incumbent, Hits a Rough Patch], ''[[Texas Observer]]'', March 12, 2014.</ref><ref name="TXSecState03062014">[https://team1.sos.state.tx.us/enr/results/mar04_169_state.htm?x=0&y=0&id=189 Office of the Secretary of State, 2014 Republican Party Primary Election, Election Night Returns], March 6, 2014</ref> On May 27, 2014, Ratcliffe defeated Hall in the runoff election, 53% to 47%.<ref>{{cite web |url=http://trailblazersblog.dallasnews.com/2014/05/u-s-rep-ralph-hall-91-battles-john-ratcliffe-for-final-term.html/ |title=Oldest congressman, Ralph Hall, 91, ousted by John Ratcliffe |publisher=The Dallas Morning News |accessdate=May 27, 2014}}</ref>
+
+==Early life, education, and law career==
+{{BLP sources section|date=October 2013}}
+Hall is a lifelong resident of [[Rockwall County, Texas|Rockwall County]], northeast of [[Dallas]]. He was born in [[Fate, Texas]]. He graduated from [[Rockwall High School]] in 1941. He joined the [[United States Navy|U.S. Navy]] on December 10, 1942, serving as an aircraft carrier pilot from 1942 to 1945 during [[World War II]], attaining the rank of lieutenant.
+
+He attended [[Texas Christian University]] in Fort Worth during 1943. After the war, he attended the [[University of Texas at Austin|University of Texas]] (1946–47), and received a law degree from [[Southern Methodist University]] in Dallas in 1951. He was admitted to the Texas Bar in 1951 and maintained a private law practice in Rockwall for many years.
+
+==Early political career – 1950–1973==
+{{BLP sources section|date=October 2013}}
+
+Hall was elected county judge of Rockwall County in November 1950. He held that position until 1962.
+
+In 1962, he was elected to the [[Texas State Senate]] after incumbent [[Ray Roberts]] won a special election to replace [[Sam Rayburn]] in Congress. As a state senator, he would eventually chair a variety of committees:<ref name="state1"/>
+*Consumer Protection (1969–1972)
+*County, District, and Urban Affairs (1969–1972)
+*Historical and Recreational Sites (1969–1970)
+*Motion Picture Theater Industry (1969–1970)
+*Counties, Cities, and Towns (1967–1968)
+*Local and Uncontested Bills (1967–1968)
+*Transportation (1965–1966)
+
+In 1972, he ran for [[Lieutenant Governor of Texas]] and lost the Democratic primary, getting only 15% of the vote. [[Bill Hobby]] won the primary with a plurality of 33%, and won the general election.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=513964 |title=TX Lt. Governor – D Primary Race – May 06, 1972 |publisher=Our Campaigns |date= |accessdate=December 26, 2013}}</ref>
+
+==Business – 1973–1980==
+{{BLP sources section|date=October 2013}}
+He was the president and CEO of Texas Aluminum Corp. and general counsel of Texas Extrusion Co., Inc. He was founding member and chairman of Lakeside National Bank of Rockwall, and was chairman of the directors of Lakeside News, Inc. He was a counsel for the aircraft parts maker Howmet Corporation from 1970 to 1974.
+
+As of 2006, he was serving as the chairman, president or director of Crowley Holding Co., Bank of Crowley, Lakeside National Bank, Lakeside Bancshares Inc., North & East Trading Co., and Linrock Inc.
+
+==Later political career – 1980–present==
+
+===Elections===
+In 1980, [[incumbent]] [[Democratic Party (US)|Democratic]] [[U.S. congressman]] [[Ray Roberts]] of [[Texas' 4th congressional district]] decided to retire. Hall won the Democratic primary with 57% of the vote.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=412563 |title=TX District 4 – D Primary Race – May 03, 1980 |publisher=Our Campaigns |date= |accessdate=December 26, 2013}}</ref> In the general election, he defeated [[Republican Party (United States)|Republican]] business manager John Wright, with 52% of the vote, the closest race in the district's history and the lowest winning percentage in a general election in Hall's political career.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=50383 |title=TX District 4 Race – Nov 04, 1980 |publisher=Our Campaigns |date= |accessdate=December 26, 2013}}</ref> He is only the fourth person to represent the 4th District since its creation in 1903. The district's second congressman, Rayburn, the longtime [[Speaker of the United States House of Representatives|Speaker of the House]], represented the district for 48 years. He has never won re-election in a general election with less than 58% of the vote. He also never won re-election in a Democratic or Republican primary with less than 66% of the vote, except in 2010.
+
+;2004
+In November 2004, he ran for his first full term as a Republican. He got heavy White House backing in the three-way GOP primary that year, defeating two opponents. Hall won the primary with 78% of the vote, and the general election with 67% of the vote defeating Democratic candidate Jim Nickerson<ref>[http://www.washingtonpost.com/wp-srv/elections/2004/candidates/22544/ "Jim Nickerson (D)"] Washingtonpost.com, 2004</ref> and Libertarian Kevin D. Anderson.
+
+;2006
+{{see also|United States House of Representatives elections in Texas, 2006#District 4}}
+He defeated Democratic candidate Glenn Melancon and Libertarian candidate Kurt Helm in the 2006 general election with 67% of the vote.
+
+;2008
+{{see also|United States House of Representatives elections in Texas, 2008#District 4}}
+In the general election, he again faced Democratic nominee Glenn Melancon and was re-elected with 69% of the vote.
+
+;2010
+{{see also|United States House of Representatives elections in Texas, 2010#District 4}}
+In the Republican primary, he won the nomination with just 57% of the vote, his worst performance in a primary election since his first election in 1980. It was a six candidate race, with his closest opponent, Steve Clark, winning 30% of the vote.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=611911 |title=TX District 4 – R Primary Race – Mar 02, 2010 |publisher=Our Campaigns |date= |accessdate=December 26, 2013}}</ref> In the general election, he won re-election with 73% of the vote against Democratic candidate VaLinda Hathcox and two other candidates.
+
+;2012
+He won the Republican primary with 58% of the vote.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=752467 |title=TX District 04 – R Primary Race – May 29, 2012 |publisher=Our Campaigns |date= |accessdate=December 26, 2013}}</ref> He won over Democratic candidate VaLinda Hathcox in the general election for the second year in a row, this time by 73% to 24%.
+
+;2014
+Hall announced his bid for an eighteenth consecutive term in the U.S. House.<ref>{{cite news | url=http://blog.chron.com/txpotomac/2013/05/90-year-old-rep-ralph-hall-seeks-another-term-to-help-elect-the-next-republican-president/ | title=90-year-old Rep. Ralph Hall seeks another term to ‘help elect the next Republican president’ | work=Houston Chronicle | date=May 8, 2013 | accessdate=May 9, 2013 | author=Sullivan, Alison}}</ref> On December 20, 2013, Hall said that his current re-election bid would be his final one.<ref>{{cite web|author=Anonymous |url=http://www.rockwallheraldbanner.com/local/x1956136864/Hall-announces-final-re-election-bid |title=Hall announces final re-election bid » Local News » Rockwall Herald-Banner (Texas) |publisher=Rockwall Herald-Banner |date= |accessdate=December 26, 2013}}</ref>
+
+In the March 4, 2014 Republican primary, Hall led a six-candidate field with 29,815 votes (45.4%). Because he did not obtain a majority of the ballots cast, Hall was forced to enter the May 27, 2014 [[runoff election]] with the runner-up, [[John Ratcliffe (American politician)|John Lee Ratcliffe]] of Dallas who received 18,891 votes (28.8%).<ref>{{cite web|url=https://team1.sos.state.tx.us/enr/results/mar04_169_state.htm?x=0&y=218&id=176|title=Republican primary election returns, March 4, 2014|publisher=enr.sos.state.tx.us|accessdate=March 5, 2014}}</ref>
+
+In the May 27, 2014 runoff election, he was defeated by former U.S. Attorney John Ratcliffe. With the loss, Hall became the only sitting Republican U.S. representative from Texas to unsuccessfully seek renomination to his or her seat out of 257 attempts since statehood.<ref>{{cite web|url= http://blog.lib.umn.edu/cspg/smartpolitics/2014/05/hall_makes_history_1st_texas_g.php |title= Hall Makes History: 1st Texas GOP US Rep to Lose Renomination Bid |work=Smart Politics |first=Eric |last=Ostermeier |date=May 28, 2013}}</ref> With no challengers from other parties in the November 2014 election, Ratcliffe will assume office on January 3, 2015.<ref>{{cite web |url=http://trailblazersblog.dallasnews.com/2014/05/u-s-rep-ralph-hall-91-battles-john-ratcliffe-for-final-term.html/ |title=Oldest congressman, Ralph Hall, 91, ousted by John Ratcliffe |publisher=The Dallas Morning News |accessdate=May 28, 2014}}</ref>
+
+===Tenure===
+;"an old-time Conservative Democrat"
+Hall described himself as "an old-time [[conservative Democrat]]." For many years, he was one of the most conservative Democratic congressmen. He was an early supporter of a constitutional amendment requiring a balanced federal budget and also favored legislation requiring a super-majority on any tax increases. He frequently clashed with the [[Clinton Administration]], and voted for three of the four articles of impeachment against President [[Bill Clinton]]. He endorsed [[George W. Bush]] for President in [[United States presidential election, 2000|2000]], becoming one of the few Democratic politicians to do so. The two had been friends for many years.
+
+While he was very conservative, even by Texas Democratic standards, his [[conservatism in the United States|conservatism]] can be attributed to the demographics of the 4th District. It had once been reliably Democratic, but became increasingly friendly to Republicans as Dallas' suburban growth spilled into the western portion of the district. The 4th has not supported the Democratic nominee for president since [[United States presidential election, 1964|1964]]. Despite this district's increasingly Republican tilt, Hall won 10 more terms as a member of the Democratic Party with an average of 60% of the vote. In 1994, for instance, he was re-elected by a 19-point margin, even as other conservative Democratic congressmen lost their seats. By the 1990s, he was the only elected Democratic official above the county level in much of the district. It was taken for granted that he would be succeeded by a Republican once he retired.
+
+Like many in the Democratic Party, he voted against the [[North American Free Trade Agreement]]. In 1999, he was one of six Democratic congressmen who supported a Republican tax cut plan. He has been an original co-sponsor of bills to repeal the estate tax and the marriage tax penalty.
+
+In late 2002, he voted for the resolution allowing the use of force in Iraq. In March 2003, he voted for a budget that included Bush's 10-year, $726 billion tax cut plan. The plan passed the House 215-212.
+
+;2004 Party Switch
+Hall was frequently rumored as a candidate to [[party switching in the United States|switch parties]], especially after the Republicans took control of the House in 1995. Even as Democratic Party members with far less conservative voting records, such as [[Greg Laughlin]], [[Jimmy Hayes]], [[Billy Tauzin]] and [[Nathan Deal]] all switched parties, he insisted that he would remain with the Democratic Party as long as it did not hurt his constituents. He said that he had an obligation to "pull my party back toward the middle." He was one of the co-founders of the [[Blue Dog Democrats|Blue Dog Coalition]], a group of moderate and conservative Democratic congressmen.
+
+In 2003, [[House Majority Leader]] [[Tom DeLay]] engineered a controversial [[2003 Texas redistricting|mid-decade redistricting]]. He was the only white Democratic congressman not targeted by the remap. However, his district was shifted slightly to the north. Tyler, the heart of the 4th for a century, was shifted to the neighboring 1st District. It did, however, pick up most of [[Collin County, Texas|Collin County]], which had been part of the district until the 1980s round of redistricting.
+
+In January 2004, on the final day for candidates to file to get their names on the ballot for the March 9, 2004 primary, Hall switched parties and became a Republican. He said that Republicans refused to put money for his district into a spending bill, and when he asked why, "the only reason I was given was that I was a Democrat." He also cited concerns with his Democratic criticism of President Bush; he hadn't attended Democratic caucus meetings for some time due to the criticism leveled at Bush, his longtime friend. He told the press, "The country is at war. When the country is at war you need to support the president. Some of my fellow congressmen have not been doing that."<ref name="CNN-2004">John Mercurio, [http://www.cnn.com/2004/ALLPOLITICS/01/02/elec04.h.party.switch/index.html "Texas Rep. Hall switches to GOP"], CNN.com, January 3, 2004</ref>
+
+After the switch, the Republican Party allowed him to keep his seniority. He became chairman of the House Energy Subcommittee on Energy and Air Quality. He also joined the [[Republican Study Committee]], a caucus of conservative House Republicans.
+
+;Northern Mariana Islands (CNMI)
+{{see also|Jack Abramoff CNMI scandal}}
+
+The [[Northern Mariana Islands]] are a U.S. commonwealth in the Pacific with a large garment industry. Billing records of [[Preston Gates|Preston Gates Ellis and Rouvelas Meeds]], an international law firm employed by the CNMI, the government of the islands, show numerous contacts between the law firm and Hall's office. He said his dealings with the law firm were with Lloyd Meeds, a partner with the firm, which at the time listed 36 attorneys on staff, not with [[Jack Abramoff]], the firm's representative for the CNMI contract. In 2006, he said of the Northern Marianas, "They were good allies, and I believed their government should handle their affairs and not have us impose labor laws on them."<ref name="TPN-10-01-06">Mary Madewell, [http://theparisnews.com/mobile/mobilestory.lasso?ewcd=fa13afebfa7e1d78 "Democrat: Hall had ties to jailed lobbyist"], ''The Paris News'' (Texas), October 1, 2006</ref><ref>[http://www.talkingpointsmemo.com/docs/abramoff-cnmi-billings/?resultpage=1& Letter from Preston Gates Ellis to CNMI, May 6, 1997]{{dead link|date=December 2013}}</ref>
+
+In December 1996, Hall and E.K. Slaughter, a friend,<ref>[http://www.opensecrets.org/pfds/pfd1997/N00005645_1997.pdf#search=%22%22E.K.%20Slaughter%22%22 Ralph Hall, financial disclosure statement for calendar year 1997, showing loan of between $50,000 and $100,000 by Hall to E.K. Slaughter], opensecrets.org, accessed September 27, 2006</ref> and their wives visited the Commonwealth of the Northern Mariana Islands. The trip was arranged by the National Security Caucus Foundation (NSCF), which told him that the trip would be paid for by that group.<ref name="TPN-10-01-06"/> Greg Hilton, the director of the now-defunct NCSF, had no funding for such trips; he only arranged them with CNMI officials. Hilton said he was led to believe by officials of Preston Gates that the CNMI would pay the expenses and be reimbursed by the private sector. In fact, Preston Gates paid the expenses for such trips and billed the CNMI for reimbursement.<ref>[http://www.cbsnews.com/stories/2005/05/03/politics/main692643.shtml "Dollar Trail From D.C. To Islands"], ''Associated Press'', May 3, 2005</ref> For the trip of Hall, Slaughter and their wives, Abramoff billed the CNMI $12,800.<ref>[http://www.talkingpointsmemo.com/docs/abramoff-cnmi-billings/?resultpage=1& Letter from Preston Gates Ellis to CNMI, May 6, 1997]<!--- link is temporarily down — database error — Google cache is here as of October 12, 2006: {{Wayback |date=20080810122434 |url=www.talkingpointsmemo.com/docs/abramoff-cnmi-billings/?resultpage=3& }} ---></ref>
+
+In September 1997, Democratic Representative [[Neil Abercrombie]] placed remarks in the [[Congressional Record]] describing a teenager described as <!-- Katrina was her stage name, and was used by news outlets to protect her identity --> "Katrina", whose story had been widely publicized, stating that an "employer had lured her to the CNMI under false pretenses" and that "she was also forced into service as a prostitute."<ref>[http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=1997_record&page=E1883&position=all Statement by Neil Abercrombie, September 26, 1997], ''Congressional Record''</ref>
+
+Abramoff's staff contacted Hall's office fifteen times in the two months following Abercrombie's remarks.<ref>[http://www.talkingpointsmemo.com/docs/katrina-billing/ Invoice, Preston Gates Ellis, for work on 10/17/97 including "telephone conversation with <nowiki>G[race]</nowiki> Warren (Hall) regarding Katrina insert"]</ref><ref>Paul Kiel, [http://www.tpmmuckraker.com/archives/001591.php "For Abramoff, Lawmaker Slandered Teen Sex Slave"], TPMMuckracker.com, September 25, 2006</ref> In November 1997, he entered into the Congressional Record a statement saying that upon reviewing those remarks, he had "felt that Congressman Abercrombie had relied on an erroneous and misleading article published by the Reader's Digest some months ago." The article, according to Hall, said that the teenager "was forced to perform lewd sex acts with customers before a video camera." He quoted a report by the acting attorney general of the CNMI in response: "in fact...she wanted to do nude dancing...to support her family."<ref name="CR">[http://frwebgate.access.gpo.gov/cgi-bin/getpage.cgi?dbname=1997_record&page=E2383&position=all Statement by Ralph Hall, November 13, 1997], ''Congressional Record</ref> The remarks by Abercrombie did not cite that source, and the Reader’s Digest June 1997 story by Henry Hurt, "Shame on American Soil," does not refer to a child named Katrina.<ref name="HD-10-19-06">Kathy Williams, [http://www.heralddemocrat.com/articles/2006/10/19/local_news/news01.txt 10. "Accusations Denied"] Sherman Herald-Democrat, October 19, 2006</ref>
+
+In his remarks, he also said "I intend to seek further information on matters as reported by the Reader's Digest author — and I would hope that a fair minded person like Congressman Abercrombie would accompany me early next year if, and when, we can both work a visit into our schedule — a visit that would not involve the expenditure of any American tax dollars.<ref name="CR"/>
+
+Asked in 2006 how the 1996 trip benefited the Texas Fourth Congressional District he represents, he said, "I think it benefits my constituents if you do anything that benefits the peace through strength people, when you’re going out to bring information to them to help win the [[Cold War]]. That’s a benefit to them, to their strategic interests." The last gasps of the Cold War ended in 1991.<ref name="HD-10-19-06"/>
+
+He also said "the whole thing was about ... them setting their own minimum wage. They had told me they would waive their foreign aid in return for setting their own minimum wage." His comments in the Congressional Record in 1997 do not mention a minimum wage<ref name="HD-10-19-06"/> and the CNMI receives no foreign aid.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/cq.html |title=The World Factbook |publisher=Cia.gov |date= |accessdate=2014-08-10}}</ref>
+
+;Views on climate change
+
+On December 1, 2011, Hall gave an interview to ''[[National Journal]]'' in which he expressed [[Global warming controversy|disbelief in anthropogenic climate change]]. He accused climate scientists of concocting the evidence for anthropogenic climate change in order to receive federal research grants, citing the [[Climatic Research Unit email controversy|Climategate controversy]] and calling investigations which had largely exonerated them "straw-man reviews". He stated that "I'm really more fearful of freezing. And I don't have any science to prove that. But we have a lot of science that tells us they're not basing it on real scientific facts." He responded to allegations that Republicans could be called anti-science in light of these views by saying "I'm not anti-science, I'm pro-science. But we ought to have some believable science.... We have to be more careful what outlays we make for something that hasn't been proved."<ref>{{cite web|last=Mervis|first=Jeffrey|title=Ralph Hall Speaks Out on Climate Change|url=http://news.sciencemag.org/scienceinsider/2011/12/ralph-hall-speaks-out-on-climate.html|work=ScienceInsider|publisher=American Association for the Advancement of Science|accessdate=December 16, 2011|date=December 14, 2011}}</ref>
+
+;Legislation sponsored
+
+Hall introduced into the House the [[North Texas Invasive Species Barrier Act of 2014 (H.R. 4032; 113th Congress)]], a bill that would exempt the North Texas Municipal Water District (NTMWD) from prosecution under the [[Lacey Act]] for transferring water containing [[invasive species]] from [[Oklahoma]] to Texas.<ref name=cbo4032>{{cite web|title=CBO – H.R. 4032|url=http://www.cbo.gov/publication/45202|publisher=Congressional Budget Office|accessdate=28 April 2014}}</ref> The Lacey Act protects plants and wildlife by creating civil and criminal penalties for various violations, including transferring invasive species across state borders.<ref name="cbo4032"/>
+
+===Committee assignments===
+*'''[[United States House Committee on Science and Technology|Committee on Science and Technology]]''', Chairman ''Emeritus''
+**[[United States House Science Subcommittee on Energy|Subcommittee on Energy]]
+**[[United States House Science Subcommittee on Space|Subcommittee on Space]]
+
+*'''[[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]'''
+**[[United States House Energy Subcommittee on Environment and Economy|Subcommittee on Environment and Economy]]
+**[[United States House Energy Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]]
+
+===Caucus memberships===
+*[[United States Congressional International Conservation Caucus|International Conservation Caucus]]
+*[[Republican Study Committee]]
+*[[Tea Party Caucus]]
+
+==Personal life==
+Hall married the former Mary Ellen Murphy on November 14, 1944, while he was serving in the navy in [[Pensacola, Florida]]. They had three sons, Hampton, Brett, and Blakeley, and (as of 2013) have five grandchildren. She died on August 27, 2008.<ref>Joe Simnacher, [http://www.dallasnews.com/sharedcontent/dws/dn/latestnews/stories/082908dntexmaryellenhall.2a02c1b.html "Mary Ellen Murphy Hall, wife of U.S. Rep. Ralph Hall, dies"], ''Dallas Morning News'', August 27, 2008</ref>
+
+In January 2004, regarding his switch of party, Hall said "I talked with some of my family. Some agreed, some did not. My wife didn't agree. She'd rather I quit than switch parties."<ref name="CNN-2004"/>
+
+As a young man, Hall pumped gas for a man and woman whom he later identified as the infamous gangsters [[Bonnie and Clyde]].<ref>{{cite news|title=Tribute to Rep. Ralph Hall|accessdate=November 27, 2012|newspaper=C-Span, House of Representatives|date=November 27, 2012}}</ref>
+
+==Electoral history==
+{{ushr|Texas|4|}}:
+
+{| class=wikitable
+|-
+! rowspan=2 | Year
+! rowspan=99 {{party shading/Democratic}} |
+! colspan=3 {{party shading/Democratic}} | Democratic
+! rowspan=99 {{party shading/Republican}} |
+! colspan=3 {{party shading/Republican}} | Republican
+! rowspan=99 {{party shading/Libertarian}} |
+! colspan=3 {{party shading/Libertarian}} | Libertarian
+! rowspan=99 {{party shading/Other}} |
+! colspan=3 {{party shading/Other}} | Other
+
+|-
+! Candidate
+! Votes
+! %
+! Candidate
+! Votes
+! %
+! Candidate
+! Votes
+! %
+! Candidate
+! Votes
+! %
+
+|-
+| [[United States House of Representatives elections in Texas, 1980|1980]]
+| '''√ Ralph Hall'''
+| 102,787
+| 52%
+| John Wright
+| 93,915
+| 48%
+| colspan=3 | ''No nominee''
+
+|-
+| [[United States House of Representatives elections in Texas, 1982|1982]]
+| '''√ Ralph Hall'''
+| 94,134
+| 74%
+| Pete Collumb
+| 32,221
+| 25%
+| Bruce Iiams
+| 1,141
+| 1%
+
+|-
+| [[United States House of Representatives elections in Texas, 1984|1984]]
+| '''√ Ralph Hall'''
+| 120,749
+| 58%
+| Thomas Blow
+| 87,553
+| 42%
+| colspan=3 | ''No nominee''
+| (Assorted)
+| 39
+| 0%
+
+|-
+| [[United States House of Representatives elections in Texas, 1986|1986]]
+| '''√ Ralph Hall'''
+| 97,540
+| 72%
+| Thomas Blow
+| 38,578
+| 28%
+| colspan=3 | ''No nominee''
+
+|-
+| [[United States House of Representatives elections in Texas, 1988|1988]]
+| '''√ Ralph Hall'''
+| 139,379
+| 66%
+| Randy Sutton
+| 67,337
+| 32%
+| Melanie Dunn
+| 3,152
+| 2%
+
+|-
+| [[United States House of Representatives elections in Texas, 1990|1990]]
+| '''√ Ralph Hall'''
+| 108,300
+| 100%
+| colspan=3 | ''No nominee''
+| colspan=3 | ''No nominee''
+| Tim McChord (Write-in)
+| 394
+| 0%
+
+|-
+| [[United States House of Representatives elections in Texas, 1992|1992]]
+| '''√ Ralph Hall'''
+| 128,008
+| 58%
+| David Bridges
+| 83,875
+| 38%
+| Steven Rothacker
+| 8,450
+| 4%
+
+|-
+| [[United States House of Representatives elections in Texas, 1994|1994]]
+| '''√ Ralph Hall'''
+| 99,303
+| 59%
+| David Bridges
+| 67,267
+| 40%
+| Steven Rothacker
+| 2,377
+| 1%
+
+|-
+| [[United States House of Representatives elections in Texas, 1996|1996]]
+| '''√ Ralph Hall'''
+| 132,126
+| 64%
+| Jerry Hall
+| 71,065
+| 34%
+| Steven Rothacker
+| 3,172
+| 2%
+| Enos Denham ([[Natural Law Party (United States)|Natural Law Party]])
+| 814
+| 0%
+
+|-
+| [[United States House of Representatives elections in Texas, 1998|1998]]
+| '''√ Ralph Hall'''
+| 82,989
+| 58%
+| Jim Lohmeyer
+| 58,954
+| 41%
+| Jim Simon
+| 2,137
+| 1%
+
+|-
+| [[United States House of Representatives elections in Texas, 2000|2000]]
+| '''√ Ralph Hall'''
+| 145,887
+| 60%
+| Jon Newton
+| 91,574
+| 38%
+| Joe Turner
+| 4,417
+| 2%
+
+|-
+| [[United States House of Representatives elections in Texas, 2002|2002]]
+| '''√ Ralph Hall'''
+| 97,304
+| 58%
+| John Graves
+| 67,939
+| 40%
+| Barbara Robinson
+| 3,042
+| 2%
+
+|-
+| [[United States House of Representatives elections in Texas, 2004|2004]]
+| Jim Nickerson
+| 81,585
+| 30%
+| '''√ Ralph Hall'''
+| 182,866
+| 68%
+| Kevin Anderson
+| 3,491
+| 1%
+
+|-
+| [[United States House of Representatives elections in Texas, 2006#District 4|2006]]
+| Glenn Melancon
+| 55,278
+| 33%
+| '''√ Ralph Hall'''
+| 106,495
+| 64%
+| Kurt Helm
+| 3,496
+| 2%
+
+|-
+| [[United States House of Representatives elections in Texas, 2008#District 4|2008]]
+| Glenn Melancon
+| 88,067
+| 29%
+| '''√ Ralph Hall'''
+| 206,906
+| 69%
+| Fred Annett
+| 5,771
+| 2%
+
+|-
+| [[United States House of Representatives elections in Texas, 2010#District 4|2010]]
+| VaLinda Hathcox
+| 40,975
+| 22%
+| '''√ Ralph Hall'''
+| 136,338
+| 73%
+| Jim Prindle
+| 4,729
+| 3%
+| Shane Shepard ([[Independent (politics)|Independent]])
+| 4,244
+| 2%
+
+|-
+| [[United States House of Representatives elections in Texas, 2012#District 4|2012]]
+| VaLinda Hathcox
+| 60,214
+| 24%
+| '''√ Ralph Hall'''
+| 182,679
+| 73%
+| Thomas Griffing
+| 7,262
+| 3%<!--write in 188-->
+|}
+
+Source: {{cite web|url=http://clerk.house.gov/member_info/electionInfo/index.html|title=Office of the House Clerk – Electoral Statistics|publisher=Clerk of the United States House of Representatives|accessdate=}}
+
+Source: {{cite web|url=http://www.fec.gov/pubrec/electionresults.shtml|title=Election Results|publisher=[[Federal Election Commission]] |accessdate=}}
+
+==See also==
+*[[List of current members of the United States House of Representatives by age]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://ralphhall.house.gov/ Congressman Ralph Hall] official U.S. House site
+*[http://ralphhall.com/ Ralph Hall for Congress]
+*{{Dmoz|Regional/North_America/United_States/Texas/Government/Federal/US_House_of_Representatives/Ralph_Hall_%5BR-4%5D}}
+*{{CongLinks | congbio = h000067 | ballot = Ralph_Hall | nndb = 065/000038948 | votesmart = 27080 | govtrack = 400165 | opencong = 400165 | rollcall = 460 | politifact = | fec = H0TX04037 | opensecrets = N00005645 | assets = ralph-hall | legistorm = 264/Rep_Ralph_Hall_TX.html | followthemoney = | ontheissues = TX/Ralph_Moody_Hall.htm | congress = ralph-hall/484 | worldcat = | cspan = 7354 | imdb = | bloomberg = | nyt = | wsj = | washpo = gIQAmrLJAP }}
+*[http://www.sourcewatch.org/index.php?title=Ralph_Hall Profile] at [[SourceWatch]]
+
+{{s-start}}
+{{s-par|us-tx-sen}}
+{{TXSenateSuccession box
+|district      = 9
+|hometown      = Rockwall, Texas|Rockwall, [[Texas]], U.S.
+|before        = [[Ray Roberts]]
+|after         = [[Ron Clower]]
+|years         = 1963–1973}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox
+|state         = Texas
+|district      = 4
+|before        = [[Ray Roberts]]
+|years         = 1981–present
+|after         = [[John Ratcliffe (American politician)|John Ratcliffe]]}}
+{{s-off|us}}
+{{succession box
+|title         = Chairman of [[United States House Committee on Science, Space and Technology|House Science Committee]]
+|before        = [[Bart Gordon]]<br>Tennessee
+|years         = 2011–2013
+|after         = [[Lamar S. Smith]]<br>Texas}}
+{{s-prec|usa}}
+{{s-bef|before = [[Tom Petri]]<br><small>R-[[Wisconsin]]}}
+{{s-ttl|title  = ''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=10th}}
+{{s-aft|after  = [[Hal Rogers]]<br><small>R-[[Kentucky]]}}
+{{s-end}}
+{{House Science Chairmen}}
+{{TX-FedRep}}
+{{USHouseCurrent}}
+
+{{Persondata
+|NAME              = Hall, Ralph
+|ALTERNATIVE NAMES = 
+|SHORT DESCRIPTION = American politician, attorney
+|DATE OF BIRTH     = May 3, 1923
+|PLACE OF BIRTH    = [[Fate, Texas|Fate]], [[Texas]], U.S.
+|DATE OF DEATH     = 
+|PLACE OF DEATH    = 
+}}
+{{DEFAULTSORT:Hall, Ralph}}
+[[Category:1923 births]]
+[[Category:American military personnel of World War II]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Texas]]
+[[Category:Texas Republicans]]
+[[Category:County judges in Texas]]
+[[Category:People from Rockwall County, Texas]]
+[[Category:Texas State Senators]]
+[[Category:American Methodists]]
+[[Category:Tea Party movement activists]]
+[[Category:Texas Democrats]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Republican Party members of the United States House of Representatives]]

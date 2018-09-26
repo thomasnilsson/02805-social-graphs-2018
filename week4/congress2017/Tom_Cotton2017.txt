@@ -1,0 +1,339 @@
+{{Use mdy dates|date=January 2016}}
+{{Infobox officeholder
+|name         = Tom Cotton
+|image        = Tom Cotton official Senate photo.jpg
+|jr/sr        = United States Senator
+|state        = [[Arkansas]]
+|alongside    = [[John Boozman]]
+|term_start   = January 3, 2015
+|term_end     = 
+|predecessor  = [[Mark Pryor]]
+|successor    = 
+|state1       = [[Arkansas]]
+|district1    = {{ushr|AR|4|4th}}
+|term_start1  = January 3, 2013
+|term_end1    = January 3, 2015
+|predecessor1 = [[Mike Ross (politician)|Mike Ross]]
+|successor1   = [[Bruce Westerman]]
+|birth_name   = Thomas Bryant Cotton
+|birth_date   = {{birth date and age|1977|5|13}}
+|birth_place  = [[Dardanelle, Arkansas|Dardanelle]], [[Arkansas]], U.S.
+|death_date   = 
+|death_place  = 
+|party        = [[Republican Party (United States)|Republican]]
+|spouse       = {{marriage|Anna Cotton|March 15, 2014}}
+|children     = 2
+|alma_mater   = [[Harvard University]] {{small|([[Bachelor of Arts|BA]], [[Juris Doctor|JD]])}}
+|website      = {{url|cotton.senate.gov|Senate website}}
+|allegiance   = {{flag|United States}}
+|branch       = {{army|United States}}
+|serviceyears = 2005–2009 {{small|(active)}}<br>2010–2013 {{small|(reserve)}}
+|rank         = [[File:US-O3 insignia.svg|18px]] [[Captain (United States)|Captain]]
+|unit         = [[506th Infantry Regiment (United States)|506th Infantry Regiment]], [[101st Airborne Division]]<br>[[3rd U.S. Infantry Regiment (The Old Guard)|3rd Infantry Regiment]]
+|battles      = [[War on Terror]]<br>{{*}}[[Iraqi insurgency (2003–11)]]<br>{{*}}[[War in Afghanistan (2001–2014)]]
+|mawards      = [[File:Bronze Star ribbon.svg|border|23px]] [[Bronze Star Medal]]<br>[[File:Combat Infantry Badge.svg|23px]] [[Combat Infantryman Badge]]<br>[[File:Ranger Tab.svg|23px]] [[Ranger Tab]]
+}}
+'''Thomas Bryant "Tom" Cotton''' (born May 13, 1977) is an American politician who is the [[Seniority in the United States Senate|junior]] [[United States Senate|United States Senator]] from [[Arkansas]]. A member of the [[Republican Party (United States)|Republican Party]], Cotton has served in the Senate since January 3, 2015.  At age {{age|1977|5|13}}, he is currently the [[List of current United States Senators by age|youngest U.S. Senator]]. Prior to the election of Cotton, [[Chris Murphy (Connecticut politician)|Chris Murphy]] from [[Connecticut]] was the youngest Senator, as he was 39 when first elected in 2013.
+
+Cotton was first elected to the Senate in [[United States Senate election in Arkansas, 2014|2014]], defeating two-term Democratic incumbent [[Mark Pryor]]. He previously served one term in the [[United States House of Representatives]] from 2013 until 2015.
+
+==Early life and education==
+Tom Cotton was born on May 13, 1977 in [[Dardanelle, Arkansas|Dardanelle]], north of [[Russellville, Arkansas|Russellville]].  He is the son of Thomas Leonard and Avis (née Bryant) Cotton, and grew up on the family farm.<ref>[http://swtimes.com/sections/news/politics/new-arkansas-rep-cotton-draws-spotlight-113th-congress-sworn.html New Arkansas Rep. Cotton Draws Spotlight; 113th Congress Sworn In], ''The Times Record'', swtimes.com. Retrieved November 5, 2014.</ref> He graduated from [[Dardanelle High School]] in June 1995.<ref name="combatveteransforcongress.org">[http://combatveteransforcongress.org/cand/2763 Electing Fiscal Conservatives], combatveteransforcongress.org. Retrieved November 5, 2014.</ref> He attended [[Harvard College]], where he wrote for the ''[[The Harvard Crimson|Harvard Crimson]]'',<ref>{{cite web|url=http://www.thecrimson.com/writer/6695/Tom__Cotton/|title=Writer: Tom Cotton|accessdate=March 10, 2015}}</ref> graduating in 1998, three years after enrolling.<ref name="AtlanticStar">{{cite web|title=Publius Alumni|url=http://www.theatlantic.com/features/archive/2014/09/the-making-of-a-conservative-superstar/380307/|website=The Atlantic|accessdate=March 22, 2015}}</ref> In summer 1997, Cotton attended the Publius Fellowship program of the [[Claremont Institute]], a conservative think tank.<ref>{{cite web|url=https://www.claremont.org/page/fellowships/publius-fellowship/|title=Publius Fellowship Undergraduate Summer Program|publisher=Claremont Institute|accessdate=March 22, 2015}}</ref><ref>{{cite web|url=http://www.claremont.org/featured/publius-fellowship-alumni/|title=Publius Alumni|website=Claremont College Publius Fellowship Alumni|publisher=Claremont College|accessdate=March 22, 2015}}</ref> In 1998, he was accepted into a master's degree program at [[Claremont Graduate University]]. He left in 1999, saying that he found academic life "too sedentary", enrolling at [[Harvard Law School]],<ref name="AtlanticStar" /> where he received his [[Juris Doctor|J.D.]] degree in June 2002.<ref name="combatveteransforcongress.org" /><ref name="Tom Cotton About">{{cite news|url=http://www.cottonforcongress.com/about|title=Tom Cotton About|publisher=cottonforcongress.com|date=October 14, 2011|accessdate=December 5, 2011}}</ref> Immediately after finishing law school in 2002, he served for a year as a clerk for Judge [[Jerry Edwin Smith]] at the [[United States Court of Appeals for the Fifth Circuit]]. He then entered private practice, working at [[Gibson, Dunn & Crutcher]] for a few months, and at [[Charles J. Cooper|Cooper & Kirk]] from 2003 to 2004.
+
+==Military service==
+On January 11, 2005, Cotton enlisted in the [[United States Army]].<ref>{{cite web|title=Tom Cotton Biography|url=http://www.lobbyists.info/Pdf/AR-04-Tom-Cotton-Sample-Report.pdf|website=Lobbyist Political Info|accessdate=March 22, 2015}}</ref><ref name="VetFactSheet">{{cite web|title=Combat Vet Tom Cotton Fact Sheet|url=http://combatveteransforcongress.org/cand/2763|website=Combat Veterans for Congress|accessdate=March 22, 2015}}</ref> According to his recruiter, Lieutenant Colonel Roger Jones, commander of the U.S. Army Recruiting Battalion in Houston, Cotton decided not to pursue a commission as an officer at the rank of Captain in the [[Judge Advocate General's Corps, United States Army]], the typical rank and specialty for a person with his education and training. Instead, he chose to enlist under the US Army's Officer/Warrant Officer Enlistment Program, Enlistment Option 9D<ref>[http://www.apd.army.mil/pdffiles/r601_210.pdf]{{dead link|date=August 2016}}</ref> at the rank of [[United States Army enlisted rank insignia|Specialist or Corporal]], with the guaranteed opportunity to Officer Candidate School and pursue a commission as a military officer.<ref name="OlderEnlistee">{{cite web|title=Older Military Enlistee: 27yo Tom Cotton|url=http://www.chron.com/news/houston-texas/article/54-year-old-vet-answers-call-to-serve-his-country-1920113.php|work=Houston Chronicle|accessdate=March 22, 2015}}</ref><ref name="DefensePAC">{{cite web|title=Tom Cotton Biography|url=http://nationaldefensepac.org/wp-content/uploads/2010/04/Tom_Cotton_Endorsement.pdf|website=National Defense PAC|accessdate=March 22, 2015}}</ref><ref name="Snopes">{{cite web|title=Tom Cotton|url=http://www.snopes.com/politics/soapbox/tomcotton.asp|website=Snopes|publisher=Snopes; Houston Chronicle|accessdate=March 22, 2015}}</ref> Cotton's relationship with his enlisted basic training drill sergeant, Master Sergeant Gordon Norton, remained so good that years later he would hire Norton to help with his political campaign.<ref>{{cite web|title=Tom Cotton Basic Training Drill Instructor Assists Campaign|url=http://www.usnews.com/news/blogs/ballot-2014/2014/04/22/tom-cotton-appears-with-drill-sergeant-in-new-ad|publisher=US NEWS|accessdate=March 22, 2015}}</ref> In March 2005, he entered [[Officer Candidate School (U.S. Army)|Officer Candidate School]], and in June 2005 was commissioned as a Second Lieutenant of Infantry.<ref name="OlderEnlistee" /><ref name="DefensePAC" /><ref name="Snopes" /> He was initially stationed at Fort Benning, Georgia, where he entered a 14-week Officer’s Basic Course. After completing OBC in November 2005, Cotton attended the [[United States Army Airborne School|U.S. Army Airborne School]] as well as [[Ranger School]] and [[United States Army Air Assault School|Air Assault School]].<ref name="combatveteransforcongress.org" />
+
+===Iraq===
+In May 2006, Cotton deployed to [[Baghdad]] as part of [[Operation Iraqi Freedom]] as a platoon leader with the [[101st Airborne Division]]. In [[Iraq]], he led a 41-man [[air assault]] infantry platoon in the [[506th Infantry Regiment]],<ref>[http://cotton.house.gov/Blog/69th-anniversary-of-d-day 69th "Anniversary of D-Day"], cotton.house.gov. Retrieved November 5, 2014.</ref> and planned and performed daily combat patrols.<ref name="Senator Tom Cotton" /> In June 2006, while stationed in Iraq, he gained international public attention after he wrote an open letter to the editor of ''[[The New York Times]]'', accusing three ''Times'' journalists of violating "espionage laws" by publishing an article detailing a Bush administration secret program monitoring terrorists' finances. The ''Times'' did not publish the letter, but it was published on ''[[Power Line]]'', a conservative blog which had been copied on the email.<ref>{{cite web|last1=Johnson|first1=Scott|title=A FATEFUL LETTER TO THE EDITOR OF THE TIMES|url=http://www.powerlineblog.com/archives/2012/10/a-fateful-letter-to-the-editor-of-the-times.php|website=Powerlineblog.com|publisher=PowerLine|accessdate=20 May 2016}}</ref><ref name="NYT Mailing">{{cite web|last1=Leibovich|first1=Mark|title=Tom Cotton Is Not Mailing It In|url=http://www.nytimes.com/2015/04/05/magazine/tom-cotton-is-not-mailing-it-in.html?_r=0|website=The New York Times Magazine|publisher=The New York Times|accessdate=20 May 2016}}</ref> In the letter, Cotton called for the journalists responsible for the newspaper article to be imprisoned for [[espionage]]. He asserted that the newspaper had "gravely endangered the lives of my soldiers and all other soldiers and innocent Iraqis here." The article was widely circulated online and reprinted in full in several newspapers.<ref name="motherjones">{{cite web|last=Baumann|first=Nick|title=The GOP Candidate Who Wants Journos Jailed|url=http://motherjones.com/politics/2011/11/tom-cotton-arkansas-new-york-times|work=Mother Jones|accessdate=January 9, 2012}}</ref> The letter reached General [[Peter Schoomaker]], [[Chief of Staff of the United States Army]], who forwarded it via e-mail to all his generals, stating: "Attached for your information are words of wisdom from one of our great lieutenants in Iraq ..."<ref name="NatlRev" /> Cotton said in an interview that after meeting with his immediate commander, he was "nervous and worried all night long" about losing his position and even worse, possibly being court-martialed. When he finally met the battalion commander, he was simply told "Well, here’s a piece of advice: You’re new here. No one’s trying to infringe on your right to send a letter or whatnot. But next time, give your chain of command a heads-up."<ref name="combatveteransforcongress.org" /><ref name="NatlRev" />
+
+===The Old Guard===
+In December 2006, Cotton was promoted to First Lieutenant. He was assigned as a platoon leader for the [[3rd US Infantry Regiment (The Old Guard)|3d US Infantry Regiment (The Old Guard)]] at [[Arlington National Cemetery]] in [[Northern Virginia]].<ref name="citywire">{{cite web|url=http://www.thecitywire.com/?q=node/17366|title=Cotton makes early noise in 4th District race|publisher=thecitywire.com|date=August 22, 2011|accessdate=December 1, 2011}}</ref>
+
+===Afghanistan===
+In October 2008, Cotton deployed to eastern [[Afghanistan]]. He was stationed within the [[Train Advise Assist Command – East|Regional Command East]] at its Gamberi [[Forward operating base]] (FOB) located in one of the command's 14 province locations, [[Laghman Province]]. The overall mission at his duty station – the Gamberi FOB from April 2008 to June 2009, during [[Operation Enduring Freedom|Operation Enduring Freedom IX]] – included [[military logistics]], [[Provincial Reconstruction Team|civil reconstruction engineering]], government organization, and training from a Joint Task Force.  The Joint Task Force at Gamberi FOB included [[Afghanistan|Government of the Islamic Republic of Afghanistan]] (GIRoA), the [[101st Airborne Division]], [[North Atlantic Treaty Organization|NATO]], [[International Security Assistance Force]] (ISAF), Interagency Partners, and [[Combined Joint Task Force 82|CJTF-101]]/Regional Command East Forces. These joint forces sought to secure the citizenry governance, and to rebuild a sustainable economy in order to extend Afghanistan (GIRoA) authority as the legitimate government of the Afghan people.<ref>{{cite web|title=Understanding War Regional Command List|url=http://www.understandingwar.org/region/regional-command-east#Laghman|accessdate=March 22, 2015}}</ref>{{citation needed|date=January 2016}}<!-- WP:RS needed; removed link to WP:SPS (Twitter, FB, WP)--><ref>{{cite web|title=Provincial Reconstruction Team uses infantry soldiers to bolster joint patrols|url=http://www.centcom.mil/en/news/articles/provincial-reconstruction-team-uses-infantry-soldiers-to-bolster-joint-patr|publisher=United States Central Command|accessdate=March 22, 2015}}</ref> He said his assigned duty was as a [[military logistics]] officer of a [[Provincial Reconstruction Team]], where he also helped plan logistical operations for [[counter-insurgency]].<ref name="combatveteransforcongress.org" /><ref>{{cite web|title=Tom Cotton Biography|url=http://www.lobbyists.info/Pdf/AR-04-Tom-Cotton-Sample-Report.pdf|accessdate=March 22, 2015}}</ref> His 11-month deployment to Gamberi FOB in Laghan province ended when he returned from Afghanistan on July 20, 2009.<ref name="VetFactSheet" />
+
+===Reserve duty and military awards===
+In July 2010, Cotton joined in the [[United States Army Reserve]]. His military record shows his final discharge from the Army Reserve was in May 2013 and he was awarded the [[Bronze Star Medal]], and earned the following: Ranger Training Tab, Combat Infantryman Badge, Parachutist Badge, Air Assault Badge, Afghanistan Campaign Medal, and Iraq Campaign Medal.<ref name="Senator Tom Cotton">{{cite web|title=Senator Tom Cotton|url=http://combatveteransforcongress.org/cand/2763|publisher=combatveteransforcongress.org|accessdate=March 23, 2015}}</ref><ref name="ServiceRecord">{{cite web|title=Tom Cotton Army Service Record|url=https://www.muckrock.com/foi/united-states-of-america-10/tom-cotton-military-records-13249/#files|publisher=US Armed Forces via F.O.I.A.|accessdate=March 22, 2015}}</ref>
+
+==Post-military service==
+After his active duty service, Cotton did sporadic consulting work at the management consulting firm [[McKinsey & Company]].<ref name="AtlanticStar" /><ref name="NatlRev">{{cite web|title=Tom Cotton Bio – four Part Interview|url=http://www.nationalreview.com/article/331200/tom-cotton-arkansas-part-ii-jay-nordlinger|website=National Review|accessdate=March 22, 2015}}</ref><ref>{{cite web|title=McKinsey & Co|url=http://www.mckinsey.com/about_us/what_we_do|accessdate=March 22, 2015}}</ref> He then returned to the agricultural management of his family ranch.<ref name="TC">{{cite web|title=Tom Cotton|url=http://www.tomcotton.com/about/|website=TomCotton.com|accessdate=30 June 2016}}</ref>
+
+In 2009, Dr. Larry Arnn, the president of the Claremont Institute while Cotton had been in the Publius Fellowship program, introduced Cotton to [[Chris Chocola]], a former Congressman and the president of [[Club for Growth]], an influential Republican PAC. The blog ''Power Line'' also continued to promote Cotton. An attempt was made to draft Cotton for [[United States Senate election in Arkansas, 2010|Arkansas’s 2010 Senate race]], to run against incumbent Democratic U.S. Senator [[Blanche Lincoln]].<ref name="AtlanticStar" /><ref name="NatlRev" /> In 2011, when the Democratic congressman who had represented Cotton's home district retired after twelve years in office, Cotton ran for Congress.
+
+==Congressional career==
+
+===U.S. House of Representatives (2013–2015)===
+{{See also|United States House of Representatives elections in Arkansas, 2012}}
+[[File:Tom Cotton, Official Portrait, 113th Congress small.jpeg|thumb|150px|right|Cotton's official congressional photo]]
+Cotton was a candidate for a seat in the [[U.S. House of Representatives]] as a Republican in [[Arkansas' 4th congressional district]] in the [[United States House of Representatives elections, 2012|2012 election]], vacant as a result of [[Democratic Party (United States)|Democratic]] U.S. Congressman [[Mike Ross (politician)|Mike Ross]]' retirement.<ref>{{cite news|url=http://thehill.com/blogs/ballot-box/house-races/173233-rep-mike-ross-to-announce-political-future |title=Rep. Mike Ross to retire |publisher=thehill.com |date=July 25, 2011 |accessdate=September 15, 2011}}</ref> Of the $2.2 million Cotton raised for that campaign, [[Club for Growth]] donors were responsible for $315,000 and were Cotton's largest supporters.<ref name="AtlanticStar" /><ref name="NatlRev" />
+
+In September 2011, Cotton faced criticism for his ''Harvard Crimson'' article, in which he questioned the value of the Internet as a teaching tool in the classroom.<ref>{{cite web|url=http://www.arktimes.com/ArkansasBlog/archives/2011/09/01/tom-cotton-learns-value-of-internet |title=Tom Cotton learns value of Internet |last=Brantley|first=Max|publisher=''Arkansas Times''. arktimes.com|series =Arkansas Blog|date=September 1, 2011 |accessdate=September 16, 2011}}</ref> Cotton has since said that he believes the Internet has matured significantly over the past decade and has become a "vital tool for education and daily life", unlike the Internet of 1998.<ref>{{cite web|url=http://www.chron.com/news/article/Ark-House-hopeful-s-college-writings-targeted-2151484.php |title=Ark. House hopeful's college writings targeted |work=Houston Chronicle |date=September 1, 2011 |accessdate=December 1, 2011 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+Beth Anne Rankin, the 2010 Republican nominee, and John David Cowart, who carried the backing of the Louisiana businessman and philanthropist [[Edgar Cason]], were the only other Republican candidates in the race after candidate Marcus Richmond dropped out in February 2012.<ref>{{cite news|url=http://www.fox16.com/news/state/story/GOPs-Richmond-drops-out-of-4th-district-race/-klB8EDri0On7pLB9_O4Mw.cspx |title=GOP's Richmond drops out of 4th district race |publisher=fox16.com |date=February 23, 2012 |accessdate=May 12, 2012}}</ref> In the primary on May 22, Cotton won the Republican nomination, with 57% of the vote; Rankin received 38%.<ref>{{cite news|url=http://www.therepublic.com/view/story/a66be11caba84fa29acba0ff5839eff0/AR--US-House-4th-District/ |title=Cotton wins south Arkansas Republican congressional primary; Democrats head to runoff |publisher=therepublic.com |date=May 23, 2012 |accessdate=May 24, 2012}}</ref>
+
+Cotton was endorsed by Senator [[John McCain]].<ref>{{cite news|last1=Miller|first1=Joshua|title=Arkansas: Tom Cotton Gets John McCain Endorsement|url=http://atr.rollcall.com/arkansas-tom-cotton-gets-john-mccain-endorsement/|accessdate=July 12, 2014|publisher=Roll Call|date=May 3, 2012}}</ref> Cotton was supported by and has close ties to both the [[Tea Party movement]] and the Republican establishment.<ref>{{cite web|url=http://www.teapartyexpress.org/4466/tea-party-express-endorses-tom-cotton-in-arkansas|title=Tea Party Express Endorses Tom Cotton in Arkansas|publisher=teapartyexpress.org|accessdate=March 10, 2015}}</ref><ref>[http://thehill.com/blogs/ballot-box/senate-races/314665-report-tom-cotton-will-run-for-senate-in-arkansas "He has close ties to both the Tea Party and the establishment wing of the party], thehill.com. Retrieved November 5, 2014.</ref><ref>{{cite news|url=http://www.latimes.com/nation/la-na-arkansas-democrats-20140716-story.html|title=Democrats may lose Hope in Arkansas despite Clinton legacy|work=Los Angeles Times|date=July 15, 2014|accessdate=September 5, 2014}}</ref><ref>{{cite news|url=http://www.businessinsider.com/tom-cotton-mark-pryor-senate-2014-challenger-biography-2013-8 |title=10 Things Everyone Should Know About Tom Cotton, The Arkansas Politician Who Should Scare The Hell Out Of Democrats|publisher=Business Insider|date=August 12, 2013|accessdate=September 5, 2014}}</ref>
+
+In the general election on November 6, Cotton defeated State Senator [[Gene Jeffress]], 59% to 37%. Cotton was the second Republican since [[Reconstruction Era of the United States|Reconstruction]] to represent the 4th district.<ref>[http://www.realclearpolitics.com/epolls/2012/house/ar/arkansas_4th_district_cotton_vs_jeffress-3273.html Arkansas 4th District – Cotton vs. Jeffress] from RealClearPolitics.com. Retrieved March 19, 2015</ref>  The first, [[Jay Dickey]], held it from 1993 to 2001—during the presidency of [[Bill Clinton]], whose residence was in the district at the time.
+
+On January 3, 2013, Cotton was sworn into the U.S. House by [[United States Speaker of the House|House Speaker]] [[John Boehner]].<ref>{{cite web|url=http://cotton.house.gov/media-center/press-releases/representative-sworn-into-office|title=Representative Cotton Sworn Into Office|publisher=cotton.house.gov|date=January 3, 2013|accessdate=January 18, 2013}}</ref> As a freshman, he has been considered a rising star in the Republican Party. ''[[Politico (newspaper)|Politico]]'' named him "most likely to succeed."<ref>[http://www.politico.com/story/2013/01/freshman-yearbook-most-likely-to-85703.html?hp=l2 "The freshman most likely to _______"] by Kate Nocera, POLITICO.com. Retrieved November 5, 2014.</ref><ref>{{cite news|url=http://www.washingtonpost.com/blogs/right-turn/wp/2012/12/05/tom-cotton-no-ordinary-freshman-congressman|work=The Washington Post|title=Right Turn|accessdate=November 5, 2014}}</ref>
+
+====Domestic issues====
+In February 2013, Cotton voted for the [[An Act to eliminate the 2013 statutory pay adjustment for Federal employees|Federal Pay Adjustment Act]], which prevents a 0.5% pay increase for all federal workers from taking effect.<ref>{{cite web|title=HR 273 – Eliminates the 2013 Statutory Pay Adjustment for Federal Employees – Voting Record|url=https://votesmart.org/bill/votes/42596#.UjdQCD9-q1c|website=Project Vote Smart|accessdate=August 25, 2014}}</ref>
+
+Cotton opposed the [[Federal Agriculture Reform and Risk Management Act of 2013]], also known as the Farm Bill, because he believed the [[Supplemental Nutrition Assistance Program]] included waste and fraud, and he then voted for a bill that stripped funding from food stamps in June 2013.<ref>{{cite news|last1=Huey-Burns|first1=Caitlin|title=Tom Cotton a Key House Voice on Immigration Reform|url=http://www.realclearpolitics.com/articles/2013/07/16/tom_cotton_a_key_house_voice_on_immigration_reform_119235.html|accessdate=26 June 2016|work=[[RealClearPolitics]]|date=16 July 2013}}</ref>  In January 2014, Cotton ultimately voted against the $1 trillion bill expanding crop insurance by $7 billion over the next decade and creating new subsidies for rice and peanut growers that would kick in when prices drop.<ref>{{cite web|title=House Floor Activities Legislative Day of January 29, 2014|url=http://clerk.house.gov/floorsummary/floor.aspx?day=20140129&today=20140212|website=House of Representatives|accessdate=August 25, 2014}}</ref><ref>{{cite news|last1=Nixon|first1=Ron|title=Senate Passes Long-Stalled Farm Bill, With Clear Winners and Losers|url=http://www.nytimes.com/2014/02/05/us/politics/senate-passes-long-stalled-farm-bill.html?partner=rss&emc=rss&_r=0|accessdate=August 25, 2014|work=The New York Times|date=February 4, 2014}}</ref>
+
+In June 2013, Cotton voted in favor of the Pain-Capable Unborn Child Protection Act, a bill to ban [[abortion]]s that would take place 20 or more weeks after fertilization.<ref>{{cite web|title=House Vote 251 – Approves New Abortion Restrictions|url=http://politics.nytimes.com/congress/votes/113/house/1/251|website=The New York Times|accessdate=August 25, 2014}}</ref>  Cotton has stated his support for the repeal of the [[Patient Protection and Affordable Care Act]],<ref>{{cite news|last1=Ramsey|first1=David|title=How Tom Cotton talks when he talks about Obamacare|url=http://www.arktimes.com/ArkansasBlog/archives/2014/04/18/how-tom-cotton-talks-when-he-talks-about-obamacare|accessdate=August 25, 2014|work=Arkansas Times|date=April 14, 2014}}</ref> and has signed an amicus brief in support of Senator [[Ron Johnson (U.S. politician)#Health care|Ron Johnson's legal challenge]] against the [[U.S. Office of Personnel Management]]'s ACA ruling.<ref>{{cite web|url=http://www.washingtonpost.com/blogs/post-politics/wp/2014/04/22/38-gop-lawmakers-join-ron-johnsons-obamacare-lawsuit/|title=38 GOP lawmakers join Ron Johnson’s Obamacare lawsuit|author=Ed O'Keefe|work=The Washington Post}}</ref>
+
+After the Senate’s [[Gang of Eight (immigration)|Gang of Eight]] passed [[Border Security, Economic Opportunity, and Immigration Modernization Act of 2013|comprehensive immigration reform]], House Republicans held a closed door meeting in the basement of the United States Capitol to decide whether to take up the bill in July 2013.<ref name=nationalreview13>{{cite news|last1=Costa|first1=Robert|title=Picking Tom Cotton: On immigration, a freshman speaks for the right flank of the House GOP|url=http://www.nationalreview.com/article/353386/picking-tom-cotton-robert-costa|accessdate=23 June 2016|work=[[The National Review]]|date=15 July 2013}}</ref>  Budget Committee Chairman [[Paul Ryan]] spoke at one podium arguing for the bill’s passage.<ref name=newyorker16>{{cite news|last1=Lizza|first1=Ryan|title=Occupied Territory: The Republican élite struggles over whether to resist Trump or capitulate|url=http://www.newyorker.com/magazine/2016/06/20/inside-the-gop-trump-dilemma|accessdate=23 June 2016|work=[[The New Yorker]]|date=20 July 2016}}</ref>  Freshman Cotton spoke at another podium arguing against the bill, even exchanging terse comments with Speaker Boehner.<ref name=nationalreview13/>  Cotton’s argument was that a tougher stance on immigration hadn't done much to diminish [[Mitt Romney|Mitt Romney's]] electoral support among Hispanics in 2012 compared to [[John McCain|John McCain's]] in 2008.<ref name=newyorker16/>  The House decided to not consider the bill.<ref name=newyorker16/>
+
+In August 2013, Cotton voted against federal [[student loan]] legislation in Congress. Cotton said that his vote was based on his opposition to the nationalization of the student-loan business which he wrote had been a component of the [[Patient Protection and Affordable Care Act]] (ACA). Cotton stated, "I'm committed to bringing affordable higher education to every Arkansan and ending the federal-government monopoly on the student-lending business."<ref>{{cite news|url=http://www.huffingtonpost.com/2013/08/01/tom-cotton-student-loans_n_3692026.html|title=Tom Cotton, Arkansas Rep., Took Student Loans, Voted Against Them|work=The Huffington Post|accessdate=August 2, 2013|first=Michael|last=McAuliff|date=August 1, 2013}}</ref>
+
+In September 2014, Cotton said he would vote for the Arkansas Minimum Wage Initiative, a November 2014 statewide ballot initiative that calls for raising Arkansas' minimum wage from $6.25 an hour to $8.50 an hour by 2017.<ref>{{cite news|last1=Bobic|first1=Igor|title=Tom Cotton Says He Will Vote For Minimum Wage Hike 'As A Citizen'|url=http://www.huffingtonpost.com/2014/09/05/tom-cotton-minimum-wage_n_5772246.html|accessdate=September 12, 2014|work=The Huffington Post|date=September 5, 2014}}</ref>
+
+====Foreign issues====
+In 2013 Cotton introduced legislative language to prohibit trade with relatives of individuals subject to [[U.S. sanctions against Iran]]. According to Cotton, this would include "a spouse and any relative to the third degree," such as, "parents, children, aunts, uncles, nephews, nieces, grandparents, great grandparents, grandkids, great grandkids." When Cotton's amendment came under harsh criticism regarding the constitutionality of the amendment, he withdrew it.<ref name=WP031115>{{cite news|last1=Waldman|first1=Paul|title=For Tom Cotton, letter to Iran is anything but a ‘fiasco’|url=http://www.washingtonpost.com/blogs/plum-line/wp/2015/03/11/for-tom-cotton-letter-to-iran-is-anything-but-a-fiasco/|accessdate=March 17, 2015|work=[[The Washington Post]]|date=March 11, 2015}}</ref><ref>{{cite news|last1=Carter|first1=Zach|title=Here's Why Republicans Love Tom Cotton's Letter To Iran|url=http://www.huffingtonpost.com/2015/03/17/americans-dont-like-tom-c_n_6887896.html?|accessdate=March 18, 2015|work=[[The Huffington Post]]|date=March 17, 2015}}</ref>
+
+====Committee assignments====
+* '''[[United States House Committee on Financial Services|Committee on Financial Services]]'''
+** [[United States House Financial Services Subcommittee on Financial Institutions and Consumer Credit|Subcommittee on Financial Institutions and Consumer Credit]]
+** [[United States House Financial Services Subcommittee on Monetary Policy and Trade|Subcommittee on Monetary Policy and Trade]]
+* '''[[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]]'''
+** [[United States House Foreign Affairs Subcommittee on the Middle East and North Africa|Subcommittee on the Middle East and North Africa]]
+** [[United States House Foreign Affairs Subcommittee on Terrorism, Nonproliferation, and Trade|Subcommittee on Terrorism, Nonproliferation, and Trade]]
+
+===U.S. Senate (2015–present)===
+[[File:U.S. Senator Tom Cotton and former Ambassador to the U.N. John Bolton speaking at the 2015 Conservative Political Action Conference (CPAC) in Maryland.jpg|thumb|Senator Cotton and former Ambassador to the U.N. [[John R. Bolton|John Bolton]] at the 2015 [[Conservative Political Action Conference]] (CPAC)]]
+[[File:U.S. Secretary of Defense Ash Carter and Senators Joni Ernst, Daniel Sullivan, John McCain, Tom Cotton, Lindsey Graham, and Cory Gardner attending the 2016 International Institute for Strategic Studies Asia Security Summit in Singapore.jpg|thumb|300px|U.S. Secretary of Defense [[Ash Carter]] and Senators [[Joni Ernst]], [[Dan Sullivan (U.S. Senator)|Daniel Sullivan]], [[John McCain]], Tom Cotton, [[Lindsey Graham]], and [[Cory Gardner]] attending the 2016 [[International Institute for Strategic Studies]] Asia Security Summit in Singapore]]
+{{See also|United States Senate election in Arkansas, 2014}}
+On August 6, 2013 Cotton officially announced he would challenge incumbent U.S. Senator [[Mark Pryor]].<ref>{{cite news|last=Condon|first=Stephanie|title=Republican Rep. Tom Cotton announces bid to challenge Sen. Mark Pryor, D-Ark.|publisher=CBS News|date=August 6, 2013|url=http://www.cbsnews.com/8301-250_162-57597296/republican-rep-tom-cotton-announces-bid-to-challenge-sen-mark-pryor-d-ark|accessdate=September 4, 2013}}</ref> [[Stuart Rothenberg]] of ''[[Roll Call]]'' called Pryor the most vulnerable Senator seeking re-election.<ref>{{cite news|last1=Rothenberg|first1=Stuart|title=Mark Pryor: Still This Cycle’s Most Vulnerable Senator|url=http://blogs.rollcall.com/rothenblog/stu-rothenberg-arkansas-senate-race/|accessdate=July 12, 2014|publisher=Roll Call|date=June 9, 2014}}</ref> Cotton was endorsed by former Presidential nominee [[Mitt Romney]],<ref>[http://www.arktimes.com/ArkansasBlog/archives/2014/08/21/mitt-romney-endorses-tom-cotton Romney endorses Tom Cotton], arktimes.com. Retrieved November 5, 2014.</ref> the fiscally conservative [[Club for Growth]] PAC, Senator [[Marco Rubio]], and the National Federation of Independent Business.<ref>{{cite news|last=Gentilviso|first=Chris|title=Tom Cotton 2014 Senate Run Gets Early Club For Growth Endorsement|url=http://www.huffingtonpost.com/2013/08/07/tom-cotton-2014_n_3720093.html|accessdate=January 16, 2014|newspaper=The Huffington Post|date=August 7, 2013}}</ref><ref>{{cite news|last=Judis|first=John|title=The Shrinking Club for Growth|url=http://www.newrepublic.com/article/115222/shrinking-club-growth|accessdate=January 16, 2014|newspaper=The New Republic|date=October 16, 2013}}</ref><ref>{{cite news|last=Joseph|first=Cameron|title=Club for Growth endorses Tom Cotton, launches ads in Arkansas Senate race|url=http://thehill.com/video/in-the-news/315915-club-for-growth-endorses-tom-cotton|accessdate=January 16, 2014|newspaper=The Hill|date=August 7, 2013}}</ref><ref>{{cite news|last=Strauss|first=Daniel|title=Rubio Endorses Rep. Tom Cotton for Senate|url=http://talkingpointsmemo.com/dc/rubio-endorses-rep-tom-cotton-for-senate|accessdate=May 26, 2014|newspaper=Talking Points Memo}}</ref><ref>{{cite news|last1=Urban|first1=Peter|title=Small-business group endorses Cotton|url=http://arkansasnews.com/news/washington/small-business-group-endorses-cotton|accessdate=July 12, 2014|publisher=Arkansas News|date=July 1, 2014}}</ref> Romney campaigned for Cotton in the state.<ref>{{cite news|title=Romney to campaign for Cotton in Arkansas|url=http://www.kspr.com/news/local/romney-to-campaign-for-cotton-in-arkansas/21051620_27655244|accessdate=August 25, 2014|publisher=KSPR-ABC|date=August 21, 2014}}</ref> Cotton defeated Pryor in the general election, 56.5% to 39.5%.<ref>{{cite web|url=http://results.enr.clarityelections.com/AR/53237/149537/Web01/en/summary.html |title=November 4, 2014 General election and nonpartisan runoff election Official results|publisher=Arkansas Secretary of State |accessdate=November 23, 2014}}</ref>  The race was called for Cotton just half an hour after the polls closed. He was the first Republican challenger to unseat an incumbent Democrat in the Senate from Arkansas since Senators were first popularly elected in 1914.  Cotton was sworn into office on January 6, 2015.
+
+====Letter to Iran's leaders====
+On or about March 9, 2015, Cotton wrote and sent [[s:An Open Letter to the Leaders of the Islamic Republic of Iran|a letter to the leadership of the Islamic Republic of Iran]], signed by 47 of the Senate's 54 Republicans, attempting to cast doubt on the Obama administration's authority to engage in [[Comprehensive agreement on Iranian nuclear program|nuclear-proliferation negotiations with Iran]].<ref>{{cite news|last1=Baker|first1=Peter|title=Angry White House and G.O.P. Senators Clash Over Letter to Iran|url=http://www.nytimes.com/2015/03/10/world/asia/white-house-faults-gop-senators-letter-to-irans-leaders.html|accessdate=March 9, 2015|work=[[The New York Times]]|date=March 9, 2015}}</ref> The open letter was released in English as well as a poorly-translated Persian version (which "read like a middle schooler wrote it" according to ''[[Foreign Policy]]'').<ref>{{cite news|last1=Foreign Policy Staff|title=Sen. Tom Cotton's Farsi Version Of His Explosive Letter to Iranian Leaders Reads Like a Middle Schooler Wrote It|url=http://foreignpolicy.com/2015/03/30/sen-tom-cottons-farsi-version-of-his-explosive-letter-to-iranian-leaders-reads-like-a-middle-schooler-wrote-it/|accessdate=March 31, 2015|work=[[Foreign Policy]]|date=March 30, 2015}}</ref> Within hours, commentators suggested that the letter prepared by Cotton constituted a violation of the [[Logan Act]].<ref>{{cite news|last1=Waldman|first1=Paul|title=Republicans are beginning to act as though Barack Obama isn’t even the president|url=http://www.washingtonpost.com/blogs/plum-line/wp/2015/03/09/republicans-are-beginning-to-act-as-though-barack-obama-isnt-even-the-president/|accessdate=March 9, 2015|work=[[The Washington Post]]|date=March 9, 2015}}</ref><ref>{{cite news|last1=Bump|first1=Philip|title=What an 18th century non-war with France has to do with the Senate’s letter to Iran|url=http://www.washingtonpost.com/blogs/the-fix/wp/2015/03/09/what-an-18th-century-non-war-with-france-has-to-do-with-the-senates-letter-to-iran/|accessdate=March 9, 2015|work=[[The Washington Post]]|date=March 9, 2015}}</ref>  Questions also were raised as to whether it reflected a flawed interpretation of the [[Treaty Clause]] of the United States Constitution.<ref>{{cite news|url=http://www.cnn.com/2015/03/09/politics/gop-senators-letter-to-iran/|publisher=CNN|title=Obama, Iranian official slam GOP letter on deal|accessdate=March 4, 2015}}</ref>
+
+President [[Barack Obama]] mocked the letter, referring to it as an "unusual coalition" with [[Army of the Guardians of the Islamic Revolution|Iran's hard-liners]] as well as an interference with the then-ongoing negotiations of a comprehensive agreement on the Iranian nuclear program.<ref>[http://www.bbc.com/news/world-us-canada-31796235 Obama mocks Republican letter to Iran over nuclear talks] from ''[[BBC News]]'', March 9, 2015. Retrieved March 19, 2015</ref> In addition, during a [[Vice News]] interview, President Barack Obama said, "I'm embarrassed for them. For them to address a letter to the Ayatollah – the Supreme Leader of Iran, who they claim is our mortal enemy – and their basic argument to them is: don't deal with our President, 'cause you can't trust him to follow through on an agreement... That's close to unprecedented."<ref>[http://www.huffingtonpost.com/2015/03/13/obama-iran-letter_n_6864134.html Obama: 'I'm Embarrassed' For Republicans Who Sent Letter To Iran] from ''[[The Huffington Post]]'', March 13, 2015. Retrieved March 19, 2015</ref>
+
+Iran's Foreign Minister, [[Javad Zarif]], responded to the letter by saying "[the Senators'] letter in fact undermines the credibility of thousands of such mere executive agreements that have been or will be entered into by the US with various other governments". Zarif pointed out that the nuclear deal is not supposed to be an Iran–US deal, but an international one, saying that "change of administration does not in any way relieve the next administration from international obligations undertaken by its predecessor in a possible agreement about Iran's peaceful nuclear program". He continued, "I wish to enlighten the authors that if the next administration revokes any agreement with the stroke of a pen, as they boast, it will have simply committed a blatant violation of international law".<ref>[http://en.mfa.ir/index.aspx?siteid=3&fkeyid=&siteid=3&fkeyid=&siteid=3&pageid=1997&newsview=330948 Dr. Zarif`s Response to the Letter of US Senators] from [[Ministry of Foreign Affairs (Iran)]], March 9, 2015. Retrieved March 19, 2015</ref>
+
+Cotton on March 15, 2015 defended the letter he and fellow Senate Republicans sent to Iranian leaders about their nuclear negotiations with the United States, amid criticism that it undermined the president's efforts. "It's so important we communicated this message straight to Iran," he told CBS News' ''[[Face the Nation]]'' "No regrets at all," and "they already control Tehran, increasingly they control Damascus and Beirut and Baghdad and now Sana'a as well."<ref>{{Cite web|url = http://www.foxnews.com/politics/2015/03/15/freshmen-gop-sen-cotton-says-no-regrets-about-letter-warning-iran-about-nuclear/?intcmp=latestnews|title = Freshman GOP Senator Cotton says no regrets about letter warning Iran about Nuclear Deterrent|date = March 15, 2015|accessdate = March 19, 2015|publisher = Fox News Channel}}</ref><ref>{{Cite web|url = http://www.cbsnews.com/videos/march-15-kerry-cotton-manchin/|title = Face the Nation|date = March 15, 2015|accessdate = March 19, 2015|publisher = CBS}}</ref><ref>{{Cite web|url = http://www.independent.co.uk/news/world/americas/tom-cotton-us-senator-apparently-does-not-know-the-capital-of-iran-10111640.html|title = Tom Cotton, US Senator, apparently does not know the capital of Iran|date = March 16, 2015|accessdate = March 19, 2015|website = The Independent}}</ref> He continued to defend his action in an interview with [[MSNBC]] by saying, "There are nothing but hardliners in Iran. They've been killing Americans for 35 years. They kill hundreds of troops in Iraq. Now they control five capitals in the Middle East. There're nothing but hardliners in Tehran and if they do all those things without a nuclear weapon, imagine what they'll do with a nuclear weapon."<ref>{{Cite web|url = http://www.msnbc.com/morning-joe/watch/tom-cotton--i-want-complete-nuclear-disarmament-410915907561|title = Tom Cotton: I want complete nuclear disarmament|date = March 15, 2015|accessdate = March 19, 2015|publisher = MSNBC}}</ref>
+
+====Military action against Iran====
+Cotton accused Obama of holding up a "false choice" between his framework deal on Iran's nuclear program and war. Cotton also seemed to underestimate what military action against Iran would entail,<ref name="npr">{{cite web|url=http://www.npr.org/blogs/itsallpolitics/2015/04/08/398345234/tom-cotton-military-action-against-iran-would-only-take-several-days|title=Tom Cotton: Military Action Against Iran Would Take Only 'Several Days'|last=Montanaro|first=Domenico|date=April 8, 2015|publisher=NPR|access-date=December 28, 2016}}</ref> stating: "the president is trying to make you think it would be 150,000 heavy mechanized troops on the ground in the Middle East again as we saw in Iraq. That's simply not the case." Drawing a comparison to President Bill Clinton's actions in 1998 during [[Bombing of Iraq (1998)|Operation Desert Fox]], he elaborated: "Several days' air and naval bombing against Iraq's weapons of mass destruction facilities for exactly the same kind of behavior. For interfering with weapons inspectors and for disobeying Security Council resolutions."<ref name="npr"/><ref>{{cite web|url=http://www.politico.com/story/2015/04/tom-cotton-iran-targeted-attack-116768.html|title=Sen. Tom Cotton says U.S. could pursue targeted attack on Iran|author=Kendall Breitman|date=April 8, 2015|work=POLITICO}}</ref>
+
+====Iran side deals====
+On July 21, 2015 Cotton and [[Mike Pompeo]] announced the existence of side agreements between Iran and the IAEA on procedures for inspection and verification of Iran's nuclear activities under the Iran nuclear deal. These side deals have since become a flashpoint in the debate over the Iran deal, in part because their contents have not been publicly disclosed. Cotton described the side deals as "secret", though the Obama Administration disputed this, noting that the IAEA always has a duty of confidentiality.<ref>{{cite web|url=http://www.washingtonpost.com/news/powerpost/wp/2015/07/22/secret-deals-become-latest-congressional-complaint-about-iran-deal/|title=‘Secret deals’ become latest congressional complaint about Iran deal|author=Demirjian, Karoun}}</ref><ref>{{cite web|url=http://thehill.com/policy/international/249171-white-house-launches-counterattack-against-iran-side-deal-attacks|title=White House launches Iran side deals counterattack|author=Jordan Fabian and Kristina Wong}}</ref><ref>{{cite web|url=http://www.huffingtonpost.com/entry/john-kerry-iran-deal-iaea_55b14997e4b08f57d5d41c12|title=John Kerry's Confident The IAEA Can Handle Iran, But Congress Isn't Buying It|author=Schulberg, Jessica}}</ref>
+
+====Heavy water amendment====
+In May 2016 the Senate voted down Cotton’s amendment to an energy spending bill that would have prohibited the U.S. from buying [[heavy water]] from Iran.<ref>{{cite web|url=http://dailysignal.com/2016/06/08/nearly-1-year-since-nuclear-deal-tom-cotton-alarmed-by-empowerment-of-iran/|title=Tom Cotton Warns of Iran Nuclear Deal ‘Consequences’|first=|last=2016|date=June 8, 2016|work=dailysignal.com|accessdate=August 2, 2016}}</ref>
+
+====Cassandra Butts nomination====
+[[File:Senator of Arkansas Tom Cotton at NH FITN 2016 by Michael Vadon 08.jpg|thumb|Senator Cotton at First In The Nation Townhall, [[New Hampshire]]]]
+In February 2015 Obama renominated [[Cassandra Butts]], a former White House lawyer, to be [[United States Ambassador to the Bahamas]].
+However, Butts' nomination was blocked by several Republican senators.  First, Sen. [[Ted Cruz]] placed a blanket hold on all U.S. State Department nominees.<ref name="crushed">{{cite web|url=http://www.nytimes.com/2016/06/07/opinion/an-obama-nominees-crushed-hopes.html|title=An Obama Nominee’s Crushed Hopes|date=June 7, 2016|work=The New York Times|accessdate=August 2, 2016}}</ref>  Then, Cotton specifically blocked the nominations of Butts and ambassador nominees to Sweden and Norway after the Secret Service had leaked private information about a fellow member of Congress, even though that issue was unrelated to those nominees.<ref name="crushed"/>  Cotton eventually released his holds on the nominees to Sweden and Norway, but kept his hold on Butts' nomination.<ref name="crushed"/>  Butts told New York Times columnist [[Frank Bruni]] that she had gone to see Cotton about his objections to her nomination, and Cotton explained to her that because he knew that the president and Butts were friends, it was a way to "inflict special pain on the president," Bruni wrote.<ref name="crushed"/>  Cotton's spokeswoman did not dispute Butts' characterization, but stressed that Cotton had respect for her and her career.<ref name="crushed"/>  Butts died on May 26, 2016, still awaiting a Senate vote.<ref name="crushed"/>
+
+====Committee assignments====
+[[File:Sen. Tom Cotton visits Air Defenders in Korea 150815-A-DY706-004.jpg|thumb|Senator Cotton visits Air Defenders at [[Osan Air Base]] during his three-country tour to [[Japan]], [[South Korea]], and [[Taiwan]]]]
+* '''[[United States Senate Committee on Armed Services|Committee on Armed Services]]'''
+**[[United States Senate Armed Services Subcommittee on Airland|Subcommittee on Airland]] (Chair)
+**[[United States Senate Armed Services Subcommittee on Emerging Threats and Capabilities|Subcommittee on Emerging Threats and Capabilities]]
+**[[United States Senate Armed Services Subcommittee on Personnel|Subcommittee on Personnel]]
+* '''[[United States Senate Committee on Banking, Housing, and Urban Affairs|Committee on Banking, Housing, and Urban Affairs]]'''
+**[[United States Senate Banking Subcommittee on Economic Policy|Subcommittee on Economic Policy]]
+**[[United States Senate Banking Subcommittee on Housing, Transportation, and Community Development|Subcommittee on Housing, Transportation, and Community Development]]
+**[[United States Senate Banking Subcommittee on National Security and International Trade and Finance|Subcommittee on National Security and International Trade and Finance]]
+* '''[[United States Senate Special Committee on Aging|Special Committee on Aging]]'''
+* '''[[United States Senate Select Committee on Intelligence|Select Committee on Intelligence]]'''
+* '''[[Joint Economic Committee]]'''
+
+====Support from pro-Israel groups====
+Cotton has been receiving heavy support from pro-Israel groups due to his opposition to the Iran nuclear deal and for his hawkish stance towards Iran. A number of pro-Israel American billionaires have contributed millions of dollars to Cotton, and [[William Kristol]]'s The&nbsp;Emergency Committee for Israel spent $960,000 to support Cotton.<ref>{{cite news|url=http://www.nytimes.com/2015/04/05/us/politics/gops-israel-support-deepens-as-political-contributions-shift.html|title=GOP's Israel support deepens as political contributions shift}}</ref>
+
+==== Immigration policy in Scandinavia and the United States ====
+In an opinion piece published in the [[Wall Street Journal]], Cotton compared the [[Immigration to Norway|immigration policy of Norway]] favourably to that [[Immigration to Sweden|of Sweden]]. He maintained that the Norwegian government had in greater extent than that of Sweden listened to the concerns of its citizens in contrast to the dominant Swedish major parties which did not listen to its constituents.<ref name="wsj_26September2016">{{cite news|last1=Cotton|first1=Tom|last2=Pompeo|first2=Mike|title=What We Learned in Scandinavia About Migrants.|url=http://www.wsj.com/articles/what-we-learned-in-scandinavia-about-migrants-1474932369|accessdate=30 September 2016|publisher=[[Wall Street Journal]]|date=26 September 2016}}</ref> He proceeded to compare the differing results in Scandinavia to that of the United States, where immigration-friendly elites have been held in check by immigration-sceptical constituents.<ref name="wsj_26September2016"/>
+
+==Personal life==
+Cotton married attorney Anna (née Peckham) Cotton in 2014.<ref>{{cite news|last=Henry|first=Larry|title=Tom Cotton Ties The Knot|url=http://5newsonline.com/2014/03/16/tom-cotton-posts-wedding-photo|accessdate=May 26, 2014|publisher=5newsonline.com|date=March 18, 2014}}</ref> Their first child, a boy, was born on April 27, 2015.<ref>{{cite web|url=https://mobile.twitter.com/SenTomCotton/status/593178724276768768|title=Twitter|work=twitter.com|accessdate=August 2, 2016}}</ref> Their second child, a boy, was born on December 7, 2016.<ref>"[http://www.rollcall.com/news/hoh/sen-tom-cotton-welcomes-second-child Sen. Tom Cotton Welcomes Second Child: Arkansas Republican now has two sons]". ''Roll Call''. December 7, 2016.</ref>
+
+Cotton has said that [[Walter Russell Mead]], [[Robert D. Kaplan]], [[Henry Kissinger]], Dana Silva, C.J. Vonn, and Jason Matthews are among his favorite authors.<ref name="Takala Examiner Story">{{cite news|last=Takala|first=Rudy|authorlink=Rudy Takala|title=Tom Cotton: 'Deterrence, once lost, is very hard to regain'|url=http://www.washingtonexaminer.com/tom-cotton-deterrence-once-lost-is-very-hard-to-regain/article/2594746=all|newspaper=[[The Washington Examiner]]|date=June 27, 2016|accessdate=June 27, 2016}}</ref>
+
+==Potential role in the Trump Administration==
+{{further information|Cabinet of Donald Trump}}
+Cotton has been mentioned as a possible candidate for [[Secretary of Defense]] in the upcoming [[Trump Administration]].<ref>{{cite news |url=http://www.politico.com/blogs/donald-trump-administration/2016/11/donald-trump-cabinet-members-list-of-choices-picks-and-selections-so-far-231444 |title=Donald Trump's Cabinet-in-waiting: What we know so far |last=Restuccia |first=Andrew |date=November 18, 2016 |work=[[Politico]] |accessdate=November 18, 2016}}</ref> However, retired General [[James Mattis]] was announced by [[Donald Trump]].<ref>{{cite web|url=http://thehill.com/homenews/administration/308420-trump-announces-mattis-as-defense-pick|title=Trump announces Mattis as Defense pick|first=Jesse|last=Byrnes|date=1 December 2016|publisher=|accessdate=2 December 2016}}</ref>
+
+==Electoral history==
+{| class="wikitable"
+! colspan="5" |Arkansas's 4th Congressional District Republican Primary Election, 2012
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|'''+%'''
+|-
+|Republican
+|Tom Cotton
+|20,899
+|57.55%
+|
+|-
+|Republican
+|Beth Anne Rankin
+|13,460
+|37.07%
+|
+|-
+|Republican
+|John Cowart
+|1,953
+|5.38%
+|
+|}
+{| class="wikitable"
+! colspan="5" |Arkansas's 4th Congressional District Election, 2012
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|'''+%'''
+|-
+|Republican
+|Tom Cotton
+|154,149
+|59.53%
+|
+|-
+|Democratic
+|Gene Jeffress
+|95,013
+|36.69%
+|
+|-
+|Libertarian
+|Bobby Tullis
+|4,984
+|1.92%
+|
+|-
+|Green
+|Joshua Drake
+|4,807
+|1.86%
+|
+|}
+{| class="wikitable"
+! colspan="5" |U.S. Senate Election in Arkansas, 2014
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|'''+%'''
+|-
+|Republican
+|Tom Cotton
+|478,819
+|56.50%
+|
+|-
+|Democratic
+|Mark Pryor*
+|334,174
+|39.43%
+|
+|-
+|Libertarian
+|Nathan LaFrance
+|17,210
+|2.03%
+|
+|-
+|Green
+|Mark Swaney
+|16,797
+|1.98%
+|
+|-
+|Write-in votes
+|Write-in votes
+|505
+|0.06%
+|
+|}
+
+==See also==
+{{Portal|Arkansas|Biography|Government of the United States}}
+* [[List of people from Arkansas]]
+* [[List of United States Representatives from Arkansas]]
+* [[List of United States Senators from Arkansas]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons}}
+{{wikisource-author}}
+* {{Official website|https://www.cotton.senate.gov/}}
+* {{C-SPAN|Thomas Cotton}}
+{{CongLinks|congbio=C001095|votesmart=135651|fec=S4AR00103|congress=tom-cotton/2098}}
+* {{Dmoz|Regional/North_America/United_States/Arkansas/Government/Federal/US_House_of_Representatives/Tom_Cotton_%5BR-4%5D|Tom Cotton}}
+
+{{Navboxes
+|title=Offices and distinctions
+|list1=
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Mike Ross (politician)|Mike Ross]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Arkansas|U.S. House of Representatives]]<br>from [[Arkansas's 4th congressional district]]|years=2013–2015}}
+{{s-aft|after=[[Bruce Westerman]]}}
+{{s-break}}
+{{s-ppo}}
+{{s-break}}
+{{s-vac|last=[[Tim Hutchinson]]}}
+{{s-ttl|title={{nowrap|[[Republican Party (United States)|Republican]] nominee for [[List of United States Senators from Arkansas|U.S. Senator]] from [[Arkansas]]}}<br>([[Classes of United States Senators|Class 2]])|years=[[United States Senate election in Arkansas, 2014|2014]]}}
+{{s-inc|recent}}
+{{s-break}}
+{{s-par|us-sen}}
+{{s-bef|before=[[Mark Pryor]]}}
+{{s-ttl|title=[[List of United States Senators from Arkansas|U.S. Senator (Class 2) from Arkansas]]|years=2015–present|alongside=[[John Boozman]]}}
+{{s-inc}}
+{{s-break}}
+{{s-hon}}
+{{s-bef|before=[[Chris Murphy (Connecticut politician)|Chris Murphy]]}}
+{{s-ttl|title=[[List of youngest members of the United States Congress|Baby of the Senate]]|years=2015–present}}
+{{s-inc}}
+{{s-break}}
+{{s-prec|usa}}
+{{s-bef|before=[[James Lankford]]}}
+{{s-ttl|title=[[Seniority in the United States Senate|United States Senators by seniority]]|years=93rd}}
+{{s-aft|after=[[Steve Daines]]}}
+{{s-end}}
+}}
+
+{{Navboxes
+|title= Articles related to Tom Cotton
+|list1=
+{{AR-FedRep}}
+{{Current U.S. Senators}}
+{{Current Arkansas statewide political officials}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cotton, Tom}}
+[[Category:1977 births]]
+[[Category:American Methodists]]
+[[Category:American military personnel of the Iraq War]]
+[[Category:American military personnel of the War in Afghanistan (2001–2014)]]
+[[Category:Arkansas Republicans]]
+[[Category:Articles created via the Article Wizard]]
+[[Category:Harvard Law School alumni]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Arkansas]]
+[[Category:People from Dardanelle, Arkansas]]
+[[Category:People from Yell County, Arkansas]]
+[[Category:Recipients of the Bronze Star Medal]]
+[[Category:Republican Party United States Senators]]
+[[Category:Tea Party movement activists]]
+[[Category:The Harvard Crimson people]]
+[[Category:United States Army officers]]
+[[Category:United States Senators from Arkansas]]
+[[Category:21st-century American politicians]]

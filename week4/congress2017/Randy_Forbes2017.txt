@@ -1,0 +1,349 @@
+{{BLP refimprove|date=November 2016}}
+{{Infobox Officeholder
+|name            = Randy Forbes
+|image           = Randy Forbes, official Congressional photo portrait, standing.jpg
+|state           = [[Virginia]]
+|district        = {{ushr|VA|4|4th}}
+|term_start      = June 19, 2001
+|term_end        = <!-- January 3, 2017 -->
+|predecessor     = [[Norman Sisisky]]
+|successor       = [[Donald McEachin]] {{small|(elect)}}
+|state_senate1   = Virginia
+|district1       = 14th
+|term_start1     = January 6, 1998
+|term_end1       = June 19, 2001
+|predecessor1    = [[Mark Earley]]
+|successor1      = [[Harry Blevins]]
+|state_delegate2 = Virginia
+|district2       = 78th
+|term_start2     = January 10, 1990
+|term_end2       = January 5, 1998
+|predecessor2    = [[Frederick H. Creekmore|Frederick Creekmore]]
+|successor2      = [[Harry Blevins]]
+|birth_name      = James Randy Forbes
+|birth_date      = {{birth date and age|1952|2|17}}
+|birth_place     = [[Chesapeake, Virginia]], U.S.
+|death_date      = 
+|death_place     = 
+|party           = [[Republican Party (United States)|Republican]]
+|spouse          = Shirley Forbes
+|children        = 4
+|alma_mater      = [[Randolph–Macon College|Randolph-Macon College]] {{small|([[Bachelor of Arts|BA]])}}<br>[[University of Virginia]] {{small|([[Juris Doctor|JD]])}}
+}}
+'''James Randy Forbes''' (born February 17, 1952) is an American politician. A member of the [[Republican Party (United States)|Republican Party]], he is the [[United States House of Representatives|U.S. Representative]] for {{ushr|VA|4}}, serving since 2001. 
+
+Prior to joining the [[United States Congress]], he was a member of the [[Virginia House of Delegates]], [[Virginia State Senate]], and Chairman of the [[Republican Party of Virginia]]. Forbes currently sits as Chairman of the Seapower and Projection Forces Subcommittee of the House Armed Services Committee . 
+
+==Early life, education and career==
+Forbes was born in [[Chesapeake, Virginia]], the son of Thelma and Malcolm J. Forbes.<ref>{{cite web|url=http://freepages.genealogy.rootsweb.ancestry.com/~battle/reps/forbes.htm|title=forbes|website=Freepages.genealogy.rootsweb.ancestry.com|accessdate=2016-11-22}}</ref> Forbes graduated first in his class from [[Randolph-Macon College]] in 1974. 
+
+He received his [[Juris Doctor]] from the [[University of Virginia School of Law]] in 1977. Forbes worked in private practice for Kaufman & Canoles PC.<ref>{{cite news|last1=Stamper|first1=Megan|title=Meet the Candidates: Rep. Randy Forbes|url=http://pilotonline.com/inside-business/news/municipal-government/meet-the-candidates-rep-randy-forbes/article_c9837f29-b073-506f-84ea-e2ed00ffde44.html|accessdate=April 29, 2016|work=Inside Business|date=October 12, 2012}}</ref>
+
+==Political career==
+Forbes served in the [[Virginia House of Delegates]] from 1989 to 1997 and the [[Virginia State Senate]] from 1997 to 2001. He was first elected to the House in 2001 to fill a vacancy caused by the death of ten-term [[Democratic Party (United States)|Democratic]] Congressman [[Norman Sisisky]]; defeating Democratic State Senator [[Louise Lucas]] 52–48%.<ref>[http://www.sbe.state.va.us/web_docs/election/results/2001/jun2001/June19] {{webarchive|url=https://web.archive.org/web/20050307021246/http://www.sbe.state.va.us/web_docs/election/results/2001/jun2001/June19|date=March 7, 2005}}</ref> After the 4th district was [[Redistricting|reconfigured]] as part of redistricting. He ran unopposed by Democrats in 2002 and 2006. In 2004, he faced [[Jonathan R. Menefee]], and won with 65% of the vote.<ref>{{cite news|url=http://www.washingtonpost.com/wp-srv/elections/2004/va|newspaper=The Washington Post|title=Virginia election results 2004}}</ref> He faced [[Wynne LeGrow]] in the 2010 election, and was easily re-elected with 62% of the vote. In 2012, he defeated Chesapeake City Councilwoman Ella Ward with 57% of the vote.{{cn|date=December 2016}}
+
+Forbes was Chairman of the [[Republican Party of Virginia]] from 1996 to 2001. On February 8, 2016, he announced that he would run for election to [[Virginia's 2nd Congressional District]] in November 2016, after the 4th District, where he had previously held office, was redrawn to cover most of the majority-black areas in and around Richmond. The 2nd is currently an open seat being vacated by [[Scott Rigell]].<ref>{{cite news|url=http://pilotonline.com/news/government/politics/virginia/randy-forbes-switching-districts-in-congressional-election/article_d419f663-2871-54d5-be16-5ae828345390.html|work=The Virginian-Pilot|title=Randy Forbes switching districts in 2016 congressional election}}</ref> 
+
+On June 14, 2016, Forbes was defeated in the Republican primary by state Delegate [[Scott Taylor (politician)|Scott Taylor]] by a margin of 52.5% to 40.6%, with a third candidate, C. Pat Cardwell IV, receiving 6.8% of the vote. Taylor went on to win the general election on November 8, 2016.<ref>{{cite news|url=http://pilotonline.com/news/government/politics/virginia/scott-taylor-defeats-veteran-randy-forbes-in-nd-congressional-primary/article_2e1315de-1d5a-51fb-801a-be2886af5e02.html|work=The Virginian-Pilot|title=Scott Taylor defeats veteran Randy Forbes in 2nd Congressional primary thanks to feisty grassroots campaign|accessdate=December 3, 2016}}</ref>
+
+==U.S. House of Representatives==
+{{BLP unsourced section|date=November 2016}}
+===Elections===
+{{See also|United States House of Representatives elections in Virginia, 2012#District 4}}
+
+===Committee assignments===
+[[File:US Navy 110301-N-ZB612-007 Chief of Naval Operations (CNO) Adm. Gary Roughead speaks with Rep. Randy Forbes before testifying before the House Arme.jpg|thumb|Rep. Forbes speaks with [[Chief of Naval Operations]] Adm. [[Gary Roughead]] before testifying in 2011]]
+* '''[[United States House Committee on Armed Services|Committee on Armed Services]]'''
+** [[United States House Armed Services Subcommittee on Seapower and Expeditionary Forces|Subcommittee on Seapower and Projection Forces]] (Chairman)
+** [[United States House Armed Services Subcommittee on Readiness|Subcommittee on Readiness]] (Ex-Chairman)
+* '''[[United States House Committee on Education and the Workforce|Committee on Education and the Workforce]]'''
+* '''[[United States House Committee on the Judiciary|Committee on the Judiciary]]'''
+** [[United States House Judiciary Subcommittee on the Constitution|Subcommittee on the Constitution]]
+** [[United States House Judiciary Subcommittee on Crime, Terrorism, and Homeland Security|Subcommittee on Crime, Terrorism, and Homeland Security]]
+
+===Memberships===
+;Caucuses
+* Army; Navy/Marine Corps; Coast Guard; Special Operations Force Caucuses
+* Children's Caucus
+* Congressional China Caucus (Founder)
+* Congressional Modeling and Simulation Caucus (Founder)
+* Congressional Prayer Caucus (Founder)<ref>{{cite web|url=http://www.prayercaucus.com |title=Congressional Prayer Caucus Foundation |website=Prayercaucus.com |date=1923-08-03 |accessdate=2016-11-22}}</ref>
+* Congressional Pro-Life Caucus
+* Diabetes Caucus
+* Historic Preservation Caucus
+* House Republican Israel Caucus
+* Immigration Reform Caucus
+* [[United States Congressional International Conservation Caucus|International Conservation Caucus]]
+* Internet Caucus
+* Military Retiree-Veterans Caucus
+* Missing and Exploited Children's Caucus
+* NASA Caucus (Founder) 
+* Panama Canal Expansion Caucus (Founder)
+
+;Other
+* Alzheimer's Task Force
+* Cancer Working Group
+* [[Chesapeake Bay]] Watershed Task Force
+* [[Judicial Activism]] Working Group
+
+==Political positions==
+
+===Defense===
+{{moresources|section|date=November 2016}}
+[[File:U.S. Representative Randy Forbes ( Republican - Virginia) spoke at Hudson Institute's Center for American Seapower.jpg|thumb|Randy Forbes spoke at [[Hudson Institute]]'s Center for American Seapower in 2015]]
+[[File:Navy commander greets Chairman of the House Armed Services’ Seapower and Projection Forces Subcommittee prior to a tour of the ship. (27143663412).jpg|thumb|Navy commander greets House Armed Services’ Seapower and Projection Forces Subcommittee Chairman Forbes in 2016]]
+
+Forbes is the current Chairman of the House Armed Services Committee's Seapower and Projection Forces subcommittee, which exercises oversight and legislative jurisdiction over the US Navy, US Marine Corps, US Air Force bomber and mobility (e.g., aerial refueling and airlift) assets, Navy Reserve equipment, and maritime programs. Before his appointment to this position in 2013, he was Chairman of the HASC Readiness subcommittee during the 112th Congress.{{Citation needed|date=November 2016}}
+
+In 2012, he organized a nationwide listening tour titled "Defending Our Defenders" which was aimed at bringing public awareness to the looming impact of sequestration on national defense. Forbes voted against the measure, which he believes threatens to dismantle the military and lead to massive civilian and military layoffs. Forbes has been a longtime proponent for a substantially expanded U.S. Navy. He is critical of the Navy's current 30 Year Shipbuilding Plan, which he believes fails to adequately invest in the ships needed to meet the service's current minimum force structure requirements. In April 2013, he presented an extended argument for why the U.S. must maintain a robust Navy, in which he criticized the lack of funding that had allowed the Navy to slip below the 300-ship threshold.{{cn|date=November 2016}} 
+
+A strong supporter of sustained U.S. engagement in the Asia Pacific, in July 2013, Forbes and three colleagues wrote a letter to National Security Advisor [[Susan Rice]], asking the White House to develop an coherent strategy document for its implementation. For his work on behalf of the Armed Services and the men and women who wear the uniform, the Army and Navy have presented their highest civilian awards to the Congressman.{{Citation needed|date=November 2016}}
+
+In 2013, Forbes publicly opposed military action in both Libya and Syria.<ref>{{cite web|url=http://forbes.house.gov/news/documentsingle.aspx?DocumentID=347488 |title=Forbes Releases Statement Opposing Intervention in Syria - Congressman J. Randy Forbes |website=Forbes.house.gov |date= |accessdate=2016-11-22}}</ref> In 2014, he promised to promote President Obama's call for funds for action in Syria.<ref>{{cite news|url=http://wvtf.org/post/military-strikes-against-isis|title=Military Strikes Against ISIS|last1=Stevens|first1=Connie|date=September 15, 2014|website=wvtf.org|publisher=[[Virginia Tech]]|accessdate=October 2, 2014}}</ref>
+
+In 2014, Forbes voted to address cuts imposed by [[United States budget sequestration in 2013|sequestration]] with a $1.4 billion cut to operations, maintenance, and training funds, rather than mothballing 11 cruisers and three amphibious warships.<ref>{{cite news |url=http://breakingdefense.com/2014/05/hasc-debates-sequesters-terrible-dilemma-a-ready-force-or-a-large-one|title=HASC Debates Sequestration's ‘Terrible Dilemma’: A Ready Force Or A Large One|last1=Freedberg Jr.|first1=Sydney J.|website=breakingdefense.com|publisher=Breaking Media, Inc.|accessdate=May 7, 2014}}</ref>
+
+===Veterans===
+{{BLP unsourced section|date=November 2016}}
+Forbes’ district is home to 70,000+ veterans, who make up roughly 10% of his constituency. Forbes has been recognized year in and year out by various veteran organizations for his help to bring veterans’ needs to the forefront of public discourse. Forbes was awarded the prestigious AMVET's Silver Helmet award in 2013, and was named "Legislator of the Year" by Virginia's MOAA in 2012. VA claims, healthcare, education, and veteran employment are the major issues which Forbes has focused much of his time in Washington on.
+
+===China===
+Forbes is founder and chairman of the Congressional China Caucus, which takes special interest in the emergence of China as a political, economic and military actor on both the regional and global stage.<ref>{{cite web|title = About the Caucus|url = https://forbes.house.gov/chinacaucus/about.htm|website = forbes.house.gov|access-date = 2016-01-22}}</ref> As one of Congress’ scholars on Chinese issues, Forbes keynoted a panel discussion at [[Harvard University]] in the April 2012 to discuss the implementation of US strategy to China's world power emergence.<ref>{{cite web|title = Forbes to Speak Tomorrow at Harvard on U.S.-China Relations|url = http://forbes.house.gov/updates/documentsingle.aspx?DocumentID=289736|website = forbes.house.gov|access-date = 2016-01-22}}</ref> Congressman Forbes has voiced concern for Chinese military ambition, cyber threats, contaminated exports, and human rights violations. His reputation has come under scrutiny with the recent acquisition of America's largest pork company, [[Smithfield Foods]], by a Chinese competitor – a company headquartered within his district. This $4.7 billion deal is the biggest Chinese acquisition of a U.S. company to date.<ref>{{cite web|title = Who's behind the Chinese takeover of world's biggest pork producer?|url = http://www.pbs.org/newshour/bb/whos-behind-chinese-takeover-worlds-biggest-pork-producer/|website = PBS NewsHour|access-date = 2016-01-22|language = en-US}}</ref>
+
+===Government accountability===
+{{BLP unsourced section|date=November 2016}}
+Forbes has introduced or cosponsored several pieces of legislation, which aim to hold government more accountable. He is one of only seventeen members of congress to vote against every federal bailout under both the Bush and Obama administrations. Though a staunch supporter of national defense, he has also called for a full audit of both the Department of Defense and Federal Reserve. Furthermore, Forbes has introduced a balanced budget amendment, and CAP Act to tie members of Congress’ salaries to spending.
+The revelation that the National Security Agency was abusing intelligence gathering powers provided them under the PATRIOT and FISA acts, Forbes cosponsored bipartisan legislation which enacts greater accountability and oversight over the agency's intelligence gathering techniques.
+
+===Religious freedom===
+{{BLP unsourced section|date=November 2016}}
+As Founder and Co-Chairman of the bicameral [http://forbes.house.gov/pages/congressional-prayer-caucus.htm Congressional Prayer Caucus], Congressman Forbes, and co-chairman Senator Lankford, lead more than 90 Members of Congress in protecting the free exercise of religion as a fundamental human right essential to a free society.
+
+===Energy independence===
+On June 12, 2008 Forbes introduced H.R. 6260, titled "[[New Manhattan Project for Energy Independence]]". The bill was offered as a substitute for the entire energy bill and outlined a series of prizes, similar to the [[X-PRIZE]], which would be awarded to a private entity, which completed one of seven tasks related to achieving energy independence. 
+
+The bill included $14 billion in prizes and $10 billion in grants ($10 billion of which would have supported [[nuclear fusion]] research); provisions to establish a summit to discuss the challenge of energy independence; and creation of a commission to offer recommendations to fulfill the goal of becoming energy independent within 20 years. On June 26, 2009, the bill was offered as an amendment in the nature of a substitute for the Waxman/Markey-sponsored [[American Clean Energy and Security Act]]. The amendment was rejected by the House of Representatives 255–172.<ref>{{cite news|last=Bartel|first=Bill|title=Forbes' GOP alternative to climate bill shot down|url=http://hamptonroads.com/2009/06/forbes-gop-alternative-climate-bill-shot-down|newspaper=The Virginian-Pilot|date=June 27, 2009}}</ref>
+
+==Electoral history==
+{| class="wikitable" style="margin:0.5em ; font-size:95%"
+|+ {{ushr|Virginia|4|}}: Results 2000–2014Results 1994–2000<ref name="clerkresults">{{cite web |url=http://clerk.house.gov/member_info/electionInfo/index.html |title=Election Statistics |accessdate=2008-01-10 |publisher=Office of the Clerk of the House of Representatives }}</ref><ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=749 |title=VA District 4 - Special Race - Jun 19, 2001 |publisher=Our Campaigns |date= |accessdate=2016-11-22}}</ref><ref>{{cite web|url=https://www.voterinfo.sbe.virginia.gov/election/DATA/2008/07261AFC-9ED3-410F-B07D-84D014AB2C6B/Official/6_s.shtml|title=November 2008 Official Results|publisher=Virginia State Board of Elections}}</ref><br> {{ushr|Virginia|2|}}: Republican Primary Results, 2016
+! Year
+!
+! Democrat
+! Votes
+! Pct
+!
+! Republican
+! Votes
+! Pct
+!
+! 3rd Party
+! Party
+! Votes
+! Pct
+|-
+|[[United States House of Representatives elections in Virginia, 2000|2000]]
+|
+|{{Party shading/Democratic}} |'''[[Norman Sisisky]]''' **
+|{{Party shading/Democratic}} align="right" |189,787
+|{{Party shading/Democratic}} |99%
+|
+|{{Party shading/Republican}} |''(no candidate)''
+|{{Party shading/Republican}} align="right" |
+|{{Party shading/Republican}} |
+|
+|{{Party shading/Independent}} |[[Write-in candidate|Write-ins]]
+|{{Party shading/Independent}} |
+|{{Party shading/Independent}} align="right" |2,108
+|{{Party shading/Independent}} align="right" |1%
+|-
+|2001
+|
+|{{Party shading/Democratic}} |[[Louise Lucas]]
+|{{Party shading/Democratic}} align="right" |65,190
+|{{Party shading/Democratic}} |48%
+|
+|{{Party shading/Republican}} |'''J. Randy Forbes'''
+|{{Party shading/Republican}} align="right" |70,917
+|{{Party shading/Republican}} |52%
+|
+|
+|
+|
+|
+|-
+|[[United States House of Representatives elections in Virginia, 2002|2002]]
+|
+|{{Party shading/Democratic}} |''(no candidate)''
+|{{Party shading/Democratic}} align="right" |
+|{{Party shading/Democratic}} |
+|
+|{{Party shading/Republican}} |{{nowrap|'''J. Randy Forbes'''}}
+|{{Party shading/Republican}} align="right" |108,733
+|{{Party shading/Republican}} |98%
+|
+|{{Party shading/Independent}} |[[Write-in candidate|Write-ins]]
+|{{Party shading/Independent}} |
+|{{Party shading/Independent}} align="right" |2,308
+|{{Party shading/Independent}} align="right" |2%
+|-
+|[[United States House of Representatives elections in Virginia, 2004|2004]]
+|
+|{{Party shading/Democratic}} |{{nowrap|Jonathan R. Menefee}}
+|{{Party shading/Democratic}} align="right" |100,413
+|{{Party shading/Democratic}} |35%
+|
+|{{Party shading/Republican}} |'''J. Randy Forbes'''
+|{{Party shading/Republican}} align="right" |182,444
+|{{Party shading/Republican}} |64%
+|
+|
+|
+|
+|
+|-
+|[[United States House of Representatives elections in Virginia, 2006|2006]]
+|
+|{{Party shading/Democratic}} |''(no candidate)''
+|{{Party shading/Democratic}} align="right" |
+|{{Party shading/Democratic}} |
+|
+|{{Party shading/Republican}} |'''J. Randy Forbes'''
+|{{Party shading/Republican}} align="right" |150,967
+|{{Party shading/Republican}} |76%
+|
+|{{Party shading/Independent Green}} |Albert P. Burckard, Jr.
+|{{Party shading/Independent Green}} |[[Independent Greens of Virginia|Independent Green]]
+|{{Party shading/Independent Green}} align="right" |46,487
+|{{Party shading/Independent Green}} align="right" |23%
+|-
+|[[United States House of Representatives elections in Virginia, 2008|2008]]
+|
+|{{Party shading/Democratic}} |{{nowrap|Andrea Miller}}
+|{{Party shading/Democratic}} align="right" |135,041
+|{{Party shading/Democratic}} |40%
+|
+|{{Party shading/Republican}} |'''J. Randy Forbes'''
+|{{Party shading/Republican}} align="right" |199,075
+|{{Party shading/Republican}} |60%
+|
+|
+|
+|
+|
+|-
+|[[United States House of Representatives elections in Virginia, 2010|2010]]
+|
+|{{Party shading/Democratic}} |{{nowrap|[[Wynne LeGrow]]}}
+|{{Party shading/Democratic}} align="right" |74,298
+|{{Party shading/Democratic}} |38%
+|
+|{{Party shading/Republican}} |'''J. Randy Forbes'''
+|{{Party shading/Republican}} align="right" |122,659
+|{{Party shading/Republican}} |62%
+|
+|
+|
+|
+|
+|-
+|[[United States House of Representatives elections in Virginia, 2012|2012]]
+|
+|{{Party shading/Democratic}} |{{nowrap|Ella Ward}}
+|{{Party shading/Democratic}} align="right" |150,190
+|{{Party shading/Democratic}} |43%
+|
+|{{Party shading/Republican}} |'''J. Randy Forbes'''
+|{{Party shading/Republican}} align="right" |199,292
+|{{Party shading/Republican}} |57%
+|
+|
+|
+|
+|
+|-
+|[[United States House of Representatives elections in Virginia, 2014|2014]]
+|
+|{{Party shading/Democratic}} |{{nowrap|Elliot Fausz}}
+|{{Party shading/Democratic}} align="right" |75,270
+|{{Party shading/Democratic}} |38%
+|
+|{{Party shading/Republican}} |'''J. Randy Forbes'''
+|{{Party shading/Republican}} align="right" |120,684
+|{{Party shading/Republican}} |60%
+|
+|{{Party shading/Libertarian}} |Bo Brown
+|{{Party shading/Libertarian}} |[[Libertarian Party (United States)|Libertarian]]
+|{{Party shading/Libertarian}} align="right" |4,427
+|{{Party shading/Libertarian}} align="right" |2%
+|
+|
+|
+|
+|
+|-
+|[[United States House of Representatives elections in Virginia, 2016|2016]]
+|
+|{{Party shading/Republican}} |'''{{nowrap|Scott Taylor}}'''
+|{{Party shading/Republican}} align="right" |21,406
+|{{Party shading/Republican}} |53%
+|
+|{{Party shading/Republican}} |J. Randy Forbes
+|{{Party shading/Republican}} align="right" |16,552
+|{{Party shading/Republican}} |41%
+|
+|{{Party shading/Republican}} |Pat Cardwell
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|{{Party shading/Republican}} align="right" |2,773
+|{{Party shading/Republican}} align="right" |7%
+|}
+
+{{refbegin}}
+<nowiki>*</nowiki>Write-in and minor candidate notes:  In 2004, write-ins received 170 votes.  In 2006, write-ins received 886 votes. In 2008, write-ins received 405 votes. In 2010, write-ins received 432 votes. In 2014, write-ins received 257 votes.
+
+<nowiki>**</nowiki> Sisisky died on March 29, 2001; Forbes won the 2001 special election to fill out the remainder of his term.
+{{refend}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{sisterlinks}}
+* [http://forbes.house.gov/ Congressman J. Randy Forbes] official U.S. House site
+* {{Dmoz|Regional/North_America/United_States/Virginia/Government/Federal/US_House_of_Representatives/J._Randy_Forbes_%5BR-4%5D|J. Randy Forbes}}
+* {{C-SPAN|jayforbes}}
+* [https://forbes.house.gov/chinacaucus/ Congressional China Caucus]
+* [http://www.sourcewatch.org/index.php?title=Randy_Forbes Profile] at [[SourceWatch]]
+* [http://hamptonroads.com/2011/11/us-house-approves-forbes-bill-god-we-trust-motto "U.S. House approves Forbes' bill reaffirming 'In God We Trust'"], ''Hampton Roads'', November 2, 2011
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Norman Sisisky]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Virginia|U.S. House of Representatives]]<br>from [[Virginia's 4th congressional district]]|years=2001–present}}
+{{s-aft|after=[[Donald McEachin]]<br>{{small|Elect}}}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Bill Shuster]]}}
+{{s-ttl|title=[[Seniority in the United States House of Representatives|United States Representatives by seniority]]|years=109th}}
+{{s-aft|after=[[Stephen F. Lynch|Stephen Lynch]]}}
+{{s-end}}
+
+{{VA-FedRep}}
+{{USHouseCurrent}}
+
+{{DEFAULTSORT:Forbes, J. Randy}}
+[[Category:1952 births]]
+[[Category:20th-century American politicians]]
+[[Category:21st-century American politicians]]
+[[Category:Baptists from the United States]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Virginia]]
+[[Category:Members of the Virginia House of Delegates]]
+[[Category:People from Chesapeake, Virginia]]
+[[Category:Randolph–Macon College alumni]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:Republican Party of Virginia chairs]]
+[[Category:University of Virginia School of Law alumni]]
+[[Category:Virginia lawyers]]
+[[Category:Virginia Republicans]]
+[[Category:Virginia State Senators]]

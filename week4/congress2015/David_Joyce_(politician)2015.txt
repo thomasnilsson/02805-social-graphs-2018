@@ -1,0 +1,157 @@
+{{Infobox politician 
+|name          = Dave Joyce
+|image name    = David Joyce.jpg
+|office        = Member of the <br>[[U.S. House of Representatives]]<br>from [[Ohio]]'s [[Ohio's 14th congressional district|14th]] district 
+|term_start    = January 3, 2013
+|predecessor   = [[Steve LaTourette]]
+|order2        = 39th Prosecutor of [[Geauga County, Ohio]]
+|term_start2   = January 5, 1988
+|term_end2     = January 3, 2013
+|predecessor2  = Craig Albert
+|successor2    = Jim Flaiz
+|birth_name=David Patrick Joyce
+|birth_date    = {{birth date and age|1957|3|17}}
+|birth_place   = [[Cleveland, Ohio]]
+|death_date    = 
+|death_place   = 
+|party         = [[Republican Party (United States)|Republican]]
+|spouse        = Kelly Joyce (1990-)
+|residence     = [[Russell Township, Geauga County, Ohio|Russell Township]] 
+|alma_mater    = [[University of Dayton]]
+|profession    = Attorney
+|website       = [http://joyce.house.gov/ Representative David Joyce]
+}}
+
+'''David Patrick "Dave" Joyce''' (born March 17, 1957) is an [[United States|American]] politician who has been the [[United States House of Representatives|United States Representative]] for [[Ohio's 14th congressional district]] since 2013.<ref>[http://www.rollcall.com/new-members/david-joyce-house-r-ohio-14.html David Joyce, R (Ohio-14) : Roll Call<!-- Bot generated title -->]</ref> An attorney, Joyce was previously the [[Prosecutor]] of [[Geauga County, Ohio]]. He is a member of the [[Republican Party (United States)|Republican Party]].
+
+==Early life and Education==
+Dave Joyce was born in [[Cleveland, Ohio]], to a devout Irish [[Roman Catholic|Catholic]] family.{{cn|date=October 2014}} His father was a coal salesman.  In high school, he played football, and considered joining the priesthood.{{cn|date=October 2014}}  In 1975, Joyce enrolled at the [[University of Dayton]], a Catholic university in [[Dayton, Ohio]], from which he received a [[Bachelor of Science]] degree in 1979, and later a [[Juris Doctor]].<ref>{{cite web|title=Ohio, 14th House District|url=http://www.nationaljournal.com/congress/ohio-14th-house-district-20121101|website=National Journal|publisher=Atlantic Media Company|accessdate=1 July 2014}}</ref>
+
+==Prosecutor of Geauga County==
+In 1989, Joyce worked with [[Lake County, Ohio|Lake County]] Prosecutor [[Steve LaTourette|Steven C. LaTourette]] to charge serial murderer and [[Cult leader]] [[Jeffrey Lundgren]] of the [[Kirtland, Ohio|Kirtland cult killings]].<ref name="cleveland.com">[http://www.cleveland.com/open/index.ssf/2012/08/northeast_ohio_gop_leaders_cho.html Northeast Ohio GOP leaders choose David Joyce to replace outgoing Rep. Steve LaTourette on ballot (updated) | cleveland.com<!-- Bot generated title -->]</ref> In 2005, Joyce earned the ''Family Friendly Workplace Award'' from the Ohio State Women’s Bar Association.{{cn|date=October 2014}}
+
+==U.S. House of Representatives==
+
+===Elections===
+;2012
+{{Main|United States House of Representatives elections in Ohio, 2012#District 14}}
+In July 2012, U.S. Congressman [[Steve LaTourette]] of [[Ohio's 14th congressional district]] announced that he would be retiring in 2012, rather than seek re-election. Joyce was appointed as the replacement nominee on the Republican ticket.<ref>{{cite news|last1=Sherman|first1=Jake|title=Steve LaTourette blames polarizing climate for departure|url=http://www.politico.com/news/stories/0712/79168.html|accessdate=11 July 2014|publisher=Politico|date=2012-07-30}}</ref><ref>{{cite news|last1=Gomez|first1=Henry|title=Northeast Ohio GOP leaders choose David Joyce to replace outgoing Rep. Steve LaTourette on ballot|url=http://www.cleveland.com/open/index.ssf/2012/08/northeast_ohio_gop_leaders_cho.html|accessdate=11 July 2014|publisher=Cleveland.com|date=8-10-2012}}</ref>
+
+Joyce ran in the November general election against perennial [[Democratic Party (United States)|Democratic Party]] candidate [[Dale Virgil Blanchard]], [[Libertarian Party (United States)|Libertarian]] David Macko and [[Green Party (United States)|Green Party]] candidate Elaine Mastromatteo. Joyce won the election with 54% of the vote.<ref>{{cite news|title=2012 Ohio House Results|url=http://www.politico.com/2012-election/results/house/ohio/|accessdate=11 July 2014|publisher=Politico}}</ref>
+
+===Committee assignments===
+*'''[[United States House Committee on Appropriations|Committee on Appropriations]]'''
+**[[United States House Appropriations Subcommittee on Interior, Environment, and Related Agencies|Subcommittee on Interior, Environment, and Related Agencies]]
+**[[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Subcommittee on Labor, Health and Human Services, Education, and Related Agencies]]
+**[[United States House Appropriations Subcommittee on Transportation, Housing and Urban Development, and Related Agencies|Subcommittee on Transportation, Housing and Urban Development, and Related Agencies]]
+
+=== Legislation sponsored ===
+In 2014, Joyce introduced the Safe Streets Act with Congresswoman [[Doris Matsui]]. The bill would nationalize transportation "design elements" so that streets would be designed with the safety of drivers, pedestrians, and bicyclists in mind.<ref>Martin, Aaron. [http://riponadvance.com/news/bipartisan-measure-improve-road-safety/6537 "Bipartisan measure would improve road safety"]. ''Ripon Advance''. February 10, 2014. (Retrieved 02-11-14).</ref>
+
+==Personal life==
+Dave married Kelly in 1990. They live in [[Russell Township, Geauga County, Ohio|Russell Township]] with their three children: Trenton, KK, and Bridey. He is a member of the [[District attorney|National District Attorney Association]] and the [[Ohio Prosecuting Attorney Association]]. He is also Director of the Geauga Bluecoats Inc.<ref>[http://www.prosecutor.co.geauga.oh.us/TheProsecutor/AboutTheProsecutor.aspx Geauga County Prosecutor - About the Prosecutor<!-- Bot generated title -->]</ref>
+
+==Electoral history==
+
+{|class="wikitable collapsible"
+|-bgcolor=#cccccc
+!colspan=24 style="background: #ccccff;" |Election results<ref>{{cite news | first = | last =  | title = Election Results | date = | url = http://www.sos.state.oh.us/elections/Research/electResultsMain.aspx | work = Ohio Secretary of State | accessdate = 2014-03-01}}</ref>
+|-
+!'''Year'''
+!'''Office'''
+!'''Election'''
+!
+!'''Subject'''
+!'''Party'''
+!'''Votes'''
+!'''%'''
+!
+!'''Opponent'''
+!'''Party'''
+!'''Votes'''
+!'''%'''
+!
+!'''Opponent'''
+!'''Party'''
+!'''Votes'''
+!'''%'''
+!
+!'''Opponent'''
+!'''Party'''
+!'''Votes'''
+!'''%'''
+!
+|-
+|2012
+|[[United States House of Representatives|U.S. House of Representatives]]
+|[[General election (U.S.)|General]]
+|
+|{{Party shading/Republican}} |'''Dave Joyce'''
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|{{Party shading/Republican}} |183,660
+|{{Party shading/Republican}} |54.04%
+|
+|{{Party shading/Democratic}} |Dale V. Blanchard
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|{{Party shading/Democratic}} |131,638
+|{{Party shading/Democratic}} |38.73%
+|
+|{{Party shading/Green}} |Elaine Mastromatteo
+|{{Party shading/Green}} |[[Green Party (United States)|Green]]
+|{{Party shading/Green}} |13,038
+|{{Party shading/Green}} |3.84%
+|
+|{{Party shading/Libertarian}} |David Macko
+|{{Party shading/Libertarian}} |[[Libertarian Party (United States)|Libertarian]]
+|{{Party shading/Libertarian}} |11,536
+|{{Party shading/Libertarian}} |3.39%
+|*
+|-
+|}
+
+<nowiki>*</nowiki>Write-in candidates Aaron Zurbrugg received 6 votes (<1%), Erick Robinson received 0 votes, and Steven Winfield received 0 votes.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://joyce.house.gov/ Congressman David Joyce] official U.S. House website
+* [http://www.davidpjoyce.com/ Dave Joyce for Congress] 
+*{{Dmoz|Regional/North_America/United_States/Ohio/Government/Federal/US_House_of_Representatives/David_Joyce_%5BR-14%5D|David Joyce}}
+*{{CongLinks | congbio = J000295| ballot = David_Joyce | nndb = | votesmart = 143052 | govtrack = 412566 | opencong = 412566 | rollcall = 46495 | politifact = | fec = H2OH14064 | opensecrets = N00035007 | assets = | followthemoney = | ontheissues = OH/Dave_Joyce.htm | congress = david-joyce/2154 | worldcat = | c-span = davidpjoyce | imdb = | bloomberg = | nyt = | washpo = 6d3ab89a-4bb7-11e2-8758-b64a2997a921}}
+
+{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Ohio|
+  district=14 |
+  before=[[Steve LaTourette]] |
+  start=January 3, 2013
+}}
+{{s-prec|usa}}
+{{s-bef|before=[[Hakeem Jeffries]]<br><small>D-[[New York]]}}
+{{s-ttl|title=''[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]''|years=389th}}
+{{s-aft|after=[[Joseph P. Kennedy III]]<br><small>D-[[Massachusetts]]}}
+{{S-end}}
+
+{{OH-FedRep}}
+{{OhioRepresentatives14}}
+
+{{Persondata
+| NAME              = Joyce, David
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = March 17, 1957
+| PLACE OF BIRTH    = [[Cleveland, Ohio]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Joyce, David}}
+[[Category:1957 births]]
+[[Category:County district attorneys in Ohio]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Ohio]]
+[[Category:Ohio Republicans]]
+[[Category:People from Geauga County, Ohio]]
+[[Category:University of Dayton alumni]]
+[[Category:Republican Party members of the United States House of Representatives]]

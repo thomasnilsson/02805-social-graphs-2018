@@ -1,0 +1,103 @@
+{{Infobox officeholder
+|name        = Gregg Harper
+|office      = Chair of the [[United States House Committee on House Administration|Committee on House Administration]]<br>{{small|Designate}}
+|image       = Greg Harper official photo.jpg
+|predecessor = [[Candice Miller]]
+|succeeding  = [[Candice Miller]]
+|successor   = 
+|party       = [[Republican Party (United States)|Republican]]
+|district1   = {{ushr|MS|3|3rd}}
+|predecessor1= [[Chip Pickering]]
+|state1      = [[Mississippi]]
+|successor1  = 
+|birth_date  = {{birth date and age|1956|6|1}}
+|birth_place = [[Jackson, Mississippi|Jackson]], [[Mississippi]], [[United States|U.S.]]
+|death_date  = 
+|death_place = 
+|spouse      = Sidney Harper
+|children    = 2
+|term_start  = January 3, 2017
+|term_end    = 
+|term_start1 = January 3, 2009
+|term_end1   = 
+|education   = [[Mississippi College]] {{small|([[Bachelor of Science|BS]])}}<br>[[University of Mississippi|University of Mississippi,<br>Oxford]] {{small|([[Juris Doctor|JD]])}}
+}}
+'''Gregory "Gregg"  Harper''' (born June 1, 1956) is the [[United States House of Representatives|U.S. Representative]] for {{ushr|MS|3}}, serving since 2009. He is a member of the [[Republican Party (United States)|Republican Party]].  The district includes the wealthier portions of the state capital, [[Jackson, Mississippi|Jackson]], along with most of that city's suburbs.  Other cities in the district include [[Meridian, Mississippi|Meridian]], [[Natchez, Mississippi|Natchez]], [[Starkville, Mississippi|Starkville]], and [[Brookhaven, Mississippi|Brookhaven]].
+
+== Early life, education and career ==
+Harper was born in [[Jackson, Mississippi]]. He spent eight years working as Chairman of the [[Rankin County, Mississippi]] [[Republican Party (United States)|Republican Party]], and served as a delegate to the [[2000 Republican National Convention]]. He was appointed by the party as an observer during the controversial 2000 Florida presidential recount.
+
+Harper graduated from [[Mississippi College]] in 1978 with a degree in Chemistry and from the [[University of Mississippi School of Law]] in 1981. He has worked as a private practice attorney since receiving this degree. He was the prosecuting attorney for the cities of [[Brandon, Mississippi]] and [[Richland, Mississippi]].<ref>[http://www.wtok.com/home/headlines/13689897.html Harper Campaigns in Meridian] McLain, Sheila. WTOK. Jan 10, 2008. Retrieved April 7, 2008</ref>
+
+As for his personal life, he is a deacon of Crossgates Baptist Church in Brandon, Mississippi, where he had also been a Sunday School teacher.
+
+==U.S. House of Representatives==
+
+=== Committee assignments ===
+* '''[[United States House Committee on Energy and Commerce|Committee on Energy and Commerce]]'''
+** [[United States House Energy Subcommittee on Commerce, Manufacturing and Trade|Subcommittee on Commerce, Manufacturing and Trade]]
+** [[United States House Energy Subcommittee on Environment and Economy|Subcommittee on Environment and Economy]]
+* '''[[United States House Committee on Ethics|Committee on Ethics]]'''
+* '''[[United States House Committee on House Administration|Committee on House Administration]]'''
+** [[United States House Administration Subcommittee on Elections|Subcommittee on Elections]] (Chairman)
+
+===Legislation===
+Harper introduced the [[Gabriella Miller Kids First Research Act (H.R. 2019; 113th Congress)]] into the House on May 16, 2013.<ref name=2019sum>{{cite web|title=H.R. 2019 – Summary|url=http://beta.congress.gov/bill/113th-congress/house-bill/2019|publisher=United States Congress|accessdate=12 March 2014}}</ref> The bill, which passed in both the House and the Senate, would end taxpayer contributions to the Presidential Election Campaign Fund and divert the money in that fund to pay for research into [[Childhood cancer|pediatric cancer]] through the [[National Institutes of Health]].<ref name=WPgabriellastory>{{cite news|last=Gibson|first=Caitlin|title=Federal pediatric medical research act named for Gabriella Miller|url=http://www.washingtonpost.com/local/federal-pediatric-medical-research-act-named-for-gabriella-miller/2013/11/14/f87b42e0-4d72-11e3-be6b-d3d28122e6d4_story.html|accessdate=13 March 2014|newspaper=The Washington Post|date=14 November 2014}}</ref><ref name=2019cbo>{{cite web|title=H.R. 2019 – CBO|url=http://cbo.gov/sites/default/files/cbofiles/attachments/hr2019.pdf|publisher=Congressional Budget Office|accessdate=12 March 2014}}</ref> The total funding for research would come to $126 million over 10 years.<ref name="WPgabriellastory"/><ref name="2019cbo"/> As of 2014, the [[United States presidential nominating convention|national conventions]] got about 23% of their funding from the Presidential Election Campaign Fund.<ref name=HooperConventionWipeout>{{cite news|last=Hooper|first=Molly K.|title=Convention wipeout coming soon?|url=http://thehill.com/homenews/campaign/196920-convention-wipeout|accessdate=13 March 2014|newspaper=The Hill|date=30 January 2014}}</ref>
+
+===Elections===
+Gregg Harper won the Republican nomination in Mississippi's 3rd congressional district on April 1, 2008 with 57% of the vote.<ref>[http://www.djournal.com/pages/story.asp?ID=270991&pub=1 HARPER WINS 3RD DISTRICT GOP NOD] [[Associated Press]]. April 2, 2008. Retrieved April 7, 2008</ref>  This was tantamount to election in this heavily Republican district.  He defeated his Democratic opponent, [[Joel Gill]] in the [[United States House of Representatives elections in Mississippi, 2008|November General Election]] winning 63% of the vote.<ref>[http://www.meridianstar.com/local/local_story_310004956.html REPUBLICAN HARPER WINS 3RD DISTRICT] [[The Meridian Star]]. November 5, 2008. Retrieved November 19, 2008</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category|Gregg Harper}}
+* [http://harper.house.gov/ Congressman Gregg Harper] official U.S. House site
+* [http://www.greggharperforcongress.com/ Gregg Harper for Congress]
+* {{Dmoz|Regional/North_America/United_States/Mississippi/Government/Federal/US_House_of_Representatives/Gregg_Harper_%5BR-3%5D}}
+* {{C-SPAN|greggharper}}
+{{CongLinks | congbio = H001045 | ballot = Gregg_Harper | nndb = 612/000180072 | votesmart = 101985 | govtrack = 412280 | opencong = 412280 | ontheissues = House/Gregg_Harper.htm | congress = gregg-harper/1933 | worldcat = | fec = H8MS03067 | opensecrets = N00029632 | assets = gregg-harper | legistorm = 960/Rep_Gregg_Harper.html | followthemoney = | c-span = greggharper | imdb = | bloomberg = | nyt = | washpo = gIQAg8GpAP }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Chip Pickering]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Mississippi|U.S. House of Representatives]]<br>from [[Mississippi's 3rd congressional district]]|years=2009–present}}
+{{s-inc}}
+|-
+{{s-bef|rows=2|before=[[Chuck Schumer]]}}
+{{s-ttl|title=Chair of the [[United States Congress Joint Committee on the Library|Joint Library Committee]]|years=2013–2015}}
+{{s-aft|after=[[Roy Blunt]]}}
+|-
+{{s-ttl|title=Chair of the [[United States Congress Joint Committee on Printing|Joint Printing Committee]]|years=2015–present}}
+{{s-aft|after=TBD}}
+|-
+{{s-bef|before=[[Candice Miller]]}}
+{{s-ttl|title=Chair of the [[United States House Committee on House Administration|House Administration Committee]]<br>{{small|Designate}}|years=Taking office 2017}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Brett Guthrie]]}}
+{{s-ttl|title=[[Seniority in the United States House of Representatives|United States Representatives by seniority]]|years=198th}}
+{{s-aft|after=[[Jim Himes]]}}
+{{s-end}}
+
+{{MS-FedRep}}
+{{US House Administration chairs}}
+<!-- {{USHouseChairs}} -->
+{{USJointChairs}}
+{{USHouseCurrent}}
+
+{{DEFAULTSORT:Harper, Gregg}}
+[[Category:1956 births]]
+[[Category:21st-century American politicians]]
+[[Category:American prosecutors]]
+[[Category:Baptists from the United States]]
+[[Category:Lawyers from Jackson, Mississippi]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Mississippi]]
+[[Category:Mississippi College alumni]]
+[[Category:Mississippi lawyers]]
+[[Category:Mississippi Republicans]]
+[[Category:Politicians from Jackson, Mississippi]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:University of Mississippi alumni]]

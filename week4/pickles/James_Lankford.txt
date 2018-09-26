@@ -1,0 +1,258 @@
+{{Use mdy dates|date=December 2014}}
+{{Infobox Officeholder
+|name         = James Lankford
+|image        = James Lankford, Official Portrait, 112th Congress.jpg
+|office       = [[United States Senate|United States Senator]]<br>from [[Oklahoma]]
+|term_start   = January 3, 2015    
+|predecessor = [[Tom Coburn]]
+|state1       = [[Oklahoma]]
+|district1    = {{ushr|Oklahoma|5|5th}}
+|term_start1  = January 3, 2011
+|term_end1    = January 3, 2015
+|predecessor1 = [[Mary Fallin]]
+|successor1   = [[Steve Russell (politician)|Steve Russell]]
+|birthname    = James Paul Lankford
+|birth_date   = {{birth date and age|1968|3|4}}
+|birth_place  = [[Dallas]], [[Texas]], [[United States|U.S.]]
+|death_date   = 
+|death_place  = 
+|party        = [[Republican Party (United States)|Republican]]
+|spouse       = Cindy Lankford
+|children     = Hannah<br>Jordan 
+|alma_mater   = [[University of Texas at Austin|University of Texas, Austin]]<br>[[Southwestern Baptist Theological Seminary|Southwestern Baptist<br>Theological Seminary]]
+|religion     = [[Baptist]]<ref>http://votesmart.org/candidate/biography/124938/james-lankford#.VIyt-dKG9hg</ref><ref>http://www.nndb.com/people/217/000265419/</ref><ref>http://media.cq.com/members/31869/rc=1</ref>
+|website      = [http://lankford.house.gov House website]<br>[http://jameslankford.com Official website]
+}}
+'''James Paul Lankford''' (born March 4, 1968) is an [[United States|American]] politician who is the [[United States Senate|United States Senator-elect]] from [[Oklahoma]]. A member of the [[Republican Party (United States)|Republican Party]],<ref name=Barone2012>{{cite book |last=Barone |first=Michael |authorlink=Michael Barone (pundit) |author2=[[Chuck McCutcheon]]  |title=The Almanac of American Politics 2012 |year=2011 |publisher=[[National Journal Group]] |location=[[Washington, D.C.]] |isbn=978-0-226-03807-0 |pages=1331–1333}}</ref><ref name=OfficialBio/> he has been the [[United States House of Representatives|U.S. Representative]] for {{ushr|OK|5}}<ref name="electionwin">{{cite news |title=Oklahoma elections: Republican James Lankford wins race to succeed Mary Fallin |first=Chris |last=Casteel |newspaper=[[The Oklahoman]] |date=November 3, 2010 |url=http://newsok.com/lankford-takes-fallins-seat-in-congress-5th-district/article/3510749 |accessdate=November 13, 2013}} {{subscription required}}</ref> since 2011.
+
+From 1996 to 2009, Lankford was the student ministries and evangelism specialist for the [[Baptist General Convention of Oklahoma]], and he was director of the Falls Creek youth programming at the [[Falls Creek Baptist Conference Center]] in [[Davis, Oklahoma]]. He stepped down on September 1, 2009, to run for Congress.<ref name=CampaignBio/>
+ 
+In January 2014, Lankford announced he would run in the [[United States Senate special election in Oklahoma, 2014|2014 special Senate election]] to succeed [[Tom Coburn]].<ref>{{cite news|last=McCalmont|first=Lucy|title=James Lankford announces Senate bid|url=http://www.politico.com/story/2014/01/james-lankford-tom-coburn-senate-seat-102384.html|newspaper=Politico|date=January 20, 2014}}</ref> He subsequently won the June 2014 primary with 57% of the vote, becoming the Republican nominee for the November election.
+
+==Early life and education==
+Lankford was born March 4, 1968 in [[Dallas, Texas]],<ref name=NationalJournal>{{cite news |title=James Lankford (R) |first=John |last=Ryan |newspaper=[[National Journal]] |date=October 27, 2010 |url=http://nationaljournal.com/politics/james-lankford-r--20101027 |accessdate=November 13, 2013 |archiveurl=https://web.archive.org/web/20101107034632/http://www.nationaljournal.com/politics/james-lankford-r--20101027 |archivedate=November 7, 2010}}</ref> the son of Linda Joyce (House) and James Wesley Lankford.<ref>https://familysearch.org/ark:/61903/1:1:V88S-548</ref><ref>http://robbinsandestes.genealogyvillage.com/house.html</ref> His mother was an elementary school [[librarian]].<ref name=Barone2012/> His maternal grandparents owned a small dry cleaning business, his father and paternal grandparents a dairy farm.  James’ stepfather was a career employee of [[AC Delco]], the parts division of [[General Motors]].<ref>{{cite web
+ |work=Our Campaigns |title=Our Campaigns - Candidate - James Lankford
+ |author=Scott, RBH |accessdate=November 13, 2013
+ |url=http://www.ourcampaigns.com/CandidateDetail.html?CandidateID=240063}}</ref>
+
+His parents divorced when he was four; his mother and older brother and he lived for a time in his grandparents' garage apartment.  He became a Christian at eight.  She remarried when he was twelve, and the family moved to [[Garland, Texas|Garland]] with his stepfather.<ref name=Barone2012/> Lankford attended [[Lakeview Centennial High School]] in Garland. While at Lakeview Lankford participated in the [[Close Up Foundation|Close Up Washington]] civic education program.
+
+He earned a [[Bachelor of Science]] degree in [[Secondary Education]] (specializing in Speech and History) at [[University of Texas at Austin]] in 1990, and master’s degree in [[Divinity]] at [[Southwestern Baptist Theological Seminary]] in 1994.<ref name=Barone2012/>
+
+== Camp Program Director ==
+After graduating, he moved to [[Edmond, Oklahoma|Edmond]] and served with the [[Baptist General Convention of Oklahoma]]. He became the program director of [[Falls Creek Baptist Conference Center|Falls Creek]], the largest Christian camp in the U.S.<ref name=CampaignBio>{{cite web |url=http://jameslankford.com/about/biography |title=About <nowiki>|</nowiki> James Lankford |work=JamesLankford.com |accessdate=February 16, 2013}}</ref>
+
+==U.S. House of Representatives==
+
+===2010 election===
+{{Main|United States House of Representatives elections in Oklahoma, 2010#District 5}}
+After two-term incumbent Republican [[Mary Fallin]] announced she was giving up her seat to make what would be a successful run for [[Governor of Oklahoma]], Lankford entered the race to succeed her.<ref name=NationalJournal/>  He finished first in a seven-way Republican primary—the real contest in this heavily Republican district—and defeated former [[Oklahoma House of Representatives|State Representative]] [[Kevin Calvey]] in the run off.{{Citation needed|date=October 2013}}  He then routed Democrat Billy Coyle in the general election.<ref name="electionwin"/><ref name=Barone2012/><ref name=NationalJournal/>
+
+{{Election box begin no change
+| title = Republican Primary results
+}}
+{{Election box candidate with party link no change
+| candidate = '''James Lankford'''
+| party = Republican Party (United States)
+| votes = 18,755
+| percentage =33.6
+}}
+{{Election box candidate with party link no change
+| candidate = '''Kevin Calvey'''
+| party = Republican Party (United States)
+| votes = 18,143
+| percentage =32.5
+}}
+{{Election box candidate with party link no change
+| candidate = Mike Thompson
+| party = Republican Party (United States)
+| votes = 10,007
+| percentage =17.9
+}}
+{{Election box candidate with party link no change
+| candidate = Harry Johnson
+| party = Republican Party (United States)
+| votes = 686
+| percentage =1.2
+}}
+{{Election box candidate with party link no change
+| candidate = Rick Flanigan
+| party = Republican Party (United States)
+| votes = 762
+| percentage =1.4
+}}
+{{Election box candidate with party link no change
+| candidate = Johnny Roy
+| party = Republican Party (United States)
+| votes = 1,548
+| percentage =2.8
+}}
+{{Election box candidate with party link no change
+| candidate = Shane Jett
+| party = Republican Party (United States)
+| votes = 5,955
+| percentage =10.7
+}}
+{{Election box total no change
+| votes =
+| percentage=100
+}}
+{{Election box end}}
+{{Election box begin no change
+| title = Republican Primary results
+}}
+{{Election box candidate with party link no change
+| candidate = '''James Lankford'''
+| party = Republican Party (United States)
+| votes = 29,814
+| percentage =65.2
+}}
+{{Election box candidate with party link no change
+| candidate = Kevin Calvey
+| party = Republican Party (United States)
+| votes = 15,899
+| percentage =32.7
+}}
+{{Election box total no change
+| votes =
+| percentage=100
+}}
+{{Election box end}}
+
+Lankford defeated Billy Coyle.
+
+{{Election box begin no change
+| title = General Election results
+}}
+{{Election box candidate with party link no change
+| candidate = '''James Lankford'''
+| party = Republican Party (United States)
+| votes = 123,223
+| percentage =62.53
+}}
+{{Election box candidate with party link no change
+| candidate = Billy Coyle
+| party = Democratic Party (United States)
+| votes = 68,060
+| percentage =34.53
+}}
+{{Election box candidate with party link no change
+| candidate = Clark Duffe
+| party = Libertarian Party (United States)
+| votes = 3,066
+| percentage =1.56
+}}
+{{Election box candidate with party link no change
+| candidate = Dave White
+| party = Independent (politician)
+| votes = 2,728
+| percentage =1.38
+}}
+{{Election box total no change
+| votes =
+| percentage=100
+}}
+{{Election box end}}
+
+===2012 election===
+Lankford defeated Democrat Tom Guild with 59 percent of the vote.  Following the election, he was named chairman of the [[Steering and Policy Committees of the United States House of Representatives|House Republican Policy Committee]], the fifth-ranking position in the House Republican caucus.  This is a very senior position for a second-term House member.
+
+===Committee assignments===
+*'''[[United States House Committee on the Budget|Committee on the Budget]]'''
+*'''[[United States House Committee on Oversight and Government Reform|Committee on Oversight and Government Reform]]'''
+**[[United States House Oversight Subcommittee on Energy Policy, Health Care and Entitlements|Subcommittee on Energy Policy, Health Care and Entitlements]] (Chairman)<ref>{{cite web|url=http://lankford.house.gov/about-me/committees-and-caucuses|title=Committees and Caucuses|publisher=|accessdate=September 30, 2014}}</ref>
+*[[Republican Policy Committee Chairman of the United States House of Representatives|Republican Policy Committee]] (Chair)
+
+===Tenure===
+;Taxes
+Lankford supports simple budget austerity through lowering taxes and reducing government spending.<ref name=issues>{{cite web| title =James Lankford (Republican, district 5) |work=On the Issues |url=http://ontheissues.org/House/James_Lankford.htm}}</ref>  He took the taxpayer protection pledge promising to support no new taxes.<ref name=issues/>  He supports the repeal of the income and estate taxes and supports a sales tax to tax consumption and not savings or earnings.<ref name=issues/>
+
+;Budget
+Lankford is a supporter of budget austerity and thus supports prioritizing spending if the debt limit is reached and the Cut-Cap-and-Balance Pledge.<ref name=issues/>  He also supports a balanced budget amendment and voted to terminate the  Home Affordable mortgage Program.<ref name=issues/>
+
+;Jobs
+He supports compensatory time-off for overtime workers and received a 100% rating by the CEI, indicating a pro-workplace choice stance.<ref name=issues/>
+
+;Gun Rights
+Lankford supports loosening restrictions on interstate gun purchases.<ref name=issues/>  He  opposes [[Firearm microstamping]], a controversial method of imprinting casings with a unique marking to match it with a specific firearm, and would allow veterans to register unlicensed firearms.<ref name=issues/>
+
+;Homeland Security 
+Lankford supports extending the [[Patriot Act]] and expanding roving wiretaps occurring in the US.<ref name=issues/>  Lankford supports the prioritization of security, starting with military bases.<ref name=issues/>
+
+;Energy
+He supports expanding exploration of gas and oil both domestically and on the outer continental shelf.<ref name=issues/>  He opposes the [[EPA]] regulating emission standards as he believes it hinders economic growth.<ref name=issues/>
+
+;Environment
+In addition to barring the EPA from regulating emission standards, Lankford believes manure and other fertilizers should not be classified as pollutants or hazardous.<ref name=issues/>
+
+;Healthcare
+Lankford has stated his belief that federally funded healthcare is unconstitutional and has made a statement that he will oppose any and all moves for a federal healthcare system.<ref name=issues/>  He supported an initiative to allow Medicare choice and also institute budget cuts.<ref name=issues/>
+
+;Abortion
+Lankford opposes abortion.<ref name=issues/>  He supports banning all federally funded abortions and believes Congress should recognize life at the moment of fertilization.<ref name=issues/>  He opposes any federally funded healthcare or coverage programs that allow for abortion, as well as Planned Parenthood and other similar groups.<ref name=issues/>  He also opposes forced abortions by the UN Population Fund.<ref name=issues/>
+
+===Legislation sponsored===
+* [[Taxpayers Right-To-Know Act (H.R. 1423; 113th Congress)]] - Lankford introduced this bill into the House on April 9, 2013.<ref name=1423sum>{{cite web|title=H.R. 1423 - Summary|url=http://beta.congress.gov/bill/113th-congress/house-bill/1423|publisher=United States Congress|accessdate=February 26, 2014}}</ref> The bill would require government agencies to identify and describe each program they administer, the cost to administer those programs, expenditures for services, the number of program beneficiaries, and the number of federal employees and contract staff involved.<ref name=cbo1423>{{cite web|title=CBO - H.R. 1423|url=http://www.cbo.gov/publication/44529|publisher=Congressional Budget Office|accessdate=February 26, 2014}}</ref> It would also require information on how the program gets evaluated.<ref name=PeteFeb25>{{cite news|last=Kasperowicz|first=Pete|title=House slaps IRS on targeting, transparency|url=http://thehill.com/blogs/floor-action/votes/199235-house-slaps-irs-on-targeting-transparency|accessdate=February 27, 2014|newspaper=The Hill|date=February 25, 2014}}</ref> On February 25, 2014, the House voted to pass the bill by a [[voice vote]].<ref name="PeteFeb25"/>
+
+== 2014 United States Senate election ==
+In January 2014, Lankford announced he would run in the [[United States Senate special election in Oklahoma, 2014|2014 special Senate election]] to succeed retiring Republican Senator [[Tom Coburn]].<ref>{{cite news|last=McCalmont|first=Lucy|title=James Lankford announces Senate bid|url=http://www.politico.com/story/2014/01/james-lankford-tom-coburn-senate-seat-102384.html|newspaper=Politico|date=January 20, 2014}}</ref> Lankford won the June 2014 Republican primary, defeating former state House speaker [[T.W. Shannon]] and former state senator [[Randy Brogdon]].<ref name=TParti>{{cite news|last1=Parti|first1=Tarini|title=James Lankford wins Okla. GOP Senate nomination outright|url=http://www.politico.com/story/2014/06/oklahoma-primary-2014-james-lankford-108269.html?hp=l1|accessdate=June 25, 2014|publisher=Politico|date=June 24, 2014}}</ref> Lankford won the Oklahoma Senate seat defeating [[Constance N. Johnson]]. 
+
+== Personal life ==
+Lankford has been married to his wife, Cindy, for 20 years.<ref name=OfficialBio>{{cite web |title=Biography <nowiki>|</nowiki> Congressman James Lankford |accessdate=November 13, 2013 |url=http://lankford.house.gov/about-me/full-biography |work=Lankford House website}}</ref> They have two daughters: Hannah and Jordan.<ref name=OfficialBio/> He attends Quail Springs Baptist Church, a [[Southern Baptist]] church in [[Oklahoma City, Oklahoma|Oklahoma City]].<ref name=Baptist>{{cite news|last=Staff|first=|title=Ten Southern Baptists sworn in as new reps.|url=http://www.bpnews.net/bpnews.asp?id=34378|accessdate=25 December 2014|archiveurl=https://web.archive.org/web/20141226010629/http://www.bpnews.net/34378|archivedate=25 December 2014|newspaper=Baptist Press|date=5 January 2011}}</ref> 
+
+== References ==
+{{reflist}}
+
+==External links==
+*[http://lankford.house.gov/ U.S. Congressman James Lankford] official U.S. House site
+*[http://jameslankford.com/ James Lankford for Congress] 
+*{{Dmoz|Regional/North_America/United_States/Oklahoma/Government/Federal/US_House_of_Representatives/James_Lankford_%5BR-5%5D}}
+*{{CongLinks | congbio = L000575 | nndb = 217/000265419 | votesmart = 124938 | govtrack = 412464 | opencong = 412464 | rollcall = 31869 | politifact = | fec = H0OK05114 | opensecrets = N00031129 | legistorm = 2785/Rep_James_Lankford_OK.html | assets = james-lankford | followthemoney = | ontheissues = House/James_Lankford.htm | congress = james-lankford/2050 | worldcat = | c-span = jameslankford | imdb = | bloomberg = | nyt = | washpo = gIQAcjhZKP| }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Mary Fallin]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Oklahoma|U.S. House of Representatives]]<br>from [[Oklahoma's 5th congressional district]]|years=2011–present}}
+{{s-aft|after=[[Steve Russell (politician)|Steve Russell]]<br>{{small|Elect}}}}
+|-
+{{s-ppo}}
+{{s-bef|before=[[Tom Price (U.S. politician)|Tom Price]]}}
+{{s-ttl|title=Chairperson of the [[Steering and Policy Committees of the United States House of Representatives|House Republican Policy Committee]]|years=2013–2015}}
+{{s-aft|after=[[Luke Messer]]<br>{{small|Designate}}}}
+|-
+{{s-bef|before=[[Tom Coburn]]}}
+{{s-ttl|title=[[Republican Party (United States)|Republican]] nominee for [[List of United States Senators from Oklahoma|U.S. Senator]] from [[Oklahoma]]<br>([[Classes of United States Senators|Class 3]])|years=[[United States Senate special election in Oklahoma, 2014|2014]]}}
+{{s-inc|recent}}
+|-
+{{s-par|us-sen}}
+{{s-bef|before=[[Tom Coburn]]}}
+{{s-ttl|title=[[List of United States Senators from Oklahoma|U.S. Senator (Class 3) from Oklahoma]]<br>{{small|Designate}}|years=2015–present|alongside=[[Jim Inhofe]]}}
+{{s-inc}}
+{{s-end}}
+
+{{OK-FedRep}}
+{{OKRepresentatives}}
+{{US House leaders current}}
+{{United States Senators from Oklahoma}}
+<!-- {{Current Oklahoma statewide political officials}} -->
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Lankford, James
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = March 4, 1968
+| PLACE OF BIRTH    = [[Dallas, Texas|Dallas]], [[Texas]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Lankford, James}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Oklahoma]]
+[[Category:Oklahoma Republicans]]
+[[Category:People from Dallas, Texas]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:Republican Party United States Senators]]
+[[Category:Southwestern Baptist Theological Seminary alumni]]
+[[Category:United States Senators from Oklahoma]]
+[[Category:University of Texas at Austin alumni]]

@@ -1,0 +1,865 @@
+{{multiple issues|
+{{citation style|date=January 2012}}
+{{Like resume|date=January 2011}}
+}}
+{{Infobox Officeholder
+|name            = Karen Bass
+|image           = Karen-Bass-2012.jpg
+|state           = [[California]]
+|district        = {{ushr|California|37|37th}}
+|term_start      = January 3, 2013
+|term_end        = 
+|predecessor     = [[Laura Richardson]]
+|successor       = 
+|state1          = [[California]]
+|district1       = {{ushr|California|33|33rd}}
+|term_start1     = January 3, 2011
+|term_end1       = January 3, 2013
+|predecessor1    = [[Diane Watson]]
+|successor1      = [[Henry Waxman]]
+|office2         = [[List of Speakers of the California State Assembly|Speaker of the California Assembly]]
+|governor2       = [[Arnold Schwarzenegger]]
+|term_start2     = May 13, 2008
+|term_end2       = March 1, 2010
+|predecessor2    = [[Fabian Núñez]]
+|successor2      = [[John Pérez]]
+|state_assembly3 = California
+|district3       = [[California's 47th State Assembly district|47th]]
+|term_start3     = December 6, 2004
+|term_end3       = December 6, 2010
+|predecessor3    = [[Herb Wesson]]
+|successor3      = [[Holly Mitchell]]
+|birth_name      = Karen Ruth Bass
+|birth_date      = {{birth date and age|1953|10|3}}
+|birth_place     = [[Los Angeles]], [[California]], [[United States|U.S.]]
+|death_date      = 
+|death_place     = 
+|party           = [[Democratic Party (United States)|Democratic]]
+|spouse          = Jesus Lechuga {{small|(1980–1986)}}
+|children        = Emilia<br>4 stepchildren
+|alma_mater      = [[San Diego State University]]<br>[[California State University, Dominguez Hills]]
+|religion        = [[Baptists|Baptist]]
+|website         = [http://karenbass.house.gov House website]
+|footnotes       = <ref name=CQ/><ref>{{cite web |date=July 7, 2008 |title=California Assembly District 47 |publisher=[[California Assembly]] |accessdate=2013-10-01 |url=http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archiveurl=http://web.archive.org/web/20090602161436/http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archivedate=2009-06-02}}</ref><ref>{{cite web |title=Full Biography {{pipe}} Congresswoman Karen Bass |accessdate=2013-10-01 |url=http://bass.house.gov/about-me/full-biography |publisher=[[U.S. House of Representatives]]}}</ref><ref>{{cite web |publisher=[[Iowa State University]] |work=Archives of Women's Political Communication |title=Karen  Bass - Archives of Women's Political Communication |accessdate=2013-10-01 |url=http://www.womenspeecharchive.org/women/profile/index.cfm? |quote=Bass was born October 3, 1953, and raised in Los Angeles. She attended San Diego State University from 1971–1973 and graduated from California State University, Dominguez Hills in 1990 with a Bachelor of Science in health sciences.}}</ref><ref name="Barone2014">{{cite book |last=Barone |first=Michael |authorlink=Michael Barone (pundit) |author2=Chuck McCutcheon |title=[[The Almanac of American Politics]] 2014 |year=2013 |publisher=[[University of Chicago Press]] |location=[[Chicago]] |isbn=978-0-226-10544-4 |pages=243–245}} Copyright [[National Journal]].</ref><ref>{{cite web |title=Aztec Action Network |quote=Residence: Los Angeles|publisher=San Diego State University |accessdate=2013-10-02 |url=http://sdsu.capwiz.com/bio/id/142033}}</ref>
+}}
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] [[Democratic Party (United States)|Democratic]] politician.  She represents [[California's 37th congressional district]] in the [[United States House of Representatives]]; she was first elected in 2010. In [[redistricting]] following the [[U.S. Census 2010|2010 census]], the district was renumbered from {{ushr|CA|33|33rd}} to {{ushr|CA|37|37th}}.  Bass represented [[California's 47th State Assembly district|the 47th district]] in the [[California State Assembly]] 2004–2010, and was [[Speaker of the California State Assembly]] 2008–2010 (second woman, third [[African American]] speaker).
+
+<!--
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] politician who has served in the [[United States House of Representatives]] since 2011. She is a member of the [[Democratic Party (United States)|Democratic Party]] from [[California]]. During her first two years in Congress, her district was numbered the {{ushr|CA|33|33rd}}; it has been numbered the {{ushr|CA|37|37th district}} since 2013.
+
+Prior to her election to Congress in 2010, Bass served as a member of the [[California State Assembly]] representing the [[California's 47th State Assembly district|47th district]] beginning in 2004. From 2008 to 2010, she served as [[Speaker of the California State Assembly]], becoming the second woman and third African American to serve in that post.
+ -->
+
+==Early life, education, and medical career==
+Bass was born in Los Angeles, California, the daughter of Wilhelmina (née Duckett) and DeWitt Talmadge Bass.<ref>{{cite web
+ |title=Karen Bass ancestry |accessdate=2013-10-01 |work=[[RootsWeb]]
+ |url=http://freepages.genealogy.rootsweb.ancestry.com/%7Ebattle/reps/basskaren.htm}}</ref> Her father was a letter carrier.<ref name="Barone2014"/>  She was raised in the Venice/Fairfax neighborhood and went to [[Alexander Hamilton High School (Los Angeles)|Hamilton High School]]. She studied [[philosophy]] at [[San Diego State University]] (1971–1973), then earned a B.S. in health sciences from [[California State University, Dominguez Hills]] (1990).<ref name=CQ>{{cite news |title=112th Congress: Karen Bass, D-Calif. (33rd District) |first=Kerry |last=Young |newspaper=[[Congressional Quarterly]] |date=November 6, 2010 |url=http://news.yahoo.com/s/cq/20101106/pl_cq_politics/politics000003759351_1 |accessdate=}}</ref>
+
+Bass worked as a physician assistant and as a clinical instructor at the [[Keck School of Medicine of USC|USC Keck School of Medicine]] Physician Assistant Program.<ref name="about">{{cite web|title=About Karen|url=http://karenbass.com/about-karen|publisher=KarenBass.com|accessdate=December 4, 2010}}</ref>  Bass founded the Community Coalition, an organization in South Los Angeles.<ref>{{cite web|title=About Us|publisher=Community Coalition|url=http://www.cocosouthla.org/about/ourmission|accessdate=2014-02-15}}</ref>
+
+==California Assembly==
+As the [[California State Assembly|Assemblymember]] for the [[California's 47th State Assembly district|47th District]], Bass served the cities and communities of [[Culver City]], [[West Los Angeles]], [[Westwood, Los Angeles, California|Westwood]], [[Cheviot Hills]], [[Leimert Park]], [[Baldwin Hills]], [[View Park-Windsor Hills]], [[Ladera Heights]], the [[Crenshaw District]], [[Little Ethiopia]] and portions of [[Koreatown, Los Angeles, California|Koreatown]] and [[South Los Angeles]].
+
+In addition to her leadership of California African Americans for Obama and her post on [[Barack Obama]]'s national African American Leadership Council, Bass served as a California Co-chair of Obama's [[Barack Obama presidential campaign, 2008|2008 presidential campaign]].
+
+===Leadership prior to speaker election===
+Speaker [[Fabian Núñez]] appointed Bass [[California State Assembly]] Majority Whip (2005–2006), and Majority Floor Leader for 2007–2008 legislative session. She was chair of the Select Committee on Foster Care and vice chair of the Legislative Black Caucus. She succeeded Núñez as Speaker on May 13, 2008; he was [[term limit|termed out]] of the Assembly November 30, 2008.
+
+As chair of the Legislative Black Caucus, she commissioned a report to research the basic demographic profile of Black Californians including the basic social and economic conditions.<ref>{{cite web|last=Bass|first=Karen|title=The State of Black California|url=http://www.asmdc.org/speaker/pdf/State_of_Black_California_Full_Report.pdf|work=February 2007|publisher=California Democratic Caucus|accessdate=11 September 2012}}</ref>  The State of Black California report included a statewide organizing effort to involve Black Californians in identifying their concerns and making legislative recommendations.<ref name="Karen Bass State of Blk CA">{{cite web|last=Samad|first=Anthony  Asadullah|title=Between the lines|url=http://www.blackcommentator.com/216/216_between_the_lines_black_california_samad.html|work=8 February 2007|publisher=The Black Commentator|accessdate=11 September 2012}}</ref>
+
+===Speakership===
+With the defeat of [[California Proposition 93 (2008)|Proposition 93]], Speaker [[Fabian Núñez]] was termed out of the Assembly at the end of the 2007-2008 session. As the next-highest-ranking Democrat in the Assembly, Bass was well-positioned to take the post.  After consolidating the support of a number of Legislators who had previously also been seeking the Speakership, Bass was elected Speaker on February 28, 2008 and then sworn in as Speaker on May 13.<ref>{{cite news |first=Matthew |last=Yi |title=L.A. lawmaker first African American woman to lead state Assembly |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/29/BASPVASI5.DTL |work=[[The San Francisco Chronicle]] |date=29 February 2008 |accessdate=2008-03-01}}</ref>
+
+Bass was criticized{{By whom|date=October 2013}} for the following statement to [[Los Angeles Times]] reporter [[Patt Morrison]]: "The Republicans were essentially threatened and terrorized against voting for revenue. Now [some] are facing recalls. They operate under a terrorist threat: 'You vote for revenue and your career is over.' I don't know why we allow that kind of terrorism to exist. I guess it's about free speech, but it's extremely unfair."<ref>{{cite news
+   |authorlink=Patt Morrison |first=Patt |last=Morrison
+   |title=Madam Speaker: An interview with state Assembly Speaker Karen Bass.
+   |url=http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story
+   |work=[[The Los Angeles Times]] |date=27 June 2009 |accessdate=2009-07-08 |archivedate=2009-06-30
+   |archiveurl=http://web.archive.org/web/20090630040653/http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story?}}</ref>
+
+Since leaving office, Bass was named Speaker Emeritus.<ref>{{cite web
+  |title=Speaker Emeritus Karen Bass |date=November 17, 2010 |publisher=California State Assembly Democratic Caucus
+  |accessdate=2010-10-01 |url=http://asmdc.org/members/a47/
+  |archivedate=2010-11-17 |archiveurl=http://web.archive.org/web/20101117093913/http://asmdc.org/members/a47/}}</ref>
+
+==U.S. House of Representatives==
+===2010 election===
+{{See also|United States House of Representatives elections in California, 2010#District 33}}
+Bass was ineligible to run for reelection in 2010 due to term limits and on February 18, 2010, confirmed her candidacy to succeed retiring U.S. Representative [[Diane Watson]] in [[California's 33rd congressional district]].<ref>{{cite news|last=Merl|first=Jean|title=Karen Bass confirms candidacy for seat in Congress|publisher=|date=February 18, 2010|url=http://articles.latimes.com/2010/feb/18/local/la-me-bass-watson18-2010feb18|accessdate=March 3, 2010|work=Los Angeles Times}}</ref> Bass won the election with over 86% of the vote on November 2, 2010.<ref>{{cite news |last=Van Oot|first=Torey|title=Bass, Denham win seats in Congress |newspaper=[[The Sacramento Bee]] |date=November 3, 2010 |url=http://blogs.sacbee.com/capitolalertlatest/2010/11/nov3amatter---bass-denham-win.html|accessdate=2010-11-03}}</ref>
+
+Bass raised $932,281.19 and spent $768,918.65. Her 2010 campaign contributions came from very different and diverse groups with none donating more than 15% of her total campaign funds. The five major donors to her campaign are Labor Unions with $101,950.00; Financial Institutions with $90,350.00; Health Professionals with $87,900.00; the Entertainment Industry with $52,400.00 and Lawyers and Law Firms with $48,650.00.<ref name="votesmart" />
+
+===2012 election===
+In 2012 she had no primary opponent, and carried the general election with 86%.<ref name=Barone2014/>  She raised $692,988.53 and spent $803,966.15, leaving $52,384.92 on hand and a debt of $3,297.59.<ref name="votesmart">{{cite web |title=Representative Karen Bass' Campaign Finances -  Project Vote Smart |accessdate=2013-10-02 |url=http://www.votesmart.org/candidate/key-votes/28963/karen-bass}}</ref>
+
+===Committee assignments===
+* '''[[United States House Committee on the Judiciary|Committee on the Judiciary]]'''
+** [[United States House Judiciary Subcommittee on Courts, Intellectual Property and the Internet|Subcommittee on Courts, Intellectual Property and the Internet]]
+** [[United States House Judiciary Subcommittee on Crime, Terrorism, Homeland Security and Investigations|Subcommittee on Crime, Terrorism, Homeland Security and Investigations]]<ref name=Barone2014/>
+* '''[[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]]'''
+** [[United States House Foreign Affairs Subcommittee on Africa, Global Health, and Human Rights|Subcommittee on Africa, Global Health, and Human Rights]] ([[Ranking Member]])<ref name=Barone2014/>
+<!-- **[[United States House Foreign Affairs Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]] -->
+
+===Position on issues===
+Bass is generally considered a liberal, with ratings of 100% or close from liberal interest group capitol Weekly Positions. Conservative groups like the California Republican Assembly Positions have consistently awarded her a 0%.<ref name="votesmart" />
+
+===Guns===
+Bass is a very strong supporter of gun control. The National Rifle Association Political Victory Fund Lifetime Score is an F. The Gun Owners of California Postitons on Gun Rights have also given Bass an F. Congresswoman Bass recently has voted against the National Right-to-Carry Reciprocity Act that would loosen general Gun Control laws. In 2010 while campaigning for Congress Bass supported Expanded Firearm Registration Bill that with other regulations would have made all gun dealers report their sales to the Department of Justice. Bass also supported the Amendment to the Penal Code regarding Firearms of 2010.<ref name="votesmart" />
+
+===International Policy/Foreign Affairs===
+Bass serves in the Committee on Foreign Affairs. In her website, she supports “working with our NATO allies and within the United Nations”. She also attributes significant importance to diplomacy and “creat[ing] jobs here in the US”. Bass does so through supporting trade protectionism. She has voted against the Free Trade Treaty with South Korea and the Trade Promotion Agreements with Colombia and Panama. She has not yet been rated by different interest groups because congresswoman Bass has served for less than one year in the house of Representatives.<ref name="votesmart" /><ref>{{cite web|title=Foreign Policy|publisher=Karen Bass|url=http://karenbass.house.gov/issue/foreign-policy|accessdate=2014-02-15}}</ref>
+
+===The Budget, Taxes and Spending===
+Bass, a social liberal, with Ratings around 100% by pro-gay marriage associations, can also be considered so in her fiscal positions. She has a rating of 10% from the very conservative California Tax Payers Association. However, the more liberal Consumer Federation of California gives her very high rankings. Besides the following positions on Taxing and Spending, She supports stimulus to create jobs.
+
+Bass has been against general Budget-Wide Cuts like Resolution 38 which would reduce spending to 2008 levels. She has also opposed budgets with deep cuts like the 2011 Budget. However, she has supported the H Amendment 16 for Reducing Navy and Air Force Appropriations. She has supported mainly military cuts.
+
+Bass has supported keeping taxes low for the middle class and “tax credits for small businesses to hire new employees”. She states that the Bush tax cuts for the wealthiest should expire because “the wealthy…don’t need these breaks”.<ref name="votesmart" /><ref>{{cite web|title=Jobs & the Economy|publisher=Karen Bass|url=http://bass.house.gov/issue/economy|accessdate=2014-02-15}}</ref>
+* '''112th Congress - 1st Session (2011)'''
+Bass voted to authorize the United States military to participate in the [[2011 military intervention in Libya]].  The measure (H J RES 68) failed 123-295.<ref>
+ {{cite web
+  |title=Authorizing the limited use of the United States Armed Forces in support of the NATO mission in Libya
+  |publisher=[[Clerk of the United States House of Representatives]] |date=June 24, 2011
+  |accessdate=2013-10-02 |url=http://clerk.house.gov/evs/2011/roll493.xml}}</ref><ref>
+ {{cite web |title=U.S. House of Representatives Roll Call Votes 112th Congress - 1st Session (2011)
+   |accessdate=2013-10-01 |url=http://clerk.house.gov/evs/2011/index.asp}}<!-- Not too helpful - long list --></ref>
+In 2011, Bass became a co-sponsor of Bill H.R.3261 otherwise known as the [[Stop Online Piracy Act]].<ref name="govtrack">{{cite web |accessdate=2013-10-02 |url=http://www.govtrack.us/congress/bill.xpd?bill=h112-3261 Bill H.R.3261 |title=Stop Online Piracy Act (2011; 112th Congress H.R. 3261) - GovTrack.us |work=[[GovTrack.us]]}}</ref>
+
+==Personal life==
+From 1980 to 1986, Bass was married to Jesus Lechuga. Following their divorce, Bass and Lechuga jointly raised their daughter and four step-children together.<ref name=BlackVoices>{{cite news
+  |title=Karen Bass Makes United States History as the first African American Woman to be named to Speaker of (sic)
+  |date=March 6, 2008 |work=The Black Voice News |publisher=Brown Publishing Company |location=[[Riverside, California]]
+  |accessdate=2013-10-02
+  |url=http://www.blackvoicenews.com/news/41879-karen-bass-makes-united-states-history-as-the-first-african-american-woman-to-be-named-to-speaker-of.html}}</ref>
+
+Bass suffered the loss of her only child, daughter Emilia Wright and son-in-law Michael Wright, in a car accident in 2006.<ref>{{cite news| url=http://articles.latimes.com/2006/oct/31/local/me-bass31 | work=Los Angeles Times | first=Stuart | last=Silverstein | title=Couple die in crash on 405 | date=October 31, 2006}}</ref>
+
+==References==
+{{reflist|2}}
+{{refbegin|2}}
+* {{cite news |newspaper=Loudmouth |pages=15–17 |number=6
+  |title=Is this democracy? |first=Jessica |last=Hoffmann |date=Summer 2004
+  |publisher=Women's Resource Center [[CSU Los Angeles]]
+  |accessdate=2013-10-01 |url=http://www.calstatelausu.org/books/loudmouth/issue06/550ffd.pdf}}
+{{refend}}
+
+==External links==
+* [http://karenbass.house.gov/ Congresswoman Karen Bass] official U.S. House site
+* [http://karenbass.com/ Karen Bass for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Karen_Bass_%5BD-37%5D|Karen Bass}}
+* {{CongLinks | congbio = B001270 | ballot = Karen_Bass | nndb = 537/000266736 | votesmart = 28963 | govtrack = 412404 | opencong = 412404 | rollcall = 31580 | politifact = | fec = H0CA33117 | opensecrets = N00031877 | assets = karen-bass | legistorm = 2733/Rep_Karen_Bass_CA.html | followthemoney = 4418 | ontheissues = CA/Karen_Bass.htm | congress = karen-bass/1996 | worldcat = | c-span = karenbass02 | imdb = 3503545 | bloomberg = | nyt = | washpo = gIQA45LZKP }}
+
+{{s-start}}
+{{s-par|us-ca-hs}}
+{{s-bef|before=[[Herb Wesson]]}}
+{{s-ttl|title=Member of the [[California State Assembly|California Assembly]]<br>from the [[California's 47th State Assembly district|47th]] district|years=2004–2010}}
+{{s-aft|after=[[Holly Mitchell]]}}
+|-
+{{s-bef|before=[[Lloyd E. Levine|Lloyd Levine]]}}
+{{s-ttl|title=California Assembly Majority Whip|years=2004–2006}}
+{{s-aft|after=[[Fiona Ma]]}}
+|-
+{{s-bef|before=[[Dario Frommer]]}}
+{{s-ttl|title=California Assembly Majority Leader|years=2006}}
+{{s-aft|after=[[Alberto Torrico]]}}
+|-
+{{s-off}}
+{{s-bef|before=[[Fabian Núñez]]}}
+{{s-ttl|title=[[List of Speakers of the California State Assembly|Speaker of the California Assembly]]|years=2008–2010}}
+{{s-aft|after=[[John Pérez]]}}
+|-
+{{s-par|us-hs}}
+{{s-bef|before=[[Diane Watson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 33rd congressional district]]|years=2011–2013}}
+{{s-aft|after=[[Henry Waxman]]}}
+|-
+{{s-bef|before=[[Laura Richardson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 37th congressional district]]|years=2013–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Lou Barletta]]}}
+{{s-ttl|title=[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]|years=273rd}}
+{{s-aft|after=[[Dan Benishek]]}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{USHouseCurrent}}
+{{CAAssemblySpeaker}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Bass, Karen
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = October 3, 1953
+| PLACE OF BIRTH    = [[Los Angeles]], [[California]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bass, Karen}}
+[[Category:1953 births]]
+[[Category:African-American members of the United States House of Representatives]]
+[[Category:African-American women in politics]]
+[[Category:California Democrats]]
+[[Category:California State University, Dominguez Hills alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Living people]]
+[[Category:Members of the California State Assembly]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:Politicians from Los Angeles, California]]
+[[Category:San Diego State University alumni]]
+[[Category:Speakers of the California State Assembly]]
+[[Category:University of Southern California faculty]]
+[[Category:University of Southern California alumni]]
+[[Category:University of California regents]]
+[[Category:Women state legislators in California]]
+[[Category:Youth rights people]]{{multiple issues|
+{{citation style|date=January 2012}}
+{{Like resume|date=January 2011}}
+}}
+{{Infobox Officeholder
+|name            = Karen Bass
+|image           = Karen-Bass-2012.jpg
+|state           = [[California]]
+|district        = {{ushr|California|37|37th}}
+|term_start      = January 3, 2013
+|term_end        = 
+|predecessor     = [[Laura Richardson]]
+|successor       = 
+|state1          = [[California]]
+|district1       = {{ushr|California|33|33rd}}
+|term_start1     = January 3, 2011
+|term_end1       = January 3, 2013
+|predecessor1    = [[Diane Watson]]
+|successor1      = [[Henry Waxman]]
+|office2         = [[List of Speakers of the California State Assembly|Speaker of the California Assembly]]
+|governor2       = [[Arnold Schwarzenegger]]
+|term_start2     = May 13, 2008
+|term_end2       = March 1, 2010
+|predecessor2    = [[Fabian Núñez]]
+|successor2      = [[John Pérez]]
+|state_assembly3 = California
+|district3       = [[California's 47th State Assembly district|47th]]
+|term_start3     = December 6, 2004
+|term_end3       = December 6, 2010
+|predecessor3    = [[Herb Wesson]]
+|successor3      = [[Holly Mitchell]]
+|birth_name      = Karen Ruth Bass
+|birth_date      = {{birth date and age|1953|10|3}}
+|birth_place     = [[Los Angeles]], [[California]], [[United States|U.S.]]
+|death_date      = 
+|death_place     = 
+|party           = [[Democratic Party (United States)|Democratic]]
+|spouse          = Jesus Lechuga {{small|(1980–1986)}}
+|children        = Emilia<br>4 stepchildren
+|alma_mater      = [[San Diego State University]]<br>[[California State University, Dominguez Hills]]
+|religion        = [[Baptists|Baptist]]
+|website         = [http://karenbass.house.gov House website]
+|footnotes       = <ref name=CQ/><ref>{{cite web |date=July 7, 2008 |title=California Assembly District 47 |publisher=[[California Assembly]] |accessdate=2013-10-01 |url=http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archiveurl=http://web.archive.org/web/20090602161436/http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archivedate=2009-06-02}}</ref><ref>{{cite web |title=Full Biography {{pipe}} Congresswoman Karen Bass |accessdate=2013-10-01 |url=http://bass.house.gov/about-me/full-biography |publisher=[[U.S. House of Representatives]]}}</ref><ref>{{cite web |publisher=[[Iowa State University]] |work=Archives of Women's Political Communication |title=Karen  Bass - Archives of Women's Political Communication |accessdate=2013-10-01 |url=http://www.womenspeecharchive.org/women/profile/index.cfm? |quote=Bass was born October 3, 1953, and raised in Los Angeles. She attended San Diego State University from 1971–1973 and graduated from California State University, Dominguez Hills in 1990 with a Bachelor of Science in health sciences.}}</ref><ref name="Barone2014">{{cite book |last=Barone |first=Michael |authorlink=Michael Barone (pundit) |author2=Chuck McCutcheon |title=[[The Almanac of American Politics]] 2014 |year=2013 |publisher=[[University of Chicago Press]] |location=[[Chicago]] |isbn=978-0-226-10544-4 |pages=243–245}} Copyright [[National Journal]].</ref><ref>{{cite web |title=Aztec Action Network |quote=Residence: Los Angeles|publisher=San Diego State University |accessdate=2013-10-02 |url=http://sdsu.capwiz.com/bio/id/142033}}</ref>
+}}
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] [[Democratic Party (United States)|Democratic]] politician.  She represents [[California's 37th congressional district]] in the [[United States House of Representatives]]; she was first elected in 2010. In [[redistricting]] following the [[U.S. Census 2010|2010 census]], the district was renumbered from {{ushr|CA|33|33rd}} to {{ushr|CA|37|37th}}.  Bass represented [[California's 47th State Assembly district|the 47th district]] in the [[California State Assembly]] 2004–2010, and was [[Speaker of the California State Assembly]] 2008–2010 (second woman, third [[African American]] speaker).
+
+<!--
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] politician who has served in the [[United States House of Representatives]] since 2011. She is a member of the [[Democratic Party (United States)|Democratic Party]] from [[California]]. During her first two years in Congress, her district was numbered the {{ushr|CA|33|33rd}}; it has been numbered the {{ushr|CA|37|37th district}} since 2013.
+
+Prior to her election to Congress in 2010, Bass served as a member of the [[California State Assembly]] representing the [[California's 47th State Assembly district|47th district]] beginning in 2004. From 2008 to 2010, she served as [[Speaker of the California State Assembly]], becoming the second woman and third African American to serve in that post.
+ -->
+
+==Early life, education, and medical career==
+Bass was born in Los Angeles, California, the daughter of Wilhelmina (née Duckett) and DeWitt Talmadge Bass.<ref>{{cite web
+ |title=Karen Bass ancestry |accessdate=2013-10-01 |work=[[RootsWeb]]
+ |url=http://freepages.genealogy.rootsweb.ancestry.com/%7Ebattle/reps/basskaren.htm}}</ref> Her father was a letter carrier.<ref name="Barone2014"/>  She was raised in the Venice/Fairfax neighborhood and went to [[Alexander Hamilton High School (Los Angeles)|Hamilton High School]]. She studied [[philosophy]] at [[San Diego State University]] (1971–1973), then earned a B.S. in health sciences from [[California State University, Dominguez Hills]] (1990).<ref name=CQ>{{cite news |title=112th Congress: Karen Bass, D-Calif. (33rd District) |first=Kerry |last=Young |newspaper=[[Congressional Quarterly]] |date=November 6, 2010 |url=http://news.yahoo.com/s/cq/20101106/pl_cq_politics/politics000003759351_1 |accessdate=}}</ref>
+
+Bass worked as a physician assistant and as a clinical instructor at the [[Keck School of Medicine of USC|USC Keck School of Medicine]] Physician Assistant Program.<ref name="about">{{cite web|title=About Karen|url=http://karenbass.com/about-karen|publisher=KarenBass.com|accessdate=December 4, 2010}}</ref>  Bass founded the Community Coalition, an organization in South Los Angeles.<ref>{{cite web|title=About Us|publisher=Community Coalition|url=http://www.cocosouthla.org/about/ourmission|accessdate=2014-02-15}}</ref>
+
+==California Assembly==
+As the [[California State Assembly|Assemblymember]] for the [[California's 47th State Assembly district|47th District]], Bass served the cities and communities of [[Culver City]], [[West Los Angeles]], [[Westwood, Los Angeles, California|Westwood]], [[Cheviot Hills]], [[Leimert Park]], [[Baldwin Hills]], [[View Park-Windsor Hills]], [[Ladera Heights]], the [[Crenshaw District]], [[Little Ethiopia]] and portions of [[Koreatown, Los Angeles, California|Koreatown]] and [[South Los Angeles]].
+
+In addition to her leadership of California African Americans for Obama and her post on [[Barack Obama]]'s national African American Leadership Council, Bass served as a California Co-chair of Obama's [[Barack Obama presidential campaign, 2008|2008 presidential campaign]].
+
+===Leadership prior to speaker election===
+Speaker [[Fabian Núñez]] appointed Bass [[California State Assembly]] Majority Whip (2005–2006), and Majority Floor Leader for 2007–2008 legislative session. She was chair of the Select Committee on Foster Care and vice chair of the Legislative Black Caucus. She succeeded Núñez as Speaker on May 13, 2008; he was [[term limit|termed out]] of the Assembly November 30, 2008.
+
+As chair of the Legislative Black Caucus, she commissioned a report to research the basic demographic profile of Black Californians including the basic social and economic conditions.<ref>{{cite web|last=Bass|first=Karen|title=The State of Black California|url=http://www.asmdc.org/speaker/pdf/State_of_Black_California_Full_Report.pdf|work=February 2007|publisher=California Democratic Caucus|accessdate=11 September 2012}}</ref>  The State of Black California report included a statewide organizing effort to involve Black Californians in identifying their concerns and making legislative recommendations.<ref name="Karen Bass State of Blk CA">{{cite web|last=Samad|first=Anthony  Asadullah|title=Between the lines|url=http://www.blackcommentator.com/216/216_between_the_lines_black_california_samad.html|work=8 February 2007|publisher=The Black Commentator|accessdate=11 September 2012}}</ref>
+
+===Speakership===
+With the defeat of [[California Proposition 93 (2008)|Proposition 93]], Speaker [[Fabian Núñez]] was termed out of the Assembly at the end of the 2007-2008 session. As the next-highest-ranking Democrat in the Assembly, Bass was well-positioned to take the post.  After consolidating the support of a number of Legislators who had previously also been seeking the Speakership, Bass was elected Speaker on February 28, 2008 and then sworn in as Speaker on May 13.<ref>{{cite news |first=Matthew |last=Yi |title=L.A. lawmaker first African American woman to lead state Assembly |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/29/BASPVASI5.DTL |work=[[The San Francisco Chronicle]] |date=29 February 2008 |accessdate=2008-03-01}}</ref>
+
+Bass was criticized{{By whom|date=October 2013}} for the following statement to [[Los Angeles Times]] reporter [[Patt Morrison]]: "The Republicans were essentially threatened and terrorized against voting for revenue. Now [some] are facing recalls. They operate under a terrorist threat: 'You vote for revenue and your career is over.' I don't know why we allow that kind of terrorism to exist. I guess it's about free speech, but it's extremely unfair."<ref>{{cite news
+   |authorlink=Patt Morrison |first=Patt |last=Morrison
+   |title=Madam Speaker: An interview with state Assembly Speaker Karen Bass.
+   |url=http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story
+   |work=[[The Los Angeles Times]] |date=27 June 2009 |accessdate=2009-07-08 |archivedate=2009-06-30
+   |archiveurl=http://web.archive.org/web/20090630040653/http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story?}}</ref>
+
+Since leaving office, Bass was named Speaker Emeritus.<ref>{{cite web
+  |title=Speaker Emeritus Karen Bass |date=November 17, 2010 |publisher=California State Assembly Democratic Caucus
+  |accessdate=2010-10-01 |url=http://asmdc.org/members/a47/
+  |archivedate=2010-11-17 |archiveurl=http://web.archive.org/web/20101117093913/http://asmdc.org/members/a47/}}</ref>
+
+==U.S. House of Representatives==
+===2010 election===
+{{See also|United States House of Representatives elections in California, 2010#District 33}}
+Bass was ineligible to run for reelection in 2010 due to term limits and on February 18, 2010, confirmed her candidacy to succeed retiring U.S. Representative [[Diane Watson]] in [[California's 33rd congressional district]].<ref>{{cite news|last=Merl|first=Jean|title=Karen Bass confirms candidacy for seat in Congress|publisher=|date=February 18, 2010|url=http://articles.latimes.com/2010/feb/18/local/la-me-bass-watson18-2010feb18|accessdate=March 3, 2010|work=Los Angeles Times}}</ref> Bass won the election with over 86% of the vote on November 2, 2010.<ref>{{cite news |last=Van Oot|first=Torey|title=Bass, Denham win seats in Congress |newspaper=[[The Sacramento Bee]] |date=November 3, 2010 |url=http://blogs.sacbee.com/capitolalertlatest/2010/11/nov3amatter---bass-denham-win.html|accessdate=2010-11-03}}</ref>
+
+Bass raised $932,281.19 and spent $768,918.65. Her 2010 campaign contributions came from very different and diverse groups with none donating more than 15% of her total campaign funds. The five major donors to her campaign are Labor Unions with $101,950.00; Financial Institutions with $90,350.00; Health Professionals with $87,900.00; the Entertainment Industry with $52,400.00 and Lawyers and Law Firms with $48,650.00.<ref name="votesmart" />
+
+===2012 election===
+In 2012 she had no primary opponent, and carried the general election with 86%.<ref name=Barone2014/>  She raised $692,988.53 and spent $803,966.15, leaving $52,384.92 on hand and a debt of $3,297.59.<ref name="votesmart">{{cite web |title=Representative Karen Bass' Campaign Finances -  Project Vote Smart |accessdate=2013-10-02 |url=http://www.votesmart.org/candidate/key-votes/28963/karen-bass}}</ref>
+
+===Committee assignments===
+* '''[[United States House Committee on the Judiciary|Committee on the Judiciary]]'''
+** [[United States House Judiciary Subcommittee on Courts, Intellectual Property and the Internet|Subcommittee on Courts, Intellectual Property and the Internet]]
+** [[United States House Judiciary Subcommittee on Crime, Terrorism, Homeland Security and Investigations|Subcommittee on Crime, Terrorism, Homeland Security and Investigations]]<ref name=Barone2014/>
+* '''[[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]]'''
+** [[United States House Foreign Affairs Subcommittee on Africa, Global Health, and Human Rights|Subcommittee on Africa, Global Health, and Human Rights]] ([[Ranking Member]])<ref name=Barone2014/>
+<!-- **[[United States House Foreign Affairs Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]] -->
+
+===Position on issues===
+Bass is generally considered a liberal, with ratings of 100% or close from liberal interest group capitol Weekly Positions. Conservative groups like the California Republican Assembly Positions have consistently awarded her a 0%.<ref name="votesmart" />
+
+===Guns===
+Bass is a very strong supporter of gun control. The National Rifle Association Political Victory Fund Lifetime Score is an F. The Gun Owners of California Postitons on Gun Rights have also given Bass an F. Congresswoman Bass recently has voted against the National Right-to-Carry Reciprocity Act that would loosen general Gun Control laws. In 2010 while campaigning for Congress Bass supported Expanded Firearm Registration Bill that with other regulations would have made all gun dealers report their sales to the Department of Justice. Bass also supported the Amendment to the Penal Code regarding Firearms of 2010.<ref name="votesmart" />
+
+===International Policy/Foreign Affairs===
+Bass serves in the Committee on Foreign Affairs. In her website, she supports “working with our NATO allies and within the United Nations”. She also attributes significant importance to diplomacy and “creat[ing] jobs here in the US”. Bass does so through supporting trade protectionism. She has voted against the Free Trade Treaty with South Korea and the Trade Promotion Agreements with Colombia and Panama. She has not yet been rated by different interest groups because congresswoman Bass has served for less than one year in the house of Representatives.<ref name="votesmart" /><ref>{{cite web|title=Foreign Policy|publisher=Karen Bass|url=http://karenbass.house.gov/issue/foreign-policy|accessdate=2014-02-15}}</ref>
+
+===The Budget, Taxes and Spending===
+Bass, a social liberal, with Ratings around 100% by pro-gay marriage associations, can also be considered so in her fiscal positions. She has a rating of 10% from the very conservative California Tax Payers Association. However, the more liberal Consumer Federation of California gives her very high rankings. Besides the following positions on Taxing and Spending, She supports stimulus to create jobs.
+
+Bass has been against general Budget-Wide Cuts like Resolution 38 which would reduce spending to 2008 levels. She has also opposed budgets with deep cuts like the 2011 Budget. However, she has supported the H Amendment 16 for Reducing Navy and Air Force Appropriations. She has supported mainly military cuts.
+
+Bass has supported keeping taxes low for the middle class and “tax credits for small businesses to hire new employees”. She states that the Bush tax cuts for the wealthiest should expire because “the wealthy…don’t need these breaks”.<ref name="votesmart" /><ref>{{cite web|title=Jobs & the Economy|publisher=Karen Bass|url=http://bass.house.gov/issue/economy|accessdate=2014-02-15}}</ref>
+* '''112th Congress - 1st Session (2011)'''
+Bass voted to authorize the United States military to participate in the [[2011 military intervention in Libya]].  The measure (H J RES 68) failed 123-295.<ref>
+ {{cite web
+  |title=Authorizing the limited use of the United States Armed Forces in support of the NATO mission in Libya
+  |publisher=[[Clerk of the United States House of Representatives]] |date=June 24, 2011
+  |accessdate=2013-10-02 |url=http://clerk.house.gov/evs/2011/roll493.xml}}</ref><ref>
+ {{cite web |title=U.S. House of Representatives Roll Call Votes 112th Congress - 1st Session (2011)
+   |accessdate=2013-10-01 |url=http://clerk.house.gov/evs/2011/index.asp}}<!-- Not too helpful - long list --></ref>
+In 2011, Bass became a co-sponsor of Bill H.R.3261 otherwise known as the [[Stop Online Piracy Act]].<ref name="govtrack">{{cite web |accessdate=2013-10-02 |url=http://www.govtrack.us/congress/bill.xpd?bill=h112-3261 Bill H.R.3261 |title=Stop Online Piracy Act (2011; 112th Congress H.R. 3261) - GovTrack.us |work=[[GovTrack.us]]}}</ref>
+
+==Personal life==
+From 1980 to 1986, Bass was married to Jesus Lechuga. Following their divorce, Bass and Lechuga jointly raised their daughter and four step-children together.<ref name=BlackVoices>{{cite news
+  |title=Karen Bass Makes United States History as the first African American Woman to be named to Speaker of (sic)
+  |date=March 6, 2008 |work=The Black Voice News |publisher=Brown Publishing Company |location=[[Riverside, California]]
+  |accessdate=2013-10-02
+  |url=http://www.blackvoicenews.com/news/41879-karen-bass-makes-united-states-history-as-the-first-african-american-woman-to-be-named-to-speaker-of.html}}</ref>
+
+Bass suffered the loss of her only child, daughter Emilia Wright and son-in-law Michael Wright, in a car accident in 2006.<ref>{{cite news| url=http://articles.latimes.com/2006/oct/31/local/me-bass31 | work=Los Angeles Times | first=Stuart | last=Silverstein | title=Couple die in crash on 405 | date=October 31, 2006}}</ref>
+
+==References==
+{{reflist|2}}
+{{refbegin|2}}
+* {{cite news |newspaper=Loudmouth |pages=15–17 |number=6
+  |title=Is this democracy? |first=Jessica |last=Hoffmann |date=Summer 2004
+  |publisher=Women's Resource Center [[CSU Los Angeles]]
+  |accessdate=2013-10-01 |url=http://www.calstatelausu.org/books/loudmouth/issue06/550ffd.pdf}}
+{{refend}}
+
+==External links==
+* [http://karenbass.house.gov/ Congresswoman Karen Bass] official U.S. House site
+* [http://karenbass.com/ Karen Bass for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Karen_Bass_%5BD-37%5D|Karen Bass}}
+* {{CongLinks | congbio = B001270 | ballot = Karen_Bass | nndb = 537/000266736 | votesmart = 28963 | govtrack = 412404 | opencong = 412404 | rollcall = 31580 | politifact = | fec = H0CA33117 | opensecrets = N00031877 | assets = karen-bass | legistorm = 2733/Rep_Karen_Bass_CA.html | followthemoney = 4418 | ontheissues = CA/Karen_Bass.htm | congress = karen-bass/1996 | worldcat = | c-span = karenbass02 | imdb = 3503545 | bloomberg = | nyt = | washpo = gIQA45LZKP }}
+
+{{s-start}}
+{{s-par|us-ca-hs}}
+{{s-bef|before=[[Herb Wesson]]}}
+{{s-ttl|title=Member of the [[California State Assembly|California Assembly]]<br>from the [[California's 47th State Assembly district|47th]] district|years=2004–2010}}
+{{s-aft|after=[[Holly Mitchell]]}}
+|-
+{{s-bef|before=[[Lloyd E. Levine|Lloyd Levine]]}}
+{{s-ttl|title=California Assembly Majority Whip|years=2004–2006}}
+{{s-aft|after=[[Fiona Ma]]}}
+|-
+{{s-bef|before=[[Dario Frommer]]}}
+{{s-ttl|title=California Assembly Majority Leader|years=2006}}
+{{s-aft|after=[[Alberto Torrico]]}}
+|-
+{{s-off}}
+{{s-bef|before=[[Fabian Núñez]]}}
+{{s-ttl|title=[[List of Speakers of the California State Assembly|Speaker of the California Assembly]]|years=2008–2010}}
+{{s-aft|after=[[John Pérez]]}}
+|-
+{{s-par|us-hs}}
+{{s-bef|before=[[Diane Watson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 33rd congressional district]]|years=2011–2013}}
+{{s-aft|after=[[Henry Waxman]]}}
+|-
+{{s-bef|before=[[Laura Richardson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 37th congressional district]]|years=2013–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Lou Barletta]]}}
+{{s-ttl|title=[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]|years=273rd}}
+{{s-aft|after=[[Dan Benishek]]}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{USHouseCurrent}}
+{{CAAssemblySpeaker}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Bass, Karen
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = October 3, 1953
+| PLACE OF BIRTH    = [[Los Angeles]], [[California]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bass, Karen}}
+[[Category:1953 births]]
+[[Category:African-American members of the United States House of Representatives]]
+[[Category:African-American women in politics]]
+[[Category:California Democrats]]
+[[Category:California State University, Dominguez Hills alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Living people]]
+[[Category:Members of the California State Assembly]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:Politicians from Los Angeles, California]]
+[[Category:San Diego State University alumni]]
+[[Category:Speakers of the California State Assembly]]
+[[Category:University of Southern California faculty]]
+[[Category:University of Southern California alumni]]
+[[Category:University of California regents]]
+[[Category:Women state legislators in California]]
+[[Category:Youth rights people]]{{multiple issues|
+{{citation style|date=January 2012}}
+{{Like resume|date=January 2011}}
+}}
+{{Infobox Officeholder
+|name            = Karen Bass
+|image           = Karen-Bass-2012.jpg
+|state           = [[California]]
+|district        = {{ushr|California|37|37th}}
+|term_start      = January 3, 2013
+|term_end        = 
+|predecessor     = [[Laura Richardson]]
+|successor       = 
+|state1          = [[California]]
+|district1       = {{ushr|California|33|33rd}}
+|term_start1     = January 3, 2011
+|term_end1       = January 3, 2013
+|predecessor1    = [[Diane Watson]]
+|successor1      = [[Henry Waxman]]
+|office2         = [[List of Speakers of the California State Assembly|Speaker of the California Assembly]]
+|governor2       = [[Arnold Schwarzenegger]]
+|term_start2     = May 13, 2008
+|term_end2       = March 1, 2010
+|predecessor2    = [[Fabian Núñez]]
+|successor2      = [[John Pérez]]
+|state_assembly3 = California
+|district3       = [[California's 47th State Assembly district|47th]]
+|term_start3     = December 6, 2004
+|term_end3       = December 6, 2010
+|predecessor3    = [[Herb Wesson]]
+|successor3      = [[Holly Mitchell]]
+|birth_name      = Karen Ruth Bass
+|birth_date      = {{birth date and age|1953|10|3}}
+|birth_place     = [[Los Angeles]], [[California]], [[United States|U.S.]]
+|death_date      = 
+|death_place     = 
+|party           = [[Democratic Party (United States)|Democratic]]
+|spouse          = Jesus Lechuga {{small|(1980–1986)}}
+|children        = Emilia<br>4 stepchildren
+|alma_mater      = [[San Diego State University]]<br>[[California State University, Dominguez Hills]]
+|religion        = [[Baptists|Baptist]]
+|website         = [http://karenbass.house.gov House website]
+|footnotes       = <ref name=CQ/><ref>{{cite web |date=July 7, 2008 |title=California Assembly District 47 |publisher=[[California Assembly]] |accessdate=2013-10-01 |url=http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archiveurl=http://web.archive.org/web/20090602161436/http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archivedate=2009-06-02}}</ref><ref>{{cite web |title=Full Biography {{pipe}} Congresswoman Karen Bass |accessdate=2013-10-01 |url=http://bass.house.gov/about-me/full-biography |publisher=[[U.S. House of Representatives]]}}</ref><ref>{{cite web |publisher=[[Iowa State University]] |work=Archives of Women's Political Communication |title=Karen  Bass - Archives of Women's Political Communication |accessdate=2013-10-01 |url=http://www.womenspeecharchive.org/women/profile/index.cfm? |quote=Bass was born October 3, 1953, and raised in Los Angeles. She attended San Diego State University from 1971–1973 and graduated from California State University, Dominguez Hills in 1990 with a Bachelor of Science in health sciences.}}</ref><ref name="Barone2014">{{cite book |last=Barone |first=Michael |authorlink=Michael Barone (pundit) |author2=Chuck McCutcheon |title=[[The Almanac of American Politics]] 2014 |year=2013 |publisher=[[University of Chicago Press]] |location=[[Chicago]] |isbn=978-0-226-10544-4 |pages=243–245}} Copyright [[National Journal]].</ref><ref>{{cite web |title=Aztec Action Network |quote=Residence: Los Angeles|publisher=San Diego State University |accessdate=2013-10-02 |url=http://sdsu.capwiz.com/bio/id/142033}}</ref>
+}}
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] [[Democratic Party (United States)|Democratic]] politician.  She represents [[California's 37th congressional district]] in the [[United States House of Representatives]]; she was first elected in 2010. In [[redistricting]] following the [[U.S. Census 2010|2010 census]], the district was renumbered from {{ushr|CA|33|33rd}} to {{ushr|CA|37|37th}}.  Bass represented [[California's 47th State Assembly district|the 47th district]] in the [[California State Assembly]] 2004–2010, and was [[Speaker of the California State Assembly]] 2008–2010 (second woman, third [[African American]] speaker).
+
+<!--
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] politician who has served in the [[United States House of Representatives]] since 2011. She is a member of the [[Democratic Party (United States)|Democratic Party]] from [[California]]. During her first two years in Congress, her district was numbered the {{ushr|CA|33|33rd}}; it has been numbered the {{ushr|CA|37|37th district}} since 2013.
+
+Prior to her election to Congress in 2010, Bass served as a member of the [[California State Assembly]] representing the [[California's 47th State Assembly district|47th district]] beginning in 2004. From 2008 to 2010, she served as [[Speaker of the California State Assembly]], becoming the second woman and third African American to serve in that post.
+ -->
+
+==Early life, education, and medical career==
+Bass was born in Los Angeles, California, the daughter of Wilhelmina (née Duckett) and DeWitt Talmadge Bass.<ref>{{cite web
+ |title=Karen Bass ancestry |accessdate=2013-10-01 |work=[[RootsWeb]]
+ |url=http://freepages.genealogy.rootsweb.ancestry.com/%7Ebattle/reps/basskaren.htm}}</ref> Her father was a letter carrier.<ref name="Barone2014"/>  She was raised in the Venice/Fairfax neighborhood and went to [[Alexander Hamilton High School (Los Angeles)|Hamilton High School]]. She studied [[philosophy]] at [[San Diego State University]] (1971–1973), then earned a B.S. in health sciences from [[California State University, Dominguez Hills]] (1990).<ref name=CQ>{{cite news |title=112th Congress: Karen Bass, D-Calif. (33rd District) |first=Kerry |last=Young |newspaper=[[Congressional Quarterly]] |date=November 6, 2010 |url=http://news.yahoo.com/s/cq/20101106/pl_cq_politics/politics000003759351_1 |accessdate=}}</ref>
+
+Bass worked as a physician assistant and as a clinical instructor at the [[Keck School of Medicine of USC|USC Keck School of Medicine]] Physician Assistant Program.<ref name="about">{{cite web|title=About Karen|url=http://karenbass.com/about-karen|publisher=KarenBass.com|accessdate=December 4, 2010}}</ref>  Bass founded the Community Coalition, an organization in South Los Angeles.<ref>{{cite web|title=About Us|publisher=Community Coalition|url=http://www.cocosouthla.org/about/ourmission|accessdate=2014-02-15}}</ref>
+
+==California Assembly==
+As the [[California State Assembly|Assemblymember]] for the [[California's 47th State Assembly district|47th District]], Bass served the cities and communities of [[Culver City]], [[West Los Angeles]], [[Westwood, Los Angeles, California|Westwood]], [[Cheviot Hills]], [[Leimert Park]], [[Baldwin Hills]], [[View Park-Windsor Hills]], [[Ladera Heights]], the [[Crenshaw District]], [[Little Ethiopia]] and portions of [[Koreatown, Los Angeles, California|Koreatown]] and [[South Los Angeles]].
+
+In addition to her leadership of California African Americans for Obama and her post on [[Barack Obama]]'s national African American Leadership Council, Bass served as a California Co-chair of Obama's [[Barack Obama presidential campaign, 2008|2008 presidential campaign]].
+
+===Leadership prior to speaker election===
+Speaker [[Fabian Núñez]] appointed Bass [[California State Assembly]] Majority Whip (2005–2006), and Majority Floor Leader for 2007–2008 legislative session. She was chair of the Select Committee on Foster Care and vice chair of the Legislative Black Caucus. She succeeded Núñez as Speaker on May 13, 2008; he was [[term limit|termed out]] of the Assembly November 30, 2008.
+
+As chair of the Legislative Black Caucus, she commissioned a report to research the basic demographic profile of Black Californians including the basic social and economic conditions.<ref>{{cite web|last=Bass|first=Karen|title=The State of Black California|url=http://www.asmdc.org/speaker/pdf/State_of_Black_California_Full_Report.pdf|work=February 2007|publisher=California Democratic Caucus|accessdate=11 September 2012}}</ref>  The State of Black California report included a statewide organizing effort to involve Black Californians in identifying their concerns and making legislative recommendations.<ref name="Karen Bass State of Blk CA">{{cite web|last=Samad|first=Anthony  Asadullah|title=Between the lines|url=http://www.blackcommentator.com/216/216_between_the_lines_black_california_samad.html|work=8 February 2007|publisher=The Black Commentator|accessdate=11 September 2012}}</ref>
+
+===Speakership===
+With the defeat of [[California Proposition 93 (2008)|Proposition 93]], Speaker [[Fabian Núñez]] was termed out of the Assembly at the end of the 2007-2008 session. As the next-highest-ranking Democrat in the Assembly, Bass was well-positioned to take the post.  After consolidating the support of a number of Legislators who had previously also been seeking the Speakership, Bass was elected Speaker on February 28, 2008 and then sworn in as Speaker on May 13.<ref>{{cite news |first=Matthew |last=Yi |title=L.A. lawmaker first African American woman to lead state Assembly |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/29/BASPVASI5.DTL |work=[[The San Francisco Chronicle]] |date=29 February 2008 |accessdate=2008-03-01}}</ref>
+
+Bass was criticized{{By whom|date=October 2013}} for the following statement to [[Los Angeles Times]] reporter [[Patt Morrison]]: "The Republicans were essentially threatened and terrorized against voting for revenue. Now [some] are facing recalls. They operate under a terrorist threat: 'You vote for revenue and your career is over.' I don't know why we allow that kind of terrorism to exist. I guess it's about free speech, but it's extremely unfair."<ref>{{cite news
+   |authorlink=Patt Morrison |first=Patt |last=Morrison
+   |title=Madam Speaker: An interview with state Assembly Speaker Karen Bass.
+   |url=http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story
+   |work=[[The Los Angeles Times]] |date=27 June 2009 |accessdate=2009-07-08 |archivedate=2009-06-30
+   |archiveurl=http://web.archive.org/web/20090630040653/http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story?}}</ref>
+
+Since leaving office, Bass was named Speaker Emeritus.<ref>{{cite web
+  |title=Speaker Emeritus Karen Bass |date=November 17, 2010 |publisher=California State Assembly Democratic Caucus
+  |accessdate=2010-10-01 |url=http://asmdc.org/members/a47/
+  |archivedate=2010-11-17 |archiveurl=http://web.archive.org/web/20101117093913/http://asmdc.org/members/a47/}}</ref>
+
+==U.S. House of Representatives==
+===2010 election===
+{{See also|United States House of Representatives elections in California, 2010#District 33}}
+Bass was ineligible to run for reelection in 2010 due to term limits and on February 18, 2010, confirmed her candidacy to succeed retiring U.S. Representative [[Diane Watson]] in [[California's 33rd congressional district]].<ref>{{cite news|last=Merl|first=Jean|title=Karen Bass confirms candidacy for seat in Congress|publisher=|date=February 18, 2010|url=http://articles.latimes.com/2010/feb/18/local/la-me-bass-watson18-2010feb18|accessdate=March 3, 2010|work=Los Angeles Times}}</ref> Bass won the election with over 86% of the vote on November 2, 2010.<ref>{{cite news |last=Van Oot|first=Torey|title=Bass, Denham win seats in Congress |newspaper=[[The Sacramento Bee]] |date=November 3, 2010 |url=http://blogs.sacbee.com/capitolalertlatest/2010/11/nov3amatter---bass-denham-win.html|accessdate=2010-11-03}}</ref>
+
+Bass raised $932,281.19 and spent $768,918.65. Her 2010 campaign contributions came from very different and diverse groups with none donating more than 15% of her total campaign funds. The five major donors to her campaign are Labor Unions with $101,950.00; Financial Institutions with $90,350.00; Health Professionals with $87,900.00; the Entertainment Industry with $52,400.00 and Lawyers and Law Firms with $48,650.00.<ref name="votesmart" />
+
+===2012 election===
+In 2012 she had no primary opponent, and carried the general election with 86%.<ref name=Barone2014/>  She raised $692,988.53 and spent $803,966.15, leaving $52,384.92 on hand and a debt of $3,297.59.<ref name="votesmart">{{cite web |title=Representative Karen Bass' Campaign Finances -  Project Vote Smart |accessdate=2013-10-02 |url=http://www.votesmart.org/candidate/key-votes/28963/karen-bass}}</ref>
+
+===Committee assignments===
+* '''[[United States House Committee on the Judiciary|Committee on the Judiciary]]'''
+** [[United States House Judiciary Subcommittee on Courts, Intellectual Property and the Internet|Subcommittee on Courts, Intellectual Property and the Internet]]
+** [[United States House Judiciary Subcommittee on Crime, Terrorism, Homeland Security and Investigations|Subcommittee on Crime, Terrorism, Homeland Security and Investigations]]<ref name=Barone2014/>
+* '''[[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]]'''
+** [[United States House Foreign Affairs Subcommittee on Africa, Global Health, and Human Rights|Subcommittee on Africa, Global Health, and Human Rights]] ([[Ranking Member]])<ref name=Barone2014/>
+<!-- **[[United States House Foreign Affairs Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]] -->
+
+===Position on issues===
+Bass is generally considered a liberal, with ratings of 100% or close from liberal interest group capitol Weekly Positions. Conservative groups like the California Republican Assembly Positions have consistently awarded her a 0%.<ref name="votesmart" />
+
+===Guns===
+Bass is a very strong supporter of gun control. The National Rifle Association Political Victory Fund Lifetime Score is an F. The Gun Owners of California Postitons on Gun Rights have also given Bass an F. Congresswoman Bass recently has voted against the National Right-to-Carry Reciprocity Act that would loosen general Gun Control laws. In 2010 while campaigning for Congress Bass supported Expanded Firearm Registration Bill that with other regulations would have made all gun dealers report their sales to the Department of Justice. Bass also supported the Amendment to the Penal Code regarding Firearms of 2010.<ref name="votesmart" />
+
+===International Policy/Foreign Affairs===
+Bass serves in the Committee on Foreign Affairs. In her website, she supports “working with our NATO allies and within the United Nations”. She also attributes significant importance to diplomacy and “creat[ing] jobs here in the US”. Bass does so through supporting trade protectionism. She has voted against the Free Trade Treaty with South Korea and the Trade Promotion Agreements with Colombia and Panama. She has not yet been rated by different interest groups because congresswoman Bass has served for less than one year in the house of Representatives.<ref name="votesmart" /><ref>{{cite web|title=Foreign Policy|publisher=Karen Bass|url=http://karenbass.house.gov/issue/foreign-policy|accessdate=2014-02-15}}</ref>
+
+===The Budget, Taxes and Spending===
+Bass, a social liberal, with Ratings around 100% by pro-gay marriage associations, can also be considered so in her fiscal positions. She has a rating of 10% from the very conservative California Tax Payers Association. However, the more liberal Consumer Federation of California gives her very high rankings. Besides the following positions on Taxing and Spending, She supports stimulus to create jobs.
+
+Bass has been against general Budget-Wide Cuts like Resolution 38 which would reduce spending to 2008 levels. She has also opposed budgets with deep cuts like the 2011 Budget. However, she has supported the H Amendment 16 for Reducing Navy and Air Force Appropriations. She has supported mainly military cuts.
+
+Bass has supported keeping taxes low for the middle class and “tax credits for small businesses to hire new employees”. She states that the Bush tax cuts for the wealthiest should expire because “the wealthy…don’t need these breaks”.<ref name="votesmart" /><ref>{{cite web|title=Jobs & the Economy|publisher=Karen Bass|url=http://bass.house.gov/issue/economy|accessdate=2014-02-15}}</ref>
+* '''112th Congress - 1st Session (2011)'''
+Bass voted to authorize the United States military to participate in the [[2011 military intervention in Libya]].  The measure (H J RES 68) failed 123-295.<ref>
+ {{cite web
+  |title=Authorizing the limited use of the United States Armed Forces in support of the NATO mission in Libya
+  |publisher=[[Clerk of the United States House of Representatives]] |date=June 24, 2011
+  |accessdate=2013-10-02 |url=http://clerk.house.gov/evs/2011/roll493.xml}}</ref><ref>
+ {{cite web |title=U.S. House of Representatives Roll Call Votes 112th Congress - 1st Session (2011)
+   |accessdate=2013-10-01 |url=http://clerk.house.gov/evs/2011/index.asp}}<!-- Not too helpful - long list --></ref>
+In 2011, Bass became a co-sponsor of Bill H.R.3261 otherwise known as the [[Stop Online Piracy Act]].<ref name="govtrack">{{cite web |accessdate=2013-10-02 |url=http://www.govtrack.us/congress/bill.xpd?bill=h112-3261 Bill H.R.3261 |title=Stop Online Piracy Act (2011; 112th Congress H.R. 3261) - GovTrack.us |work=[[GovTrack.us]]}}</ref>
+
+==Personal life==
+From 1980 to 1986, Bass was married to Jesus Lechuga. Following their divorce, Bass and Lechuga jointly raised their daughter and four step-children together.<ref name=BlackVoices>{{cite news
+  |title=Karen Bass Makes United States History as the first African American Woman to be named to Speaker of (sic)
+  |date=March 6, 2008 |work=The Black Voice News |publisher=Brown Publishing Company |location=[[Riverside, California]]
+  |accessdate=2013-10-02
+  |url=http://www.blackvoicenews.com/news/41879-karen-bass-makes-united-states-history-as-the-first-african-american-woman-to-be-named-to-speaker-of.html}}</ref>
+
+Bass suffered the loss of her only child, daughter Emilia Wright and son-in-law Michael Wright, in a car accident in 2006.<ref>{{cite news| url=http://articles.latimes.com/2006/oct/31/local/me-bass31 | work=Los Angeles Times | first=Stuart | last=Silverstein | title=Couple die in crash on 405 | date=October 31, 2006}}</ref>
+
+==References==
+{{reflist|2}}
+{{refbegin|2}}
+* {{cite news |newspaper=Loudmouth |pages=15–17 |number=6
+  |title=Is this democracy? |first=Jessica |last=Hoffmann |date=Summer 2004
+  |publisher=Women's Resource Center [[CSU Los Angeles]]
+  |accessdate=2013-10-01 |url=http://www.calstatelausu.org/books/loudmouth/issue06/550ffd.pdf}}
+{{refend}}
+
+==External links==
+* [http://karenbass.house.gov/ Congresswoman Karen Bass] official U.S. House site
+* [http://karenbass.com/ Karen Bass for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Karen_Bass_%5BD-37%5D|Karen Bass}}
+* {{CongLinks | congbio = B001270 | ballot = Karen_Bass | nndb = 537/000266736 | votesmart = 28963 | govtrack = 412404 | opencong = 412404 | rollcall = 31580 | politifact = | fec = H0CA33117 | opensecrets = N00031877 | assets = karen-bass | legistorm = 2733/Rep_Karen_Bass_CA.html | followthemoney = 4418 | ontheissues = CA/Karen_Bass.htm | congress = karen-bass/1996 | worldcat = | c-span = karenbass02 | imdb = 3503545 | bloomberg = | nyt = | washpo = gIQA45LZKP }}
+
+{{s-start}}
+{{s-par|us-ca-hs}}
+{{s-bef|before=[[Herb Wesson]]}}
+{{s-ttl|title=Member of the [[California State Assembly|California Assembly]]<br>from the [[California's 47th State Assembly district|47th]] district|years=2004–2010}}
+{{s-aft|after=[[Holly Mitchell]]}}
+|-
+{{s-bef|before=[[Lloyd E. Levine|Lloyd Levine]]}}
+{{s-ttl|title=California Assembly Majority Whip|years=2004–2006}}
+{{s-aft|after=[[Fiona Ma]]}}
+|-
+{{s-bef|before=[[Dario Frommer]]}}
+{{s-ttl|title=California Assembly Majority Leader|years=2006}}
+{{s-aft|after=[[Alberto Torrico]]}}
+|-
+{{s-off}}
+{{s-bef|before=[[Fabian Núñez]]}}
+{{s-ttl|title=[[List of Speakers of the California State Assembly|Speaker of the California Assembly]]|years=2008–2010}}
+{{s-aft|after=[[John Pérez]]}}
+|-
+{{s-par|us-hs}}
+{{s-bef|before=[[Diane Watson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 33rd congressional district]]|years=2011–2013}}
+{{s-aft|after=[[Henry Waxman]]}}
+|-
+{{s-bef|before=[[Laura Richardson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 37th congressional district]]|years=2013–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Lou Barletta]]}}
+{{s-ttl|title=[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]|years=273rd}}
+{{s-aft|after=[[Dan Benishek]]}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{USHouseCurrent}}
+{{CAAssemblySpeaker}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Bass, Karen
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = October 3, 1953
+| PLACE OF BIRTH    = [[Los Angeles]], [[California]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bass, Karen}}
+[[Category:1953 births]]
+[[Category:African-American members of the United States House of Representatives]]
+[[Category:African-American women in politics]]
+[[Category:California Democrats]]
+[[Category:California State University, Dominguez Hills alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Living people]]
+[[Category:Members of the California State Assembly]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:Politicians from Los Angeles, California]]
+[[Category:San Diego State University alumni]]
+[[Category:Speakers of the California State Assembly]]
+[[Category:University of Southern California faculty]]
+[[Category:University of Southern California alumni]]
+[[Category:University of California regents]]
+[[Category:Women state legislators in California]]
+[[Category:Youth rights people]]{{multiple issues|
+{{citation style|date=January 2012}}
+{{Like resume|date=January 2011}}
+}}
+{{Infobox Officeholder
+|name            = Karen Bass
+|image           = Karen-Bass-2012.jpg
+|state           = [[California]]
+|district        = {{ushr|California|37|37th}}
+|term_start      = January 3, 2013
+|term_end        = 
+|predecessor     = [[Laura Richardson]]
+|successor       = 
+|state1          = [[California]]
+|district1       = {{ushr|California|33|33rd}}
+|term_start1     = January 3, 2011
+|term_end1       = January 3, 2013
+|predecessor1    = [[Diane Watson]]
+|successor1      = [[Henry Waxman]]
+|office2         = [[List of Speakers of the California State Assembly|Speaker of the California Assembly]]
+|governor2       = [[Arnold Schwarzenegger]]
+|term_start2     = May 13, 2008
+|term_end2       = March 1, 2010
+|predecessor2    = [[Fabian Núñez]]
+|successor2      = [[John Pérez]]
+|state_assembly3 = California
+|district3       = [[California's 47th State Assembly district|47th]]
+|term_start3     = December 6, 2004
+|term_end3       = December 6, 2010
+|predecessor3    = [[Herb Wesson]]
+|successor3      = [[Holly Mitchell]]
+|birth_name      = Karen Ruth Bass
+|birth_date      = {{birth date and age|1953|10|3}}
+|birth_place     = [[Los Angeles]], [[California]], [[United States|U.S.]]
+|death_date      = 
+|death_place     = 
+|party           = [[Democratic Party (United States)|Democratic]]
+|spouse          = Jesus Lechuga {{small|(1980–1986)}}
+|children        = Emilia<br>4 stepchildren
+|alma_mater      = [[San Diego State University]]<br>[[California State University, Dominguez Hills]]
+|religion        = [[Baptists|Baptist]]
+|website         = [http://karenbass.house.gov House website]
+|footnotes       = <ref name=CQ/><ref>{{cite web |date=July 7, 2008 |title=California Assembly District 47 |publisher=[[California Assembly]] |accessdate=2013-10-01 |url=http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archiveurl=http://web.archive.org/web/20090602161436/http://www.assembly.ca.gov/acs/makebio.asp?district=47 |archivedate=2009-06-02}}</ref><ref>{{cite web |title=Full Biography {{pipe}} Congresswoman Karen Bass |accessdate=2013-10-01 |url=http://bass.house.gov/about-me/full-biography |publisher=[[U.S. House of Representatives]]}}</ref><ref>{{cite web |publisher=[[Iowa State University]] |work=Archives of Women's Political Communication |title=Karen  Bass - Archives of Women's Political Communication |accessdate=2013-10-01 |url=http://www.womenspeecharchive.org/women/profile/index.cfm? |quote=Bass was born October 3, 1953, and raised in Los Angeles. She attended San Diego State University from 1971–1973 and graduated from California State University, Dominguez Hills in 1990 with a Bachelor of Science in health sciences.}}</ref><ref name="Barone2014">{{cite book |last=Barone |first=Michael |authorlink=Michael Barone (pundit) |author2=Chuck McCutcheon |title=[[The Almanac of American Politics]] 2014 |year=2013 |publisher=[[University of Chicago Press]] |location=[[Chicago]] |isbn=978-0-226-10544-4 |pages=243–245}} Copyright [[National Journal]].</ref><ref>{{cite web |title=Aztec Action Network |quote=Residence: Los Angeles|publisher=San Diego State University |accessdate=2013-10-02 |url=http://sdsu.capwiz.com/bio/id/142033}}</ref>
+}}
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] [[Democratic Party (United States)|Democratic]] politician.  She represents [[California's 37th congressional district]] in the [[United States House of Representatives]]; she was first elected in 2010. In [[redistricting]] following the [[U.S. Census 2010|2010 census]], the district was renumbered from {{ushr|CA|33|33rd}} to {{ushr|CA|37|37th}}.  Bass represented [[California's 47th State Assembly district|the 47th district]] in the [[California State Assembly]] 2004–2010, and was [[Speaker of the California State Assembly]] 2008–2010 (second woman, third [[African American]] speaker).
+
+<!--
+'''Karen Ruth Bass''' (born October 3, 1953) is an [[United States|American]] politician who has served in the [[United States House of Representatives]] since 2011. She is a member of the [[Democratic Party (United States)|Democratic Party]] from [[California]]. During her first two years in Congress, her district was numbered the {{ushr|CA|33|33rd}}; it has been numbered the {{ushr|CA|37|37th district}} since 2013.
+
+Prior to her election to Congress in 2010, Bass served as a member of the [[California State Assembly]] representing the [[California's 47th State Assembly district|47th district]] beginning in 2004. From 2008 to 2010, she served as [[Speaker of the California State Assembly]], becoming the second woman and third African American to serve in that post.
+ -->
+
+==Early life, education, and medical career==
+Bass was born in Los Angeles, California, the daughter of Wilhelmina (née Duckett) and DeWitt Talmadge Bass.<ref>{{cite web
+ |title=Karen Bass ancestry |accessdate=2013-10-01 |work=[[RootsWeb]]
+ |url=http://freepages.genealogy.rootsweb.ancestry.com/%7Ebattle/reps/basskaren.htm}}</ref> Her father was a letter carrier.<ref name="Barone2014"/>  She was raised in the Venice/Fairfax neighborhood and went to [[Alexander Hamilton High School (Los Angeles)|Hamilton High School]]. She studied [[philosophy]] at [[San Diego State University]] (1971–1973), then earned a B.S. in health sciences from [[California State University, Dominguez Hills]] (1990).<ref name=CQ>{{cite news |title=112th Congress: Karen Bass, D-Calif. (33rd District) |first=Kerry |last=Young |newspaper=[[Congressional Quarterly]] |date=November 6, 2010 |url=http://news.yahoo.com/s/cq/20101106/pl_cq_politics/politics000003759351_1 |accessdate=}}</ref>
+
+Bass worked as a physician assistant and as a clinical instructor at the [[Keck School of Medicine of USC|USC Keck School of Medicine]] Physician Assistant Program.<ref name="about">{{cite web|title=About Karen|url=http://karenbass.com/about-karen|publisher=KarenBass.com|accessdate=December 4, 2010}}</ref>  Bass founded the Community Coalition, an organization in South Los Angeles.<ref>{{cite web|title=About Us|publisher=Community Coalition|url=http://www.cocosouthla.org/about/ourmission|accessdate=2014-02-15}}</ref>
+
+==California Assembly==
+As the [[California State Assembly|Assemblymember]] for the [[California's 47th State Assembly district|47th District]], Bass served the cities and communities of [[Culver City]], [[West Los Angeles]], [[Westwood, Los Angeles, California|Westwood]], [[Cheviot Hills]], [[Leimert Park]], [[Baldwin Hills]], [[View Park-Windsor Hills]], [[Ladera Heights]], the [[Crenshaw District]], [[Little Ethiopia]] and portions of [[Koreatown, Los Angeles, California|Koreatown]] and [[South Los Angeles]].
+
+In addition to her leadership of California African Americans for Obama and her post on [[Barack Obama]]'s national African American Leadership Council, Bass served as a California Co-chair of Obama's [[Barack Obama presidential campaign, 2008|2008 presidential campaign]].
+
+===Leadership prior to speaker election===
+Speaker [[Fabian Núñez]] appointed Bass [[California State Assembly]] Majority Whip (2005–2006), and Majority Floor Leader for 2007–2008 legislative session. She was chair of the Select Committee on Foster Care and vice chair of the Legislative Black Caucus. She succeeded Núñez as Speaker on May 13, 2008; he was [[term limit|termed out]] of the Assembly November 30, 2008.
+
+As chair of the Legislative Black Caucus, she commissioned a report to research the basic demographic profile of Black Californians including the basic social and economic conditions.<ref>{{cite web|last=Bass|first=Karen|title=The State of Black California|url=http://www.asmdc.org/speaker/pdf/State_of_Black_California_Full_Report.pdf|work=February 2007|publisher=California Democratic Caucus|accessdate=11 September 2012}}</ref>  The State of Black California report included a statewide organizing effort to involve Black Californians in identifying their concerns and making legislative recommendations.<ref name="Karen Bass State of Blk CA">{{cite web|last=Samad|first=Anthony  Asadullah|title=Between the lines|url=http://www.blackcommentator.com/216/216_between_the_lines_black_california_samad.html|work=8 February 2007|publisher=The Black Commentator|accessdate=11 September 2012}}</ref>
+
+===Speakership===
+With the defeat of [[California Proposition 93 (2008)|Proposition 93]], Speaker [[Fabian Núñez]] was termed out of the Assembly at the end of the 2007-2008 session. As the next-highest-ranking Democrat in the Assembly, Bass was well-positioned to take the post.  After consolidating the support of a number of Legislators who had previously also been seeking the Speakership, Bass was elected Speaker on February 28, 2008 and then sworn in as Speaker on May 13.<ref>{{cite news |first=Matthew |last=Yi |title=L.A. lawmaker first African American woman to lead state Assembly |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/02/29/BASPVASI5.DTL |work=[[The San Francisco Chronicle]] |date=29 February 2008 |accessdate=2008-03-01}}</ref>
+
+Bass was criticized{{By whom|date=October 2013}} for the following statement to [[Los Angeles Times]] reporter [[Patt Morrison]]: "The Republicans were essentially threatened and terrorized against voting for revenue. Now [some] are facing recalls. They operate under a terrorist threat: 'You vote for revenue and your career is over.' I don't know why we allow that kind of terrorism to exist. I guess it's about free speech, but it's extremely unfair."<ref>{{cite news
+   |authorlink=Patt Morrison |first=Patt |last=Morrison
+   |title=Madam Speaker: An interview with state Assembly Speaker Karen Bass.
+   |url=http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story
+   |work=[[The Los Angeles Times]] |date=27 June 2009 |accessdate=2009-07-08 |archivedate=2009-06-30
+   |archiveurl=http://web.archive.org/web/20090630040653/http://www.latimes.com/news/opinion/commentary/la-oe-morrisonbass27-2009jun27,0,4807376.story?}}</ref>
+
+Since leaving office, Bass was named Speaker Emeritus.<ref>{{cite web
+  |title=Speaker Emeritus Karen Bass |date=November 17, 2010 |publisher=California State Assembly Democratic Caucus
+  |accessdate=2010-10-01 |url=http://asmdc.org/members/a47/
+  |archivedate=2010-11-17 |archiveurl=http://web.archive.org/web/20101117093913/http://asmdc.org/members/a47/}}</ref>
+
+==U.S. House of Representatives==
+===2010 election===
+{{See also|United States House of Representatives elections in California, 2010#District 33}}
+Bass was ineligible to run for reelection in 2010 due to term limits and on February 18, 2010, confirmed her candidacy to succeed retiring U.S. Representative [[Diane Watson]] in [[California's 33rd congressional district]].<ref>{{cite news|last=Merl|first=Jean|title=Karen Bass confirms candidacy for seat in Congress|publisher=|date=February 18, 2010|url=http://articles.latimes.com/2010/feb/18/local/la-me-bass-watson18-2010feb18|accessdate=March 3, 2010|work=Los Angeles Times}}</ref> Bass won the election with over 86% of the vote on November 2, 2010.<ref>{{cite news |last=Van Oot|first=Torey|title=Bass, Denham win seats in Congress |newspaper=[[The Sacramento Bee]] |date=November 3, 2010 |url=http://blogs.sacbee.com/capitolalertlatest/2010/11/nov3amatter---bass-denham-win.html|accessdate=2010-11-03}}</ref>
+
+Bass raised $932,281.19 and spent $768,918.65. Her 2010 campaign contributions came from very different and diverse groups with none donating more than 15% of her total campaign funds. The five major donors to her campaign are Labor Unions with $101,950.00; Financial Institutions with $90,350.00; Health Professionals with $87,900.00; the Entertainment Industry with $52,400.00 and Lawyers and Law Firms with $48,650.00.<ref name="votesmart" />
+
+===2012 election===
+In 2012 she had no primary opponent, and carried the general election with 86%.<ref name=Barone2014/>  She raised $692,988.53 and spent $803,966.15, leaving $52,384.92 on hand and a debt of $3,297.59.<ref name="votesmart">{{cite web |title=Representative Karen Bass' Campaign Finances -  Project Vote Smart |accessdate=2013-10-02 |url=http://www.votesmart.org/candidate/key-votes/28963/karen-bass}}</ref>
+
+===Committee assignments===
+* '''[[United States House Committee on the Judiciary|Committee on the Judiciary]]'''
+** [[United States House Judiciary Subcommittee on Courts, Intellectual Property and the Internet|Subcommittee on Courts, Intellectual Property and the Internet]]
+** [[United States House Judiciary Subcommittee on Crime, Terrorism, Homeland Security and Investigations|Subcommittee on Crime, Terrorism, Homeland Security and Investigations]]<ref name=Barone2014/>
+* '''[[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]]'''
+** [[United States House Foreign Affairs Subcommittee on Africa, Global Health, and Human Rights|Subcommittee on Africa, Global Health, and Human Rights]] ([[Ranking Member]])<ref name=Barone2014/>
+<!-- **[[United States House Foreign Affairs Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]] -->
+
+===Position on issues===
+Bass is generally considered a liberal, with ratings of 100% or close from liberal interest group capitol Weekly Positions. Conservative groups like the California Republican Assembly Positions have consistently awarded her a 0%.<ref name="votesmart" />
+
+===Guns===
+Bass is a very strong supporter of gun control. The National Rifle Association Political Victory Fund Lifetime Score is an F. The Gun Owners of California Postitons on Gun Rights have also given Bass an F. Congresswoman Bass recently has voted against the National Right-to-Carry Reciprocity Act that would loosen general Gun Control laws. In 2010 while campaigning for Congress Bass supported Expanded Firearm Registration Bill that with other regulations would have made all gun dealers report their sales to the Department of Justice. Bass also supported the Amendment to the Penal Code regarding Firearms of 2010.<ref name="votesmart" />
+
+===International Policy/Foreign Affairs===
+Bass serves in the Committee on Foreign Affairs. In her website, she supports “working with our NATO allies and within the United Nations”. She also attributes significant importance to diplomacy and “creat[ing] jobs here in the US”. Bass does so through supporting trade protectionism. She has voted against the Free Trade Treaty with South Korea and the Trade Promotion Agreements with Colombia and Panama. She has not yet been rated by different interest groups because congresswoman Bass has served for less than one year in the house of Representatives.<ref name="votesmart" /><ref>{{cite web|title=Foreign Policy|publisher=Karen Bass|url=http://karenbass.house.gov/issue/foreign-policy|accessdate=2014-02-15}}</ref>
+
+===The Budget, Taxes and Spending===
+Bass, a social liberal, with Ratings around 100% by pro-gay marriage associations, can also be considered so in her fiscal positions. She has a rating of 10% from the very conservative California Tax Payers Association. However, the more liberal Consumer Federation of California gives her very high rankings. Besides the following positions on Taxing and Spending, She supports stimulus to create jobs.
+
+Bass has been against general Budget-Wide Cuts like Resolution 38 which would reduce spending to 2008 levels. She has also opposed budgets with deep cuts like the 2011 Budget. However, she has supported the H Amendment 16 for Reducing Navy and Air Force Appropriations. She has supported mainly military cuts.
+
+Bass has supported keeping taxes low for the middle class and “tax credits for small businesses to hire new employees”. She states that the Bush tax cuts for the wealthiest should expire because “the wealthy…don’t need these breaks”.<ref name="votesmart" /><ref>{{cite web|title=Jobs & the Economy|publisher=Karen Bass|url=http://bass.house.gov/issue/economy|accessdate=2014-02-15}}</ref>
+* '''112th Congress - 1st Session (2011)'''
+Bass voted to authorize the United States military to participate in the [[2011 military intervention in Libya]].  The measure (H J RES 68) failed 123-295.<ref>
+ {{cite web
+  |title=Authorizing the limited use of the United States Armed Forces in support of the NATO mission in Libya
+  |publisher=[[Clerk of the United States House of Representatives]] |date=June 24, 2011
+  |accessdate=2013-10-02 |url=http://clerk.house.gov/evs/2011/roll493.xml}}</ref><ref>
+ {{cite web |title=U.S. House of Representatives Roll Call Votes 112th Congress - 1st Session (2011)
+   |accessdate=2013-10-01 |url=http://clerk.house.gov/evs/2011/index.asp}}<!-- Not too helpful - long list --></ref>
+In 2011, Bass became a co-sponsor of Bill H.R.3261 otherwise known as the [[Stop Online Piracy Act]].<ref name="govtrack">{{cite web |accessdate=2013-10-02 |url=http://www.govtrack.us/congress/bill.xpd?bill=h112-3261 Bill H.R.3261 |title=Stop Online Piracy Act (2011; 112th Congress H.R. 3261) - GovTrack.us |work=[[GovTrack.us]]}}</ref>
+
+==Personal life==
+From 1980 to 1986, Bass was married to Jesus Lechuga. Following their divorce, Bass and Lechuga jointly raised their daughter and four step-children together.<ref name=BlackVoices>{{cite news
+  |title=Karen Bass Makes United States History as the first African American Woman to be named to Speaker of (sic)
+  |date=March 6, 2008 |work=The Black Voice News |publisher=Brown Publishing Company |location=[[Riverside, California]]
+  |accessdate=2013-10-02
+  |url=http://www.blackvoicenews.com/news/41879-karen-bass-makes-united-states-history-as-the-first-african-american-woman-to-be-named-to-speaker-of.html}}</ref>
+
+Bass suffered the loss of her only child, daughter Emilia Wright and son-in-law Michael Wright, in a car accident in 2006.<ref>{{cite news| url=http://articles.latimes.com/2006/oct/31/local/me-bass31 | work=Los Angeles Times | first=Stuart | last=Silverstein | title=Couple die in crash on 405 | date=October 31, 2006}}</ref>
+
+==References==
+{{reflist|2}}
+{{refbegin|2}}
+* {{cite news |newspaper=Loudmouth |pages=15–17 |number=6
+  |title=Is this democracy? |first=Jessica |last=Hoffmann |date=Summer 2004
+  |publisher=Women's Resource Center [[CSU Los Angeles]]
+  |accessdate=2013-10-01 |url=http://www.calstatelausu.org/books/loudmouth/issue06/550ffd.pdf}}
+{{refend}}
+
+==External links==
+* [http://karenbass.house.gov/ Congresswoman Karen Bass] official U.S. House site
+* [http://karenbass.com/ Karen Bass for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Karen_Bass_%5BD-37%5D|Karen Bass}}
+* {{CongLinks | congbio = B001270 | ballot = Karen_Bass | nndb = 537/000266736 | votesmart = 28963 | govtrack = 412404 | opencong = 412404 | rollcall = 31580 | politifact = | fec = H0CA33117 | opensecrets = N00031877 | assets = karen-bass | legistorm = 2733/Rep_Karen_Bass_CA.html | followthemoney = 4418 | ontheissues = CA/Karen_Bass.htm | congress = karen-bass/1996 | worldcat = | c-span = karenbass02 | imdb = 3503545 | bloomberg = | nyt = | washpo = gIQA45LZKP }}
+
+{{s-start}}
+{{s-par|us-ca-hs}}
+{{s-bef|before=[[Herb Wesson]]}}
+{{s-ttl|title=Member of the [[California State Assembly|California Assembly]]<br>from the [[California's 47th State Assembly district|47th]] district|years=2004–2010}}
+{{s-aft|after=[[Holly Mitchell]]}}
+|-
+{{s-bef|before=[[Lloyd E. Levine|Lloyd Levine]]}}
+{{s-ttl|title=California Assembly Majority Whip|years=2004–2006}}
+{{s-aft|after=[[Fiona Ma]]}}
+|-
+{{s-bef|before=[[Dario Frommer]]}}
+{{s-ttl|title=California Assembly Majority Leader|years=2006}}
+{{s-aft|after=[[Alberto Torrico]]}}
+|-
+{{s-off}}
+{{s-bef|before=[[Fabian Núñez]]}}
+{{s-ttl|title=[[List of Speakers of the California State Assembly|Speaker of the California Assembly]]|years=2008–2010}}
+{{s-aft|after=[[John Pérez]]}}
+|-
+{{s-par|us-hs}}
+{{s-bef|before=[[Diane Watson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 33rd congressional district]]|years=2011–2013}}
+{{s-aft|after=[[Henry Waxman]]}}
+|-
+{{s-bef|before=[[Laura Richardson]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 37th congressional district]]|years=2013–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Lou Barletta]]}}
+{{s-ttl|title=[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]|years=273rd}}
+{{s-aft|after=[[Dan Benishek]]}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{USHouseCurrent}}
+{{CAAssemblySpeaker}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Bass, Karen
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     = October 3, 1953
+| PLACE OF BIRTH    = [[Los Angeles]], [[California]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Bass, Karen}}
+[[Category:1953 births]]
+[[Category:African-American members of the United States House of Representatives]]
+[[Category:African-American women in politics]]
+[[Category:California Democrats]]
+[[Category:California State University, Dominguez Hills alumni]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Living people]]
+[[Category:Members of the California State Assembly]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:Politicians from Los Angeles, California]]
+[[Category:San Diego State University alumni]]
+[[Category:Speakers of the California State Assembly]]
+[[Category:University of Southern California faculty]]
+[[Category:University of Southern California alumni]]
+[[Category:University of California regents]]
+[[Category:Women state legislators in California]]
+[[Category:Youth rights people]]

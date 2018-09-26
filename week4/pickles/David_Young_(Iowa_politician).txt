@@ -1,0 +1,125 @@
+{{Infobox congressman
+| name        =David Young
+| image       = 
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Iowa's 3rd congressional district|Iowa’s 3rd district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Tom Latham]]
+| succeeded   = 
+| birth_date  = {{bda|1968|5|11|mf=yes}}
+| birth_place = [[Van Meter, Iowa]], U.S.
+| death_date  =
+| death_place =
+| birthname   = 
+| nationality = [[United States|American]]
+| party       = [[Republican Party (United States)|Republican]]
+| residence   = [[Van Meter, Iowa]], U.S.
+| alma_mater  = [[Drake University]]
+| occupation  = }}
+
+'''David Young''' (born May 11, 1968) is an American politician who was elected to serve [[Iowa's 3rd congressional district]] in the [[United States House of Representatives elections, 2014]]. He will take office on January 3, 2015.
+
+==Career==
+Young attended [[Drake University]] and earned a [[Bachelor of Arts]] degree in English. From 2006 to 2013, he served as the chief of staff to Iowa Republican senator [[Chuck Grassley]]. He was previously chief of staff to Kentucky senator [[Jim Bunning]] from 1998 to 2006.<ref name="dmreg">http://www.desmoinesregister.com/story/news/politics/2014/05/09/iowa-election-david-young-bio-issues/8927715/</ref><ref>http://www.politico.com/story/2013/04/chuck-grassley-aide-david-young-iowa-senate-90704.html</ref><ref>http://theiowarepublican.com/2013/david-young-debut/</ref>
+
+==Personal life==
+Young is unmarried. He is a non-denominational [[Christian]] and lives in Van Meter.<ref name="dmreg" />
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.youngforiowa.com/ 2014 campaign website]
+
+<!--{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Iowa|
+  district=3 |
+  before=[[Tom Latham]] |
+  start=2015
+}}
+{{S-end}}-->
+
+{{Iowa-politician-stub}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Young, David
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Young, David}}
+[[Category:Living people]]
+[[Category:Drake University alumni]]
+[[Category:Iowa Republicans]]
+[[Category:1968 births]]
+[[Category:Members of the United States House of Representatives from Iowa]]
+[[Category:People from Van Meter, Iowa]]{{Infobox congressman
+| name        =David Young
+| image       = 
+| imagesize   = 
+| state       = 
+| office      = Member-elect of the<br>[[U.S. House of Representatives]]<br>from [[Iowa's 3rd congressional district|Iowa’s 3rd district]]
+| term_start  = January 3, 2015
+| term_end    =
+| succeeding  = [[Tom Latham]]
+| succeeded   = 
+| birth_date  = {{bda|1968|5|11|mf=yes}}
+| birth_place = [[Van Meter, Iowa]], U.S.
+| death_date  =
+| death_place =
+| birthname   = 
+| nationality = [[United States|American]]
+| party       = [[Republican Party (United States)|Republican]]
+| residence   = [[Van Meter, Iowa]], U.S.
+| alma_mater  = [[Drake University]]
+| occupation  = }}
+
+'''David Young''' (born May 11, 1968) is an American politician who was elected to serve [[Iowa's 3rd congressional district]] in the [[United States House of Representatives elections, 2014]]. He will take office on January 3, 2015.
+
+==Career==
+Young attended [[Drake University]] and earned a [[Bachelor of Arts]] degree in English. From 2006 to 2013, he served as the chief of staff to Iowa Republican senator [[Chuck Grassley]]. He was previously chief of staff to Kentucky senator [[Jim Bunning]] from 1998 to 2006.<ref name="dmreg">http://www.desmoinesregister.com/story/news/politics/2014/05/09/iowa-election-david-young-bio-issues/8927715/</ref><ref>http://www.politico.com/story/2013/04/chuck-grassley-aide-david-young-iowa-senate-90704.html</ref><ref>http://theiowarepublican.com/2013/david-young-debut/</ref>
+
+==Personal life==
+Young is unmarried. He is a non-denominational [[Christian]] and lives in Van Meter.<ref name="dmreg" />
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.youngforiowa.com/ 2014 campaign website]
+
+<!--{{S-start}}
+{{s-par|us-hs}}
+{{USRepSuccessionBox |
+  state=Iowa|
+  district=3 |
+  before=[[Tom Latham]] |
+  start=2015
+}}
+{{S-end}}-->
+
+{{Iowa-politician-stub}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              =Young, David
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American politician
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Young, David}}
+[[Category:Living people]]
+[[Category:Drake University alumni]]
+[[Category:Iowa Republicans]]
+[[Category:1968 births]]
+[[Category:Members of the United States House of Representatives from Iowa]]
+[[Category:People from Van Meter, Iowa]]
