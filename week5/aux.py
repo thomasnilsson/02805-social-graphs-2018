@@ -8,13 +8,26 @@ from aux import *
 from fa2 import ForceAtlas2
 
 # Converts degree dictionary to numpy array
+def dict_to_values_array(D):
+    return np.array(list(D.values()))
+
+# Converts degree dictionary to numpy array
+# def degree_array(G, direction="none"):
+#     if direction == "in":
+#         return np.array(list(dict(G.in_degree()).values()))
+#     elif direction == "out":
+#         return np.array(list(dict(G.out_degree()).values()))
+#     else:
+#         return np.array(list(dict(G.degree()).values()))
+
+# Converts degree dictionary to numpy array
 def degree_array(G, direction="none"):
     if direction == "in":
-        return list(dict(G.in_degree()).values())
+        return dict_to_values_array(G.in_degree())
     elif direction == "out":
-        return list(dict(G.out_degree()).values())
+        return dict_to_values_array(G.out_degree())
     else:
-        return list(dict(G.degree()).values())
+        return dict_to_values_array(G.degree())
 
 def flatten_edgelist(G):
     return list(sum(G.edges(), ()))
@@ -68,6 +81,27 @@ class Politician:
                 self.WikiPageName == other.WikiPageName
                )
 
+# Plots the degree distribution, and the log-log degree distribution,
+# as a scatter plots
+def scatter_degree_distribution(degrees, text=""):
+    v = range(min(degrees), max(degrees)+1)
+    hist = np.histogram(degrees, bins=v)
+    freqs, edges = hist[0], hist[1]
+    n = freqs.size
+    means = [(edges[i] + edges[i+1]) / 2 for i in range(n)]
+    
+    plt.plot(means, freqs, ".")
+    plt.xlabel("k")
+    plt.ylabel("frequency")
+    plt.title("Degree distribution %s" % text)
+    plt.show()
+    
+    plt.loglog(means, freqs, ".")
+    plt.xlabel("k")
+    plt.ylabel("frequency")
+    plt.title("Log-Log plot of the Degree distribution %s" % text)
+    plt.show()
+    
 # Plots a histogram, given the degrees of a graph.
 def distribution_histogram(degrees, text=""):
     v = np.arange(min(degrees), max(degrees)+1)
