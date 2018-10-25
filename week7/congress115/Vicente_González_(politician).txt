@@ -1,0 +1,1 @@
+From a page move: This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name.
