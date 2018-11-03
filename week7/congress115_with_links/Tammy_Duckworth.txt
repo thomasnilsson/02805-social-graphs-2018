@@ -1,0 +1,364 @@
+{{pp-pc1}}
+{{Use mdy dates|date=January 2018}}
+{{Infobox officeholder
+|name         = Tammy Duckworth
+|image        = Tammy Duckworth, official portrait, 115th Congress.jpg
+|jr/sr        = United States Senator
+|state        = [[Illinois]]
+|alongside    = [[Dick Durbin]] 
+|term_start   = January 3, 2017
+|term_end     =
+|predecessor  = [[Mark Kirk]]
+|successor    =
+|state1       = [[Illinois]]
+|district1    = {{ushr|IL|8|8th}}
+|term_start1  = January 3, 2013
+|term_end1    = January 3, 2017
+|predecessor1 = [[Joe Walsh (Illinois politician)|Joe Walsh]]
+|successor1   = [[Raja Krishnamoorthi]]
+|office2      = [[United States Department of Veterans Affairs|Assistant Secretary of Veterans Affairs]] for Public and Intergovernmental Affairs
+|president2   = [[Barack Obama]]
+|term_start2  = April 24, 2009
+|term_end2    = June 30, 2011
+|predecessor2 = [[Lisette M. Mondello|Lisette Mondello]]
+|successor2   = Michael Galloucis
+|office3      = Director of the [[Illinois Department of Veterans Affairs]]
+|governor3    = [[Rod Blagojevich]]<br>[[Pat Quinn (politician)|Pat Quinn]]
+|term_start3  = November 21, 2006
+|term_end3    = February 8, 2009
+|predecessor3 = Roy Dolgos
+|successor3   = Daniel Grant
+|birth_name   = Ladda Tammy Duckworth
+|birth_date   = {{birth date and age|1968|3|12}}
+|birth_place  = [[Bangkok]], [[Thailand]]
+|death_date   =
+|death_place  =
+|party        = [[Democratic Party (United States)|Democratic]]
+|spouse       = Bryan Bowlsbey
+|children     = 2
+|residence   = [[Hoffman Estates, Illinois]]
+|education    = [[University of Hawaii at Manoa]] ([[Bachelor of Arts|BA]])<br>[[George Washington University]] ([[Master of Arts|MA]])<br>[[Northern Illinois University]]<br>[[Capella University]] ([[Doctor of Philosophy|PhD]])
+|website      = {{url|https://duckworth.senate.gov|Senate website}}
+|allegiance   = {{flag|United States}}
+|branch       = {{army|United States}}<br>{{Flagdeco|Illinois}} [[Illinois Army National Guard]]
+|serviceyears = 1992–2014
+|rank         = [[File:US-O5 insignia.svg|15px]] [[Lieutenant colonel (United States)|Lieutenant colonel]]
+|unit         = [[File:28th Infantry Division DUI.png|18px]] 106th Aviation Regiment, [[28th Infantry Division (United States)|28th Infantry Division]]
+|battles      = [[Iraq War]]{{WIA}}
+|mawards      = [[File:Purple Heart BAR.svg|border|23px]] [[Purple Heart]]<br>[[File:Meritorious Service ribbon.svg|border|23px]] [[Meritorious Service Medal (United States)|Meritorious Service Medal]]<br>[[File:Air Medal ribbon.png|border|23px]] [[Air Medal]]<br>[[File:Army Commendation Medal ribbon.svg|border|23px]] [[Commendation Medal|Army Commendation Medal]] with [[Oak leaf cluster]]<br> [[File:National Defense Service Medal ribbon.svg|24px]] [[National Defense Service Medal]]<br> [[File:Army Reserve Achievement ribbon.svg|border|23px]] [[Reserve Good Conduct Medal|Army Reserve Components Achievement Medal]] with four [[Oak leaf cluster]]s<br>[[File:Army Service Ribbon.svg|24px]] [[Army Service Ribbon]]<br>[[File:Combat Action Badge.svg|25px]] [[Combat Action Badge]]<br>[[File:Senior Army Aviator Badge.png|25px]] [[United States Aviator Badge|Senior Army Aviator Badge]]<br>[[File:Order of the Crown of Thailand - 1st Class (Thailand) ribbon.png|23px]] Dame Grand Cross (First Class) of the [[Order of the Crown of Thailand]]<ref>ราชกิจจานุเบกษา, [http://www.ratchakitcha.soc.go.th/DATA/PDF/2553/B/001/17.PDF ประกาศสำนักนายกรัฐมนตรี เรื่อง พระราชทานเครื่องราชอิสริยาภรณ์ให้แก่ชาวต่างประเทศ (พันตรีหญิง ลัดดา แทมมี ดั๊กเวิร์ด)], เล่ม ๑๒๗, ตอน ๑ข, ๑๕ มกราคม พ.ศ. ๒๕๕๓, หน้า ๑๗</ref>
+}}
+'''Ladda Tammy Duckworth''' (born March 12, 1968) is an American politician and retired U.S. Army [[Lieutenant colonel (United States)|lieutenant colonel]], serving as the [[Seniority in the United States Senate|junior]] [[United States Senator]] for [[Illinois]] since 2017. A member of the [[Democratic Party (United States)|Democratic Party]], she represented [[Illinois's 8th congressional district|Illinois's 8th district]] in the [[United States House of Representatives]] from 2013 to 2017. Before election to office, she served as Assistant Secretary for Public and Intergovernmental Affairs in the [[United States Department of Veterans Affairs]] (2009–11) and Director of the [[Illinois Department of Veterans Affairs]] (2006–09). In the [[United States Senate election in Illinois, 2016|2016 election]], Duckworth defeated incumbent Republican Senator [[Mark Kirk]] for the seat in the [[United States Senate]].<ref name="huffpo1108">{{cite news|last1=House|first1=Jennifer Bendery White|title=Tammy Duckworth Takes Back Obama's Illinois Senate Seat For Democrats|url=http://www.huffingtonpost.com/entry/tammy-duckworth-illinois-senate-mark-kirk_us_581b898de4b0aac62482f4c9|accessdate=November 9, 2016|work=The Huffington Post|date=November 8, 2016}}</ref>
+
+Duckworth was the first [[Asian Americans|Asian American]] woman elected to Congress in [[Illinois]], the first disabled woman to be elected to Congress, the first female double amputee in the Senate, the first Senator to give birth while in office, and the first member of Congress born in [[Thailand]]; her American father and Thai mother were working and living there at the time. Duckworth is the second Asian-American woman serving in the U.S. Senate, after [[Mazie Hirono]], and next to [[Kamala Harris]].
+
+An [[Iraq War]] veteran, Duckworth served as a [[U.S. Army]] helicopter pilot and suffered severe combat wounds, losing both of her legs and damaging her right arm. She was the first female double amputee from the war.<ref name="HuffPOWar" /> Having received a medical waiver, she continued to serve as a [[Lieutenant Colonel (United States)|lieutenant colonel]] in the [[Illinois Army National Guard]] along with her husband, Major Bryan W. Bowlsbey, a [[Signal Corps (United States Army)|signal]] officer and fellow Iraq War veteran, until her retirement from the Army in October 2014.<ref name="iraqbound">{{cite news|last=Brown|first=Mark|title=Duckworth's husband Iraq-bound|newspaper=Chicago Sun-Times|date=February 14, 2007|url=http://www.suntimes.com/news/brown/256202,CST-NWS-brown14.article|accessdate=March 27, 2007|deadurl=yes|archiveurl=https://web.archive.org/web/20070224223942/http://www.suntimes.com/news/brown/256202,CST-NWS-brown14.article|archivedate=February 24, 2007|df=mdy-all}}</ref>
+
+==Early life and education==
+Tammy Duckworth was born in [[Bangkok]], [[Thailand]], the daughter of Lamai Sompornpairin and Franklin Duckworth. Her father, who died in 2005, was a [[U.S. Army]] veteran who traced his family's American roots to the [[American Revolutionary War]].<ref name="Cemetery">{{cite web |url= http://www.arlingtoncemetery.net/fgduckworth.htm |work= Arlington National Cemetery Website |title=Franklin G. Duckworth, Captain, United States Army | date=9 February 2009 | accessdate=26 January 2018}}</ref> Her mother is Thai, of Chinese descent.<ref name="Corner">{{cite web |url= https://www.motherjones.com/politics/2012/08/tammy-duckworth-versus-joe-walsh-congress |title= Nobody Puts Tammy Duckworth in a Corner |date= September–October 2012 |accessdate= January 4, 2012 |work= [[Mother Jones (magazine)|Mother Jones]] |author= Adam Weinstein}}</ref> Because of her father's work with the [[United Nations]] and international companies in refugee, housing, and development programs,<ref name="Chase">{{cite web|url=http://www.chicagotribune.com/news/local/politics/ct-tammy-duckworth-met-20161109-story.html|title=Duckworth reaches pinnacle of Senate nearly 12 years to day after Iraq crash|first=John|last=Chase|date=November 9, 2016|work=Chicago Tribune|accessdate=November 13, 2016}}</ref> the family moved around Southeast Asia. Duckworth became fluent in [[Thai language|Thai]] and [[Indonesian language|Indonesian]], in addition to English.<ref name="After War Injury, an Iraq Vet Takes on Politics">{{cite news|title=After War Injury, an Iraq Vet Takes on Politics| newspaper=The Washington Post|url=https://www.washingtonpost.com/wp-dyn/content/article/2006/02/18/AR2006021801295_pf.html|accessdate=July 10, 2007|first=Peter|last=Slevin}}</ref>
+
+Duckworth attended [[Singapore American School]], and for a few months in her senior year was at the [[International School Bangkok]]. The family settled in Hawaii when she was sixteen. Her father became unemployed for a time, and the family relied on public assistance.<ref name="Chase"/> She graduated with honors from [[President William McKinley High School|McKinley High School]] in [[Honolulu]], [[Hawaii]], in 1985, having skipped the ninth grade. She graduated from the [[University of Hawaii]] in 1989 with a Bachelor of Arts in [[political science]], and later received a [[Master of Arts]] in [[international relations|international affairs]] from [[George Washington University]]'s [[Elliott School of International Affairs]].<ref name="Duckworth working to win">{{cite news |author=Will Hoover|title=Duckworth working to win|newspaper=The Honolulu Advertiser |url=http://the.honoluluadvertiser.com/article/2006/Jan/08/ln/FP601080334.html|date=January 15, 2006}}</ref> She completed a PhD in Human Services at [[Capella University]] in March 2015.<ref name="Countdown to commencement">{{cite web |title=Countdown to commencement |url=http://www.capella.edu/blogs/educationmatters/2015/03/02/countdown-to-commencement-in-d-c/ |deadurl=yes |archiveurl=https://web.archive.org/web/20150416231642/http://www.capella.edu/blogs/educationmatters/2015/03/02/countdown-to-commencement-in-d-c/ |archivedate=April 16, 2015 |df=mdy-all }}</ref>
+
+==Military service==
+Following in the footsteps of her father, who served in [[World War II]], and ancestors who served in the [[American Revolutionary War|Revolutionary War]],<ref name="Cemetery" /> Duckworth joined the Army [[Reserve Officers' Training Corps]] as a graduate student at George Washington University in 1990. She became a [[officer (armed forces)|commissioned officer]] in the [[United States Army Reserve]] in 1992 and chose to fly [[helicopter]]s because it was one of the few combat jobs open to women. As a member of the Army Reserve, she went to [[flight training|flight school]], later transferring to the [[Army National Guard]] and entering the Illinois Army National Guard in 1996.<ref name="DefendAmerica News">{{cite web|url=http://www.defendamerica.mil/profiles/jan2005/pr010605a.html|title=U.S. Army National Guard Maj. Tammy Duckworth: Illinois Guard officer faces adversity with courage, concern for troops|accessdate=July 10, 2007|last=Haskall|first=Bob|date=January 6, 2005|work=Defend America|publisher=U.S. Department of Defense|deadurl=yes|archiveurl=https://web.archive.org/web/20070711122052/http://defendamerica.mil/profiles/jan2005/pr010605a.html|archivedate=July 11, 2007|df=mdy-all}}</ref> Duckworth also worked as a staff supervisor at [[Rotary International]] headquarters in [[Evanston, Illinois]].<ref name=Paulson>{{cite web|url=http://www.csmonitor.com/2006/0222/p10s01-uspo.html|title=For veteran Tammy Duckworth, latest fight is for a House seat|first=Amanda|last=Paulson|date=February 22, 2006|publisher=|accessdate=October 28, 2016|via=Christian Science Monitor}}</ref><ref name="Illinois lieutenant governor honors Rotary Centennial and RI employee">{{cite web |title=Illinois lieutenant governor honors Rotary Centennial and RI employee |publisher=Rotary International |url=https://www.rotary.org/newsroom/print/cen_050615.html |accessdate=July 10, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070608120650/http://www.rotary.org/newsroom/print/cen_050615.html |archivedate=June 8, 2007 }}</ref>
+
+Duckworth was working towards a Ph.D. in political science at [[Northern Illinois University]], with research interests in the [[political economy]] and [[public health]] in southeast Asia, when she was deployed to Iraq in 2004.<ref name=Paulson/> She lost her right leg near the hip and her left leg below the knee<ref name="legs">''Honolulu Advertiser'', [http://the.honoluluadvertiser.com/article/2005/Mar/17/ln/ln01p.html "Can-do spirit rises from crash"] March 17, 2005; accessed August 22, 2012.</ref> from injuries sustained on November 12, 2004, when the [[Sikorsky UH-60 Black Hawk|UH-60 Black Hawk]] helicopter she was co-piloting was hit by a [[rocket-propelled grenade]] fired by [[Iraqi insurgency (Iraq War)|Iraqi insurgents]].<ref name="stripes.com">[http://www.stripes.com/news/the-pedals-were-gone-and-so-were-my-legs-1.34578 "The pedals were gone, and so were my legs"], June 14, 2005, ''[[Stars and Stripes (newspaper)|Stars and Stripes]]''.</ref> She was the first American female double amputee from the Iraq war.<ref name="HuffPOWar">{{cite news|url=http://www.huffingtonpost.com/2012/05/14/women-at-war-unseen_n_1498291.html|publisher=The Huffington Post|first=Molly|last=O'Toole|title=Unseen: Trailblazing Military Women Forced To Fight For Recognition, Equal Treatment|date=May 14, 2012}}</ref> The explosion "almost completely destroyed her right arm, breaking it in three places and tearing tissue from the back side of it".<ref name="Cemetery" /> The doctors "reset the bones in her arm and stitched the cuts" to save her arm.<ref name="Cemetery" /> Duckworth received a [[Purple Heart]] on December 3 and was promoted to Major on December 21 at the [[Walter Reed Army Medical Center]], where she was presented with an [[Air Medal]] and [[Commendation Medal|Army Commendation Medal]].<ref name="stripes.com"/> She retired from the Illinois Army National Guard in October 2014 as a lieutenant colonel.<ref name="Duckworth Retires">{{cite web|title=Duckworth Retires|url=http://www.il.ngb.army.mil/PAO/newsrelease.aspx?id=1146|publisher=Public Affairs Office, Illinois National Guard|accessdate=October 15, 2014}}</ref>
+
+The [[Daughters of the American Revolution]] erected a statue with Duckworth's likeness, and that of the Revolution's [[Molly Pitcher]] in [[Mount Vernon, Illinois]], in 2011.<ref name="Cemetery" /> The statue was erected in honor of female veterans.<ref name="Cemetery" /><ref>{{cite web|url=https://www.facebook.com/notes/illinois-national-guard/mount-vernon-statue-honors-women-vets-maj-tammy-duckworth/10150340480198312/|title=Mount Vernon Statue Honors Women Vets, Maj. Tammy Duckworth|website=www.facebook.com|access-date=November 12, 2016}}</ref>
+
+==Government service==
+[[File:Duckworth swearing in May 2009.jpg|left|thumb|Duckworth being sworn in as Assistant Secretary of Public and Intergovernmental Affairs for the United States Department of Veterans Affairs, by Judge [[John J. Farley, III|John J. Farley]] with her husband Bryan Bowlsbey beside her.]]
+On November 21, 2006, several weeks after losing her first congressional campaign, Duckworth was appointed Director of the [[Illinois Department of Veterans Affairs]] by Governor [[Rod Blagojevich]].<ref>{{cite web|url=http://www.veterans.illinois.gov|title=Director L. Tammy Duckworth: Committed to Serving Country and Community|publisher=Illinois Department of Veterans' Affairs}}</ref><ref>{{cite web|url=http://www.state.il.us/agency/dva/staff.htm|title=Veterans|publisher=}}</ref><ref name="veteransaffairs">{{cite news|last=Sweet|first=Lynn|title=Gov picks Duckworth for Veterans Affairs|newspaper=Chicago Sun-Times|date=November 21, 2006}}</ref> Duckworth served in that position until February 8, 2009. While she was Director, she was credited with starting a program to help veterans with [[post-traumatic stress disorder]] (PTSD), and veterans with brain injury.<ref>{{cite news|title=Veterans' advocate promotes PTSD site|url=http://www.stripes.com/news/veterans-advocate-promotes-ptsd-site-1.84266|author=Abramson, Mark|date=October 20, 2008|newspaper=Stars and Stripes}}</ref>
+
+On September 17, 2008, Duckworth attended a campaign event for [[Dan Seals (Illinois politician)|Dan Seals]], the Democratic candidate for [[Illinois's 10th congressional district]]. Duckworth used vacation time, but violated Illinois law by going to the event in a state-owned van which was equipped for a person with physical disabilities. She acknowledged the mistake and repaid the state for the use of the van.<ref name="newsblogs.chicagotribune">[http://newsblogs.chicagotribune.com/clout_st/2008/09/duckworth-admit.html newsblogs.chicagotribune.com], September 18, 2008.</ref><ref name="Officialadmits">Susan Kuczka, "Official admits error using state van; Tammy Duckworth took time off from job as state Veterans Affairs director to attend a campaign event but ran into controversy", ''Chicago Tribune''. Chicago, IL: September 18, 2008, p. 1.</ref>
+
+[[File:Tammy Duckworth DNC 2008.jpg|thumb|right|Duckworth speaks during the third night of the [[2008 Democratic National Convention]] in [[Denver, Colorado]].]]
+
+In 2009, two Illinois Department of Veterans Affairs employees at the Anna Veteran's Home in Union County filed a lawsuit against Duckworth.<ref name="chicagotribune.com">{{cite web|url=http://articles.chicagotribune.com/2012-10-11/news/ct-met-walsh-duckworth-lawsuit-20121011_1_veterans-affairs-wrongful-termination-ethics-act|title=Employee lawsuit pops up in Walsh-Duckworth race|work=Chicago Tribune|accessdate=July 20, 2015}}</ref> The lawsuit alleged that Duckworth wrongfully terminated one employee and threatened and intimidated another for bringing reports of abuse and misconduct of veterans when she was head of the Illinois Department of Veterans Affairs.<ref name="Kurt Erickson Times Bureau">{{cite web|url=http://qctimes.com/news/local/government-and-politics/elections/duckworth-whistleblower-trial-date-set/article_9a8cd310-28c6-56ef-8c16-cac28ce00df7.html|title=Duckworth whistleblower trial date set|author=Kurt Erickson|work=The Quad-City Times|accessdate=July 20, 2015}}</ref> Duckworth was represented in the suit by the Illinois Attorney General's office.<ref>{{cite news|title=Morning Spin: Judge sets May date in Duckworth 'retaliation' lawsuit|url=http://www.chicagotribune.com/news/local/politics/ct-tammy-duckworth-mark-kirk-veterans-lawsuit-20160322-story.html|accessdate=March 23, 2016|newspaper=Chicago Tribune|date=March 23, 2016}}</ref> The case was dismissed twice but refilings were allowed.<ref name=Pearson/> The court set a tentative trial date of August 2016 and rejected the final motion to dismiss.<ref>{{cite news|title=Judge allows workplace case against Tammy Duckworth to go to trial|url=http://www.chicagotribune.com/news/local/politics/ct-duckworth-workplace-retaliation-lawsuit-20160512-story.html|accessdate=May 13, 2016|newspaper=Chicago Tribune|date=May 12, 2016}}</ref> The state announced that it had settled the case in June 2016 for $26,000 with no admission of wrongdoing.<ref name=Pearson>{{cite news|last1=Pearson|first1=Rick|title=Workplace lawsuit against Tammy Duckworth settled|url=http://www.chicagotribune.com/news/local/breaking/ct-tammy-duckworth-lawsuit-settled-met-0626-20160624-story.html|accessdate=June 28, 2016|publisher=Chicago Tribune|date=June 24, 2016}}</ref> Although the plaintiffs later indicated they did not want the settlement, the judge vacated the trial.<ref>{{cite web|url=http://foxillinois.com/news/local/judge-vacates-rep-duckworths-lawsuit|title=Judge Vacates Rep. Duckworth's Lawsuit|first=Fox Illinois News|last=Team|publisher=}}</ref><ref>{{cite web|url=http://abc7chicago.com/news/duckworth-lawsuit-not-going-to-trial-monday/1467853/|title=Duckworth lawsuit not going to trial Monday|date=August 12, 2016|publisher=}}</ref>
+
+Also in 2009, the Illinois Auditor General released an audit of the Veteran's Affairs department. Some issues noted by the audit predated Duckworth's tenure, while the majority of the audit covered Duckworth's tenure.<ref name="audit">{{cite news|last1=Hinz|first1=Greg|title=Duckworth used vets' post to build political career: Ex-deputy|url=http://www.chicagobusiness.com/article/20160303/BLOGS02/160309928/duckworth-used-vets-post-to-build-political-career-ex-deputy|accessdate=May 9, 2016|publisher=Crain's Chicago Business|date=March 3, 2016}}</ref> Findings of the audit included a fiscal year 2007 report that was not completed on time, failure to conduct annual reviews of benefits received by Illinois veterans, and failure to establish a task force to study the possible health effects of exposure to hazardous materials. The routine audit covered a two-year period, June 2006 to June 2008, and the findings were described by the auditor's department as "typical" in its audits.<ref>{{cite web|url=http://www.dailyherald.com/article/20120627/news/706279635/|title=Tea Party questions audit of VA under Duckworth|first=Kerry|last=Lester|date=June 27, 2012|work=dailyherald.com|accessdate=October 28, 2016}}</ref>
+
+On February 3, 2009, Duckworth was nominated to be the Assistant Secretary of Public and Intergovernmental Affairs for the [[United States Department of Veterans Affairs]].<ref name="DVANom">{{cite web|url=http://www1.va.gov/opa/pressrel/pressrelease.cfm?id=1650|title=Duckworth Tapped for VA Assistant Secretary|publisher=[[United States Department of Veterans Affairs]]|date=February 3, 2009|accessdate=April 3, 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20090408194508/http://www1.va.gov/opa/pressrel/pressrelease.cfm?id=1650|archivedate=April 8, 2009|df=mdy-all}}</ref> The [[United States Senate]] confirmed her for the position on April 22.<ref>{{cite news|url=http://news.wsiu.org/post/senate-confirms-duckworths-federal-nomination|title=Senate Confirms Duckworth's Federal Nomination|date=April 23, 2009|accessdate=January 4, 2012|agency=[[Associated Press]]}}</ref> Duckworth resigned from her position in June 2011 in order to launch her campaign for the U.S. House of Representatives in Illinois' 8th Congressional District.<ref>{{cite news|title=Tammy Duckworth Resigns At VA, Illinois Congressional Run Could Be In The Cards|url=http://www.huffingtonpost.com/2011/06/14/tammy-duckworth-resigns-a_n_876975.html|accessdate=February 5, 2016|publisher=The Huffington Post|date=June 14, 2011}}</ref>
+
+==U.S. House of Representatives==
+
+===Elections===
+Duckworth spoke at the [[2008 Democratic National Convention|2008]], [[2012 Democratic National Convention|2012]], and [[2016 Democratic National Convention]]s.<ref name="demconvention">{{cite news|title=Conventions 2008 – the Democrats|newspaper=The Washington Post|url=https://www.washingtonpost.com/wp-srv/politics/interactives/campaign08/democratic-convention/aug27.html|accessdate=August 26, 2008}}</ref><ref>{{cite web|title=Ledbetter, Baldwin, Longoria to address Dem convention|url=http://www.politico.com/blogs/burns-haberman/2012/08/ledbetter-baldwin-longoria-to-address-dem-convention-132764.html|accessdate=August 22, 2012}}</ref><ref>[http://articles.chicagotribune.com/2012-09-04/news/chi-duckworth-touts-obama-record-at-dnc-convention-20120904_1_congressional-candidate-tammy-duckworth-gop-convention-obama-record "Duckworth touts Obama record at DNC convention"], articles.chicagotribune.com; accessed November 12, 2014.</ref>
+
+====2006====
+{{Main|Illinois's 6th congressional district election, 2006}}
+After longtime incumbent Republican [[Henry Hyde]] announced his retirement from Congress, several candidates began campaigning for the office. Duckworth won the Democratic primary with a plurality of 44%, defeating 2004 nominee Christine Cegelis with 40%, and [[Wheaton College (Illinois)|Wheaton College]] professor Lindy Scott with 16%. During her 2006 campaign for Congress, Duckworth was endorsed by [[EMILY's List]], a Democratic political action committee that supports abortion rights.<ref>Jeff Zeleny and John Biemer. [http://www.highbeam.com/doc/1G1-145673843.html "Duckworth praised for stance on abortion: EMILY'S List backs congressional hopeful"]. ''Chicago Tribune''. May 12, 2006.</ref> Duckworth was also endorsed by the [[Brady Campaign to Prevent Gun Violence]] and the [[Fraternal Order of Police]].<ref name="Trib_Gun_laws">John Biemer and Christi Parsons, [http://www.chicagotribune.com/news/local/west/chi-0610110053oct11,1,6499430.story?coll=chi-newslocalwest-hed "Gun law heats up race for Congress"]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}, ''[[Chicago Tribune]]'', October 11, 2006 (registration required)</ref><ref name="Krol_Gun_Record">Eric Krol, [http://www.dailyherald.com/politics/story.asp?id=237246 "Duckworth takes aim at Roskam gun record"], ''[[Daily Herald (Arlington Heights)|Daily Herald]]'', October 11, 2006.</ref> In the Republican primary, [[Illinois Senator]] [[Peter Roskam]] ran unopposed. While she raised $4.5 million to Roskam's $3.44 million, Duckworth lost by 4,810 votes, receiving 49% to Roskam's 51%.<ref name="cnnresults">{{cite news | title =Election 2006 Results: State Races, Illinois| publisher =CNN| url = http://www.cnn.com/ELECTION/2006//pages/results/states/IL/index.html| accessdate = March 27, 2007}}</ref>
+
+====2012====
+{{main|United States House of Representatives elections in Illinois, 2012#District 8}}
+[[File:Tammy Duckworth, official portrait, 113th Congress.jpg|thumb|Duckworth as a U.S. Representative]]
+In July 2011, Duckworth launched her campaign to run in 2012 for [[Illinois's 8th congressional district]]. She defeated former [[Treasurer of Illinois|Deputy Treasurer of Illinois]] [[Raja Krishnamoorthi]] for the Democratic nomination on March 20, 2012, then faced incumbent Republican [[Joe Walsh (Illinois politician)|Joe Walsh]] in the general election.<ref name=ST110706>{{cite news|title=Tammy Duckworth running for Congress again, in redrawn 8th|url=http://www.suntimes.com/news/politics/6380418-418/tammy-duckworth-running-for-congress-again-in-redrawn-8th.html|accessdate=July 9, 2011|newspaper=[[Chicago Sun Times]]|date=July 6, 2011|first=Michael|last=Sneed}}</ref> Duckworth received the endorsement of both the ''[[Chicago Tribune]]'' and the [[Daily Herald (Arlington Heights)|Daily Herald]].<ref>[http://elections.chicagotribune.com/editorial/tammy-duckworth/ For the House: Duckworth] {{webarchive|url=https://web.archive.org/web/20120516015457/http://elections.chicagotribune.com/editorial/tammy-duckworth/ |date=May 16, 2012 }}, editorial board, ''[[Chicago Tribune]]'', October 8, 2012.</ref><ref>[http://www.dailyherald.com/article/20121008/discuss/710089958/ Endorsement: Duckworth over Walsh in 8th Congressional District], editorial board, ''[[Daily Herald (Arlington Heights)|Daily Herald]]'', October 8, 2012.</ref> Walsh generated controversy when in July 2012, at a campaign event, he accused Duckworth of politicizing her military service and injuries, saying "my God, that's all she talks about. Our true heroes, the men and women who served us, it's the last thing in the world they talk about." Walsh called the controversy over his comments "a political ploy to distort my words and distract voters" and said that "Of course Tammy Duckworth is a hero ... I have called her a hero hundreds of times."<ref name="true hero Chicago Tribune">{{cite news|url=http://articles.chicagotribune.com/2012-07-03/news/ct-met-walsh-duckworth-0704-20120704_1_true-hero-federal-veterans-affairs-official-tammy-duckworth|work=Chicago Tribune|title=Walsh defends remarks on whether Duckworth is true hero|date=July 3, 2012}}</ref>
+
+On November 6, 2012, Duckworth defeated Walsh 55%–45%.<ref>{{cite web|url=http://www.politico.com/2012-election/map/#/House/2012/IL|title=2012 Election Results by State – Illinois|work=[[Politico]]}}</ref> She became the first disabled woman to be elected to the U.S. House of Representatives, and the first member of Congress born in [[Thailand]].<ref>{{cite news|url=http://articles.chicagotribune.com/2012-11-10/news/ct-met-tammy-duckworth-asian-vote-20121110_1_asian-american-candidates-asian-voters-duckworth-campaign|title=Duckworth the first Asian-American from Illinois in Congress|author=Duaa Eldeib|date=November 10, 2012|accessdate=January 4, 2013|work=[[Chicago Tribune]]}}</ref>
+
+====2014====
+{{main|United States House of Representatives elections in Illinois, 2014#District 8}}
+In the 2014 general election, Duckworth faced Republican Larry Kaifesh, a [[United States Marine Corps]] officer who had recently left active duty as a [[Colonel (United States)|colonel]].<ref>{{cite news|last=Hinz|first=Greg|date=November 4, 2013|title=Marine veteran to take on U.S. Rep. Duckworth|url=http://www.chicagobusiness.com/article/20131104/BLOGS02/131109957/marine-veteran-to-take-on-u-s-rep-duckworth|newspaper=[[Crain's Chicago Business]]|accessdate=January 24, 2015}}</ref> Duckworth defeated Kaifesh with 56% of the vote.<ref name="Generalelection">{{cite web |url=http://www.elections.il.gov/ElectionInformation/GetVoteTotals.aspx |title=Illinois General Election 2014|publisher=Illinois State Board of Elections|date=November 4, 2014 |accessdate=February 24, 2015}}</ref>
+
+===Tenure===
+Duckworth was sworn into office on January 3, 2013.<ref>{{cite news|last1=Santostefano|first1=Melanie|title=Tammy Duckworth Sworn in to Congress|url=http://patch.com/illinois/palatine/tammy-duckworth-sworn-in-to-congress-3c86ea11|accessdate=February 5, 2016|newspaper=Palatine Patch|date=January 5, 2013}}</ref>
+
+On April 3, 2013, Duckworth publicly returned 8.4% ($1,218) of her congressional salary for that month to the [[United States Department of Treasury]] in solidarity with furloughed government workers.<ref>{{cite news|last1=Kiene|first1=Chelsea|title=Tammy Duckworth Returns Portion Of Salary In Sequestration Solidarity|url=http://www.huffingtonpost.com/2013/04/04/tammy-duckworth-salary_n_3016083.html|accessdate=February 5, 2016|publisher=The Huffington Post|date=April 4, 2013}}</ref>
+
+On June 26, 2013, during a hearing of the [[House Oversight and Government Reform Committee]], Duckworth received national media attention after questioning Strong Castle CEO Braulio Castillo on a $500 million government contract the company had been awarded based on Castillo's disabled veteran status.<ref>{{cite news|last=Graham|first=D. A.|title=Tammy Duckworth's Impassioned Shaming of a Faux-Disabled Vet|url=https://www.theatlantic.com/politics/archive/2013/06/tammy-duckworths-impassioned-shaming-of-a-faux-disabled-vet/277282|work=The Atlantic|date=June 27, 2013|accessdate=June 27, 2013}}</ref><ref>{{cite news|last=Thompson|first=M.|title=Service-Connected Dissembling|url=http://nation.time.com/2013/06/27/service-connected-dissembling|work=[[Time (magazine)|Time]] |date=June 27, 2013|accessdate=June 27, 2013}}</ref>
+
+===House committee assignments===
+* '''[[United States House Committee on Armed Services|Committee on Armed Services]]'''
+** [[United States House Armed Services Subcommittee on Tactical Air and Land Forces|Subcommittee on Tactical Air and Land Forces]] (2013–2017)
+** [[United States House Armed Services Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]] (2013–2015)
+** [[United States House Armed Services Subcommittee on Readiness|Subcommittee on Readiness]] (2015–2017)
+* '''[[United States House Committee on Oversight and Government Reform|Committee on Oversight and Government Reform]]'''
+** [[United States House Oversight Subcommittee on Energy Policy, Health Care and Entitlements|Subcommittee on Energy Policy, Health Care and Entitlements]] (2013–2015)
+** [[United States House Oversight Subcommittee on Economic Growth, Job Creation and Regulatory Affairs|Subcommittee on Economic Growth, Job Creation and Regulatory Affairs]] (2013–2015)
+** [[United States House Oversight Subcommittee on Transportation and Public Assets|Subcommittee on Transportation and Public Assets]], ''Ranking Member'' (2015–2017)
+** [[United States House Oversight Subcommittee on Information Technology|Subcommittee on Information Technology]] (2015–2017)
+* '''[[United States House Select Committee on Benghazi]]''' (May 2014–July 2016)
+
+==U.S. Senate==
+
+===2016 election===
+{{main|United States Senate election in Illinois, 2016}}
+
+On March 30, 2015, Duckworth announced that she would challenge incumbent U.S. Senator [[Mark Kirk]] for his seat in the 2016 Senate election in Illinois.<ref name=ABC7-20140330>{{cite news|title=Tammy Duckworth Running Against Mark Kirk for US Senate|url=http://abc7chicago.com/politics/duckworth-running-against-kirk-for-us-senate/587706/|accessdate=March 30, 2015|publisher=Chicago ABC 7 Eyewitness News|date=March 30, 2015}}</ref> Duckworth defeated fellow Democrats Andrea Zopp and [[Napoleon Harris]] in the primary election on March 15, 2016.<ref>{{cite news|title=Duckworth, Kirk win Illinois US Senate Primaries|url=http://abc7chicago.com/politics/duckworth-kirk-win-illinois-us-senate-primaries/1247032/|accessdate=March 17, 2016|publisher=Chicago ABC 7 Eyewitness News|date=March 16, 2016}}</ref>
+
+During a televised debate on October 27, 2016, Duckworth talked about her ancestors' past serving in the United States military. Kirk responded, "I'd forgotten that your parents came all the way from Thailand to serve George Washington." The comment led to the [[Human Rights Campaign]] withdrawing their endorsement of Kirk and switching it to Duckworth, stating his comments were "deeply offensive and racist."<ref name="Morin">{{cite news|last1=Morin|first1=Rebecca|title=Human Rights Campaign revokes Mark Kirk endorsement|url=http://www.politico.com/story/2016/10/human-rights-campaign-revokes-mark-kirk-endorsement-230495|accessdate=October 30, 2016|publisher=Politico|date=October 29, 2016}}</ref><ref name="HRC">{{cite news|title=HRC Revokes Endorsement Following Racist Comments of Senator Mark Kirk|url=http://www.hrc.org/blog/hrc-revokes-endorsement-following-racist-comments-of-senator-mark-kirk|accessdate=October 30, 2016|publisher=Human Rights Campaign|date=October 29, 2016}}</ref>
+
+On November 8, Duckworth defeated Kirk 54 percent to 40 percent to win the Senate seat.<ref>{{Cite news|url=http://www.chicagotribune.com/news/local/politics/ct-illinois-senate-election-kirk-duckworth-met-1109-20161108-story.html|title=Duckworth claims victory over Kirk in U.S. Senate race|last=Tribune|first=Chicago|newspaper=chicagotribune.com|access-date=November 9, 2016}}</ref> Duckworth and [[Kamala Harris]], who was also elected in 2016, are the second and third female Asian American senators, after [[Mazie Hirono]] who was elected in 2012.<ref name="huffpo1108"/>
+
+===Tenure===
+
+In January 2018, following a federal government shut down after the Senate could not agree on a funding bill, Duckworth responded to President Trump's accusations that the Democrats were putting "unlawful immigrants" ahead of the military:
+: "I spent my entire adult life looking out for the well-being, the training, the equipping of the troops for whom I was responsible. Sadly, this is something that the current occupant of the Oval Office does not seem to care to do — and I will not be lectured about what our military needs by a five-deferment draft dodger. And I have a message for Cadet Bone Spurs: If you cared about our military, you'd stop baiting Kim Jong Un into a war that could put 85,000 American troops, and millions of innocent civilians, in danger."<ref>{{cite web|last1=Carter|first1=Brandon|title=Duckworth slams Trump: I won't be lectured on military needs by a 'five-deferment draft dodger'|url=http://thehill.com/homenews/senate/369960-dem-slams-trump-i-wont-be-lectured-on-military-needs-by-a-five-deferment|website=The Hill|accessdate=January 20, 2018}}</ref>
+
+Duckworth became the first U.S. Senator to give birth while in office in 2018.<ref>{{cite web|url=https://www.npr.org/sections/thetwo-way/2018/04/09/600896586/tammy-duckworth-becomes-first-u-s-senator-to-give-birth-while-in-office|title=Tammy Duckworth Becomes First U.S. Senator To Give Birth While In Office|publisher=}}</ref> Shortly afterward, rules were changed so that a Senator has the right to bring a child under one year old on the Senate floor and breastfeed them during votes.<ref name="auto">{{cite web|url=https://www.cnn.com/2018/04/18/politics/tammy-duckworth-senate-baby-rules/index.html|title=Babies now allowed on Senate floor after rule change|first=Sunlen Serfaty,|last=CNN|publisher=}}</ref> The day after those rules were changed, Maile became the first baby on the Senate floor when Duckworth brought her.<ref name="auto"/><ref name="The Washington Post">{{cite web|url=https://www.washingtonpost.com/powerpost/a-duckling-onesie-and-a-blazer-the-senate-floor-sees-its-first-baby-but-many-traditions-stand/2018/04/19/451ea160-43e0-11e8-ad8f-27a8c409298b_story.html |title=A duckling onesie and a blazer: The Senate floor sees its first baby, but many traditions stand |publisher=The Washington Post |date= |accessdate=2018-04-20}}</ref>
+
+===Senate committee assignments===
+*'''[[United States Senate Committee on Commerce, Science, and Transportation|Committee on Commerce, Science, and Transportation]]'''
+**[[United States Senate Commerce Subcommittee on Aviation Operations, Safety, and Security|Subcommittee on Aviation Operations, Safety, and Security]]
+**[[United States Senate Commerce Subcommittee on Communications, Technology, Innovation, and the Internet|Subcommittee on Communications, Technology, Innovation, and the Internet]]
+**[[United States Senate Commerce Subcommittee on Consumer Protection, Product Safety, Insurance and Data Security|Subcommittee on Consumer Protection, Product Safety, Insurance and Data Security]]
+**[[United States Senate Commerce Subcommittee on Surface Transportation and Merchant Marine Infrastructure, Safety, and Security|Subcommittee on Surface Transportation and Merchant Marine Infrastructure, Safety, and Security]]
+*'''[[United States Senate Committee on Energy and Natural Resources|Committee on Energy and Natural Resources]]'''
+**[[United States Senate Energy Subcommittee on Energy|Subcommittee on Energy]]
+**[[United States Senate Energy Subcommittee on National Parks|Subcommittee on National Parks]]
+**[[United States Senate Energy Subcommittee on Water and Power|Subcommittee on Water and Power]]
+*'''[[United States Senate Committee on Environment and Public Works|Committee on Environment and Public Works]]'''
+**[[United States Senate Environment Subcommittee on Fisheries, Water and Wildlife|Subcommittee on Fisheries, Water and Wildlife]] (Ranking Member)
+**[[United States Senate Environment Subcommittee on Transportation and Infrastructure|Subcommittee on Transportation and Infrastructure]]
+*'''[[United States Senate Committee on Small Business and Entrepreneurship|Committee on Small Business and Entrepreneurship]]'''
+
+===Caucus memberships===
+* [[Congressional Asian Pacific American Caucus]]<ref>{{cite web|title=Members|author=|url=https://capac-chu.house.gov/members|format=|publisher=Congressional Asian Pacific American Caucus|date=|accessdate=17 May 2018}}</ref>
+
+==Political positions==
+
+===Foreign policy===
+[[File:Tammy Duckworth wheelchair.jpg|thumb|upright|Duckworth narrates the ''Salute to Fallen Asian Pacific Islander Heroes'' in [[Arlington, Virginia]], June 2, 2005.]]
+
+During her unsuccessful congressional campaign in 2006, Duckworth called on Congress to audit the estimated $437 billion spent on overseas military and foreign aid since September 11, 2001.<ref name="Corcoran">{{cite news|newspaper=Northbrook Star|date=August 17, 2006|author=Pat Corcoran|title=Duckworth calls for investigation of foreign spending since 9/11|url=http://www.pioneerlocal.com/cgi-bin/ppo-story/localnews/current/nb/08-17-06-1005047.html|archiveurl=https://web.archive.org/web/20060821081045/http://www.pioneerlocal.com/cgi-bin/ppo-story/localnews/current/nb/08-17-06-1005047.html|archivedate=August 21, 2006}}</ref>
+
+On September 30, 2006, Duckworth gave the Democratic Party's response to President [[George W. Bush]]'s weekly radio address. In it, she was critical of Bush's strategy for the Iraq War.<ref>{{cite news|last1=Biemer|first1=John|title=Duckworth: Bush has slogans, not strategies on Iraq|url=http://articles.chicagotribune.com/2006-10-01/news/0610010342_1_tammy-duckworth-iraq-radio-address|accessdate=May 9, 2016|newspaper=Chicago Tribune|date=October 1, 2006}}</ref>
+
+In October 2006, ''[[The Sunday Times]]'' reported that Duckworth agreed with General [[Sir Richard Dannatt]], the [[British Army]] chief, that the presence of coalition troops was exacerbating the conflict in Iraq.<ref name="times_leads_charge">Sarah Baxter [http://www.timesonline.co.uk/article/0,2089-2415686,00.html "War heroine leads Democrat charge"], ''The Sunday Times'', October 22, 2006.</ref>
+
+===Gun law===
+Duckworth was rated by the [[National Rifle Association]] as having a pro-[[gun law in the United States|gun control]] congressional voting record.<ref name="OTI1004g">{{cite web|title=Tammy Duckworth on Gun Control|url=http://www.ontheissues.org/Domestic/Tammy_Duckworth_Gun_Control.htm|website=On The Issues|accessdate=October 4, 2017}}</ref> Duckworth, who is a gun owner herself, cites violence in Chicago as a major influence for her support of gun reform. She supports [[universal background checks]] and the halting of state-to-state gun trafficking.<ref name="Nelson1004g"/>
+
+Duckworth participated in the 2016 [[Chris Murphy gun control filibuster]]. During the [[2016 United States House of Representatives sit-in|sit-in]], Duckworth hid her [[mobile phone]] in her prosthetic leg to avoid it being taken away from her since taking pictures and recording on the House floor is against policy.<ref name="Nelson1004g">{{cite web|last1=Nelson|first1=Rebecca|title=The Dark Humor of Tammy Duckworth, Iraq War Hero and Gun Control Advocate|url=https://www.gq.com/story/tammy-duckworth-iraq-war-hero-and-gun-control-advocate-interview|website=GQ|accessdate=October 4, 2017|language=en|date=September 29, 2016}}</ref>
+
+In a 2016 interview with ''[[GQ]]'' magazine, Duckworth stated that gaining control of the Senate and "closing the gap" in the House would be necessary in order to pass common sense gun laws. She also stated that she believed moderate Republicans, who support common sense gun reform, would have more power to influence gun reform if they were not "pushed aside by those folks who are absolutely beholden to the NRA. And so we never get the vote."<ref name="Nelson1004g"/>
+
+In response to the [[2017 Las Vegas shooting]], Duckworth stated that "My heart goes out to the victims of the tragic shooting in Las Vegas last night and their loved ones. Such senseless and horrifying acts of violence have no place in America or any other nation."<ref name="Maxwell1004G">{{cite web|last1=Maxwell|first1=Mark|title=Politicians react to Las Vegas massacre|url=http://www.illinoishomepage.net/news/local-news/politicians-react-to-las-vegas-massacre/824151555|website=Illinois Homepage|accessdate=October 4, 2017|date=October 4, 2017}}</ref>
+
+===Health policy===
+Duckworth supports [[abortion]] rights<ref>{{cite web|url=https://www.washingtonpost.com/wp-dyn/content/article/2006/02/18/AR2006021801295_pf.html|title=After War Injury, an Iraq Vet Takes on Politics|work=The Washington Post |accessdate=July 20, 2015}}</ref><ref>{{cite news|last1=Pathe|first1=Simone|title=Another Democrat Gets in Race to Replace Duckworth|url=http://www.rollcall.com/news/politics/another-democrat-gets-race-replace-duckworth|accessdate=May 9, 2016|newspaper=Roll Call|date=August 25, 2015}}</ref> and the [[Affordable Care Act]].<ref name="rebound">{{cite news|last1=Skiba|first1=Katherine|title=Duckworth's rebound paved by help from Democrats in high places|url=http://www.chicagotribune.com/news/local/politics/ct-tammy-duckworth-us-senate-profile-met-20160302-story.html|accessdate=May 9, 2016|newspaper=Chicago Tribune|date=March 3, 2016}}</ref>
+
+===Immigration===
+Duckworth supports comprehensive immigration reform with a pathway to citizenship for those in the country illegally. She would admit 100,000 Syrian refugees into the United States.<ref name=rebound/>
+
+==Personal life==
+After being shot down over Iraq, and losing both legs, Duckworth was fitted for [[prosthesis|prosthetics]] and is now fully mobile. She helped establish the Intrepid Foundation to help injured veterans.<ref>{{cite news|last1=Haglund|first1=Alex|title=Duckworth, Pitcher honored along with all women veterans in Mt. Vernon|url=http://www.advocatepress.com/article/20110627/NEWS/306279893|accessdate=February 5, 2016|newspaper=Advocate-Press|date=June 27, 2011}}</ref>
+
+Former [[Republican Party (United States)|Republican]] presidential candidate and Senator [[Bob Dole]] dedicated his autobiography ''One Soldier's Story'' in part to Duckworth.<ref name="sneed">{{cite news|first=Michael|last=Sneed|authorlink=Michael Sneed|title=Did you know.|work=[[Chicago Sun-Times]] |date=August 20, 2006}}</ref> Duckworth credits Dole for inspiring her to pursue public service, while she recuperated at [[Walter Reed Army Medical Center]]; although, in 2006, Dole endorsed Duckworth's Republican opponent, [[Peter Roskam]].<ref name="nodole">{{cite news|first=John|last=Biemer|title=Dole makes it clear: He backs Roskam over Duckworth|url=http://articles.chicagotribune.com/2006-09-29/news/0609290287_1_tammy-duckworth-duckworth-campaign-mailer|work=[[Chicago Tribune]] |date=September 29, 2006|accessdate = October 20, 2006}}</ref>
+
+In May 2010, Duckworth was awarded an honorary doctorate by [[Northern Illinois University]].<ref>{{cite web|url=http://www.niu.edu/mediarelations/news/2010/april/duckworth.shtml |title=NIU to award honorary degree to 'a true American hero' |publisher=Northern Illinois University |accessdate=August 29, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110606171021/http://www.niu.edu/mediarelations/news/2010/april/duckworth.shtml |archivedate=June 6, 2011 }}</ref> In 2011, Duckworth was honored by Chicago's Access Living for her work on behalf of veterans with disabilities.<ref>Karen Meyer, [http://abclocal.go.com/wls/story?section=community&id=5400678 Duckworth to be honored for commitment to disabled veterans], [[WLS-TV|ABC-7 Chicago]] website; accessed November 12, 2014. {{dead link|date=April 2018|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+Duckworth is married to Bryan Bowlsbey. The couple has two daughters: Abigail, who was born in 2014,<ref>{{cite news|last1=Skiba|first1=Katherine|title=Rep. Tammy Duckworth gives birth to daughter|url=http://www.chicagotribune.com/news/local/breaking/ct-tammy-duckworth-baby-met-20141120-story.html|accessdate=May 9, 2016|newspaper=Chicago Tribune|date=November 20, 2014}}</ref> and Maile, born in 2018.<ref name="Maile">{{Cite news|url=http://thehill.com/homenews/senate/382293-tammy-duckworth-gives-birth-to-baby-girl|title=Duckworth gives birth to baby girl|last=Anapol|first=Avery|date=2018-04-09|work=TheHill|access-date=2018-04-09|language=en}}</ref> Maile's birth made Duckworth the first U.S. Senator to give birth while in office.<ref name="Maile"/><ref>{{Cite news|url=http://www.chicagotribune.com/lifestyles/stevens/ct-life-stevens-tuesday-tammy-duckworth-pregnant-0123-story.html|title=Tammy Duckworth expecting 2nd child; will be 1st sitting senator to give birth|last=Stevens|first=Heidi|work=chicagotribune.com|access-date=January 23, 2018|language=en-US}}</ref> Former senator [[Daniel Akaka]] (Democrat of Hawaii) helped the couple with the naming of both daughters; Akaka died April 6, 2018, three days before Maile was born.<ref>{{cite news|url= https://www.nytimes.com/2018/04/09/us/politics/tammy-duckworth-birth.html|title=Tammy Duckworth Becomes First U.S. Senator to Give Birth While in Office|last=Stack|first=Liam|work=[[The New York Times]]|date=April 9, 2018|accessdate=April 10, 2018}}</ref> Shortly after Maile's birth, rules were changed so that a Senator has the right to bring a child under one year old on the Senate floor and breastfeed them during votes.<ref name="auto"/> The day after those rules were changed, Maile became the first baby on the Senate floor when Duckworth brought her.<ref name="auto"/><ref name="The Washington Post"/>
+
+==Electoral history==
+{|class="wikitable" style="width:100%; text-align: center;"
+|-
+! colspan="12" | Election results
+|-
+!Year
+!Office
+!District
+!Election
+!Votes for Duckworth
+!%
+!Opponent
+!Party
+!Votes
+!%
+|-
+|2006
+|rowspan=4 |[[United States House of Representatives|U.S. House]]
+|{{ushr|IL|6|6th}}
+|General
+|{{Party shading/Democratic}} |86,572
+|{{Party shading/Democratic}} |48%
+|{{Party shading/Republican}} |'''[[Peter Roskam]]'''
+|{{Party shading/Republican}} |'''[[Republican Party (United States)|Republican]]'''
+|{{Party shading/Republican}} |'''91,382'''
+|{{Party shading/Republican}} |'''51%'''
+|-
+|rowspan=2 |2012
+|rowspan=2 |{{ushr|IL|8|8th}}
+|Primary
+|{{Party shading/Democratic}} |'''17,097'''
+|{{Party shading/Democratic}} |'''66%'''
+|{{Party shading/Democratic}} |[[Raja Krishnamoorthi]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|{{Party shading/Democratic}} |8,736
+|{{Party shading/Democratic}} |33%
+|-
+|General
+|{{Party shading/Democratic}} |'''123,206'''
+|{{Party shading/Democratic}} |'''54%'''
+|{{Party shading/Republican}} |[[Joe Walsh (Illinois politician)|Joe Walsh]]
+|{{Party shading/Republican}} |Republican
+|{{Party shading/Republican}} |101,860
+|{{Party shading/Republican}} |45%
+|-
+|2014
+|{{ushr|IL|8|8th}}
+|General
+|{{Party shading/Democratic}} |'''84,178'''
+|{{Party shading/Democratic}} |'''56%'''
+|{{Party shading/Republican}} |Lawrence Kaifesh
+|{{Party shading/Republican}} |Republican
+|{{Party shading/Republican}} |66,878
+|{{Party shading/Republican}} |44%
+|-
+|rowspan = 2 |2016
+|rowspan = 2 |[[United States Senate|U.S. Senate]]
+|rowspan = 2 |[[Illinois]]
+|Primary
+|{{Party shading/Democratic}} |'''1,220,128'''
+|{{Party shading/Democratic}} |'''64%'''
+|{{Party shading/Democratic}} |Andrea Zopp
+|{{Party shading/Democratic}} |Democratic
+|{{Party shading/Democratic}} |455,729
+|{{Party shading/Democratic}} |24%
+|-
+|General
+|{{Party shading/Democratic}} |'''2,907,420'''
+|{{Party shading/Democratic}} |'''54%'''
+|{{Party shading/Republican}} |[[Mark Kirk]]
+|{{Party shading/Republican}} |Republican
+|{{Party shading/Republican}} |2,149,417
+|{{Party shading/Republican}} |40%
+|}
+
+==See also==
+{{Portal|United States Army}}
+* [[List of Asian Americans and Pacific Islands Americans in the United States Congress]]
+* [[List of United States Senators born outside the United States]]
+* [[Veterans for a Secure America]]
+* [[VoteVets.org]]
+* [[Women in the United States House of Representatives]]
+* [[Women in the United States Senate]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{Commons category}}
+* [https://www.duckworth.senate.gov/ Senator Tammy Duckworth] official U.S. Senate site
+* [https://tammyduckworth.com/ Tammy Duckworth for Senate] official campaign site
+*{{Dmoz|Regional/North_America/United_States/Illinois/Government/Federal/US_Senate/Tammy_Duckworth_%5BD%5D}}
+*{{C-SPAN|Tammy Duckworth}}
+*[http://www.pritzkermilitary.org/whats_on/pritzker-military-presents/front-center-john-callaway-returning-veterans/ Front & Center with John Callaway: Returning Veterans: How Warm A Welcome?] at the [[Pritzker Military Museum & Library]], July 12, 2007
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=Roy Dolgos}}
+{{s-ttl|title=Director of the [[Illinois Department of Veterans Affairs]]|years=2006–2009}}
+{{s-aft|after=Daniel Grant}}
+|-
+{{s-bef|before=[[Lisette M. Mondello|Lisette Mondello]]}}
+{{s-ttl|title=[[United States Department of Veterans Affairs|Assistant Secretary of Veterans Affairs]] for Public and Intergovernmental Affairs|years=2009–2011}}
+{{s-aft|after=Michael Galloucis}}
+|-
+{{s-par|us-hs}}
+{{s-bef|before=[[Joe Walsh (Illinois politician)|Joe Walsh]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Illinois|U.S. House of Representatives]]<br>from [[Illinois's 8th congressional district]]|years=2013–2017}}
+{{s-aft|after=[[Raja Krishnamoorthi]]}}
+|-
+{{s-ppo}}
+{{s-bef|before=[[Alexi Giannoulias]]}}
+{{s-ttl|title=[[Democratic Party (United States)|Democratic]] nominee for [[List of United States Senators from Illinois|U.S. Senator]] from [[Illinois]]<br>([[Classes of United States Senators|Class 3]])|years=[[United States Senate election in Illinois, 2016|2016]]}}
+{{s-inc|recent}}
+|-
+{{s-par|us-sen}}
+{{s-bef|before=[[Mark Kirk]]}}
+{{s-ttl|title=[[List of United States Senators from Illinois|U.S. Senator (Class 3) from Illinois]]|years=2017–present|alongside=[[Dick Durbin]]}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Todd Young]]}}
+{{s-ttl|title=[[Seniority in the United States Senate|United States Senators by seniority]]|years=92nd}}
+{{s-aft|after=[[Maggie Hassan]]}}
+{{s-end}}
+
+{{IL-FedRep}}
+{{Current U.S. Senators}}
+{{Current Illinois statewide political officials}} 
+{{USSenIL}}
+{{Authority control}}
+
+{{DEFAULTSORT:Duckworth, Tammy}}
+[[Category:1968 births]]
+[[Category:21st-century American politicians]]
+[[Category:21st-century women politicians]]
+[[Category:American amputees]]
+[[Category:American military personnel of Thai descent]]
+[[Category:American military personnel of the Iraq War]]
+[[Category:American people of Thai descent]]
+[[Category:American politicians of Chinese descent]]
+[[Category:American politicians of Thai descent]]
+[[Category:American politicians with physical disabilities]]
+[[Category:American women of Thai descent in politics]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Democratic Party United States Senators]]
+[[Category:Female aviators]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Female United States Senators]]
+[[Category:George Washington University alumni]]
+[[Category:Elliott School of International Affairs alumni]]
+[[Category:Helicopter pilots]]
+[[Category:Illinois Democrats]]
+[[Category:Illinois National Guard personnel]]
+[[Category:Living people]]
+[[Category:Members of the United States Congress of Thai descent]]
+[[Category:Members of the United States House of Representatives from Illinois]]
+[[Category:National Guard of the United States colonels]]
+[[Category:Obama administration personnel]]
+[[Category:People from Bangkok]]
+[[Category:Politicians from Honolulu]]
+[[Category:People from Hoffman Estates, Illinois]]
+[[Category:Recipients of the Air Medal]]
+[[Category:Shot-down aviators]]
+[[Category:State cabinet secretaries of Illinois]]
+[[Category:Thai emigrants to the United States]]
+[[Category:United States Army officers]]
+[[Category:United States Department of Veterans Affairs officials]]
+[[Category:United States Senators from Illinois]]
+[[Category:University of Hawaii at Manoa alumni]]
+[[Category:Women in Illinois politics]]
+[[Category:Women in the Iraq War]]
+[[Category:Women in the United States Army]]

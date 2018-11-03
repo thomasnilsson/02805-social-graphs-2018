@@ -1,0 +1,329 @@
+{{pp-pc1|expiry=indef|small=yes}}
+{{Infobox officeholder
+|name        = Martha Roby
+|image       = Martha roby 113 congressional portrait.jpg
+|state       = [[Alabama]]
+|district    = {{ushr|AL|2|2nd}}
+|term_start  = January 3, 2011
+|term_end    = 
+|predecessor = [[Bobby Bright]]
+|successor   = 
+|birth_name  = Martha Dubina
+|birth_date  = {{birth date and age|1976|7|26}}
+|birth_place = [[Montgomery, Alabama]], U.S.
+|death_date  = 
+|death_place = 
+|party       = [[Republican Party (United States)|Republican]]
+|spouse      = Riley Roby
+|children    = 2
+|parents     = [[Joel Fredrick Dubina]] (father)
+|education   = [[New York University]] ([[Bachelor of Music|BM]])<br>[[Samford University]] ([[Juris Doctor|JD]])
+}}
+
+'''Martha Roby''' ({{IPAc-en|ˈ|r|oʊ|b|I}}; née '''Dubina''', July 26, 1976) is an American politician serving as the [[United States House of Representatives|U.S. Representative]] for {{ushr|Alabama|2}} since 2011. A member of the [[Republican Party (United States)|Republican Party]], she defeated the incumbent Democratic U.S. Representative [[Bobby Bright]] during the [[United States House of Representatives elections in Alabama, 2010|2010 elections]].<ref>[http://www.montgomeryadvertiser.com/article/20101102/NEWS/101102052/GOP+s+Roby+defeats+Bright+in+Alabama+s+2nd+District+ GOP's Roby defeats Bright in Alabama's 2nd District] {{webarchive|url=https://web.archive.org/web/20151222112526/http://www.montgomeryadvertiser.com/article/20101102/NEWS/101102052/GOP+s+Roby+defeats+Bright+in+Alabama+s+2nd+District+ |date=2015-12-22 }} ''[[Montgomery Advertiser]]'', November 2, 2010.</ref><ref>{{cite web|url=http://www.legistorm.com/memberbio/2723/Rep_Martha_Roby_AL.html|title=Representative Martha Dubina Roby (R-Alabama, 2nd) - Biography from LegiStorm|website=Legistorm.com|accessdate=May 18, 2017}}</ref> Roby and [[Terri Sewell]] were the first women [[United States congressional delegations from Alabama|elected to Congress from Alabama]] in regular elections.<ref>[[Elizabeth B. Andrews]] was elected to fill an unexpired term in the House, while Senators [[Dixie Bibb Graves]] and [[Maryon Pittman Allen]] were appointed and never elected.</ref>
+
+==Early life, education, and legal career==
+Roby was born in [[Montgomery, Alabama]] and attended [[New York University]], where she received a [[bachelor of music]] degree. She then entered the [[Cumberland School of Law]] at [[Samford University]] in [[Birmingham, Alabama]], receiving her [[Juris Doctor|J.D.]] in 2001.<ref>{{cite web|title=Martha Roby (R-Ala.)|url=https://www.washingtonpost.com/politics/martha-roby-r-ala/gIQAGcVUKP_print.html|publisher=Washington Post|accessdate=17 January 2018}}</ref>
+
+She is the daughter of [[Joel Fredrick Dubina]],<ref>{{cite book|title=2014 Almanac of American Politics|last2=Barone|first2=Chuck|last1=McCutcheon|first1=Michael|publisher=The University of Chicago Press|year=2013}}</ref> a Senior Judge on the [[United States Court of Appeals for the Eleventh Circuit]].
+
+Before entering politics, she worked at the law firm of Copeland, Franco.<ref>{{cite news|title=Biographical Information for 2nd Congressional District GOP runoff candidates|work=Associated Press Newswires|date=July 8, 2010}}</ref>
+
+==Montgomery City Council==
+===Elections===
+Roby was elected to the Montgomery [[City Council]] in 2003, defeating a total of five opponents, and winning 54.88% of the votes cast in her district.<ref>{{cite news|title=Montgomery Republican plans to challenge Bright in 2010|work=The Dothan Eagle|author=Lance Griffin|url=http://www2.dothaneagle.com/news/2009/jun/26/montgomery_republican_plans_to_challenge_bright_in-ar-193229|date=June 26, 2009}}</ref><ref>{{cite web|url=http://www.montgomeryal.gov/Modules/ShowDocument.aspx?documentid=29|title=Municipal Election Results-2003|accessdate=May 18, 2017}}</ref>
+
+===Tenure===
+In her first term on the Council, Roby joined 3 other council members and then mayor Bobby Bright in opposing the building of a shopping mall in East Montgomery.<ref>{{cite news|title=Montgomery Alabama Shopping Mall to Go Up Against Protests, Mayor's Advice|work=The Montgomery Advertiser|date=February 19, 2004}}</ref> She also opposed privatizing the disposal of household garbage,<ref>{{cite news|title=Trash Service Change Opposed|work=The Montgomery Advertiser|author=Sebastian Kitchen|date=March 30, 2005}}</ref> supported a 10 cent cigarette tax increase,<ref>{{cite news|title=Montgomery, Ala., Cigarette Tax Jumps 10 Cents|work=The Montgomery Advertiser|date=May 14, 2004|author=William F. West}}</ref> and argued for a state [[Tax holiday#Sales tax holidays in the United States|sales tax holiday]].<ref>{{cite news|title=Montgomery, Ala., council's tax idea might go statewide|author=William F. West|date=August 10, 2004|work=Montgomery Advertiser}}</ref>
+
+==U.S. House of Representatives==
+===Elections===
+;2010
+{{further|United States House of Representatives elections in Alabama, 2010#District 2}}
+Roby challenged incumbent Democratic U.S. Congressman and former Montgomery Mayor [[Bobby Bright]] in [[Alabama's 2nd congressional district]]. In the four-candidate Republican primary, Roby ranked first with 49% of the vote, narrowly missing the 50% threshold needed to win the nomination and avoid a run-off. Rick Barber ranked second with 29% of the vote.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=508440|title=Our Campaigns - AL District 02 - R Primary Race|date=June 1, 2010|publisher=Ourcampaigns.com|accessdate=May 11, 2017}}</ref> In the run-off election, Roby defeated him 60%-40%.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=653745|title=Our Campaigns - AL District 2 - R Runoff Race|date=July 13, 2010|publisher=Ourcampaigns.com|accessdate=May 11, 2017}}</ref>
+
+The 2010 race was one of the most expensive races in the district's history.<ref name="Alabama 2nd District">{{cite news|url=http://elections.nytimes.com/2010/house/alabama/2|title=Alabama 2nd District Profile|accessdate=July 4, 2012|work=The New York Times}}</ref> Roby spent a total of $1,240,275.64 on her 2010 election. Most of her funds came from large individual contributions. Her top contributor was Jim Wilson and Associates, a Montgomery real estate developer, who contributed $25,300.<ref>{{cite web|title=Open Secrets|url=http://www.opensecrets.org/politicians/summary.php?cid=N00030768&cycle=2010|accessdate=November 21, 2011}}</ref> Leadership PACs contributed a total of $106,010.<ref name="Alabama 2nd District"/>
+
+Roby defeated Bright by 51%-49%, a difference of 4,780 votes. Roby won 7 of the district's 16 counties: Autauga, Elmore, Covington, Coffee, Geneva, Dale, and Houston Counties. Bright won Montgomery County with 59% of the vote.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=487756|title=Our Campaigns - AL - District 02 Race|date=November 2, 2010|publisher=Ourcampaigns.com}}</ref>
+
+;2012
+{{further|United States House of Representatives elections in Alabama, 2012#District 2}}
+In her run for re-election to her seat, she received the endorsements of 36 mayors in Alabama,<ref>{{cite news|url=http://www.al.com/news/index.ssf/2015/10/36_mayors_endorse_martha_roby.html|title=36 mayors endorse Martha Roby re-election|date=October 27, 2015|publisher=al.com}}</ref> the Alabama Farmers Federation,<ref>{{cite news|url=http://www.al.com/news/index.ssf/2015/10/martha_roby_endorsed_by_alabam.html|title=Martha Roby endorsed by Alabama Farmers Federation|date=October 20, 2014|publisher=Al.com}}</ref> and [[Susan B. Anthony List]].<ref>{{cite news|url=http://www.al.com/news/index.ssf/2016/01/pro-life_susan_b_anthony_list.html|title=Pro-life Susan B. Anthony List endorses Martha Roby for reelection|date=January 22, 2016}}</ref>
+
+The 2nd district had long been a conservative district, and Roby won a second term, defeating Democrat Therese Ford 64%-36%. She won 11 of the district's 15 counties. She lost her home county of Montgomery by a margin of 53%-47%.<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=705230 |title=AL - District 02 Race - Nov 06, 2012 |publisher=Our Campaigns |date= |accessdate=2017-07-07}}</ref><ref>{{cite web|url=http://www.montgomeryadvertiser.com/article/20120114/NEWS01/201140338/Candidates-qualify-elections|title=Candidates qualify for elections|date=January 14, 2012|accessdate=January 29, 2012|work=[[Montgomery Advertiser]]|first=Sebastian|last=Kitchen}}</ref>
+
+;2014
+{{further|United States House of Representatives elections in Alabama, 2014#District 2}}
+Roby won the election with 67.34% of the vote, defeating Democratic nominee Erick Wright.<ref>{{cite web |url=http://alabamavotes.gov/downloads/election/2014/general/2014GeneralResults-WithWriteIn.pdf |title=Certified General Election Results |publisher=Alabama Secretary of State|accessdate=December 13, 2014}}</ref>
+
+;2016
+{{further|United States House of Representatives elections in Alabama, 2016#District 2}}
+On March 1, 2016, Roby won the Republican primary with 64% of the vote.<ref>{{cite news|url=http://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2016/03/01/us-rep-martha-roby-wins-gop-primary/81106616/|title=U.S. Rep. Martha Roby wins GOP primary|date=March 1, 2016|publisher=Montgomery Advertiser}}</ref> She won the general election with 48.8% of the vote. Democrat Nathan Mathis received 40.5% of the vote and write-in candidates received 10.7% of the vote.<ref>{{cite web|title=Alabama's 2nd Congressional District election, 2016|url=https://ballotpedia.org/Alabama%27s_2nd_Congressional_District_election,_2016|publisher=Ballotpedia|accessdate=17 January 2018}}</ref>
+
+===Committee assignments===
+*'''[[United States House Committee on Appropriations]]'''
+**[[United States House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies|United States House Appropriations Subcommittee on Commerce, Justice, and Science]]
+**[[United States House Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies|United States House Appropriations Subcommittee on Military Construction, and Veterans Affairs]]
+**[[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|United States House Appropriations Subcommittee on Labor, Health and Human Services, and Education]]
+*[[House Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi]]
+
+== Political positions ==
+During Roby's 2010 campaign, she promised to support ending pre-existing conditions as exclusion from receiving health insurance benefits, vote against cap and trade, vote to defund health care reform, reduce dependence on foreign oil, reduce government spending, support a Balanced Budget Amendment, support a line-item veto, support ending the current earmark process, oppose government bailouts and takeovers of private companies, support the requirement of budgets to be submitted for Social Security and Medicare, require that all legislation be posted online for 72 hours before debate, require that every piece of legislation begin with an explanation of its constitutionality, maintain defense spending at least 4% of Gross Domestic Product, support missile defense programs, reform the tax code,  support abolition of the estate tax, oppose raising the retirement age for Social Security benefits, oppose a reduction in Social Security benefits, oppose an increase in payroll taxes for Social Security benefits, and oppose amnesty for illegal immigrants.<ref name=":2">{{Cite news|url=https://www.annistonstar.com/martha-roby-abolish-irs-no-changes-to-social-security/article_5ca09a6e-de07-5e29-8945-a4abea17e6a5.html|title=Martha Roby: Abolish IRS, no changes to Social Security|last=Staff|first=Anniston Star Staff/Dothan Eagle|newspaper=The Anniston Star|access-date=2017-02-11|language=en}}</ref> When asked if there was one federal department or agency that she could eliminate, she said she would abolish the [[United States Department of Education|Department of Education]] but keep federal grants to states intact.<ref name=":2" /> In 2010, she pledged to abolish the [[Internal Revenue Service]] (IRS).<ref name=":2"/>
+
+In 2010, Roby expressed support for [[Paul Ryan]]'s "Roadmap for America's Future", which would privatize portions of Medicare. She has stated publicly that she opposes privatization of Medicare and Social Security.<ref name=":4">{{Cite news|url=http://www.dothaneagle.com/news/fact-check-does-martha-roby-want-to-privatize-medicare/article_c8ca08bf-d6a0-592f-971a-edb454e60c6e.html|title=Fact Check: Does Martha Roby want to privatize Medicare?|last=Griffin|first=Lance|newspaper=Dothan Eagle|access-date=2017-02-11|language=en}}</ref>
+
+After the [[2016 Orlando nightclub shooting]], Roby said she was "horrified and heartbroken" via a [[Facebook]] post. She sent [[thoughts and prayers]] to victims and first responders. She called it a "terrorist attack" and said that people must change their mentality that terrorism is an "overseas fight."<ref name="Berkowitz61616">{{cite web|last1=Berkowitz|first1=Bonnie|last2=Cai|first2=Weiyi|last3=Lu|first3=Denise|last4=Gamio|first4=Lazaro|title=Everything lawmakers said (and didn't say) after the Orlando mass shooting|url=https://www.washingtonpost.com/graphics/national/how-lawmakers-responded-to-the-orlando-mass-shooting/|website=Washington Post|accessdate=31 December 2017}}</ref>
+
+In October 2016, Roby withdrew her presidential endorsement of [[Donald Trump]], saying: "Donald Trump's behavior makes him unacceptable as a candidate for president, and I won't vote for him".<ref>{{Cite news|url=http://www.weeklystandard.com/republican-members-of-congress-withdraw-trump-support-updated/article/2004783|title=Republican Members of Congress Withdraw Trump Support (Updated)|date=2016-10-08|newspaper=Weekly Standard|accessdate=2017-02-11}}</ref><ref name=":0">{{Cite news|url=http://www.al.com/news/montgomery/index.ssf/2016/11/martha_roby_who_condemned_trum.html|title=Martha Roby, who condemned Trump, ekes out re-election win to Congress|access-date=2017-02-11|language=en-US|newspaper=AL.com}}</ref> Following Trump's election, Roby became more supportive of Trump, and attempted to make amends, subsequently gaining his endorsement for her reelection campaign.<ref>{{cite news |url=https://www.politico.com/story/2017/07/10/president-trump-enemies-list-240344 |date=July 10, 2017 |publisher=''[[Politico]]'' |title=President Trump's enemies list |first=Alex |last=Isenstadt}}</ref><ref>{{cite news |url=https://www.politico.com/story/2018/06/22/trump-endorses-martha-roby-664290 |title=Trump endorses Roby despite past disloyalty |first=Alex |last=Isenstadt |date=June 22, 2018 |publisher=''[[Politico]]'' |quote=Following a March 2017 Oval Office meeting with Trump, Roby posted an online video in which she recalled: “I sat in the Oval Office and looked the President in the eye and told him I was with him.”}}</ref> She earned Trump's endorsement in the primary reportedly after House Majority Leader Kevin McCarthy encouraged Trump to endorse her.<ref>{{Cite web|url=https://www.washingtonpost.com/powerpost/alabama-runoff-rep-martha-roby-who-criticized-trump-in-2016-tries-to-keep-her-seat/2018/07/16/9428e6e8-8941-11e8-8aea-86e88ae760d8_story.html|title=Alabama runoff: Rep. Martha Roby, who criticized Trump in 2016, wins GOP nomination|last=Weigel|first=David|website=Washington Post|language=en|access-date=2018-07-24}}</ref>
+
+As of January 2018, Roby has voted with her party in 97.1% of votes so far in the [[115th United States Congress]] and voted in line with President Trump's position in 96.7% of the votes.<ref name=":5">{{Cite news|url=https://projects.fivethirtyeight.com/congress-trump-score/martha-roby/|title=Tracking Martha Roby In The Age Of Trump|last=Bycoffe|first=Aaron|date=2017-01-30|newspaper=FiveThirtyEight|access-date=2017-02-18|language=en-US}}</ref><ref name=":6">{{Cite news|url=https://projects.propublica.org/represent/members/R000591-martha-roby|title=Represent|last=|first=|newspaper=ProPublica|access-date=2017-02-18|language=en}}</ref> 
+
+===Vote Smart issue positions===
+[[Project Vote Smart|Vote Smart]], a non-profit, non-partisan research organization that collects and distributes information on candidates for public office in the United States, "researched presidential and congressional candidates' public records to determine candidates' likely responses on certain key issues." According to Vote Smart's 2016 analysis, Roby generally supports pro-life legislation, opposes an income tax increase, opposes federal spending as a means of promoting economic growth, supports lowering taxes as a means of promoting economic growth, opposes requiring states to adopt federal education standards, supports building the [[Keystone Pipeline]], supports government funding for the development of renewable energy, opposes the federal regulation of greenhouse gas emissions, opposes gun-control legislation, supports repealing the [[Affordable Care Act]], supports requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship, opposes same-sex marriage,<ref>{{Cite news|url=https://www.nytimes.com/2015/02/14/us/turned-away-early-gay-couple-in-alabama-determined-to-marry.html|title=In Alabama City, Gay Couple Try to Wed, Early and Often|last=Fausset|first=Richard|date=2015-02-13|newspaper=The New York Times|access-date=2017-02-11|issn=0362-4331}}</ref> supports increased American intervention in [[Iraq]] and [[Syria]] beyond air support, and opposes allowing individuals to divert a portion of their [[Social Security (United States)|Social Security]] taxes into personal retirement accounts.<ref>{{cite web|title=Martha Roby's Issue Positions (Political Courage Test)|url=https://votesmart.org/candidate/political-courage-test/71604/martha-roby/#.Wl-2AEtG0js|publisher=[[Vote Smart]]|accessdate=10 January 2018}}</ref>
+
+===Interest group pledges and ratings===
+In the [[112th United States Congress]], Roby signed the [[Americans for Tax Reform#Taxpayer Protection Pledge|Americans for Tax Reform Taxpayer Protection Pledge]].<ref name="ATR">{{cite web|url=http://s3.amazonaws.com/atrfiles/files/files/091411-federalpledgesigners.pdf|title=The Taxpayer Protection Pledge Signers 112th Congressional List|publisher=Americans for Tax Reform|accessdate=November 30, 2011}}</ref> In 2010, Roby signed a pledge sponsored by [[Americans for Prosperity]] to not vote for any global warming legislation that would raise taxes.<ref>[http://americansforprosperity.org/noclimatetax//wp-content/uploads/2010/02/roby2.pdf] {{dead link|date=July 2017}}</ref>
+
+In 2013, Roby received a score of 0% from the [[Alliance for Retired Americans]].<ref>{{cite web|url=http://www.ontheissues.org/House/Martha_Roby_Social_Security.htm|title=Martha Roby on Social Security|website=Ontheissues.org|access-date=2017-02-11}}</ref>
+
+The environmental advocacy group the [[League of Conservation Voters]] gives her a lifetime score of 4%.<ref>{{Cite news|url=http://scorecard.lcv.org/moc/martha-roby|title=Check out Representative Martha Roby's Environmental Voting Record|newspaper=League of Conservation Voters Scorecard|accessdate=2017-02-11}}</ref>
+
+Roby has a "D" rating from marijuana legalization advocacy group the [[National Organization for the Reform of Marijuana Laws]] (NORML) regarding her voting record on [[cannabis]]-related matters.<ref name="NORML">{{cite web|title=Alabama Scorecard - NORML.org - Working to Reform Marijuana Laws|url=http://norml.org/congressional-scorecard/alabama|website=norml.org|accessdate=21 December 2017|language=en-us}}</ref>
+
+===Legislative record===
+In December 2011, Roby voted in support of H.R. 10, the "Regulations From the Executive in Need of Scrutiny Act," which would have required congressional approval for any "major regulations" issued by the executive branch but, unlike the 1996 [[Congressional Review Act]], would not require the president's signature or override of a probable presidential veto.<ref name="wapo111207">{{cite news|first=Felicia|last=Sonmez|newspaper=[[The Washington Post]]|title=REINS bill to expand congressional power over executive regulations passed by House |url=https://www.washingtonpost.com/blogs/2chambers/post/reins-bill-to-expand-congressional-power-over-executive-regulations-passed-by-house/2011/12/07/gIQAs6VMdO_blog.html|date=December 7, 2011|accessdate=October 10, 2013}}</ref>
+
+Roby voted in September 2013 to cut $39 billion from the food stamp program. In 2011, approximately 41,000 households in Roby's congressional district received food stamps.<ref>{{cite news|url=http://www.montgomeryadvertiser.com/apps/pbcs.dll/article?AID=2013309200025&nclick_check=1|title=House cuts $39B in food stamps; Alabama delegation split on vote|date=20 September 2013|work=[[Montgomery Advertiser]]|accessdate=20 September 2013}} {{dead link|date=January 2018}}</ref>
+
+In February 2017, she voted against a resolution that would have directed the House to request 10 years of Trump's tax returns, which would then have been reviewed by the [[United States House Committee on Ways and Means|House Ways and Means Committee]] in a closed session.<ref>{{Cite news|url=https://indy100.com/article/republican-vote-donald-trump-tax-president-united-states-229-185-congress-7603851|title=These are all the Republicans who don’t want you to see Donald Trump's tax returns|date=2017-02-28|work=indy100|accessdate=2017-03-01}}</ref>
+
+Roby has repeatedly voted to repeal the [[Patient Protection and Affordable Care Act]] (Obamacare).<ref>{{cite news|last1=Moseley|first1=Brandon|title=US House votes to repeal and replace Obamacare|url=http://www.alreporter.com/2017/05/05/us-house-votes-repeal-replace-obamacare/|accessdate=17 January 2018|publisher=Alabama Political Reporter|date=May 5, 2017}}</ref> On May 4, 2017, she voted in favor of repealing the [[Patient Protection and Affordable Care Act]] (Obamacare) and passing the [[American Health Care Act of 2017|American Health Care Act]].<ref name=":02">{{cite web|url=https://www.washingtonpost.com/graphics/politics/ahca-house-vote/|title=How the House voted to pass the GOP health-care bill|website=Washington Post|accessdate=2017-05-04}}</ref><ref>{{Cite news|url=https://www.usatoday.com/story/news/politics/2017/05/04/health-care-vote-puts-pressure-dozens-vulnerable-gop-reps/101297824/|title=Health care vote puts pressure on dozens of vulnerable GOP reps|work=USA TODAY|accessdate=2017-05-04}}</ref>
+
+In stating her support for the [[American Health Care Act of 2017|American Health Care Act]] (AHCA), Roby said the Affordable Care Act was a "failed law" and that the AHCA put in place a "patient-centered system that lowers costs, increases choices, and isn't run by the government". The U.S. House voted on the legislation before the bill had been scored by the [[Congressional Budget Office]].<ref name=":7">{{Cite news|url=http://www.montgomeryadvertiser.com/story/news/politics/southunionstreet/2017/05/06/ahca-concerns-alabama-health-care-providers-advocates/101347032|title=AHCA concerns Alabama health care providers, advocates|work=The Montgomery Advertiser|accessdate=2017-05-10}}</ref>
+
+In 2017, Roby co-sponsored a bipartisan bill to require sexual harassment and anti-discrimination training for all House members, employees, staff and unpaid personnel. The bill passed the House. She does not support the ability for lawmakers to use tax dollars to settle sexual harassment claims.<ref name="Chramer12817">{{cite web|last1=Chramer|first1=Elisabeth|title=Alabama congresswomen co-sponsor bill to mandate sexual harassment training after reports show politicians used tax dollars to settle claims against them - Yellowhammer News|url=http://yellowhammernews.com/uncategorized/alabama-congresswomen-co-sponsor-bill-mandate-sexual-harassment-training-reports-show-politicians-used-tax-dollars-settle-claims/|website=Yellowhammer News|accessdate=21 December 2017|date=3 December 2017}}</ref>
+
+Roby voted for the [[Tax Cuts and Jobs Act of 2017]].<ref name="Almukhtar122117">{{cite web|last1=Almukhtar|first1=Sarah|title=How Each House Member Voted on the Tax Bill|url=https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-house-live-vote.html?_r=0|website=The New York Times|accessdate=21 December 2017|date=19 December 2017}}</ref> She said that more businesses will stay in the U.S. due to the tax cuts and that she is "proud" of the legislation which she says "will help families keep their own money."<ref name="Tice122017">{{cite web|last1=Tice|first1=Andrea|title=Alabama Republicans on board with new tax cuts - Yellowhammer News|url=http://yellowhammernews.com/featured/al-republicans-board-new-tax-cuts/|website=Yellowhammer News|accessdate=21 December 2017|date=20 December 2017}}</ref>
+
+==Electoral history==
+{| class="wikitable"
+|-
+! colspan="4" |Alabama 2nd Congressional District Republican Primary Election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Republican
+|'''Martha Roby'''
+|36,295
+|48.55
+|-
+|Republican
+|'''Rick Barber'''
+|21,313
+|28.51
+|-
+|Republican
+|Stephanie Bell
+|13,797
+|18.46
+|-
+|Republican
+|John Beau McKinney III
+|3,349
+|4.48
+|}
+{| class="wikitable"
+|-
+! colspan="4" |Alabama 2nd Congressional District Republican Primary Runoff Election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Republican
+|'''Martha Roby'''
+|39,169
+|60.02
+|-
+|Republican
+|Rick Barber
+|26,091
+|39.98
+|}
+{| class="wikitable"
+|-
+! colspan="4" |Alabama 2nd Congressional District Election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Republican
+|'''Martha Roby'''
+|111,645
+|50.97
+|-
+|Democratic
+|Bobby Bright
+|106,865
+|48.79
+|-
+|Write-ins
+|Write-ins
+|518
+|0.24
+|}
+{| class="wikitable"
+|-
+! colspan="4" |Alabama 2nd Congressional District Election, 2012
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Republican
+|'''Martha Roby (inc.)'''
+|180,591
+|63.60
+|-
+|Democratic
+|Therese Ford
+|103,092
+|36.31
+|-
+|Write-ins
+|Write-ins
+|270
+|0.10
+|}
+{| class="wikitable"
+|-
+! colspan="4" |Alabama 2nd Congressional District Election, 2014
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Republican
+|'''Martha Roby (inc.)'''
+|113,103
+|67.34
+|-
+|Democratic
+|Erick Wright
+|54,692
+|32.56
+|-
+|Write-ins
+|Write-ins
+|157
+|0.09
+|}
+{| class="wikitable"
+|-
+! colspan="4" |Alabama 2nd Congressional District Republican Primary Election, 2016
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Republican
+|'''Martha Roby (inc.)'''
+|78,689
+|66.37
+|-
+|Republican
+|Becky Gerritson
+|33,015
+|27.85
+|-
+|Republican
+|Robert "Bob" Rogers
+|6,856
+|5.78
+|}
+{| class="wikitable"
+|-
+! colspan="4" |Alabama 2nd Congressional District General Election, 2016
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Republican
+|'''Martha Roby (inc.)'''
+|134,886
+|49
+|-
+|Democratic
+|Nathan Mathis
+|112,089
+|41
+|-
+|No Party
+|Write Ins
+|29,609
+|10
+|}
+
+==See also==
+* [[Women in the United States House of Representatives]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://roby.house.gov/ Congresswoman Martha Roby] official U.S. House site
+*[http://www.martharoby.com/ Martha Roby for Congress]
+*{{Dmoz|Regional/North_America/United_States/Alabama/Government/Federal/US_House_of_Representatives/Martha_Roby_%5BR-2%5D}}
+* {{CongLinks | congbio=R000591 | votesmart=71604 | fec=H0AL02087 | congress=martha-roby/R000591 }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Bobby Bright]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from Alabama|U.S. House of Representatives]]<br>from [[Alabama's 2nd congressional district]]|years=2011–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Cedric Richmond]]<br>D-[[Louisiana]]}}
+{{s-ttl|title=[[Seniority in the United States House of Representatives|United States Representatives by seniority]]|years=226th}}
+{{s-aft|after=[[Todd Rokita]]<br>R-[[Indiana]]}}
+{{s-end}}
+
+{{AL-FedRep}}
+{{USHouseCurrent}}
+{{USCongRep-start|congresses= 112th–115th [[United States Congress]]es |state=[[Alabama]]}}
+{{USCongRep/AL/112}}
+{{USCongRep/AL/113}}
+{{USCongRep/AL/114}}
+{{USCongRep/AL/115}}
+{{USCongRep-end}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Roby, Martha}}
+[[Category:1976 births]]
+[[Category:21st-century American politicians]]
+[[Category:21st-century women politicians]]
+[[Category:Alabama lawyers]]
+[[Category:Alabama Republicans]]
+[[Category:American Presbyterians]]
+[[Category:American women lawyers]]
+[[Category:Cumberland School of Law alumni]]
+[[Category:Female members of the United States House of Representatives]]
+[[Category:Living people]]
+[[Category:Members of the United States House of Representatives from Alabama]]
+[[Category:Steinhardt School of Culture, Education, and Human Development alumni]]
+[[Category:Montgomery, Alabama City Council members]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:Women in Alabama politics]]
+[[Category:Women city councillors in the United States]]

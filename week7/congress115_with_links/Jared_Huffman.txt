@@ -1,0 +1,434 @@
+{{update|date=February 2015}}
+{{Use mdy dates|date=June 2018}}
+{{infobox officeholder
+|name            = Jared Huffman
+|image           = Jared Huffman official photo.png
+|state           = [[California]]
+|district        = {{ushr|CA|2|2nd}}
+|term_start      = January 3, 2013
+|term_end        = 
+|predecessor     = [[Wally Herger]]
+|successor       = 
+|state_assembly1 = California
+|district1       = [[California's 6th State Assembly district|6th]]
+|term_start1     = December 4, 2006
+|term_end1       = November 30, 2012
+|predecessor1    = [[Joseph Nation|Joe Nation]]
+|successor1      = [[Beth Gaines]]
+|birth_name      = Jared William Huffman
+|birth_date      = {{birth date and age|1964|2|18}}
+|birth_place     = [[Independence, Missouri]], U.S.
+|death_date      = 
+|death_place     = 
+|party           = [[Democratic Party (United States)|Democratic]]
+|spouse          = Susan Huffman
+|children        = 2
+|education       = [[University of California, Santa Barbara]] ([[Bachelor of Arts|BA]])<br>[[Boston College]] ([[Juris Doctor|JD]])
+|website         = {{url|huffman.house.gov|House website}}
+}}
+'''Jared William Huffman''' (born February 18, 1964) is an American politician who has been the [[United States House of Representatives|U.S. Representative]] for [[California's 2nd congressional district]] since 2013. He is a member of the [[Democratic Party (United States)|Democratic Party]].
+
+From 2006 to 2012, Huffman was a member of the [[California State Assembly]], representing the [[California's 6th State Assembly district|6th district]]. Huffman chaired the Assembly Water, Parks & Wildlife Committee and also chaired the Assembly Environmental Caucus. He was elected to Congress in November 2012 with more than 70% of the vote, defeating Republican candidate Dan Roberts.<ref name=marinij>{{cite news|last=Halstead |first=Richard |title=Assemblyman Jared Huffman easily defeats Roberts |url=http://www.marinij.com/election/ci_21943933/assemblyman-jared-huffman-takes-early-big-lead-after |newspaper=Marin Independent Journal |accessdate=November 7, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130401031709/http://www.marinij.com/election/ci_21943933/assemblyman-jared-huffman-takes-early-big-lead-after |archivedate=April 1, 2013 }}</ref> His congressional district covers the North Coast from the [[Golden Gate Bridge]] to the [[Oregon]] border.
+
+==Early life, education, and legal career==
+Huffman graduated from [[William Chrisman High School]] in 1982 and later received his [[Bachelor of Arts]] in Political Science ''[[magna cum laude]]'' from [[University of California, Santa Barbara]], where he was a member of the [[Phi Delta Theta|Phi Delta Theta Fraternity]]. At UCSB, Huffman was a three-time All-American volleyball player. Huffman was a member of the [[USA Volleyball]] Team in 1987 when the team was ranked #1 in the world and had recently won the World Championship. He went on to graduate ''cum laude'' from [[Boston College Law School]] in 1990.<ref name="House Bio">{{Cite web|title = Full Biography|url = https://huffman.house.gov/about/full-biography|publisher = Congressman Jared Huffman|accessdate = December 11, 2015}}</ref>
+
+Huffman became a consumer attorney specializing in public interest cases. Among his court victories was a case on behalf of the [[National Organization for Women]], which required all [[California State University]] campuses to comply with [[Title IX]].<ref>{{Cite web|title = Board Members|url = http://www.cvfpb.ca.gov/members/bio-AssemblyJaredHuffman.cfm|publisher=Central Valley Flood Protection Board |accessdate = December 11, 2015|deadurl = yes|archiveurl = https://web.archive.org/web/20151222082230/http://www.cvfpb.ca.gov/members/bio-AssemblyJaredHuffman.cfm|archivedate = December 22, 2015|df = mdy-all}}</ref> Huffman was a senior attorney for the [[Natural Resources Defense Council]]. He was also a publicly elected director of the [[Marin Municipal Water District]] for twelve years, including three terms as board president.<ref name="House Bio" />
+
+==California State Assembly==
+
+===Elections===
+Huffman won the [[Democratic Party (United States)|Democratic]] nomination for the 6th district in a hotly contested [[primary election|primary]] in June 2006 in which he surprised the political establishment with a victory over opponents Pamela Torliatt, a [[Petaluma, California|Petaluma]] city councilwoman, and Cynthia Murray, a Marin County Supervisor who was initially considered the frontrunner. Huffman also defeated Assistant State Attorney General Damon Connelly, [[Marin County]] Democratic Chairman John Alden, and [[sociologist]] Alex Easton-Brown.
+
+Huffman defeated Republican opponent Dr. Michael Hartnett by a more than 2:1 margin in the general election on November 7, 2006.
+
+Huffman faced two opponents in the November 2008 general election: Republican Paul Lavery and Libertarian Timothy Hannan. He won with 70% of the vote and the 137,873 votes he received were among the most by any California Assembly candidate in 2008. In the [[Democratic Party (United States)|Democratic]] [[primary election|primary]], Huffman was unopposed and received 57,213 votes—the most of any California Assemblymember in that election.
+
+In the [[California state elections, June 2010|June 2010 California primary]], Huffman easily defeated<ref name="marinij.com">{{cite news |author=Richard Halstead |title=Huffman leads comfortably in early returns |url=http://www.marinij.com/ci_15256613 |newspaper=Marin Independent Journal |date=June 8, 2010 |accessdate=March 10, 2013}}</ref> a fellow Democratic challenger Patrick Connally.<ref>[http://www.sonomanews.com/news/article_b7a29aee-6f80-11df-9634-001cc4c002e0.html Huffman faces challenger in Democratic race] ''Sonoma Index-Tribune'' (June 3, 2010) {{webarchive |url=https://web.archive.org/web/20100606084455/http://www.sonomanews.com/news/article_b7a29aee-6f80-11df-9634-001cc4c002e0.html |date=June 6, 2010 }}</ref> Huffman faced Republican nominee Robert Stephens in the November 2010 general election.<ref name="marinij.com"/> He won overwhelmingly with more than 70% of the vote—the highest winning margin of any candidate on the ballot in the North Bay that year. Due to California [[term limit]]s, Huffman would have been unable to seek a fourth Assembly term in 2012.
+
+===Tenure===
+In his first four years as a legislator, Huffman authored and passed more than 40 pieces of legislation.<ref>[https://web.archive.org/web/20080704140149/http://democrats.assembly.ca.gov/members/a06/leg.aspx assembly.ca.gov]</ref>
+
+In 2008, Huffman sponsored a bill (AB 2950), which he wrote with internet attorney [[Daniel Balsam]] that aimed to close what its proponents characterized as loopholes in the [[CAN-SPAM Act of 2003|CAN-SPAM]] Act which made it more difficult to bring lawsuits against deceptive spammers.<ref name="SFCron2">{{cite news |author=Deborah Gage |date=April 18, 2008 |url=http://articles.sfgate.com/2008-04-18/business/17145605_1_anti-spam-law-spammers-spam-filters |title=Bill toughening anti-spam law in works |newspaper=San Francisco Chronicle |accessdate=March 10, 2013}}</ref> Although the bill passed the State Assembly and Senate, Governor [[Arnold Schwarzenegger]] [[veto]]ed the bill.<ref>{{cite news |author=Nancy Isles Nation |date=August 18, 2008 |url=http://www.marinij.com/sanrafael/ci_10239134?source=rss |title=Huffman's anti-spam bill passes |newspaper=[[Marin Independent Journal]] |accessdate=March 10, 2013}}</ref><ref>{{cite news |author=Shane Goldmacher |date=October 1, 2008 |url=http://blogs.sacbee.com/capitolalertlatest/2008/10/billwatch-actio.html |title=BillWatch: Action on the final bills |publisher=[[The Sacramento Bee]] Capitol Alert blog |accessdate=March 10, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130225001711/http://blogs.sacbee.com/capitolalertlatest/2008/10/billwatch-actio.html |archivedate=February 25, 2013 |df=mdy-all }}</ref> On February 14, 2011, Jared Huffman cosponsored a bill with [[Paul Fong]], California Assembly Bill 376, to make it illegal to possess, distribute, or sell shark fins, unless for research or commercial purposes.<ref name="billtext1">{{cite web |url=http://legiscan.com/CA/text/AB376/id/168279 |title=Bill Text: CA AB376 #124; 2011-2102 &#124; Regular Session &#124; Introduced | publisher=legiscan.com |accessdate=March 10, 2013}}</ref>
+
+===Committee assignments===
+Upon his swearing-in on December 4, 2006, Assembly Speaker [[Fabian Núñez]] immediately named Huffman the Chairman of the Committee on Environmental Safety and Toxic Materials. In August 2008, the new Assembly Speaker [[Karen Bass]] named Huffman to Chair the Water, Parks & Wildlife Committee.
+
+==U.S. House of Representatives==
+[[File:Jared Huffman, Official portrait, 113th Congress.jpg|thumb|Official 113th session photo]]
+
+===2012 election===
+{{Main|United States House of Representatives elections in California, 2012}}
+After 20-year Democratic incumbent [[Lynn Woolsey]] announced her retirement, Huffman entered the race to run for her seat in [[California's 2nd congressional district|the 2nd District]], which had been renumbered from the 6th in redistricting.<ref>{{cite web|url=http://www.jaredhuffman.com/pressroom |title=Campaign News and Updates |accessdate=February 5, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20140102064154/http://jaredhuffman.com/pressroom |archivedate=January 2, 2014 }}</ref> California's 2nd congressional district now covers six counties: [[Marin County, California|Marin]], [[Sonoma County, California|Sonoma]], [[Mendocino County, California|Mendocino]], [[Trinity County, California|Trinity]], [[Humboldt County, California|Humboldt]], and [[Del Norte County, California|Del Norte]].
+ 
+Huffman finished first in the top-two primary with 37% of the vote.<ref>{{cite web |url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=729483 |title=CA - District 02 - Open Primary |publisher=Our Campaigns |date=July 13, 2013 |accessdate=March 10, 2013}}</ref> In November, Huffman defeated Republican candidate Dan Roberts 71%–29%.<ref>{{cite web |url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=768475 |title=CA - District 02 |publisher=Our Campaigns |date=December 14, 2012 |accessdate=March 10, 2013}}</ref><ref>{{cite news |last=Halstead |first=Richard |title=Assemblyman Jared Huffman easily defeats Roberts |url=http://www.marinij.com/sanrafael/ci_21943933?source=pkg |archive-url=https://archive.is/20130128081450/http://www.marinij.com/sanrafael/ci_21943933?source=pkg |dead-url=yes |archive-date=January 28, 2013 |newspaper=Marin Independent Journal |accessdate=December 4, 2012}}</ref>
+
+===Subsequent elections===
+In his first re-election campaign in 2014, Huffman dominated the open primary, receiving 67.9% of the vote against 22.3% for second-place finisher Dale Mensing, a Republican. Huffman went on to defeat Mensing in the fall general election by 75 to 25%.<ref>{{cite web|title=General Election - Statement of Vote - November 4, 2014|url=http://elections.cdn.sos.ca.gov/sov/2014-general/pdf/43-congress.pdf|publisher=California Secretary of State|accessdate=November 10, 2016}}</ref> The 2016 results were similar, with Huffman receiving 68.3% of the primary vote against 15.7% for Mensing, who again finished second, and defeating Mensing in the general election by 76.5% to 23.5%.<ref>{{cite news |last1=Kovner|first1=Guy|title=Mike Thompson, Jared Huffman easily win re-election to Congress|url=http://www.pressdemocrat.com/news/6259710-181/thompson-huffman-heading-for-re-election?artslide=1|newspaper=Santa Rosa Press Democrat|date=November 8, 2016 |accessdate=November 10, 2016}}</ref> In the June 2018 open primary, Huffman received 72.5% of the vote; Mensing finished second with 20.9%;<ref>{{Cite web|url=http://elections.cdn.sos.ca.gov/sov/2018-primary/sov/2018-complete-sov.pdf|title=2018 Statement of Vote - June 5, 2018|last=|first=|date=|website=California Secretary of State|archive-url=|archive-date=|dead-url=|access-date=September 5, 2018}}</ref> the two will again face each other in November 2018.
+
+===Tenure===
+In April 2018, Huffman, together with [[Jerry McNerney]], [[Jamie Raskin]], and [[Dan Kildee]], launched the [[Congressional Freethought Caucus]]. Its stated goals include "pushing public policy formed on the basis of reason, science, and moral values", promoting the "separation of church and state," opposing discrimination against "atheists, agnostics, humanists, seekers, religious and nonreligious persons", among others. Huffman and Raskin will act as co-chairs.<ref>{{cite news|url=http://thehill.com/homenews/house/385573-dem-reps-launch-congressional-freethought-caucus|title=Dem lawmakers launch 'Freethought' congressional caucus|last1=Manchester|first1=Julia|newspaper=The Hill|accessdate=April 30, 2018}}</ref>
+
+===Proposed legislation===
+The following is a partial list of legislation introduced by Huffman.
+*[[California Coastal National Monument Expansion Act of 2013]] – a bill that "would expand the boundary of the [[California Coastal National Monument]] to include 1,255 acres of federal land known as the Point Arena-Stornetta public lands; the new land is currently managed by the [[Bureau of Land Management]] (BLM) and the bill would require the BLM to manage that land as part of the [[National Landscape Conservation System]]."<ref name="cbo1411">{{cite web|url=http://www.cbo.gov/publication/44373|title=CBO - H.R. 1411|publisher=Congressional Budget Office|accessdate=July 22, 2013}}</ref> The bill was freshman Congressman Huffman's first bill to be passed.<ref name="dailykos1">{{cite news|url=http://www.dailykos.com/story/2013/07/22/1225762/-CA-Freshman-Congressman-gets-very-First-House-Bill-passed-by-113th#|title=CA Freshman Congressman gets First House Bill passed by 113th!.. protecting environment yet.|last=LOrion|date=July 22, 2013|newspaper=Daily Kos|accessdate=July 23, 2013}}</ref><ref name="PRhuffman1">{{cite web|url=http://huffman.house.gov/media-center/press-releases/house-of-representatives-passes-congressman-huffman-s-first-bill|title=House of Representatives Passes Congressman Huffman's First Bill|publisher=Representative Huffman's Office|accessdate=July 23, 2013}}</ref>
+
+===Opposed legislation===
+*[[Preventing Government Waste and Protecting Coal Mining Jobs in America]] – is a bill that would "amend the [[Surface Mining Control and Reclamation Act of 1977]] to require state programs for regulation of [[Surface mining|surface coal mining]] to incorporate the necessary rule concerning excess spoil, coal mine waste, and buffers for perennial and intermittent streams published by the Office of Surface Mining Reclamation and Enforcement on December 12, 2008."<ref name="2824sum">{{cite web|url=http://beta.congress.gov/bill/113th-congress/house-bill/2824|title=H.R. 2824 - Summary|publisher=United States Congress|accessdate=February 28, 2014}}</ref> Huffman opposed the bill, arguing that it should be opposed because the supporters "believe coal companies should be allowed to blow the tops off mountains and dump the waste into streams, no matter what the science says about the consequence for our environment and the public health."<ref name="EcoWatchBeans">{{cite news|url=http://ecowatch.com/2013/08/08/republicans-fight-for-mountaintop-removal-coal-mining/|title=House Republicans Use Fear Mongering In Fight for Mountaintop Removal Coal Mining|last=Beans|first=Laura|date=August 8, 2013|newspaper=EcoWatch|accessdate=March 5, 2014}}</ref>
+*[[Water Rights Protection Act]] – a bill that would prevent federal agencies from requiring certain entities to relinquish their water rights to the United States in order to use [[public lands]].<ref name="3189cbo">{{cite web|url=http://www.cbo.gov/publication/44956|title=H.R. 3189 - CBO|publisher=Congressional Budget Office|accessdate=March 11, 2014}}</ref> The bill was a reaction to the [[United States Forest Service]]'s decision to pursue a "new regulation to demand that water rights be transferred to the federal government as a condition for obtaining permits needed to operate 121 ski resorts that cross over federal lands."<ref name="COtiptonbill">{{cite news|url=http://thecoloradoobserver.com/2013/10/tipton-bill-seeks-to-stop-feds-from-trampling-water-rights/|title=Tipton Bill Seeks to Stop Feds from Trampling Water Rights|last=Hudson|first=Audrey|date=October 11, 2013|newspaper=The Colorado Observer|accessdate=March 12, 2014}}</ref> Huffman opposed the bill and accused the House Natural Resources Subcommittee on Water and Power of being unnecessarily "adversarial" and having "unfairly vilified" the Forest Service after a committee hearing about the bill.<ref name="COtiptonbill"/>
+
+===Committee assignments===
+
+*'''[[United States House Committee on Transportation and Infrastructure|Committee on Transportation and Infrastructure]]'''
+*'''[[United States House Committee on Natural Resources|Committee on Natural Resources]]'''
+**[[United States House Natural Resources Subcommittee on Energy and Mineral Resources|Subcommittee on Energy and Mineral Resources]]
+**[[United States House Natural Resources Subcommittee on Water and Power|Subcommittee on Water and Power]]
+**[[United States House Natural Resources Subcommittee on Public Lands and Environmental Regulation|Subcommittee on Public Lands and Environmental Regulation]]
+
+===Caucus memberships===
+
+*[[Congressional Progressive Caucus]]<ref>{{cite web|title=Caucus Members|author=|url=https://cpc-grijalva.house.gov/index.cfm?sectionid=71&sectiontree=2,71|format=|publisher=Congressional Progressive Caucus|date=|accessdate=January 30, 2018}}</ref>
+*'''[[Congressional Arts Caucus]]'''<ref>{{cite web|title=Membership|author=|url=https://artscaucus-slaughter.house.gov/membership|format=|publisher=Congressional Arts Caucus|date=|accessdate=March 13, 2018}}</ref>
+*'''[[Congressional Freethought Caucus]]'''
+
+== Personal life ==
+Huffman lives in [[San Rafael, California|San Rafael]] with his wife Susan and their two children, a daughter, Abigail (born c. 2000) and a son, Nathan (born c. 2003).<ref>{{cite web |url=http://www.jaredhuffman.com/about/ |title=Congressman Jared Huffman (D-San Rafael) |publisher=jaredhuffman.com |accessdate=March 10, 2013}}</ref>
+
+Huffman's hobby is [[winemaking]].<ref>{{cite book |title=2014 Almanac of American Politics |last2=Barone |first2=Chuck |last1=McCutcheon|first1=Michael |publisher=The University of Chicago Press |year= 2013}}</ref>
+
+In an interview with ''[[The Washington Post]]''{{'}}s Michelle Boorstein published November 9, 2017, Huffman stated "I suppose you could say I don't believe in God."<ref>{{cite news |author=Michelle Boorstein |date=November 9, 2017 |url=https://www.washingtonpost.com/news/acts-of-faith/wp/2017/11/09/this-lawmaker-is-skeptical-that-god-exists-now-hes-finally-decided-to-tell-people/ |title=This lawmaker isn't sure that God exists. Now, he's finally decided to tell people. |newspaper=The Washington Post |accessdate=November 11, 2017}}</ref> Huffman stopped short of saying he was an [[atheist]] but rather describes himself as a non-religious [[humanist]].<ref>{{ cite news |author=David Ferguson |date=November 9, 2017 |url=https://www.rawstory.com/2017/11/congressman-jared-huffman-comes-out-as-a-non-believer-and-rips-trumps-phony-religious-pandering |title=Congressman Jared Huffman comes out as a non-believer — and rips Trump's phony religious pandering |publisher=The Raw Story |accessdate=November 11, 2017}}</ref>
+
+== Electoral history ==
+{| class="wikitable"
+! colspan="4" |California Assembly 6th District Democratic Primary Election, 2006
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman'''
+|22,544
+|32.5
+|-
+|Democratic
+|Pamela Torliatt
+|19,518
+|28.2
+|-
+|Democratic
+|Cynthia Murray
+|12,617
+|18.2
+|-
+|Democratic
+|Damon Connolly
+|8,470
+|12.1
+|-
+|Democratic
+|John Alden
+|5,150
+|7.4
+|-
+|Democratic
+|Alex Easton-Brown
+|1,135
+|1.6
+|}
+{| class="wikitable"
+! colspan="4" |California Assembly 6th District Election, 2006
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman'''
+|106,589
+|65.9
+|-
+|Republican
+|Michael Hartnett
+|43,864
+|27.1
+|-
+|Green
+|Cat Woods
+|6,922
+|4.3
+|-
+|Libertarian
+|Richard Olmstead
+|4,519
+|2.7
+|}
+{| class="wikitable"
+! colspan="4" |California Assembly 6th District Election, 2008
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman (inc.)'''
+|145,142
+|69.5
+|-
+|Republican
+|Paul Lavery
+|50,053
+|24.0
+|-
+|Libertarian
+|Timothy Hannan
+|13,790
+|6.5
+|}
+{| class="wikitable"
+! colspan="4" |California Assembly 6th District Democratic Primary Election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman (inc.)'''
+|53,534
+|81.8
+|-
+|Democratic
+|Patrick Connally
+|11,938
+|18.2
+|}
+{| class="wikitable"
+! colspan="4" |California Assembly 6th District Election, 2010
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman (inc.)'''
+|119,753
+|70.5
+|-
+|Republican
+|Bob Stephens
+|50,218
+|29.5
+|}
+{| class="wikitable"
+! colspan="4" |California 2nd Congressional District Primary Election, 2012
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman'''
+|63,922
+|37.5
+|-
+|Republican
+|'''Daniel Roberts'''
+|25,635
+|15.0
+|-
+|Democratic
+|Norman Solomon
+|25,462
+|14.9
+|-
+|Democratic
+|Stacey Lawson
+|16,946
+|9.9
+|-
+|Democratic
+|Susan Adams
+|14,041
+|8.2
+|-
+|Republican
+|Mike Halliwell
+|10,008
+|5.9
+|-
+|Independent
+|Brooke Clarke
+|3,715
+|2.2
+|-
+|Democratic
+|Tiffany Renée
+|3,033
+|1.8
+|-
+|Independent
+|John Lewallen
+|2,488
+|1.5
+|-
+|Democratic
+|William Courtney
+|2,385
+|1.4
+|-
+|Democratic
+|Andy Caffrey
+|1,737
+|1.0
+|-
+|Democratic
+|Larry Fritzlan
+|1,151
+|0.7
+|}
+{| class="wikitable"
+! colspan="4" |California 2nd Congressional District Election, 2012
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman'''
+|226,216
+|71.2
+|-
+|Republican
+|Daniel Roberts
+|91,310
+|28.8
+|}
+{| class="wikitable"
+! colspan="4" |California 2nd Congressional District Primary Election, 2014
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman (inc.)'''
+|99,186
+|67.9
+|-
+|Republican
+|'''Dale Mensing'''
+|32,614
+|22.3
+|-
+|Democratic
+|Andy Caffrey
+|14,245
+|9.8
+|}
+{| class="wikitable"
+! colspan="4" |California 2nd Congressional Election, 2014
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman (inc.)'''
+|163,124
+|75.0
+|-
+|Republican
+|Dale Mensing
+|54,400
+|25.0
+|}
+{| class="wikitable"
+! colspan="4" |California 2nd Congressional District Primary Election, 2016
+|-
+|'''Party'''
+|'''Candidate'''
+|'''Votes'''
+|'''%'''
+|-
+|Democratic
+|'''Jared Huffman (inc.)'''
+|157,897
+|68.3
+|-
+|Republican
+|Dale Mensing
+|36,187
+|15.7
+|-
+|Democratic
+|Erin Schrode
+|20,998
+|9.1
+|-
+|Independent
+|Matthew Robert Wookey
+|16,092
+|7.0
+|-
+|Democratic/Write-in
+|Andrew Augustine Caffrey
+|6
+|0.0
+|}
+
+==References==
+{{Reflist|2}}
+{{commons category|Jared Huffman}}
+
+==Further reading==
+* {{cite news |author=Jim Wood |url=http://www.marinmagazine.com/Marin-Magazine/March-2009/Jared-Huffman/ |work=Marin Magazine |title=Jared Huffman |date=March 2009 |accessdate=March 10, 2013}}
+
+==External links==
+*[https://huffman.house.gov/ Congressman Jared Huffman] official U.S. House website
+*[http://www.jaredhuffman.com/ Jared Huffman for Congress]
+*{{Dmoz|Regional/North_America/United_States/California/Government/Federal/US_House_of_Representatives/Jared_Huffman_%5BD-02%5D}}
+* {{CongLinks | congbio=H001068 | votesmart=59849 | fec=H2CA06259 | congress=jared-huffman/H001068 }}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Wally Herger]]}}
+{{s-ttl|title=Member of the [[List of United States Representatives from California|U.S. House of Representatives]]<br>from [[California's 2nd congressional district]]|years=2013–present}}
+{{s-inc}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Richard Hudson (U.S. politician)|Richard Hudson]]<br>R-[[North Carolina]]}}
+{{s-ttl|title=[[List of current members of the United States House of Representatives by seniority|United States Representatives by seniority]]|years=268th}}
+{{s-aft|after=[[Hakeem Jeffries]]<br>D-[[New York (state)|New York]]}}
+{{s-end}}
+
+{{CA-FedRep}}
+{{USHouseCurrent}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Huffman, Jared}}
+[[Category:1964 births]]
+[[Category:American agnostics]]
+[[Category:American men's volleyball players]]
+[[Category:American humanists]]
+[[Category:Boston College Law School alumni]]
+[[Category:California Democrats]]
+[[Category:California lawyers]]
+[[Category:Democratic Party members of the United States House of Representatives]]
+[[Category:Living people]]
+[[Category:Members of the California State Assembly]]
+[[Category:Members of the United States House of Representatives from California]]
+[[Category:Politicians from Independence, Missouri]]
+[[Category:People from San Rafael, California]]
+[[Category:UC Santa Barbara Gauchos men's volleyball players]]
+[[Category:University of California, Santa Barbara alumni]]
+[[Category:21st-century American politicians]]
