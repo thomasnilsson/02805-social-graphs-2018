@@ -1,3 +1,4 @@
 yelp_dataset/
 cleaned/
-**/*.csv
+**/*.json
+toronto/toronto_reviews.csv
