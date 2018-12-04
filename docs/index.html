@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>NYC Motor Vehicle Collisions</title>
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+	<!-- Prevents stupid favicon error in JS Console -->
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/custom.css">
+	<link rel="stylesheet" href="css/md/github-markdown.css">
+</head>
+
+<body>
+
+	<article class="markdown-body" style="width: 1500px">
+		<h1>Data Story</h1>
+		<p>Link to GitHub Repository:
+			<a href="https://github.com/thomasnilsson/02806/tree/master/PROJECT">thomasnilsson/02806/tree/master/PROJECT</a>
+		</p>
+		<p>
+			Link to Explainer Page:
+			<a href="https://thomasnilsson.github.io/02806/PROJECT/explainer.html">Explainer page</a>
+		</p>
+
+		<h2>Are most of the collisions in the New York City caused by tired drivers coming back from work?</h2>
+
+		<p>
+			More than 8 million people live in New York City, which consists of 5 five boroughs – Brooklyn, Queens, Manhattan, Bronx,
+			and Staten Island. In movies, NYC is always portrayed as a city full of busy people who are all in a hurry, crowded streets,
+			heavy traffic, and aggressive taxi drivers. Every year, thousands of accidents occur due to a multitude of contributing
+			factors. Are the drunk drivers causing them the most? Where do the most accidents happen? What time of the day? Why? Do
+			certain areas get more dangerous at certain time of the year? Let’s find answers for those questions using visualisations
+			presented in this article.
+
+		</p>
+		<p>
+			We used NYPD's Motor Vehicle Collisions dataset which is provided by the NYC Open Data repository. This dataset was created
+			for the Vision Zero initiative, which is a multi-national road traffic safety project that aims at decreasing the number
+			of fatalities or serious injuries involving road traffic. The dataset has about 1,240k rows with 29 observations ranging
+			from July 2012 to April 2018.
+
+		</p>
+		<p>
+			Firstly, let’s have a look at how collisions are distributed over the area of NYC during last 6 years. Where are the most
+			dangerous spots? The choropleth below presents accident distribution over zip codes, allowing us look at a specific period
+			of time. At first glance we can see, that the main points are: East New York (Brooklyn), Dumbo (Brooklyn), Long Island
+			City (Brooklyn) or Midtown (Manhattan). What can be the cause? Those are areas where the population is very high or very
+			poor neighbourhoods with poor infrastructure
+			<a href="https://www.forbes.com/sites/scottwinship/2014/06/05/new-york-citys-poor-neighborhoods-tale-of-two-cities/#41ca8ab1281a">
+			[1]</a>.
+
+		</p>
+		<p>
+			You may be wondering when traffic accidents are more likely to happen - during night when the lighting may be poor, and more
+			drunk drivers are on the roads? Or in the morning, when people are commuting to work, sleepy and likely stressed out trying
+			to arrive at work on time?
+
+		</p>
+		<p>
+			The histograms show a distribution of collisions as well as fatalities (grouped by victims: car drivers, cyclists, pedestrians)
+			over a day. Clearly, the number of accidents starts to climb as the city is waking up around 7 AM. Moreover, it turns
+			out, that the distribution of accidents generally does not peak in the morning, but rather in the late afternoon around
+			4-5 PM - why is this so? A typical employee works from 9 to 5, meaning that a disproportionate number of people will be
+			commuting back from work around 5, probably very tired, and thus vulnerable to potential distractions. Are distractions
+			indeed one of the most important causes of collisions?
+
+		</p>
+		<p>
+			The barchart named <i>"Frequently Reported Causes for Motor Vehicle Incidents (2012-2018)"</i> describes the distribution of accidents by contributing factors. It turns out, that the majority of causes
+			are not drunk drivers, but tired, overworked people getting back from work. They are getting distracted very easily,
+			which increases the risk of being involved in a collision.
+		</p>
+
+
+
+		<p>
+			Finally, we found that generally the larger the population of a borough, the more accidents were likely to occur. Although,
+			the traffic in NYC grows slightly each year, the trend of accidents over the past few years does not seem to decrease
+			or increase, which can be a good sign. Nevertheless, it seems that tired people getting back from work are the main reason
+			for many accidents. Shall we suggest Vision Zero to focus on those people? Help them somehow?
+
+		</p>
+		<h3>References</h3>
+		<p>
+			<a href="https://www.forbes.com/sites/scottwinship/2014/06/05/new-york-citys-poor-neighborhoods-tale-of-two-cities/#41ca8ab1281a">[1] Forbes, Jun 5, 2014</a>
+		</p>
+
+	</article>
+
+	<article class="markdown-body" style="width: 1500px">
+		<h1>Interactive Visualisations</h1>
+	</article>
+
+
+	<div align="center">
+		<h3>Selected Period:
+			<i>
+				<span id="period" />
+			</i>
+		</h3>
+		<h5>
+			<b>Tip:</b>
+			<i>Brush the timeline to select a period.</i>
+		</h5>
+		<a href="https://raw.githubusercontent.com/thomasnilsson/02806/master/PROJECT/data/data_timeline.csv?token=AJB0p0dGeLoR1NNrZlPG_panW2tC6-6Dks5bAe-gwA%3D%3D">Download Timeline Dataset</a>
+		<!-- TIMELINE PLOT -->
+		<div id="containerTimeline">
+		</div>
+
+
+
+		<!-- CHOROPLETH GEOJSON PLOT -->
+		<div id="containerGeo" style="display:inline-block;">
+			<h5>
+				<b>Tip:</b>
+				<i>Hover over a zip-code to view stats.</i>
+			</h5>
+			<a href="https://raw.githubusercontent.com/thomasnilsson/02806/master/PROJECT/data/zipcodes.geojson?token=AJB0p01QOVur6zKClay8ilkzd42TdAc5ks5bAe-jwA%3D%3D">Download GeoJSON Dataset</a>
+			<p></p>
+			<!-- TOOLTIP: CHOROPLETH -->
+			<div class="tooltip" id="tooltipChoropleth" class="hidden">
+				<strong>
+					<p>Incidents:
+						<span id="incidentCount" />
+				</strong>
+				</p>
+				<p>Zip Code:
+					<span id="zipCode" />
+				</p>
+				<p>Borough:
+					<span id="borough" />
+				</p>
+			</div>
+		</div>
+
+
+		<!-- HISTOGRAMS -->
+		<div style="display:inline-block;">
+			<h5>
+				<b>Tip:</b>
+				<i>Hover over a bar to view stats.</i>
+			</h5>
+
+			<!-- HISTOGRAM: INJURED/KILLED -->
+			<a href="https://raw.githubusercontent.com/thomasnilsson/02806/master/PROJECT/data/data_injured_histogram.csv?token=AJB0p-ApdKqx5NvYY88GCSfp9CI_y0n1ks5bAfAYwA%3D%3D">Download Injured/Killed Dataset</a>
+
+			<div id="containerHistogram"></div>
+
+			<!-- TOOLTIP: INJURED/KILLED -->
+			<div class="tooltip" id="tooltipInjured" class="hidden">
+				<strong>
+					<p>Time of Day
+						<span id="hourOfDayInjured" />
+				</strong>
+				<strong>
+					<p>Motorists:
+						<span id="motorists" />
+				</strong>
+				<strong>
+					<p>Pedestrians:
+						<span id="pedestrians" />
+				</strong>
+				<strong>
+					<p>Cyclists:
+						<span id="cyclists" />
+				</strong>
+
+				</p>
+			</div>
+
+			<!-- HISTOGRAM: INCIDENT COUNTS -->
+			<h5>
+				<b>Tip:</b>
+				<i>Hover over a bar to view stats.</i>
+			</h5>
+			<a href="https://raw.githubusercontent.com/thomasnilsson/02806/master/PROJECT/data/data_incident_histogram.csv?token=AJB0p3ncGtLRBog5KwLENZtkt9Yp-Ndnks5bAe-KwA%3D%3D">Download Incident Dataset</a>
+			<div id="incidentCountBox"></div>
+			<!-- TOOLTIP: INCIDENT COUNTS -->
+			<div class="tooltip" id="tooltipIncident" class="hidden">
+				<strong>
+					<p>Time of Day
+						<span id="hourOfDayIncident" />
+				</strong>
+				<strong>
+					<p>Incidents:
+						<span id="incidents" />
+				</strong>
+				</p>
+			</div>
+		</div>
+
+	</div>
+	</div>
+	</div>
+
+	<div align="center">
+		<div id="factorsBox"></div>
+	</div>
+		<!-- BARCHART: CONTRIBUTING FACTORS -->
+	<div id="factorsBox" align="center"></div>
+	<p align="center">
+		<a href="https://raw.githubusercontent.com/thomasnilsson/02806/master/PROJECT/data/data_factors.json?token=AJB0pwrPtfo_GIBkZrx3BOd8uU4QBqAZks5bAe6CwA%3D%3D">Download Causes Dataset</a>
+	</p>
+
+</body>
+<script src="js/index.js"></script>
+
+</html>
