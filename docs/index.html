@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Analysis of Yelp 'Elite' Reviewers</title>
+	<title>Analysis of Yelp 'Elite' Reviewers in Toronto</title>
 	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
 	<!-- Prevents stupid favicon error in JS Console -->
@@ -11,12 +11,13 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom.css">
 	<link rel="stylesheet" href="css/md/github-markdown.css">
+
 </head>
 
 <body>
 
 	<article class="markdown-body" style="width: 1500px">
-		<h1>Analysis of Yelp 'Elite' Reviewers</h1>
+		<h1>Analysis of Yelp 'Elite' reviewers in Torontos</h1>
 
 		<p>Link to GitHub Repository:
 			<a href="https://github.com/thomasnilsson/02806/tree/master/PROJECT">thomasnilsson/02806/tree/master/PROJECT</a>
@@ -27,53 +28,65 @@
 		</p>
 
 		<h2>Data Story</h2>
-		<p>
-			Yelp.com is a popular website and mobile app that allows users to both read and post reviews and ratings of
-			restaurants and businesses. It has a substantial user-base consisting of over 130 million visitors per month. The
-			overwhelming majority of users are casual users of the service and mainly use Yelp as a way to finding restaurants
-			based on the reviews of other people. The degree to which casual users contribute to the review economy, so to
-			speak, vary greatly, with the majority, only leaving a couple of reviews in total.
-			<br><br>
-			However, there exists a very particular subset of users of the service which Yelp have named their “Elite” users.
-			According to Yelp, their Elite users are supposed to be a small group of in-the-know users who have a large impact
-			on their local community. For example, Yelp claims that these users reveal the hot spots for fellow locals, serve as
-			city ambassadors, and have sway in the community.
 
+		<h3>Quick Stats</h3>
+		<ul>
+			<li>Period: March 1st, 2008 to August 1st, 2018</li>
+			<li>Reviews: ~380,000</li>
+			<li>Users: ~95,000</li>
+			<li>Elite users hereof: ~7500</li>
+			<li>Restaurants: ~10,000</li>
+		</ul>
+		
+		
+		
+		
+		
+
+
+		<h3>Review Network Analysis</h3>
+		<h4>Review Distributions - Elite vs. Non-elite</h4>
+		<object data="svg" type="image/svg+xml"> <img src="../project1/plots/review_dist.svg" /> </object>
+
+		<h3>Social Network Analysis</h3>
+		<p style='text-align: justify;'>
+			The main part of this project involves analyzing Elite users on Yelp’s social network. The resulting social graph is
+			undirected and rather large, with 95,000 nodes and 380,000 edges. The size of the network means some of our
+			algorithms take an unreasonable amount of time to run, however, we did it anyway!
+
+			The experiment conducted where a 1, 2, 3... Percent of elite users were deleted from the network and where the size
+			of the largest connected component, i.e. the number of nodes was noted down for each iteration. Deleting all elite
+			users ends up in deleting 35% of all connected nodes from the network, even tough elite users only make up 8 percent
+			of the total amount of nodes. Hence, the size of the largest CC drops more than twice as quickly when removing Elite
+			as when removing non-Elite nodes. This tells us that the elite users are the ‘glue’ of the network, for a lack of a
+			better word.
 		</p>
-
-		<h3>The Aim of this Project</h3>
-		<p>
-			The purpose of this project is to investigate the properties of Yelp’s Elite users. For this paper, the focus will
-			lie on Yelp’s two primary claims about their Elite users:
-			<br><br>
-			Yelp states that its Elite users have high connectivity, which means that they are connected with many other users
-			and interact often with members of their Yelp community.
-			<br><br>
-			Yelp claims that its Elite users make up the “true heart of the Yelp community.” Third, Yelp claims that its users
-			have a high contribution, which means that the user has made a large impact on the site with meaningful and
-			high-quality reviews.
-			<br><br>
-			The first goal of our project is to analyze whether the above claims about Yelp’s Elite users are quantifiably
-			valid. For this, we will specify several characteristics which we expect Elite users to have based on these claims.
-			We will then perform analyses on Yelp’s dataset in order to determine whether these properties are truly represented
-			among the Elite users. The secondary goal of our project is to find which properties are most indicative of Elite
-			status on Yelp.
-			<br><br>
-			The analyses for the first goal can be used for this purpose as well. This kind of information may be useful for
-			those who are interested in becoming Elite members on Yelp. In order to become a member of the “Elite Squad,” a user
-			must go through an application process. Despite the suggestions presented above, Yelp doesn’t provide any specific
-			criteria on exactly what characteristics a user must have to become Elite. The mystery behind the selection process
-			for Elite users is well-documented.
-
-		</p>
-
-		<h4>Review Distribution for Elite and Non-elite users</h4>
+		<h4>Degree Distributions</h4>
 		<object data="svg" type="image/svg+xml">
-			<img src="../project1/plots/review_dist.svg" />
+			<img src="../project1/plots/reviews_degree_normal_users.svg" />
+			<img src="../project1/plots/log_reviews_degree_normal_users.svg" />
 		</object>
 
-		<img src="plots/lcc2.png" />
-		<img src="plots/lcc2.png" />
+		<object data="svg" type="image/svg+xml">
+			<img src="../project1/plots/reviews_degree_elite_user.svg" />
+			<img src="../project1/plots/log_reviews_degree_elite_users.svg" />
+		</object>
+
+		
+		<h4>Centrality Measures</h4>
+
+
+		<h4>Communities</h4>
+		<h4>Largest Connected Component</h4>
+		<object data="svg" type="image/svg+xml">
+			<img src="../project1/plots/lcc_plot.svg" />
+		</object>
+
+		
+		
+		<h3>Review Text Analysis</h3>
+
+
 
 		<!-- <object data="svg" type="image/svg+xml">
 			<img src="plots/reviews_degree_normal_users.svg" />
