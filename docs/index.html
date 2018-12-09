@@ -15,9 +15,13 @@
 </head>
 
 <body>
-
 	<article class="markdown-body" style="width: 1500px">
-		<h1>Analysis of Yelp 'Elite' reviewers in Torontos</h1>
+		<div style="margin:auto; overflow: hidden;">
+			<img src="https://www.fasken.com/-/media/805bbcaefeb84072af18d3ce3e0be181.ashxg" alt="">
+		</div>
+
+		<h1>Analysis of Yelp 'Elite' reviewers in Toronto</h1>
+
 
 		<p>Link to GitHub Repository:
 			<a href="https://github.com/thomasnilsson/02806/tree/master/PROJECT">thomasnilsson/02806/tree/master/PROJECT</a>
@@ -27,9 +31,27 @@
 			<a href="https://thomasnilsson.github.io/02806/PROJECT/explainer.html">Explainer page</a>
 		</p>
 
-		<h2>Data Story</h2>
+		<h1>Data Story</h1>
+		The dataset is part of the <a href="https://www.yelp.com/dataset/challenge">YELP dataset challenge 2018</a>
+		and contains YELP review data from the period 2004 to 2018. The vast majority of reviews are in North America,
+		and for this analysis, Toronto, Canada, was the city of choice, in order to shrink down the dataset to a managable
+		size.
 
-		<h3>Quick Stats</h3>
+		<h3>Aim of the Analysis</h3>
+		The purpose of this analysis is to investigate the properties of Yelp’s Elite users. For this paper, the focus will
+		lie on Yelp’s two primary claims about their Elite users:
+
+		<ul>
+			<li>Yelp states that its Elite users have high connectivity, which means that they are connected with many other
+				users
+				and interact often with members of their Yelp community.</li>
+			<li>Yelp claims that its Elite users make up the “true heart of the Yelp community.” Third, Yelp claims that its
+				users
+				have a high contribution, which means that the user has made a large impact on the site with meaningful and
+				high-quality reviews.</li>
+		</ul>
+
+		<h3>Quick Stats for the Toronto Dataset</h3>
 		<ul>
 			<li>Period: March 1st, 2008 to August 1st, 2018</li>
 			<li>Reviews: ~380,000</li>
@@ -37,18 +59,39 @@
 			<li>Elite users hereof: ~7500</li>
 			<li>Restaurants: ~10,000</li>
 		</ul>
-		
-		
-		
-		
-		
 
-
-		<h3>Review Network Analysis</h3>
-		<h4>Review Distributions - Elite vs. Non-elite</h4>
+		<h2>Review Network Analysis</h2>
+		
+		<h3>Review Distributions - Elite vs. Non-elite</h3>
+		Are Elite users more critical in their ratings, compared to regular users?
 		<object data="svg" type="image/svg+xml"> <img src="../project1/plots/review_dist.svg" /> </object>
 
-		<h3>Social Network Analysis</h3>
+		<h2>Social Network Analysis</h2>
+
+		<h3>Degree Distributions</h3>
+		<object data="svg" type="image/svg+xml">
+			<img src="../project1/plots/reviews_degree_normal_users.svg" />
+			<img src="../project1/plots/log_reviews_degree_normal_users.svg" />
+		</object>
+
+		<object data="svg" type="image/svg+xml">
+			<img src="../project1/plots/reviews_degree_elite_user.svg" />
+			<img src="../project1/plots/log_reviews_degree_elite_users.svg" />
+		</object>
+
+
+		<h3>Centrality Measures for the Social Network</h3>
+
+		<p>Avg Degree centrality: 0.0001309198750509749, 2.0479645218151803e-06, 2.667988406768709e-06</p>
+		<p>Avg Eigenvalue centrality: 0.002396526809047232, 9.814012527349727e-05, 0.0001091980403377456</p>
+
+
+		<h3>Communities within the Social Network</h3>
+		<h3>Largest Connected Component</h3>
+		<object data="svg" type="image/svg+xml">
+			<img src="../project1/plots/lcc_plot.svg" />
+		</object>
+
 		<p style='text-align: justify;'>
 			The main part of this project involves analyzing Elite users on Yelp’s social network. The resulting social graph is
 			undirected and rather large, with 95,000 nodes and 380,000 edges. The size of the network means some of our
@@ -61,30 +104,10 @@
 			as when removing non-Elite nodes. This tells us that the elite users are the ‘glue’ of the network, for a lack of a
 			better word.
 		</p>
-		<h4>Degree Distributions</h4>
-		<object data="svg" type="image/svg+xml">
-			<img src="../project1/plots/reviews_degree_normal_users.svg" />
-			<img src="../project1/plots/log_reviews_degree_normal_users.svg" />
-		</object>
-
-		<object data="svg" type="image/svg+xml">
-			<img src="../project1/plots/reviews_degree_elite_user.svg" />
-			<img src="../project1/plots/log_reviews_degree_elite_users.svg" />
-		</object>
-
-		
-		<h4>Centrality Measures</h4>
 
 
-		<h4>Communities</h4>
-		<h4>Largest Connected Component</h4>
-		<object data="svg" type="image/svg+xml">
-			<img src="../project1/plots/lcc_plot.svg" />
-		</object>
 
-		
-		
-		<h3>Review Text Analysis</h3>
+		<h2>Review Text Analysis</h2>
 
 
 
