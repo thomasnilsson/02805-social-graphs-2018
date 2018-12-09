@@ -84,13 +84,6 @@
 			node is in our network structures.
 		</p>
 
-		<h2>Review Network Analysis</h2>
-
-		<h3>Review Distributions - Elite vs. Non-elite</h3>
-		Are Elite users more critical in their ratings, compared to regular users?
-		<object style='padding: 50px' data="svg" type="image/svg+xml"> <img style="margin:auto; width:70%;display:block" src="./plots/review_dist.svg" />
-		</object>
-
 		<h2>Social Network Analysis</h2>
 
 		<h3>Degree Distributions</h3>
@@ -108,32 +101,30 @@
 		<h3>Centrality Measures for the Social Network</h3>
 
 		<table>
-				<tr>
-				  <th>Measure</th>
-				  <th>Elite Users Avg</th>
-				  <th>Regular Users Avg</th>
-				  <th>All Users Avg</th>
-				</tr>
-				<tr>
-				  <td>Degree Centrality</td>
-				  <td>1.40E-04</td>
-				  <td>2.05E-06</td>
-				  <td>2.67E-06</td>
-				</tr>
-				<tr>
-				  <td>Page Rank</td>
-				  <td>2.40E-03</td>
-				  <td>9.81E-05</td>
-				  <td>1.00E-04</td>
-				</tr>
-			  </table>
+			<tr>
+				<th>Measure</th>
+				<th>Elite Users Avg</th>
+				<th>Regular Users Avg</th>
+				<th>All Users Avg</th>
+			</tr>
+			<tr>
+				<td>Degree Centrality</td>
+				<td>1.40E-04</td>
+				<td>2.05E-06</td>
+				<td>2.67E-06</td>
+			</tr>
+			<tr>
+				<td>Page Rank</td>
+				<td>2.40E-03</td>
+				<td>9.81E-05</td>
+				<td>1.00E-04</td>
+			</tr>
+		</table>
 
 
 		<h3>Communities within the Social Network</h3>
 		<h3>Robustness Analysis</h3>
-		<object data="svg" type="image/svg+xml">
-			<img src="./plots/lcc_plot.svg" />
-		</object>
+		<img src="./plots/lcc_plot.svg" />
 
 		<p style='text-align: justify;'>
 			The main part of this project involves analyzing Elite users on Yelp’s social network. The resulting social graph is
@@ -150,41 +141,56 @@
 
 
 
-		<h2>Review Text Analysis</h2>
+		<h2>Review Network Analysis and Text Analysis</h2>
 
+		<h3>Rating Distribution</h3>
+		<p>The second component of our work was analyzing the text present in the reviews. As previously states, there are
+			approximately 380,000 reviews of Toronto restaurants. These reviews are dated and thus we can determine if a user
+			was elite when they made a review. Before beginning with any text analysis, it is relevant to check how elite and
+			regular users differ in the distribution of the number of stars they award. If one assumes that most restaurants are
+			in some middle tier, with some much better and some worse, we would expect to see a distribution resembling a bell
+			curve. </p>
 
+		<img style="margin:auto; width:70%;display:block" src="./plots/review_dist.svg" />
 
-		<!-- <object data="svg" type="image/svg+xml">
-			<img src="plots/reviews_degree_normal_users.svg" />
-		</object>
+		<p>As we can see, the elite users mostly give four or three star reviews, although the distribution is shifted to the
+			higher reviews. In contrast, we notice that the regular users have a rating distribution more resembling an inverse
+			bell curve. The highest fraction comes from five star reviews and then it decreases down to two stars and finally
+			rises slightly with one star reviews having a greater fraction than two star reviews. This may indicate, or conform
+			to preconceived notions, that regular users are not as good at distinguishing mid-tier restaurants and are so skew
+			their ratings higher or lower.
+		</p>
 
-		<object data="svg" type="image/svg+xml">
-			<img src="plots/log_reviews_degree_elite_users.svg" />
-		</object>
+		<p>Beginning our text analysis, we investigated how word choice compares between elite and non-elite users and across
+			star ratings using TF-IDF scores. A TF-IDF (term frequency-inverse document frequency) score for a given word and
+			document is large if the word appears frequently in the document but infrequently across all documents. Thus, the
+			higher the TF-IDF score, the more important and unique a word is to the specific document. The TF-IDF results are
+			visualized in the generated word clouds.</p>
 
-		<object data="svg" type="image/svg+xml">
-			<img src="plots/reviews_degree_all_biz.svg" />
-		</object>
+		<p>[Insert Wordclouds]</p>
 
-		<object data="svg" type="image/svg+xml">
-			<img src="plots/biz_ev_count.svg" />
-		</object>
+		<p>As we can see, words of praise and negativity strongly associate with 5 star and 1 star reviews, respectively.</p>
 
-		<object data="svg" type="image/svg+xml">
-			<img src="plots/biz_rating_ev.svg" />
-		</object>
+		<p>We also examined the length of the reviews written, excluding common english stopwords such as ‘as’, ‘the’, etc.
+			There is clearly a slight downward trend, with lower ratings yielding longer reviews. The elite users also clearly
+			write more than the regular users, which makes sense given their status.</p>
 
-		<object data="svg" type="image/svg+xml">
-			<img src="plots/log_reviews_degree_all_biz.svg" />
-		</object>
+		<p>[Insert graph]</p>
 
-		<object data="svg" type="image/svg+xml">
-			<img src="plots/reviews_degree_all_biz.svg" />
-		</object>
+		<p>We can see the trend in review length, but what we are most interested in are the trends in review sentiment. So,
+			we
+			partitioned the reviews based on their average sentiment into three categories: those below one standard deviation
+			of
+			the average sentiment, above one standard deviation, and in between. First, we see that the low sentiment decreases
+			and the high sentiment increases as the number of stars increase, which is expected. We also see that the mid-tier
+			sentiment decreases, which would indicated that high star reviews yield more extreme sentiment. On close analysis,
+			we
+			notice some additional trends. It appears that regular users, compared to elite users, are inclined to use more
+			sentiment inline with the stars of the reviews. So, 5 star reviews yield more high sentiment, and less low
+			sentiment.
+			This might mean that elite users have slightly more balanced reviews while regular users are inclined to hyperbole
+			and stronger emotions.</p>
 
-		<object data="svg" type="image/svg+xml">
-			<img src="plots/reviews_degree_elite_user.svg" />
-		</object> -->
 
 
 
