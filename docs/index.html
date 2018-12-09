@@ -17,7 +17,7 @@
 <body>
 	<article class="markdown-body" style="width: 1500px">
 		<div style="margin:auto; overflow: hidden;">
-			<img src="https://www.fasken.com/-/media/805bbcaefeb84072af18d3ce3e0be181.ashxg" alt="">
+			<img src="graphics/toronto_header.jpeg" alt="">
 		</div>
 
 		<h1>Analysis of Yelp 'Elite' reviewers in Toronto</h1>
@@ -31,14 +31,21 @@
 			<a href="https://thomasnilsson.github.io/02806/PROJECT/explainer.html">Explainer page</a>
 		</p>
 
-		<h2>Data Story and the Dataset Used</h2>
-		The dataset is part of the <a href="https://www.yelp.com/dataset/challenge">YELP dataset challenge 2018</a>
-		and contains YELP review data from the period 2004 to 2018. The vast majority of reviews are in North America,
-		and for this analysis, Toronto, Canada, was the city of choice, in order to shrink down the dataset to a managable
-		size.
+		<h2>Yelp Reviews</h2>
+		<p> A review is made when a user reviews a business, a business referring to a restaurant and other service places.</p>
+
+		<object style='padding: 50px' data="svg" type="image/svg+xml">
+			<img style="margin:auto; width:70%;display:block" src="./graphics/reviews.svg" />
+		</object>
+
+		<p>For this project, the focus was restaurants in Toronto as Toronto is a big city with more than a sufficient amount
+			of data to perform a serious analysis, but
+			small enough for various graph algorithms to be carried out. The reviews and users considered in this project were
+			those pertraining to a restaurant in Toronto.</p>
 
 		<h3>Aim of the Analysis</h3>
-		The purpose of this analysis is to investigate the properties of Yelp’s Elite users. For this paper, the focus will
+		The purpose of this analysis is to investigate the properties of Yelp’s Elite users. For this analysis, the focus
+		will
 		lie on Yelp’s two primary claims about their Elite users:
 
 		<ul>
@@ -51,6 +58,11 @@
 				high-quality reviews.</li>
 		</ul>
 
+		<h2>Data Story and the Dataset Used</h2>
+		<p>The dataset is part of the <a href="https://www.yelp.com/dataset/challenge">YELP dataset challenge 2018</a>
+			and contains YELP review data from the period 2004 to 2018, where the majority of the reviews are made in North
+			America.</p>
+
 		<h3>Quick Stats for the Toronto Dataset</h3>
 		<ul>
 			<li>Period: March 1st, 2008 to August 1st, 2018</li>
@@ -60,34 +72,65 @@
 			<li>Restaurants: ~10,000</li>
 		</ul>
 
+		<h2>Prior Work</h2>
+		<p>Our analysis involves several standard network analysis algorithms. One is the PageRank algorithm first proposed
+			by Brin and Page in “The anatomy of a large-scale hypertextual Web search engine” (1998) [3] This algorithm was
+			originally intended to measure the importance of web pages in web search, but we utilize it to measure the
+			importance of nodes in our network. Another algorithm that we use is the Clauset-Newman-Moore community detection
+			algorithm proposed by Clauset et al. in “Finding community structure in very large networks” (2004) [4]. We utilize
+			this algorithm for finding communities within our networks so as to see how well certain nodes are connected to
+			various communities. Our project also utilizes an algorithm for finding betweenness centrality proposed by Brandes
+			in “A Faster Algorithm for Betweenness Centrality” (2001) [5]. We use this algorithm to determine how “central” a
+			node is in our network structures.
+		</p>
+
 		<h2>Review Network Analysis</h2>
-		
+
 		<h3>Review Distributions - Elite vs. Non-elite</h3>
 		Are Elite users more critical in their ratings, compared to regular users?
-		<object data="svg" type="image/svg+xml"> <img src="./plots/review_dist.svg" /> </object>
+		<object style='padding: 50px' data="svg" type="image/svg+xml"> <img style="margin:auto; width:70%;display:block" src="./plots/review_dist.svg" />
+		</object>
 
 		<h2>Social Network Analysis</h2>
 
 		<h3>Degree Distributions</h3>
 		<object data="svg" type="image/svg+xml">
-			<img src="./plots/reviews_degree_normal_users.svg" />
-			<img src="./plots/log_reviews_degree_normal_users.svg" />
+			<img style="width:49%" src="./plots/reviews_degree_normal_users.svg" />
+			<img style="width:49%" src="./plots/log_reviews_degree_normal_users.svg" />
 		</object>
 
 		<object data="svg" type="image/svg+xml">
-			<img src="./plots/reviews_degree_elite_user.svg" />
-			<img src="./plots/log_reviews_degree_elite_users.svg" />
+			<img style="width:49%" src="./plots/reviews_degree_elite_user.svg" />
+			<img style="width:49%" src="./plots/log_reviews_degree_elite_users.svg" />
 		</object>
 
 
 		<h3>Centrality Measures for the Social Network</h3>
 
-		<p>Avg Degree centrality: 0.0001309198750509749, 2.0479645218151803e-06, 2.667988406768709e-06</p>
-		<p>Avg Eigenvalue centrality: 0.002396526809047232, 9.814012527349727e-05, 0.0001091980403377456</p>
+		<table>
+				<tr>
+				  <th>Measure</th>
+				  <th>Elite Users Avg</th>
+				  <th>Regular Users Avg</th>
+				  <th>All Users Avg</th>
+				</tr>
+				<tr>
+				  <td>Degree Centrality</td>
+				  <td>1.40E-04</td>
+				  <td>2.05E-06</td>
+				  <td>2.67E-06</td>
+				</tr>
+				<tr>
+				  <td>Page Rank</td>
+				  <td>2.40E-03</td>
+				  <td>9.81E-05</td>
+				  <td>1.00E-04</td>
+				</tr>
+			  </table>
 
 
 		<h3>Communities within the Social Network</h3>
-		<h3>Largest Connected Component</h3>
+		<h3>Robustness Analysis</h3>
 		<object data="svg" type="image/svg+xml">
 			<img src="./plots/lcc_plot.svg" />
 		</object>
