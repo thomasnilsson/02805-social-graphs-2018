@@ -2,244 +2,282 @@
 <html lang="en">
 
 <head>
-	<meta charset="utf-8">
-	<title>Analysis of Yelp 'Elite' Reviewers in Toronto</title>
-	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="img/favicon.ico" type="image/x-icon">
-	<!-- Prevents stupid favicon error in JS Console -->
-	<script src="https://d3js.org/d3.v4.min.js"></script>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/custom.css">
-	<link rel="stylesheet" href="css/md/github-markdown.css">
+    <meta charset="utf-8">
+    <title>Analysis of Yelp 'Elite' Reviewers in Toronto</title>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <!-- Prevents stupid favicon error in JS Console -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/md/github-markdown.css">
 
 </head>
 
 <body>
-	<article class="markdown-body" style="width: 1500px">
-		<div style="margin:auto; overflow: hidden;">
-			<img src="graphics/toronto_header.jpeg" alt="">
-		</div>
+<article class="markdown-body" style="width: 1500px">
+    <div style="margin:auto; overflow: hidden;">
+        <img src="graphics/toronto_header.jpeg" alt="">
+    </div>
 
-		<h1>Analysis of Yelp 'Elite' reviewers in Toronto</h1>
-
-
-		<p style='text-align: justify;'>Link to GitHub Repository:
-			<a href="https://github.com/thomasnilsson/02806/tree/master/PROJECT">thomasnilsson/02806/tree/master/PROJECT</a>
-		</p>
-		<p style='text-align: justify;'>
-			Link to Explainer Page:
-			<a href="https://thomasnilsson.github.io/02806/PROJECT/explainer.html">Explainer page</a>
-		</p>
-
-		<h2>Introduction</h2>
-		<p style='text-align: justify;'>Yelp.com is a popular website and mobile app that allows users to both read and post
-			reviews and ratings of
-			restaurants and businesses. It has a substantial user-base consisting of over 130 million visitors per month. The
-			overwhelming majority of users are casual users of the service and mainly use Yelp as a way to finding restaurants
-			based on the reviews of other people. The degree to which casual users contribute to the review economy, so to
-			speak, vary greatly, with the majority, only leaving a couple of reviews in total.
-		</p>
-
-		<p style='text-align: justify;'>However, there exists a very particular subset of users of the service which Yelp
-			have named their “Elite” users.
-			According to Yelp, their Elite users are supposed to be a small group of in-the-know users who have a large impact
-			on their local community. For example, Yelp claims that these users reveal the hot spots for fellow locals, serve as
-			city ambassadors, and have sway in the community.</p>
-
-		<h2>Yelp Reviews</h2>
-		<p style='text-align: justify;'> A review is made when a user reviews a business, a business referring to a
-			restaurant and other service places. A review contains a rating of 1 to 5 stars, as well as a written statement,
-			which is used to clarify the given rating.</p>
-
-		<p style='text-align: justify;'>For our analysis we aim to build a network of reviews, a social network of who is
-			friends with who on Yelp, as
-			well as use the written review data to ????</p>
-
-		<img style="margin:auto; width:70%;display:block" src="./graphics/Reviews.svg" />
-
-		<h3>Aim of the Analysis</h3>
-		The purpose of this analysis is to investigate the properties of Yelp’s Elite users. For this analysis, the focus
-		will
-		lie on Yelp’s two primary claims about their Elite users:
-
-		<ul>
-			<li>Yelp states that its Elite users have high connectivity, which means that they are connected with many other
-				users
-				and interact often with members of their Yelp community.</li>
-			<li>Yelp claims that its Elite users make up the “true heart of the Yelp community.” Third, Yelp claims that its
-				users
-				have a high contribution, which means that the user has made a large impact on the site with meaningful and
-				high-quality reviews.</li>
-		</ul>
-
-		<p style='text-align: justify;'>The first goal of our project is to analyze whether the above claims about Yelp’s
-			Elite users are quantifiably
-			valid. For this, we will specify several characteristics which we expect Elite users to have based on these claims.
-			We will then perform analyses on Yelp’s dataset in order to determine whether these properties are truly represented
-			among the Elite users. The secondary goal of our project is to find which properties are most indicative of Elite
-			status on Yelp.
-		</p>
-
-		<p style='text-align: justify;'>The analyses for the first goal can be used for this purpose as well. This kind of
-			information may be useful for
-			those who are interested in becoming Elite members on Yelp. In order to become a member of the “Elite Squad,” a user
-			must go through an application process. Despite the suggestions presented above, Yelp doesn’t provide any specific
-			criteria on exactly what characteristics a user must have to become Elite. The mystery behind the selection process
-			for Elite users is well-documented.</p>
-
-		<h2>Data Story and the Dataset Used</h2>
-		<p style='text-align: justify;'>
-			The dataset is part of the <a href="https://www.yelp.com/dataset/challenge">YELP
-				dataset challenge 2018</a>
-			and contains YELP review data from the period 2004 to 2018, where the majority of the reviews are made in North
-			America.</p>
-
-		<p style='text-align: justify;'>For this project, the focus was restaurants in Toronto as Toronto is a big city with
-			more than a sufficient amount
-			of data to perform a serious analysis, but
-			small enough for various graph algorithms to be carried out. The reviews and users considered in this project were
-			those pertraining to a restaurant in Toronto.</p>
-
-		<h3>Quick Stats for the Toronto Dataset</h3>
-		<ul>
-			<li>Period: March 1st, 2008 to August 1st, 2018</li>
-			<li>Reviews: ~380,000</li>
-			<li>Users: ~95,000</li>
-			<li>Elite users hereof: ~7500</li>
-			<li>Restaurants: ~10,000</li>
-		</ul>
-
-		<h2>Prior Work</h2>
-		<p style='text-align: justify;'>Our analysis involves several standard network analysis algorithms. One is the
-			PageRank algorithm first proposed
-			by Brin and Page in “The anatomy of a large-scale hypertextual Web search engine” (1998) [3] This algorithm was
-			originally intended to measure the importance of web pages in web search, but we utilize it to measure the
-			importance of nodes in our network. Another algorithm that we use is the Clauset-Newman-Moore community detection
-			algorithm proposed by Clauset et al. in “Finding community structure in very large networks” (2004) [4]. We utilize
-			this algorithm for finding communities within our networks so as to see how well certain nodes are connected to
-			various communities. Our project also utilizes an algorithm for finding betweenness centrality proposed by Brandes
-			in “A Faster Algorithm for Betweenness Centrality” (2001) [5]. We use this algorithm to determine how “central” a
-			node is in our network structures.
-		</p>
-
-		<h2>Social Network Analysis</h2>
-		<p style='text-align: justify;'>A big part of this analysis involves analyzing the influence of Elite users in Yelp’s
-			social network. The resulting social graph
-			is
-			undirected and rather large, with 95,000 nodes and 380,000 edges. The size of the network means some of our
-			algorithms take an unreasonable amount of time to run, however, we did it anyway!</p>
-
-		<h3>Degree Distributions</h3>
-		<object data="svg" type="image/svg+xml">
-			<img style="width:49%" src="./plots/reviews_degree_normal_users.svg" />
-			<img style="width:49%" src="./plots/log_reviews_degree_normal_users.svg" />
-		</object>
-
-		<object data="svg" type="image/svg+xml">
-			<img style="width:49%" src="./plots/reviews_degree_elite_user.svg" />
-			<img style="width:49%" src="./plots/log_reviews_degree_elite_users.svg" />
-		</object>
+    <h1>Analysis of Yelp 'Elite' reviewers in Toronto</h1>
 
 
-		<h3>Centrality Measures for the Social Network</h3>
+    <p style='text-align: justify;'>Link to GitHub Repository:
+        <a href="https://github.com/thomasnilsson/02806/tree/master/PROJECT">thomasnilsson/02806/tree/master/PROJECT</a>
+    </p>
+    <p style='text-align: justify;'>
+        Link to Explainer Page:
+        <a href="https://thomasnilsson.github.io/02806/PROJECT/explainer.html">Explainer page</a>
+    </p>
 
-		<table>
-			<tr>
-				<th>Measure</th>
-				<th>Elite Users Avg</th>
-				<th>Regular Users Avg</th>
-				<th>All Users Avg</th>
-			</tr>
-			<tr>
-				<td>Degree Centrality</td>
-				<td>1.40E-04</td>
-				<td>2.05E-06</td>
-				<td>2.67E-06</td>
-			</tr>
-			<tr>
-				<td>Page Rank</td>
-				<td>2.40E-03</td>
-				<td>9.81E-05</td>
-				<td>1.00E-04</td>
-			</tr>
-		</table>
+    <h2>Introduction</h2>
+    <p style='text-align: justify;'>Yelp.com is a popular website and mobile app that allows users to both read and post
+        reviews and ratings of
+        restaurants and businesses. It has a substantial user-base consisting of over 130 million visitors per month.
+        The
+        overwhelming majority of users are casual users of the service and mainly use Yelp as a way to finding
+        restaurants
+        based on the reviews of other people. The degree to which casual users contribute to the review economy, so to
+        speak, vary greatly, with the majority, only leaving a couple of reviews in total.
+    </p>
+
+    <p style='text-align: justify;'>However, there exists a very particular subset of users of the service which Yelp
+        have named their “Elite” users.
+        According to Yelp, their Elite users are supposed to be a small group of in-the-know users who have a large
+        impact
+        on their local community. For example, Yelp claims that these users reveal the hot spots for fellow locals,
+        serve as
+        city ambassadors, and have sway in the community.</p>
+
+    <h2>Yelp Reviews</h2>
+    <p style='text-align: justify;'> A review is made when a user reviews a business, a business referring to a
+        restaurant and other service places. A review contains a rating of 1 to 5 stars, as well as a written statement,
+        which is used to clarify the given rating.</p>
+
+    <p style='text-align: justify;'>For our analysis we aim to build a network of reviews, a social network of who is
+        friends with who on Yelp, as
+        well as use the written review data to ????</p>
+
+    <img style="margin:auto; width:70%;display:block" src="./graphics/Reviews.svg"/>
+
+    <h3>Aim of the Analysis</h3>
+    The purpose of this analysis is to investigate the properties of Yelp’s Elite users. For this analysis, the focus
+    will
+    lie on Yelp’s two primary claims about their Elite users:
+
+    <ul>
+        <li>Yelp states that its Elite users have high connectivity, which means that they are connected with many other
+            users
+            and interact often with members of their Yelp community.
+        </li>
+        <li>Yelp claims that its Elite users make up the “true heart of the Yelp community.” Third, Yelp claims that its
+            users
+            have a high contribution, which means that the user has made a large impact on the site with meaningful and
+            high-quality reviews.
+        </li>
+    </ul>
+
+    <p style='text-align: justify;'>The first goal of our project is to analyze whether the above claims about Yelp’s
+        Elite users are quantifiably
+        valid. For this, we will specify several characteristics which we expect Elite users to have based on these
+        claims.
+        We will then perform analyses on Yelp’s dataset in order to determine whether these properties are truly
+        represented
+        among the Elite users. The secondary goal of our project is to find which properties are most indicative of
+        Elite
+        status on Yelp.
+    </p>
+
+    <p style='text-align: justify;'>The analyses for the first goal can be used for this purpose as well. This kind of
+        information may be useful for
+        those who are interested in becoming Elite members on Yelp. In order to become a member of the “Elite Squad,” a
+        user
+        must go through an application process. Despite the suggestions presented above, Yelp doesn’t provide any
+        specific
+        criteria on exactly what characteristics a user must have to become Elite. The mystery behind the selection
+        process
+        for Elite users is well-documented.</p>
+
+    <h2>Data Story and the Dataset Used</h2>
+    <p style='text-align: justify;'>
+        The dataset is part of the <a href="https://www.yelp.com/dataset/challenge">YELP
+        dataset challenge 2018</a>
+        and contains YELP review data from the period 2004 to 2018, where the majority of the reviews are made in North
+        America.</p>
+
+    <p style='text-align: justify;'>For this project, the focus was restaurants in Toronto as Toronto is a big city with
+        more than a sufficient amount
+        of data to perform a serious analysis, but
+        small enough for various graph algorithms to be carried out. The reviews and users considered in this project
+        were
+        those pertraining to a restaurant in Toronto.</p>
+
+    <h3>Quick Stats for the Toronto Dataset</h3>
+    <ul>
+        <li>Period: March 1st, 2008 to August 1st, 2018</li>
+        <li>Reviews: ~380,000</li>
+        <li>Users: ~95,000</li>
+        <li>Elite users hereof: ~7500</li>
+        <li>Restaurants: ~10,000</li>
+    </ul>
+
+    <h2>Prior Work</h2>
+    <p style='text-align: justify;'>Our analysis involves several standard network analysis algorithms. One is the
+        PageRank algorithm first proposed
+        by Brin and Page in “The anatomy of a large-scale hypertextual Web search engine” (1998) [3] This algorithm was
+        originally intended to measure the importance of web pages in web search, but we utilize it to measure the
+        importance of nodes in our network. Another algorithm that we use is the Clauset-Newman-Moore community
+        detection
+        algorithm proposed by Clauset et al. in “Finding community structure in very large networks” (2004) [4]. We
+        utilize
+        this algorithm for finding communities within our networks so as to see how well certain nodes are connected to
+        various communities. Our project also utilizes an algorithm for finding betweenness centrality proposed by
+        Brandes
+        in “A Faster Algorithm for Betweenness Centrality” (2001) [5]. We use this algorithm to determine how “central”
+        a
+        node is in our network structures.
+    </p>
+
+    <h2>Social Network Analysis</h2>
+    <p style='text-align: justify;'>A big part of this analysis involves analyzing the influence of Elite users in
+        Yelp’s
+        social network. The resulting social graph
+        is
+        undirected and rather large, with 95,000 nodes and 380,000 edges. The size of the network means some of our
+        algorithms take an unreasonable amount of time to run, however, we did it anyway!</p>
+
+    <h3>Degree Distributions</h3>
+    <object data="svg" type="image/svg+xml">
+        <img style="width:49%" src="./plots/reviews_degree_normal_users.svg"/>
+        <img style="width:49%" src="./plots/log_reviews_degree_normal_users.svg"/>
+    </object>
+
+    <object data="svg" type="image/svg+xml">
+        <img style="width:49%" src="./plots/reviews_degree_elite_user.svg"/>
+        <img style="width:49%" src="./plots/log_reviews_degree_elite_users.svg"/>
+    </object>
 
 
-		<h3>Communities within the Social Network</h3>
-		<h3>Robustness Analysis</h3>
-		<img src="./plots/robustness_plot.svg" />
+    <h3>Centrality Measures for the Social Network</h3>
 
-		<p style='text-align: justify;'>
-			To quantify the influence of the elite users in the social network, an experiment was conducted wherein a fraction
-			of users corresponding to 1 percent of the elite user base was removed in each iteration, until a number of users
-			equal to the number of elite users, was removed. The social network contained just under 7500 elite users, meaning
-			that 75 users were removed in each iteration. The largest connected component was calculated for each iteration,
-			which tells us how many users are actually part of the social network, and those that were only connected to the
-			social network via an elite user which was removed, will no longer be part of the largest connected component.
-		</p>
-		<p style='text-align: justify;'>
-			The figure tells us that by removing all elite users from the network, the total number of nodes in the social
-			network drops to around 65% of the original size, while only around 0.5% of the total number of nodes were removed.
-			For removing regular users only, we see that the network size drops by around 4% after removing 7500 users, and for
-			random users, i.e. a mix of both elite and regular users, the resulting loss of network size is around 5%.
-		</p>
-		<h2>Review Network Analysis and Text Analysis</h2>
-
-		<h3>Rating Distribution</h3>
-		<p style='text-align: justify;'>The second component of our work was analyzing the text present in the reviews. As
-			previously states, there are
-			approximately 380,000 reviews of Toronto restaurants. These reviews are dated and thus we can determine if a user
-			was elite when they made a review. Before beginning with any text analysis, it is relevant to check how elite and
-			regular users differ in the distribution of the number of stars they award. If one assumes that most restaurants are
-			in some middle tier, with some much better and some worse, we would expect to see a distribution resembling a bell
-			curve. </p>
-
-		<img style="margin:auto; width:70%;display:block" src="./plots/review_dist.svg" />
-
-		<p style='text-align: justify;'>As we can see, the elite users mostly give four or three star reviews, although the
-			distribution is shifted to the
-			higher reviews. In contrast, we notice that the regular users have a rating distribution more resembling an inverse
-			bell curve. The highest fraction comes from five star reviews and then it decreases down to two stars and finally
-			rises slightly with one star reviews having a greater fraction than two star reviews. This may indicate, or conform
-			to preconceived notions, that regular users are not as good at distinguishing mid-tier restaurants and are so skew
-			their ratings higher or lower.
-		</p>
-
-		<p style='text-align: justify;'>Beginning our text analysis, we investigated how word choice compares between elite
-			and non-elite users and across
-			star ratings using TF-IDF scores. A TF-IDF (term frequency-inverse document frequency) score for a given word and
-			document is large if the word appears frequently in the document but infrequently across all documents. Thus, the
-			higher the TF-IDF score, the more important and unique a word is to the specific document. The TF-IDF results are
-			visualized in the generated word clouds.</p>
-
-		<p style='text-align: justify;'>[Insert Wordclouds]</p>
-
-		<p style='text-align: justify;'>As we can see, words of praise and negativity strongly associate with 5 star and 1
-			star reviews, respectively.</p>
-
-		<p style='text-align: justify;'>We also examined the length of the reviews written, excluding common english
-			stopwords such as ‘as’, ‘the’, etc.
-			There is clearly a slight downward trend, with lower ratings yielding longer reviews. The elite users also clearly
-			write more than the regular users, which makes sense given their status.</p>
-
-		<p style='text-align: justify;'>[Insert graph]</p>
-
-		<p style='text-align: justify;'>We can see the trend in review length, but what we are most interested in are the
-			trends in review sentiment. So,
-			we
-			partitioned the reviews based on their average sentiment into three categories: those below one standard deviation
-			of
-			the average sentiment, above one standard deviation, and in between. First, we see that the low sentiment decreases
-			and the high sentiment increases as the number of stars increase, which is expected. We also see that the mid-tier
-			sentiment decreases, which would indicated that high star reviews yield more extreme sentiment. On close analysis,
-			we
-			notice some additional trends. It appears that regular users, compared to elite users, are inclined to use more
-			sentiment inline with the stars of the reviews. So, 5 star reviews yield more high sentiment, and less low
-			sentiment.
-			This might mean that elite users have slightly more balanced reviews while regular users are inclined to hyperbole
-			and stronger emotions.</p>
+    <table>
+        <tr>
+            <th>Measure</th>
+            <th>Elite Users Avg</th>
+            <th>Regular Users Avg</th>
+            <th>All Users Avg</th>
+        </tr>
+        <tr>
+            <td>Degree Centrality</td>
+            <td>1.40E-04</td>
+            <td>2.05E-06</td>
+            <td>2.67E-06</td>
+        </tr>
+        <tr>
+            <td>Page Rank</td>
+            <td>2.40E-03</td>
+            <td>9.81E-05</td>
+            <td>1.00E-04</td>
+        </tr>
+    </table>
 
 
+    <h3>Communities within the Social Network</h3>
+    <h3>Robustness Analysis</h3>
+    <img src="./plots/robustness_plot.svg"/>
+
+    <p style='text-align: justify;'>
+        To quantify the influence of the elite users in the social network, an experiment was conducted wherein a
+        fraction
+        of users corresponding to 1 percent of the elite user base was removed in each iteration, until a number of
+        users
+        equal to the number of elite users, was removed. The social network contained just under 7500 elite users,
+        meaning
+        that 75 users were removed in each iteration. The largest connected component was calculated for each iteration,
+        which tells us how many users are actually part of the social network, and those that were only connected to the
+        social network via an elite user which was removed, will no longer be part of the largest connected component.
+    </p>
+    <p style='text-align: justify;'>
+        The figure tells us that by removing all elite users from the network, the total number of nodes in the social
+        network drops to around 65% of the original size, while only around 0.5% of the total number of nodes were
+        removed.
+        For removing regular users only, we see that the network size drops by around 4% after removing 7500 users, and
+        for
+        random users, i.e. a mix of both elite and regular users, the resulting loss of network size is around 5%.
+    </p>
+    <h2>Review Network Analysis and Text Analysis</h2>
+
+    <h3>Rating Distribution</h3>
+    <p style='text-align: justify;'>The second component of our work was analyzing the text present in the reviews. As
+        previously states, there are
+        approximately 380,000 reviews of Toronto restaurants. These reviews are dated and thus we can determine if a
+        user
+        was elite when they made a review. Before beginning with any text analysis, it is relevant to check how elite
+        and
+        regular users differ in the distribution of the number of stars they award. If one assumes that most restaurants
+        are
+        in some middle tier, with some much better and some worse, we would expect to see a distribution resembling a
+        bell
+        curve. </p>
+
+    <img style="margin:auto; width:70%;display:block" src="./plots/review_dist.svg"/>
+
+    <p style='text-align: justify;'>As we can see, the elite users mostly give four or three star reviews, although the
+        distribution is shifted to the
+        higher reviews. In contrast, we notice that the regular users have a rating distribution more resembling an
+        inverse
+        bell curve. The highest fraction comes from five star reviews and then it decreases down to two stars and
+        finally
+        rises slightly with one star reviews having a greater fraction than two star reviews. This may indicate, or
+        conform
+        to preconceived notions, that regular users are not as good at distinguishing mid-tier restaurants and are so
+        skew
+        their ratings higher or lower.
+    </p>
+
+    <p style='text-align: justify;'>Beginning our text analysis, we investigated how word choice compares between elite
+        and non-elite users and across
+        star ratings using TF-IDF scores. A TF-IDF (term frequency-inverse document frequency) score for a given word
+        and
+        document is large if the word appears frequently in the document but infrequently across all documents. Thus,
+        the
+        higher the TF-IDF score, the more important and unique a word is to the specific document. The TF-IDF results
+        are
+        visualized in the generated word clouds.</p>
+
+    <p style='text-align: justify;'>[Insert Wordclouds]</p>
+
+    <p style='text-align: justify;'>As we can see, words of praise and negativity strongly associate with 5 star and 1
+        star reviews, respectively.</p>
+
+    <p style='text-align: justify;'>We also examined the length of the reviews written, excluding common english
+        stopwords such as ‘as’, ‘the’, etc.
+        There is clearly a slight downward trend, with lower ratings yielding longer reviews. The elite users also
+        clearly
+        write more than the regular users, which makes sense given their status.</p>
+
+    <p style='text-align: justify;'>[Insert graph]</p>
+
+    <p style='text-align: justify;'>We can see the trend in review length, but what we are most interested in are the
+        trends in review sentiment. So,
+        we
+        partitioned the reviews based on their average sentiment into three categories: those below one standard
+        deviation
+        of
+        the average sentiment, above one standard deviation, and in between. First, we see that the low sentiment
+        decreases
+        and the high sentiment increases as the number of stars increase, which is expected. We also see that the
+        mid-tier
+        sentiment decreases, which would indicated that high star reviews yield more extreme sentiment. On close
+        analysis,
+        we
+        notice some additional trends. It appears that regular users, compared to elite users, are inclined to use more
+        sentiment inline with the stars of the reviews. So, 5 star reviews yield more high sentiment, and less low
+        sentiment.
+        This might mean that elite users have slightly more balanced reviews while regular users are inclined to
+        hyperbole
+        and stronger emotions.</p>
 
 
 </body>
