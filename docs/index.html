@@ -94,9 +94,6 @@
             expect Elite users to have based on these claims. We will then perform analyses on Yelp’s dataset in order
             to determine whether these properties are truly represented among the Elite users. The secondary goal of
             our project is to find which properties are most indicative of Elite status on Yelp.
-
-
-            status on Yelp.
         </p>
 
         <p style='text-align: justify;'>The analyses for the first goal can be used for this purpose as well. This kind
@@ -157,21 +154,41 @@
         </ul>
 
         <h2>Prior Work</h2>
-        <p style='text-align: justify;'>Our analysis builds upon a technical report from Stanford [1].
+        <p style='text-align: justify;'>This analysis of elite users in the Yelp community is largely inspired by a
+            technical report from Stanford [1] which investigated elite users in Phoenix, Arizona, and included, what
+            they called, a ‘taste’ network which grouped Yelp users based on their taste in restaurants. Our analysis
+            will not include this feature, but it will however draw from some of their points, such as investigating
+            how big of a role the elite users play in the social network, as well in a network of Yelp reviews.
         </p>
 
         <!------------- SOCIAL NETWORK ANALYSIS ------------->
-        <h2>Social Network Analysis</h2>
+        <h2>Yelp's Social Network</h2>
+        <img style="margin:auto; width:70%;display:block" src="graphics/friends.svg">
+
+        <p>Two users may choose to becomes on Yelp, for example if they share interests. This feature is very analogous
+            to that of the social network of Facebook, and even has the same limit on the number of friends each user
+            can have, which is 5000.</p>
+
         <p style='text-align: justify;'>A big part of this analysis involves analyzing the influence of Elite users in
             Yelp’s
-            social network. The resulting social graph
-            is
-            undirected and rather large, with 95,000 nodes and 380,000 edges. The size of the network meant that some
-            of the algorithms took a considerable amount of time to run.</p>
+            social network. A social graph was built from the review dataset, with all the users who left one or more
+            reviews on a Toronto restaurant's Yelp page. These users were inserted in a network, as well as all the
+            users appearing in their respective friends lists, and an edge was drawn between each pair of friends.
 
-        <h3>Social network degree distribution - all users</h3>
+            The resulting network is an undirected social graph, with a total of 95,000 nodes and 380,000 edges. The
+            size of the network meant that some
+            of the algorithms took a considerable amount of time to run. An alternative to including all of the 95,000
+            nodes would be to only consider the nodes which had left a review in Toronto, even for the friends list,
+            which was also done, but will in the groups opinion less success. The resulting network of including only
+            friends who left a review in Toronto was a network with Nodes: 13,600 nodes and 9,400 edges.</p>
 
-        <h3>Social network degree distribution - Elite users</h3>
+        <h3>Social Network Degree Distribution</h3>
+        <p>The nodes of the social network all represents Yelp users, which are either regular users or an Elite users.
+            For understanding how the distribution of friends looks like, the degree distribution for all nodes, Elite
+            nodes and regular user nodes was plotted. From the distributions it becomes apparent that a power law
+            governs the number of friends of the Yelp users; an exponentially large part of the users have very few
+            friends, and for the regular users this number is down to one single friend.
+        </p>
         <!-- START: SOCIAL DEGREE DIST -->
         <div id="elite_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
@@ -209,14 +226,13 @@
         <p><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: SOCIAL DEGREE DIST -->
 
-        <h3>Social network degree distribution</h3>
         <!-- START: LOG SOCIAL DEGREE DIST -->
-        <div id="ev_social" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
+        <div id="log_elite_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
-                <li data-target="#ev_social" data-slide-to="0" class="active"></li>
-                <li data-target="#ev_social" data-slide-to="1"></li>
-                <li data-target="#ev_social" data-slide-to="2"></li>
+                <li data-target="#log_elite_social_degree" data-slide-to="0" class="active"></li>
+                <li data-target="#log_elite_social_degree" data-slide-to="1"></li>
+                <li data-target="#log_elite_social_degree" data-slide-to="2"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
@@ -232,15 +248,12 @@
                 <div class="item">
                     <img src="plots/log_degree_social_regular.svg" width="460" height="345">
                 </div>
-
-
-
                 <!-- Left and right controls -->
-                <a class="left carousel-control" href="#ev_social" role="button" data-slide="prev">
+                <a class="left carousel-control" href="#log_elite_social_degree" role="button" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="right carousel-control" href="#ev_social" role="button" data-slide="next">
+                <a class="right carousel-control" href="#log_elite_social_degree" role="button" data-slide="next">
                     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
@@ -249,23 +262,22 @@
         <p><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: LOG SOCIAL DEGREE DIST -->
 
-        <p>Very clear example of a power law, with the overwhelming majority of users having reviewed extremely few
-            restaurants. Users are only included if they have in fact reviewed a restaurant in Toronto, meaning the
-            spike is likely at 1 single review.
 
-            The degree distribution for the elite users in Toronto is unsuprisingly also a power law, with most users
-            having left a single review. However the distribution is somewhat less dense around r=1, compared to the
-            review distribution for overall users.
-        </p>
+        <h3>Centrality Measures for the Social Network</h3>
+        <p>For understanding the roles of the nodes in the network, two centrality measures were used: degree
+            centrality and eigenvalue centrality. The degree centrality speaks to how popular a node is in the network,
+            in this case how many friends a user has. The eigenvalue centrality represents how popular the friends of a
+            particular node is, i.e. their friend count.</p>
 
-        <h3>Centrality measures for the social network</h3>
+        <p>For the social network, these two measures are for the most part correlated, which makes intuitive sense
+            since having more friends increases the chance of having popular friends.</p>
         <!-- START: EV SOCIAL -->
-        <div id="log_ev_social" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
+        <div id="ev_social" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
-                <li data-target="#log_ev_social" data-slide-to="0" class="active"></li>
-                <li data-target="#log_ev_social" data-slide-to="1"></li>
-                <li data-target="#log_ev_social" data-slide-to="2"></li>
+                <li data-target="#ev_social" data-slide-to="0" class="active"></li>
+                <li data-target="#ev_social" data-slide-to="1"></li>
+                <li data-target="#ev_social" data-slide-to="2"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
@@ -283,11 +295,11 @@
                 </div>
 
                 <!-- Left and right controls -->
-                <a class="left carousel-control" href="#log_ev_social" role="button" data-slide="prev">
+                <a class="left carousel-control" href="#ev_social" role="button" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="right carousel-control" href="#log_ev_social" role="button" data-slide="next">
+                <a class="right carousel-control" href="#ev_social" role="button" data-slide="next">
                     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
@@ -296,57 +308,57 @@
         <p><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: EV SOCIAL -->
 
-        <p>The degree centrality measure is reflected in the degree distribution plots, in the sense that it is on
-            average higher for the elite users, which is due to elite users having more friends on average. This leads
-            to the eigenvalue centrality which tells us how many popular friends a particular user has, which is also
-            higher for the Elite users, which follows naturally due to them having more friends, and thus a higher
-            probability of having popular friends.</p>
-
 
         <h3>Robustness Analysis</h3>
 
         <p style='text-align: justify;'>
-            To quantify the influence of the elite users in the social network, an experiment was conducted wherein a
+            To quantify the influence of the Elite users in the social network, an experiment was conducted wherein a
             fraction
-            of users corresponding to 1 percent of the elite user base was removed in each iteration, until a number of
+            of users corresponding to 1 percent of the Elite user base was removed in each iteration, until a number of
             users
-            equal to the number of elite users, was removed. The social network contained just under 7500 elite users,
+            equal to the number of Elite users, was removed. The social network contained just under 7500 Elite users,
             meaning
             that 75 users were removed in each iteration. The largest connected component was calculated for each
             iteration,
             which tells us how many users are actually part of the social network, and those that were only connected
             to the
-            social network via an elite user which was removed, will no longer be part of the largest connected
+            social network via an Elite user which was removed, will no longer be part of the largest connected
             component.
         </p>
 
         <img src="./plots/robustness_plot.svg" />
 
+        <h4>Robustness Analysis on the Smaller Social Network</h4>
+        <p>The aforementioned smaller social network was also run through the robustness analysis, and the results were
+            very analogous to those of the bigger network, except the smaller network was more susceptible to sudden
+            huge losses in network size.</p>
+        <img src="./plots/robustness_only_toronto_plot.svg" />
+
         <p style='text-align: justify;'>
-            The figure tells us that by removing all elite users from the network, the total number of nodes in the
+            The figure tells us that by removing all Elite users from the network, the total number of nodes in the
             social
             network drops to around 65% of the original size, while only around 0.5% of the total number of nodes were
             removed.
             For removing regular users only, we see that the network size drops by around 4% after removing 7500 users,
             and
             for
-            random users, i.e. a mix of both elite and regular users, the resulting loss of network size is around 5%.
+            random users, i.e. a mix of both Elite and regular users, the resulting loss of network size is around 5%.
         </p>
 
         <!------------- REVIEW NETWORK ANALYSIS ------------->
         <h2>Yelp Review Network Analysis</h2>
+
 
         <p style='text-align: justify;'> A review is made when a user reviews a business, a business referring to a
             restaurant and other service places. A review contains a rating of 1 to 5 stars, as well as a written
             statement,
             which is used to clarify the given rating.</p>
 
-        <p style='text-align: justify;'>For our analysis we aim to build a network of reviews, a social network of who
-            is
-            friends with who on Yelp, as
-            well as use the written review data to ????</p>
+        <p style='text-align: justify;'>For our analyses, we aim to build a network of reviews and a social network of
+            who is friends with who on Yelp, as well as analyze the review text to discern what, if any, differences
+            exist between Elite and and regular users as well as between reviews of different stars.</p>
 
-        <img style="margin:auto; width:70%;display:block" src="./graphics/Reviews.svg" />
+        <img style="margin:auto; width:70%;display:block" src="./graphics/reviews.svg" />
 
         <h3>Review degree distribution</h3>
         <!-- START: REVIEWS DEGREE DIST -->
@@ -385,6 +397,15 @@
         </div>
         <p><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: REVIEWS DEGREE DIST -->
+
+        <p>Very clear example of a power law, with the overwhelming majority of users having reviewed extremely few
+            restaurants. Users are only included if they have in fact reviewed a restaurant in Toronto, meaning the
+            spike is likely at 1 single review.
+
+            The degree distribution for the Elite users in Toronto is unsuprisingly also a power law, with most users
+            having left a single review. However the distribution is somewhat less dense around r=1, compared to the
+            review distribution for overall users.
+        </p>
 
         <h3>Review degree distribution, logarithmic scale</h3>
         <!-- START: REVIEWS DEGREE DIST -->
@@ -458,7 +479,7 @@
         <p><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: REVIEW EV CAROUSEL -->
 
-        <h3>Concrete differences in ratings between elite- and regular users
+        <h3>Concrete differences in ratings between Elite- and regular users
         </h3>
         <!-- START: DELTAS CAROUSEL -->
         <div id="deltas_carousel" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
@@ -509,8 +530,8 @@
             approximately 380,000 reviews of Toronto restaurants. These reviews are dated and thus we can determine if
             a
             user
-            was elite when they made a review. Before beginning with any text analysis, it is relevant to check how
-            elite
+            was Elite when they made a review. Before beginning with any text analysis, it is relevant to check how
+            Elite
             and
             regular users differ in the distribution of the number of stars they award. If one assumes that most
             restaurants
@@ -522,7 +543,7 @@
 
         <img style="margin:auto; width:70%;display:block" src="./plots/review_dist.svg" />
 
-        <p style='text-align: justify;'>As we can see, the elite users mostly give four or three star reviews, although
+        <p style='text-align: justify;'>As we can see, the Elite users mostly give four or three star reviews, although
             the
             distribution is shifted to the
             higher reviews. In contrast, we notice that the regular users have a rating distribution more resembling an
@@ -540,8 +561,8 @@
         <!------------- REVIEW TEXT ANALYSIS ------------->
         <h2>Review text analysis</h2>
         <p style='text-align: justify;'>Beginning our text analysis, we investigated how word choice compares between
-            elite
-            and non-elite users and across
+            Elite
+            and non-Elite users and across
             star ratings using TF-IDF scores. A TF-IDF (term frequency-inverse document frequency) score for a given
             word
             and
@@ -555,7 +576,7 @@
 
 
         <h3>Elite Yelp user reviews</h3>
-        <!-- START: ELITE REVIEWS WORDCLOUDS -->
+        <!-- START: Elite REVIEWS WORDCLOUDS -->
         <div id="elite_review_wordclouds" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -569,23 +590,23 @@
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
-                    <img src="SentimentPlots/Elite_Reviewers_1_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/elite_Reviewers_1_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_2_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/elite_Reviewers_2_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_3_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/elite_Reviewers_3_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_4_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/elite_Reviewers_4_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_5_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/elite_Reviewers_5_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <!-- Left and right controls -->
@@ -600,7 +621,7 @@
             </div>
         </div>
         <p><i>Tip: Use the arrows to navigate the plots</i></p>
-        <!-- END: ELITE REVIEWS WORDCLOUDS -->
+        <!-- END: Elite REVIEWS WORDCLOUDS -->
 
         <h3>Regular Yelp user reviews</h3>
         <!-- START: REGULAR REVIEWS WORDCLOUDS -->
@@ -656,7 +677,7 @@
 
         <p style='text-align: justify;'>We also examined the length of the reviews written, excluding common english
             stopwords such as ‘as’, ‘the’, etc.
-            There is clearly a slight downward trend, with lower ratings yielding longer reviews. The elite users also
+            There is clearly a slight downward trend, with lower ratings yielding longer reviews. The Elite users also
             clearly
             write more than the regular users, which makes sense given their status.</p>
 
@@ -677,11 +698,11 @@
             sentiment decreases, which would indicated that high star reviews yield more extreme sentiment. On close
             analysis,
             we
-            notice some additional trends. It appears that regular users, compared to elite users, are inclined to use
+            notice some additional trends. It appears that regular users, compared to Elite users, are inclined to use
             more
             sentiment inline with the stars of the reviews. So, 5 star reviews yield more high sentiment, and less low
             sentiment.
-            This might mean that elite users have slightly more balanced reviews while regular users are inclined to
+            This might mean that Elite users have slightly more balanced reviews while regular users are inclined to
             hyperbole
             and stronger emotions.</p>
 
