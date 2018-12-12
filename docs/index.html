@@ -33,6 +33,7 @@
             <img src="graphics/toronto_header.jpeg">
         </div>
 
+        <!------------- TITLE ------------->
         <h1>Analysis of Yelp 'Elite' reviewers in Toronto</h1>
         <p style='text-align: justify;'>For all the source material used, check out the
             <a href="https://github.com/thomasnilsson/02805-social-graphs-2018/tree/master/project1">GitHub respository</a>
@@ -43,7 +44,9 @@
                 notebook</a>
         </p>
 
+
         </div>
+        <!------------- INTRODUCTION ------------->
         <h2>Introduction</h2>
         <p style='text-align: justify;'>Yelp.com is a popular website and mobile app that allows users to both read and
             post
@@ -67,19 +70,7 @@
             serve as
             city ambassadors, and have sway in the community.</p>
 
-        <h2>Yelp Reviews</h2>
-        <p style='text-align: justify;'> A review is made when a user reviews a business, a business referring to a
-            restaurant and other service places. A review contains a rating of 1 to 5 stars, as well as a written
-            statement,
-            which is used to clarify the given rating.</p>
-
-        <p style='text-align: justify;'>For our analysis we aim to build a network of reviews, a social network of who
-            is
-            friends with who on Yelp, as
-            well as use the written review data to ????</p>
-
-        <img style="margin:auto; width:70%;display:block" src="./graphics/Reviews.svg" />
-
+        <!------------- DATA STORY ------------->
         <h2>Data story and aims of the analysis</h2>
         <p> The purpose of this analysis is to investigate the properties of Yelp’s Elite users. For this analysis, the
             focus
@@ -125,6 +116,7 @@
             were
             those pertraining to a restaurant in Toronto.</p>
 
+        <!------------- DATASET ------------->
         <h2>The dataset used</h2>
         <p style='text-align: justify;'>
             The dataset is a subset of the <a href="https://www.yelp.com/dataset/challenge">YELP
@@ -168,11 +160,18 @@
         <p style='text-align: justify;'>Our analysis builds upon a technical report from Stanford [1].
         </p>
 
+        <!------------- SOCIAL NETWORK ANALYSIS ------------->
         <h2>Social Network Analysis</h2>
+        <p style='text-align: justify;'>A big part of this analysis involves analyzing the influence of Elite users in
+            Yelp’s
+            social network. The resulting social graph
+            is
+            undirected and rather large, with 95,000 nodes and 380,000 edges. The size of the network meant that some
+            of the algorithms took a considerable amount of time to run.</p>
 
         <h3>Social network degree distribution - all users</h3>
         <!-- START: ALL SOCIAL DEGREE DIST -->
-        <div id="all_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="all_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#all_social_degree" data-slide-to="0" class="active"></li>
@@ -204,7 +203,7 @@
 
         <h3>Social network degree distribution - regular users</h3>
         <!-- START: REGULAR SOCIAL DEGREE DIST -->
-        <div id="reg_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="reg_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#reg_social_degree" data-slide-to="0" class="active"></li>
@@ -236,7 +235,7 @@
 
         <h3>Social network degree distribution - Elite users</h3>
         <!-- START: ELITE SOCIAL DEGREE DIST -->
-        <div id="elite_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="elite_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#elite_social_degree" data-slide-to="0" class="active"></li>
@@ -266,35 +265,51 @@
         </div>
         <!-- END: ELITE SOCIAL DEGREE DIST -->
 
-        <p style='text-align: justify;'>A big part of this analysis involves analyzing the influence of Elite users in
-            Yelp’s
-            social network. The resulting social graph
-            is
-            undirected and rather large, with 95,000 nodes and 380,000 edges. The size of the network meant that some
-            of the algorithms took a considerable amount of time to run.</p>
+        <p>Very clear example of a power law, with the overwhelming majority of users having reviewed extremely few
+            restaurants. Users are only included if they have in fact reviewed a restaurant in Toronto, meaning the
+            spike is likely at 1 single review.
 
-        <h3>Centrality Measures for the Social Network</h3>
+            The degree distribution for the elite users in Toronto is unsuprisingly also a power law, with most users
+            having left a single review. However the distribution is somewhat less dense around r=1, compared to the
+            review distribution for overall users.
+        </p>
 
-        <table>
-            <tr>
-                <th>Measure</th>
-                <th>Elite Users Avg</th>
-                <th>Regular Users Avg</th>
-                <th>All Users Avg</th>
-            </tr>
-            <tr>
-                <td>Degree centrality</td>
-                <td>1.40E-04</td>
-                <td>2.05E-06</td>
-                <td>2.67E-06</td>
-            </tr>
-            <tr>
-                <td>Eigenvector centrality</td>
-                <td>2.40E-03</td>
-                <td>9.81E-05</td>
-                <td>1.00E-04</td>
-            </tr>
-        </table>
+        <h3>Centrality measures for the social network</h3>
+        <!-- START: EV SOCIAL -->
+        <div id="ev_social" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#ev_social" data-slide-to="0" class="active"></li>
+                <li data-target="#ev_social" data-slide-to="1"></li>
+                <li data-target="#ev_social" data-slide-to="2"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="plots/social_ev_elite.png" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/social_ev_reg.png" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/social_ev_all.png" width="460" height="345">
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#ev_social" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#ev_social" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <!-- END: EV SOCIAL -->
 
         <p>The degree centrality measure is reflected in the degree distribution plots, in the sense that it is on
             average higher for the elite users, which is due to elite users having more friends on average. This leads
@@ -304,7 +319,6 @@
 
 
         <h3>Robustness Analysis</h3>
-        <img src="./plots/robustness_plot.svg" />
 
         <p style='text-align: justify;'>
             To quantify the influence of the elite users in the social network, an experiment was conducted wherein a
@@ -320,6 +334,9 @@
             social network via an elite user which was removed, will no longer be part of the largest connected
             component.
         </p>
+
+        <img src="./plots/robustness_plot.svg" />
+
         <p style='text-align: justify;'>
             The figure tells us that by removing all elite users from the network, the total number of nodes in the
             social
@@ -331,10 +348,24 @@
             random users, i.e. a mix of both elite and regular users, the resulting loss of network size is around 5%.
         </p>
 
-        <h2>Review Network Analysis and Text Analysis</h2>
+        <!------------- REVIEW NETWORK ANALYSIS ------------->
+        <h2>Yelp Review Network Analysis</h2>
+
+        <p style='text-align: justify;'> A review is made when a user reviews a business, a business referring to a
+            restaurant and other service places. A review contains a rating of 1 to 5 stars, as well as a written
+            statement,
+            which is used to clarify the given rating.</p>
+
+        <p style='text-align: justify;'>For our analysis we aim to build a network of reviews, a social network of who
+            is
+            friends with who on Yelp, as
+            well as use the written review data to ????</p>
+
+        <img style="margin:auto; width:70%;display:block" src="./graphics/Reviews.svg" />
+
         <h3>Review degree distribution - all users</h3>
         <!-- START: ELITE REVIEWS DEGREE DIST -->
-        <div id="all_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="all_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#all_review_degree" data-slide-to="0" class="active"></li>
@@ -366,7 +397,7 @@
 
         <h3>Elite users review degree distribution</h3>
         <!-- START: ELITE REVIEWS DEGREE DIST -->
-        <div id="elite_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="elite_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#elite_review_degree" data-slide-to="0" class="active"></li>
@@ -398,7 +429,7 @@
 
         <h3>All users review degree distribution</h3>
         <!-- START: REGULAR REVIEWS DEGREE DIST -->
-        <div id="reg_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="reg_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#reg_review_degree" data-slide-to="0" class="active"></li>
@@ -428,33 +459,61 @@
         </div>
         <!-- END: REGULAR REVIEWS DEGREE DIST -->
 
-        <h3>Centrality measures</h3>
-        <img src="plots/biz_ev_count.svg">
-        <img src="plots/biz_rating_ev.svg">
-        <!-- END: REGULAR REVIEWS DEGREE DIST -->
-
-        <h3>Concrete differences in ratings between elite- and regular users
-        </h3>
-        <!-- START: REGULAR REVIEWS DEGREE DIST -->
-        <div id="deltas_carousel" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <h3>Eigenvalue centrality for Toronto restaurants</h3>
+        <!-- START: REVIEW EV CAROUSEL -->
+        <div id="review_ev_carousel" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
-                <li data-target="#deltas_carousel" data-slide-to="0" class="active"></li>
-                <li data-target="#deltas_carousel" data-slide-to="1"></li>
+                <li data-target="#review_ev_carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#review_ev_carousel" data-slide-to="1"></li>
+                <li data-target="#review_ev_carousel" data-slide-to="2"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
-                    <img src="plots/degree_social_all.svg" width="460" height="345">
+                    <img src="plots/biz_ev_count.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="plots/degree_social_elite.svg" width="460" height="345">
+                    <img src="plots/biz_rating_ev.svg" width="460" height="345">
+                </div>
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#review_ev_carousel" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#review_ev_carousel" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <!-- END: REVIEW EV CAROUSEL -->
+
+        <h3>Concrete differences in ratings between elite- and regular users
+        </h3>
+        <!-- START: DELTAS CAROUSEL -->
+        <div id="deltas_carousel" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#deltas_carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#deltas_carousel" data-slide-to="1"></li>
+                <li data-target="#deltas_carousel" data-slide-to="2"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="plots/delta_elite_all.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="plots/degree_social_regular.svg" width="460" height="345">
+                    <img src="plots/delta_elite_reg.svg" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/delta_all_reg.svg" width="460" height="345">
                 </div>
 
                 <!-- Left and right controls -->
@@ -468,7 +527,7 @@
                 </a>
             </div>
         </div>
-        <!-- END: REGULAR REVIEWS DEGREE DIST -->
+        <!-- END: DELTAS CAROUSEL -->
 
         <p>Elite users are somewhat representative of the reviews made by all users, of which they make up a 38
             percent. This means the data set is only reduced by less than a third, however, the user count is reduced
@@ -510,6 +569,8 @@
             their ratings higher or lower.
         </p>
 
+        <!------------- REVIEW TEXT ANALYSIS ------------->
+        <h2>Review text analysis</h2>
         <p style='text-align: justify;'>Beginning our text analysis, we investigated how word choice compares between
             elite
             and non-elite users and across
@@ -527,7 +588,7 @@
 
         <h3>Elite Yelp user reviews</h3>
         <!-- START: ELITE REVIEWS WORDCLOUDS -->
-        <div id="elite_review_wordclouds" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="elite_review_wordclouds" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#elite_review_wordclouds" data-slide-to="0" class="active"></li>
@@ -574,7 +635,7 @@
 
         <h3>Regular Yelp user reviews</h3>
         <!-- START: REGULAR REVIEWS WORDCLOUDS -->
-        <div id="reg_review_wordclouds" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <div id="reg_review_wordclouds" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#reg_review_wordclouds" data-slide-to="0" class="active"></li>
