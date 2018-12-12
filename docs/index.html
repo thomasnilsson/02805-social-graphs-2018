@@ -40,7 +40,7 @@
         </p>
         <p style='text-align: justify;'>
             For the detailed analysis and Python 3 source code, check out the
-            <a href="https://nbviewer.jupyter.org/github/thomasnilsson/02805-social-graphs-2018/blob/master/project1/Explainer.ipynb">explainer
+            <a href="https://nbviewer.jupyter.org/github/thomasnilsson/02805-social-graphs-2018/blob/master/project1/Explainer.ipynb">explained
                 notebook</a>
         </p>
 
@@ -50,11 +50,9 @@
         <h2>Introduction</h2>
         <p style='text-align: justify;'>Yelp.com is a popular website and mobile app that allows users to both read and
             post
-            reviews and ratings of
-            restaurants and businesses. It has a substantial user-base consisting of over 130 million visitors per
-            month.
+            reviews and ratings of restaurants and businesses. It has a substantial user-base consisting of over 130 million visitors per month.
             The
-            overwhelming majority of users are casual users of the service and mainly use Yelp as a way to finding
+            the overwhelming majority of users are casual users of the service and mainly use Yelp as a way of finding
             restaurants
             based on the reviews of other people. The degree to which casual users contribute to the review economy, so
             to
@@ -90,28 +88,22 @@
         </ul>
 
         <p style='text-align: justify;'>The first goal of our project is to analyze whether the above claims about
-            Yelp’s Elite users are quantifiably valid. For this, we will specify several characteristics which we
-            expect Elite users to have based on these claims. We will then perform analyses on Yelp’s dataset in order
-            to determine whether these properties are truly represented among the Elite users. The secondary goal of
-            our project is to find which properties are most indicative of Elite status on Yelp.
+            Yelp’s Elite users are quantifiably valid. For this, we will specify several characteristics which we expect Elite users to have based on these claims. We will then perform analyses on Yelp’s dataset in order to determine whether these properties are truly represented among the Elite users. The secondary goal of our project is to find which properties are most indicative of Elite status on Yelp.
         </p>
 
         <p style='text-align: justify;'>The analyses for the first goal can be used for this purpose as well. This kind
-            of information may be useful for those who are interested in becoming Elite members on Yelp. In order to
-            become a member of the “Elite Squad,” a user must go through an application process. Despite the
-            suggestions presented above, Yelp doesn’t provide any specific criteria on exactly what characteristics a
-            user must have to become Elite. The mystery behind the selection process for Elite users is
-            well-documented.
+            of information may be useful for those who are interested in becoming Elite members on Yelp. In order to become a member of the “Elite Squad,” a user must go through an application process. Despite the suggestions presented above, Yelp doesn’t provide any specific criteria on exactly what characteristics a
+            user must have to become Elite. The mystery behind the selection process for Elite users is well-documented.
         </p>
 
-        <p style='text-align: justify;'>For this project, the focus was restaurants in Toronto as Toronto is a big city
+        <p style='text-align: justify;'>For this project, the focus was on restaurants in Toronto as Toronto is a big city
             with
             more than a sufficient amount
             of data to perform a serious analysis, but
             small enough for various graph algorithms to be carried out. The reviews and users considered in this
             project
             were
-            those pertraining to a restaurant in Toronto.</p>
+            those pertaining to a restaurant in Toronto.</p>
 
         <!------------- DATASET ------------->
         <h2>The dataset used</h2>
@@ -155,35 +147,28 @@
 
         <h2>Prior Work</h2>
         <p style='text-align: justify;'>This analysis of elite users in the Yelp community is largely inspired by a
-            technical report from Stanford [1] which investigated elite users in Phoenix, Arizona, and included, what
-            they called, a ‘taste’ network which grouped Yelp users based on their taste in restaurants. Our analysis
-            will not include this feature, but it will however draw from some of their points, such as investigating
-            how big of a role the elite users play in the social network, as well in a network of Yelp reviews.
+            technical report from Stanford [1] which investigated elite users in Phoenix, Arizona, and included, what they called, a ‘taste’ network which grouped Yelp users based on their taste in restaurants. Our analysis will not include this feature, but it will, however, draw from some of their points, such as investigating how big of a role the elite users play in the social network, as well in a network of Yelp reviews.
         </p>
 
         <!------------- SOCIAL NETWORK ANALYSIS ------------->
         <h2>Yelp's Social Network</h2>
         <img style="margin:auto; width:70%;display:block" src="./graphics/friends.png">
 
-        <p>Two users may choose to becomes on Yelp, for example if they share interests. This feature is very analogous
+        <p>Two users may choose to become on Yelp, for example, if they share interests. This feature is very analogous
             to that of the social network of Facebook, and even has the same limit on the number of friends each user
             can have, which is 5000.</p>
 
         <p style='text-align: justify;'>A big part of this analysis involves analyzing the influence of Elite users in
             Yelp’s
-            social network. A social graph was built from the review dataset, with all the users who left one or more
-            reviews on a Toronto restaurant's Yelp page. These users were inserted in a network, as well as all the
-            users appearing in their respective friends lists, and an edge was drawn between each pair of friends.
+            social network. A social graph was built from the review dataset, with all the users who left one or more reviews on a Toronto restaurant's Yelp page. These users were inserted in a network, as well as all the users appearing in their respective friendlists, and an edge was drawn between each pair of friends.
 
-            The resulting network is an undirected social graph, with a total of 95,000 nodes and 380,000 edges. The
-            size of the network meant that some
-            of the algorithms took a considerable amount of time to run. An alternative to including all of the 95,000
-            nodes would be to only consider the nodes which had left a review in Toronto, even for the friends list,
-            which was also done, but will in the groups opinion less success. The resulting network of including only
+            The resulting network is an undirected social graph, with a total of 95,000 nodes and 380,000 edges. The size of the network meant that some of the algorithms took a considerable amount of time to run. An alternative to including all of the 95,000
+            nodes would be to only consider the nodes which had left a review in Toronto, even for the friendlist,
+            which was also done but will in the groups opinion less success. The resulting network of including only
             friends who left a review in Toronto was a network with Nodes: 13,600 nodes and 9,400 edges.</p>
 
         <h3>Social Network Degree Distribution</h3>
-        <p>The nodes of the social network all represents Yelp users, which are either regular users or an Elite users.
+        <p>The nodes of the social network all represent Yelp users, which are either regular users or Elite users.
             For understanding how the distribution of friends looks like, the degree distribution for all nodes, Elite
             nodes and regular user nodes was plotted. From the distributions it becomes apparent that a power law
             governs the number of friends of the Yelp users; an exponentially large part of the users have very few
@@ -266,7 +251,7 @@
         <h3>Centrality Measures for the Social Network</h3>
         <p>For understanding the roles of the nodes in the network, two centrality measures were used: degree
             centrality and eigenvalue centrality. The degree centrality speaks to how popular a node is in the network,
-            in this case how many friends a user has. The eigenvalue centrality represents how popular the friends of a
+            in this case, how many friends a user has. The eigenvalue centrality represents how popular the friends of a
             particular node is, i.e. their friend count.</p>
 
         <p>For the social network, these two measures are for the most part correlated, which makes intuitive sense
@@ -322,13 +307,13 @@
             iteration,
             which tells us how many users are actually part of the social network, and those that were only connected
             to the
-            social network via an Elite user which was removed, will no longer be part of the largest connected
+            social network via an Elite user which was removed will no longer be part of the largest connected
             component.
         </p>
 
         <img src="./plots/robustness_plot.svg" />
 
-        <h4>Robustness Analysis on the Smaller Social Network</h4>
+        <h4>Robustness Analysis of the Smaller Social Network</h4>
         <p>The aforementioned smaller social network was also run through the robustness analysis, and the results were
             very analogous to those of the bigger network, except the smaller network was more susceptible to sudden
             huge losses in network size.</p>
@@ -355,8 +340,8 @@
             which is used to clarify the given rating.</p>
 
         <p style='text-align: justify;'>For our analyses, we aim to build a network of reviews and a social network of
-            who is friends with who on Yelp, as well as analyze the review text to discern what, if any, differences
-            exist between Elite and and regular users as well as between reviews of different stars.</p>
+            who are friends with who on Yelp, as well as analyze the review text to discern what, if any, differences
+            exist between Elite and regular users as well as between reviews of different stars.</p>
 
         <img style="margin:auto; width:70%;display:block" src="./graphics/reviews.png" />
 
@@ -402,9 +387,7 @@
             restaurants. Users are only included if they have in fact reviewed a restaurant in Toronto, meaning the
             spike is likely at 1 single review.
 
-            The degree distribution for the Elite users in Toronto is unsuprisingly also a power law, with most users
-            having left a single review. However the distribution is somewhat less dense around r=1, compared to the
-            review distribution for overall users.
+            The degree distribution for the Elite users in Toronto is unsurprisingly also a power law, with most users having left a single review. However, the distribution is somewhat less dense around r=1, compared to the review distribution for overall users.
         </p>
 
         <h3>Review degree distribution, logarithmic scale</h3>
@@ -543,14 +526,14 @@
 
         <img style="margin:auto; width:70%;display:block" src="./plots/review_dist.svg" />
 
-        <p style='text-align: justify;'>As we can see, the Elite users mostly give four or three star reviews, although
+        <p style='text-align: justify;'>As we can see, the Elite users mostly give four or three-star reviews, although
             the
             distribution is shifted to the
             higher reviews. In contrast, we notice that the regular users have a rating distribution more resembling an
             inverse
-            bell curve. The highest fraction comes from five star reviews and then it decreases down to two stars and
+            bell curve. The highest fraction comes from five-star reviews and then it decreases down to two stars and
             finally
-            rises slightly with one star reviews having a greater fraction than two star reviews. This may indicate, or
+            rises slightly with one-star reviews having a greater fraction than two-star reviews. This may indicate, or
             conform
             to preconceived notions, that regular users are not as good at distinguishing mid-tier restaurants and are
             so
@@ -566,7 +549,7 @@
             star ratings using TF-IDF scores. A TF-IDF (term frequency-inverse document frequency) score for a given
             word
             and
-            document is large if the word appears frequently in the document but infrequently across all documents.
+            the document is large if the word appears frequently in the document but infrequently across all documents.
             Thus,
             the
             higher the TF-IDF score, the more important and unique a word is to the specific document. The TF-IDF
@@ -590,23 +573,23 @@
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
-                    <img src="SentimentPlots/elite_Reviewers_1_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_1_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/elite_Reviewers_2_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_2_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/elite_Reviewers_3_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_3_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/elite_Reviewers_4_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_4_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/elite_Reviewers_5_Star_TF-IDF_Cloud.svg" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_5_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <!-- Left and right controls -->
@@ -675,7 +658,7 @@
             and 1
             star reviews, respectively.</p>
 
-        <p style='text-align: justify;'>We also examined the length of the reviews written, excluding common english
+        <p style='text-align: justify;'>We also examined the length of the reviews written, excluding common English
             stopwords such as ‘as’, ‘the’, etc.
             There is clearly a slight downward trend, with lower ratings yielding longer reviews. The Elite users also
             clearly
@@ -695,56 +678,39 @@
             decreases
             and the high sentiment increases as the number of stars increase, which is expected. We also see that the
             mid-tier
-            sentiment decreases, which would indicated that high star reviews yield more extreme sentiment. On close
+            sentiment decreases, which would indicate that high star reviews yield more extreme sentiment. On close
             analysis,
             we
             notice some additional trends. It appears that regular users, compared to Elite users, are inclined to use
             more
-            sentiment inline with the stars of the reviews. So, 5 star reviews yield more high sentiment, and less low
-            sentiment.
+            sentiment in line with the stars of the reviews. So, 5-star reviews yield more high sentiment and less low sentiment.
             This might mean that Elite users have slightly more balanced reviews while regular users are inclined to
             hyperbole
             and stronger emotions.</p>
 
         <h2>Results and Conclusion</h2>
         <p style='text-align: justify;'>As stated earlier, the first goal of this project was to test Yelp’s claims
-            about the characteristics of
-            their Elite users. One claim that they made was that Elite users have high social connectivity. Our results
-            validate this claim with reasonable confidence. On the social network, Elite users are greatly
-            overrepresented among the top degree nodes: 57% of Elite nodes are in the top 20% of nodes in terms of
-            degree. Also, the average degree of Elite nodes (8.58) is significantly higher than the network average
+            about the characteristics of their Elite users. One claim that they made was that Elite users have high social connectivity. Our results validate this claim with reasonable confidence. On the social network, Elite users are greatly overrepresented among the top degree nodes: 57% of Elite nodes are in the top 20% of nodes in terms of degree. Also, the average degree of Elite nodes (8.58) is significantly higher than the network average
             (2.46).
-            Another claim that they made is that Elite users contribute greatly to the site. Our results validate this
-            claim with very high confidence. Elite users are greatly overrepresented among the top reviewers: about 80%
-            of Elite users are in the top 20% of users in terms of reviews written. In addition, the average number of
-            reviews written for Elite users is significantly higher than Yelp users as a whole (250 vs. 36).
+            Another claim that they made is that Elite users contribute greatly to the site. Our results validate this claim with very high confidence. Elite users are greatly overrepresented among the top reviewers: about 80%
+            of Elite users are in the top 20% of users in terms of reviews written. In addition, the average number of reviews written for Elite users is significantly higher than Yelp users as a whole (250 vs. 36).
         </p>
 
         <p style='text-align: justify;'>The last claim we tested was that the Elite users make up the “heart of the
             Yelp community.” From both a
             social and taste perspective, our results also validate this claim with reasonable confidence. First of
             all, the robustness of the social network is much more affected by removing Elite nodes than random nodes
-            (the size of the largest CC decreased more than twice as fast), which suggests that these Elite nodes are
-            important to maintaining the structure of the social network. In addition, the Elite nodes are
-            overrepresented among the top users in terms of being central to the graph (betweenness centrality), being
-            an “important” node in the sense of having high PageRank, and also being directly connected to multiple
-            communities. The fact that Elite nodes have much greater values for these properties than the network as a
+            (the size of the largest CC decreased more than twice as fast), which suggests that these Elite nodes are important for maintaining the structure of the social network. In addition, the Elite nodes are overrepresented among the top users in terms of being central to the graph (betweenness centrality), being an “important” node in the sense of having high PageRank, and also being directly connected to multiple communities. The fact that Elite nodes have much greater values for these properties than the network as a
             whole further substantiates the claim.
-            In the taste network, though, removing Elite nodes had a much smaller effect on the robustness of the
-            graph. This indicates that Elites are more vital to the social network than the taste network. However,
+            In the taste network, though, removing Elite nodes had a much smaller effect on the robustness of the graph. This indicates that Elites are more vital to the social network than the taste network. However,
             Elites are still more important to the structure of the taste network than non-Elites. The importance of
-            Elites was verified by our results for PageRank, betweenness centrality, and direct connectedness to
-            communities. Elites were over-represented among the top percentiles for these three measures. In general,
+            Elites were verified by our results for PageRank, betweenness centrality, and direct connectedness to communities. Elites were over-represented among the top percentiles for these three measures. In general,
             the values of these properties were significantly higher for Elites than non-Elites.
         </p>
 
         <p style='text-align: justify;'>The second goal of our project was to determine which property was the most
-            indicative of Elite status. As
-            mentioned earlier, the Elite users were greatly overrepresented in the top reviewers on Yelp, much more so
-            than for any of the other properties. In addition, Elite users post on average seven times as many reviews
-            as the average user. This very strong association suggests that out of the properties we have measured,
-            having a very large number of reviews is the best indication of Elite status. This conclusion implies that
-            the number of reviews a user has written would likely be a good predictor of Eliteness. In addition,
+            indicative of Elite status. As mentioned earlier, the Elite users were greatly overrepresented in the top reviewers on Yelp, much more so than for any of the other properties. In addition, Elite users post on average seven times as many reviews as the average user. This very strong association suggests that out of the properties we have measured,
+            having a very large number of reviews is the best indication of Elite status. This conclusion implies that the number of reviews a user has written would likely be a good predictor of Eliteness. In addition,
             writing many reviews could be a good objective for those who are looking to become Elite.
         </p>
 
