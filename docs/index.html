@@ -37,10 +37,12 @@
         <h1>Analysis of Yelp 'Elite' reviewers in Toronto</h1>
         <p style='text-align: justify;'>For all the source material used, check out the
             <a href="https://github.com/thomasnilsson/02805-social-graphs-2018/tree/master/project1">GitHub respository</a>
+            <img src="graphics/github-logo.png" style="width:4%">
         </p>
         <p style='text-align: justify;'>
             For the detailed analysis and Python 3 source code, check out the
             <a href="https://nbviewer.jupyter.org/github/thomasnilsson/02805-social-graphs-2018/blob/master/project1/Explainer.ipynb">explainer-notebook</a>
+            <img src="graphics/jupyter.png" style="width:5%">
         </p>
 
 
@@ -69,8 +71,9 @@
             city ambassadors, and have sway in the community.</p>
 
         <!------------- DATA STORY ------------->
-        <h2>Data story and aims of the analysis</h2>
-        <p style='text-align: justify;'> The purpose of this analysis is to investigate the properties of Yelp’s Elite users. For this analysis, the
+        <h2>Data Story and Aims of the Analysis</h2>
+        <p style='text-align: justify;'> The purpose of this analysis is to investigate the properties of Yelp’s Elite
+            users. For this analysis, the
             focus
             will
             lie on Yelp’s two primary claims about their Elite users:</p>
@@ -113,7 +116,7 @@
             those pertaining to a restaurant in Toronto.</p>
 
         <!------------- DATASET ------------->
-        <h2>The dataset used</h2>
+        <h2>The Dataset Used</h2>
         <p style='text-align: justify;'>
             The dataset is a subset of the <a href="https://www.yelp.com/dataset/challenge">YELP
                 dataset challenge 2018</a> dataset
@@ -121,7 +124,8 @@
             North
             America.</p>
 
-        <p style='text-align: justify;'>The datasets are split into 3, namely the review, user and restaurant dataset, which can be downloaded via
+        <p style='text-align: justify;'>The datasets are split into 3, namely the review, user and restaurant dataset,
+            which can be downloaded via
             the links below (right click, and select "Save link as"). The review dataset had to split into 4 subsets,
             in order for GitHub to host it, since
             individual file sizes may not exceed 100 MB.</p>
@@ -143,7 +147,7 @@
                 dataset</a> </p>
 
 
-        <h3>Quick Stats for the Toronto Dataset</h3>
+        <h3>Brief Overview for the Toronto Dataset</h3>
         <ul>
             <li>Period: March 1st, 2008 to August 1st, 2018</li>
             <li>Reviews: ~380,000</li>
@@ -161,10 +165,11 @@
         </p>
 
         <!------------- SOCIAL NETWORK ANALYSIS ------------->
-        <h2>Yelp's Social Network</h2>
+        <h2>Yelp's Social Network in Toronto</h2>
         <img style="margin:auto; width:70%;display:block" src="graphics/friends_graphx.svg">
 
-        <p style='text-align: justify;'>Two users may choose to become on Yelp, for example, if they share interests. This feature is very analogous
+        <p style='text-align: justify;'>Two users may choose to become on Yelp, for example, if they share interests.
+            This feature is very analogous
             to that of the social network of Facebook, and even has the same limit on the number of friends each user
             can have, which is 5000.</p>
 
@@ -182,7 +187,8 @@
             friends who left a review in Toronto was a network with Nodes: 13,600 nodes and 9,400 edges.</p>
 
         <h3>Social Network Degree Distribution</h3>
-        <p style='text-align: justify;'>The nodes of the social network all represent Yelp users, which are either regular users or Elite users.
+        <p style='text-align: justify;'>The nodes of the social network all represent Yelp users, which are either
+            regular users or Elite users.
             For understanding how the distribution of friends looks like, the degree distribution for all nodes, Elite
             nodes and regular user nodes was plotted. From the distributions it becomes apparent that a power law
             governs the number of friends of the Yelp users; an exponentially large part of the users have very few
@@ -263,13 +269,15 @@
 
 
         <h3>Centrality Measures for the Social Network</h3>
-        <p style='text-align: justify;'>For understanding the roles of the nodes in the network, two centrality measures were used: degree
+        <p style='text-align: justify;'>For understanding the roles of the nodes in the network, two centrality
+            measures were used: degree
             centrality and eigenvalue centrality. The degree centrality speaks to how popular a node is in the network,
             in this case, how many friends a user has. The eigenvalue centrality represents how popular the friends of
             a
             particular node is, i.e. their friend count.</p>
 
-        <p style='text-align: justify;'>For the social network, these two measures are for the most part correlated, which makes intuitive sense
+        <p style='text-align: justify;'>For the social network, these two measures are for the most part correlated,
+            which makes intuitive sense
             since having more friends increases the chance of having popular friends.</p>
         <!-- START: EV SOCIAL -->
         <div id="ev_social" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
@@ -338,10 +346,11 @@
             for
             random users, i.e. a mix of both Elite and regular users, the resulting loss of network size is around 5%.
         </p>
-         
+
 
         <h4>Robustness Analysis of the Smaller Social Network</h4>
-        <p style='text-align: justify;'>The aforementioned smaller social network was also run through the robustness analysis, and the results were
+        <p style='text-align: justify;'>The aforementioned smaller social network was also run through the robustness
+            analysis, and the results were
             very analogous to those of the bigger network, except the smaller network was more susceptible to sudden
             huge losses in network size.</p>
         <img src="./plots/robustness_only_toronto_plot.svg" />
@@ -350,8 +359,6 @@
 
         <!------------- REVIEW NETWORK ANALYSIS ------------->
         <h2>Yelp Review Network Analysis</h2>
-
-
         <p style='text-align: justify;'> A review is made when a user reviews a business, a business referring to a
             restaurant and other service places. A review contains a rating of 1 to 5 stars, as well as a written
             statement,
@@ -363,7 +370,7 @@
 
         <img style="margin:auto; width:70%;display:block" src="graphics/reviews_graphx.svg" />
 
-        <h3>Review degree distribution</h3>
+        <h3>Review Degree Distribution</h3>
         <!-- START: REVIEWS DEGREE DIST -->
         <div id="elite_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
@@ -401,16 +408,16 @@
         <p style='text-align: justify;'><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: REVIEWS DEGREE DIST -->
 
-        <p style='text-align: justify;'>Very clear example of a power law, with the overwhelming majority of users having reviewed extremely few
+        <p style='text-align: justify;'>Very clear example of a power law, with the overwhelming majority of users
+            having reviewed extremely few
             restaurants. Users are only included if they have in fact reviewed a restaurant in Toronto, meaning the
             spike is likely at 1 single review.
 
             The degree distribution for the Elite users in Toronto is unsurprisingly also a power law, with most users
-            having left a single review. However, the distribution is somewhat less dense around r=1, compared to the
-            review distribution for overall users.
+            having left a single review. However, the distribution is somewhat less dense around one single review,
+            compared to the
+            review distribution for overall users. Below is shown the distrubtion, but on a logarithmic scale.
         </p>
-
-        <h3>Review degree distribution, logarithmic scale</h3>
         <!-- START: REVIEWS DEGREE DIST -->
         <div id="log_elite_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
@@ -449,7 +456,7 @@
         <!-- END: REVIEWS DEGREE DIST -->
 
 
-        <h3>Eigenvalue centrality for Toronto restaurants</h3>
+        <h3>Eigenvalue Centrality for Toronto Restaurants</h3>
         <!-- START: REVIEW EV CAROUSEL -->
         <div id="review_ev_carousel" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
@@ -482,7 +489,7 @@
         <p style='text-align: justify;'><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: REVIEW EV CAROUSEL -->
 
-        <h3>Concrete differences in ratings between Elite- and regular users
+        <h3>Concrete Differences in Ratings Between Elite- and Regular Users
         </h3>
         <!-- START: DELTAS CAROUSEL -->
         <div id="deltas_carousel" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
@@ -521,9 +528,12 @@
         <p style='text-align: justify;'><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: DELTAS CAROUSEL -->
 
-        <p style='text-align: justify;'>Elite users are somewhat representative of the reviews made by all users, of which they make up a 38
+        <p style='text-align: justify;'>Elite users are somewhat representative of the reviews made by all users, of
+            which they make up a 38
             percent. This means the data set is only reduced by less than a third, however, the user count is reduced
-            from 95k to 7.5k.</p>
+            from 95k to 7.5k. This may be useful if one were to perform trend analyses, and the task of tracking all
+            users in the network was overwhelming - instead it would make a lot of sense to start looking at the Elite
+            users, first and foremost.</p>
 
 
         <h3>Rating Distribution</h3>
@@ -562,7 +572,7 @@
         </p>
 
         <!------------- REVIEW TEXT ANALYSIS ------------->
-        <h2>Review text analysis</h2>
+        <h2>Review Text Analysis</h2>
         <p style='text-align: justify;'>Beginning our text analysis, we investigated how word choice compares between
             Elite
             and non-Elite users and across
@@ -578,7 +588,7 @@
             visualized in the generated word clouds.</p>
 
 
-        <h3>Elite Yelp user reviews</h3>
+        <h3>Reviews by Elite-users</h3>
         <!-- START: Elite REVIEWS WORDCLOUDS -->
         <div id="elite_review_wordclouds" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
@@ -623,10 +633,13 @@
                 </a>
             </div>
         </div>
+        <p style='text-align: justify;'><i>Figure: TF-IDF wordclouds for elite reviewers, for 1, 2, 3, 4, and 5 stars
+                respectively.</i></p>
         <p style='text-align: justify;'><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: Elite REVIEWS WORDCLOUDS -->
 
-        <h3>Regular Yelp user reviews</h3>
+
+        <h3>Reviews by Regular Users</h3>
         <!-- START: REGULAR REVIEWS WORDCLOUDS -->
         <div id="reg_review_wordclouds" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px; background: black">
             <!-- Indicators -->
@@ -671,6 +684,8 @@
                 </a>
             </div>
         </div>
+        <p style='text-align: justify;'><i>Figure: TF-IDF wordclouds for regular reviewers, for 1, 2, 3, 4, and 5 stars
+                respectively.</i></p>
         <p style='text-align: justify;'><i>Tip: Use the arrows to navigate the plots</i></p>
         <!-- END: REGULAR REVIEWS WORDCLOUDS -->
 
@@ -686,12 +701,14 @@
 
 
         <h3>Sentiment Analysis</h3>
-        <p style='text-align: justify;'>A sentiment analysis aims to determine the attitude of a speaker, writer, or other subject with respect to
+        <p style='text-align: justify;'>A sentiment analysis aims to determine the attitude of a speaker, writer, or
+            other subject with respect to
             some document of words, where each word maps to a given sentiment score. For our sentiment analysis, the
             sentiment score used, was the labMT 1.0 dictionary, containing sentiment scores for over 10,000 words [2].
         </p>
 
-        <p style='text-align: justify;'>For the Yelp reviews, the sentiment score seems to be correlated with the review length, but what we are
+        <p style='text-align: justify;'>For the Yelp reviews, the sentiment score seems to be correlated with the
+            review length, but what we are
             more
             interested in are the trends in review sentiment. Therefore, the reviews were partitioned on their average
             sentiment into three categories:
@@ -710,7 +727,8 @@
             analysis.
         </p>
 
-        <p style='text-align: justify;'>Furthermore, the above figure also reveals that the mid-tier sentiment decreases, which would indicated that
+        <p style='text-align: justify;'>Furthermore, the above figure also reveals that the mid-tier sentiment
+            decreases, which would indicated that
             high star reviews yield more extreme sentiment. However, there does not appear to be a significant
             difference between the sentiment per star when comparing the elite to the regular users. Thus, there do
             seem to be some global trends in sentiment, but the trends are global and don’t discriminate between the
@@ -759,9 +777,13 @@
         </p>
 
         <h2>References</h2>
-        <p style='text-align: justify;'>[1] Crain, Heh, Winston, 2014. <i>An Analysis of the “Elite” Users on Yelp-.com</i>, Stanford University,
+        <p style='text-align: justify;'>[1] Crain, Heh, Winston, 2014. <i>An Analysis of the “Elite” Users on Yelp-.com</i>,
+            Stanford University,
             CA.
         </p>
+
+        <p>[2] Dodds PS, Harris KD, Kloumann IM, Bliss CA, Danforth CM (2011) <i>Temporal Patterns of Happiness and
+                Information in a Global Social Network: Hedonometrics and Twitter.</i> PLoS ONE 6(12): e26752. <a href="https://doi.org/10.1371/journal.pone.0026752">https://doi.org/10.1371/journal.pone.0026752</a></p>
 </body>
 
 </html>
