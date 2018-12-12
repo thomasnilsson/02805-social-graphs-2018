@@ -30,7 +30,7 @@
 <body>
     <article class="markdown-body" style="width: 1500px">
         <div style="margin:auto; overflow: hidden;">
-            <img src="graphics/toronto_header.jpeg" alt="">
+            <img src="graphics/toronto_header.jpeg">
         </div>
 
         <h1>Analysis of Yelp 'Elite' reviewers in Toronto</h1>
@@ -88,42 +88,33 @@
 
         <ul>
             <li>Yelp states that its Elite users have high connectivity, which means that they are connected with many
-                other
-                users
-                and interact often with members of their Yelp community.
+                other users and interact often with members of their Yelp community.
+
             </li>
-            <li>Yelp claims that its Elite users make up the “true heart of the Yelp community.” Third, Yelp claims
-                that its
-                users
-                have a high contribution, which means that the user has made a large impact on the site with meaningful
-                and
+            <li>Yelp claims that its Elite users make up the “true heart of the Yelp community” and that they have a
+                high contribution, which means that they make a large impact on the site with meaningful and
                 high-quality reviews.
+
             </li>
         </ul>
 
         <p style='text-align: justify;'>The first goal of our project is to analyze whether the above claims about
-            Yelp’s
-            Elite users are quantifiably
-            valid. For this, we will specify several characteristics which we expect Elite users to have based on these
-            claims.
-            We will then perform analyses on Yelp’s dataset in order to determine whether these properties are truly
-            represented
-            among the Elite users. The secondary goal of our project is to find which properties are most indicative of
-            Elite
+            Yelp’s Elite users are quantifiably valid. For this, we will specify several characteristics which we
+            expect Elite users to have based on these claims. We will then perform analyses on Yelp’s dataset in order
+            to determine whether these properties are truly represented among the Elite users. The secondary goal of
+            our project is to find which properties are most indicative of Elite status on Yelp.
+
+
             status on Yelp.
         </p>
 
         <p style='text-align: justify;'>The analyses for the first goal can be used for this purpose as well. This kind
-            of
-            information may be useful for
-            those who are interested in becoming Elite members on Yelp. In order to become a member of the “Elite
-            Squad,” a
-            user
-            must go through an application process. Despite the suggestions presented above, Yelp doesn’t provide any
-            specific
-            criteria on exactly what characteristics a user must have to become Elite. The mystery behind the selection
-            process
-            for Elite users is well-documented.</p>
+            of information may be useful for those who are interested in becoming Elite members on Yelp. In order to
+            become a member of the “Elite Squad,” a user must go through an application process. Despite the
+            suggestions presented above, Yelp doesn’t provide any specific criteria on exactly what characteristics a
+            user must have to become Elite. The mystery behind the selection process for Elite users is
+            well-documented.
+        </p>
 
         <p style='text-align: justify;'>For this project, the focus was restaurants in Toronto as Toronto is a big city
             with
@@ -136,15 +127,15 @@
 
         <h2>The dataset used</h2>
         <p style='text-align: justify;'>
-            The dataset is part of the <a href="https://www.yelp.com/dataset/challenge">YELP
-                dataset challenge 2018</a>
+            The dataset is a subset of the <a href="https://www.yelp.com/dataset/challenge">YELP
+                dataset challenge 2018</a> dataset
             and contains YELP review data from the period 2004 to 2018, where the majority of the reviews are made in
             North
             America.</p>
 
-        <p>The datasets are split into 3, namely the review, user and restaurant dataset, which can be found on GitHub
-            by following the links below. Be aware that the datasets will take a few seconds to load, due to their
-            size. In particular, the review dataset had to split into 4 subsets, in order for GitHub to host it, since
+        <p>The datasets are split into 3, namely the review, user and restaurant dataset, which can be downloaded via
+            the links below (right click, and select "Save link as"). The review dataset had to split into 4 subsets,
+            in order for GitHub to host it, since
             individual file sizes may not exceed 100 MB.</p>
         <p>Link(s) to Toronto review dataset</p>
         <ul>
@@ -178,6 +169,103 @@
         </p>
 
         <h2>Social Network Analysis</h2>
+
+        <h3>Social network degree distribution - all users</h3>
+        <!-- START: ALL SOCIAL DEGREE DIST -->
+        <div id="all_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#all_social_degree" data-slide-to="0" class="active"></li>
+                <li data-target="#all_social_degree" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="plots/degree_social_all.svg" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/log_degree_social_all.svg" width="460" height="345">
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#all_social_degree" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#all_social_degree" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <!-- END: ALL SOCIAL DEGREE DIST -->
+
+        <h3>Social network degree distribution - regular users</h3>
+        <!-- START: REGULAR SOCIAL DEGREE DIST -->
+        <div id="reg_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#reg_social_degree" data-slide-to="0" class="active"></li>
+                <li data-target="#reg_social_degree" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="plots/degree_social_regular.svg" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/log_degree_social_regular.svg" width="460" height="345">
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#reg_social_degree" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#reg_social_degree" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <!-- END: REGULAR SOCIAL DEGREE DIST -->
+
+        <h3>Social network degree distribution - Elite users</h3>
+        <!-- START: ELITE SOCIAL DEGREE DIST -->
+        <div id="elite_social_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#elite_social_degree" data-slide-to="0" class="active"></li>
+                <li data-target="#elite_social_degree" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="plots/degree_social_elite.svg" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/log_degree_social_elite.svg" width="460" height="345">
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#elite_social_degree" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#elite_social_degree" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <!-- END: ELITE SOCIAL DEGREE DIST -->
+
         <p style='text-align: justify;'>A big part of this analysis involves analyzing the influence of Elite users in
             Yelp’s
             social network. The resulting social graph
@@ -195,18 +283,25 @@
                 <th>All Users Avg</th>
             </tr>
             <tr>
-                <td>Degree Centrality</td>
+                <td>Degree centrality</td>
                 <td>1.40E-04</td>
                 <td>2.05E-06</td>
                 <td>2.67E-06</td>
             </tr>
             <tr>
-                <td>Page Rank</td>
+                <td>Eigenvector centrality</td>
                 <td>2.40E-03</td>
                 <td>9.81E-05</td>
                 <td>1.00E-04</td>
             </tr>
         </table>
+
+        <p>The degree centrality measure is reflected in the degree distribution plots, in the sense that it is on
+            average higher for the elite users, which is due to elite users having more friends on average. This leads
+            to the eigenvalue centrality which tells us how many popular friends a particular user has, which is also
+            higher for the Elite users, which follows naturally due to them having more friends, and thus a higher
+            probability of having popular friends.</p>
+
 
         <h3>Robustness Analysis</h3>
         <img src="./plots/robustness_plot.svg" />
@@ -237,25 +332,55 @@
         </p>
 
         <h2>Review Network Analysis and Text Analysis</h2>
-        <h3>Elite users review degree distribution</h3>
-        <!-- START: REGULAR REVIEWS DEGREE DIST -->
-        <div id="elite_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+        <h3>Review degree distribution - all users</h3>
+        <!-- START: ELITE REVIEWS DEGREE DIST -->
+        <div id="all_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
             <!-- Indicators -->
             <ol class="carousel-indicators">
-                <li data-target="#elite_review_degree" data-slide-to="0" class="active"></li>
-                <li data-target="#elite_review_degree" data-slide-to="1"></li>
-                <li data-target="#elite_review_degree" data-slide-to="2"></li>
-                <li data-target="#elite_review_degree" data-slide-to="3"></li>
+                <li data-target="#all_review_degree" data-slide-to="0" class="active"></li>
+                <li data-target="#all_review_degree" data-slide-to="1"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
-                    <img src="plots/reviews_degree_elite_user.svg" alt="Flower" width="460" height="345">
+                    <img src="plots/reviews_degree_all.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="plots/log_reviews_degree_elite_users.svg" alt="Flower" width="460" height="345">
+                    <img src="plots/log_reviews_degree_all.svg" width="460" height="345">
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#all_review_degree" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#all_review_degree" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <!-- END: ELITE REVIEWS DEGREE DIST -->
+
+        <h3>Elite users review degree distribution</h3>
+        <!-- START: ELITE REVIEWS DEGREE DIST -->
+        <div id="elite_review_degree" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#elite_review_degree" data-slide-to="0" class="active"></li>
+                <li data-target="#elite_review_degree" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="plots/reviews_degree_elite_user.svg" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/log_reviews_degree_elite_users.svg" width="460" height="345">
                 </div>
 
                 <!-- Left and right controls -->
@@ -269,7 +394,7 @@
                 </a>
             </div>
         </div>
-        <!-- END: REGULAR REVIEWS DEGREE DIST -->
+        <!-- END: ELITE REVIEWS DEGREE DIST -->
 
         <h3>All users review degree distribution</h3>
         <!-- START: REGULAR REVIEWS DEGREE DIST -->
@@ -278,18 +403,16 @@
             <ol class="carousel-indicators">
                 <li data-target="#reg_review_degree" data-slide-to="0" class="active"></li>
                 <li data-target="#reg_review_degree" data-slide-to="1"></li>
-                <li data-target="#reg_review_degree" data-slide-to="2"></li>
-                <li data-target="#reg_review_degree" data-slide-to="3"></li>
             </ol>
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
-                    <img src="plots/reviews_degree_normal_users.svg" alt="Flower" width="460" height="345">
+                    <img src="plots/reviews_degree_normal_users.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="plots/log_reviews_degree_normal_users.svg" alt="Flower" width="460" height="345">
+                    <img src="plots/log_reviews_degree_normal_users.svg" width="460" height="345">
                 </div>
 
                 <!-- Left and right controls -->
@@ -304,6 +427,53 @@
             </div>
         </div>
         <!-- END: REGULAR REVIEWS DEGREE DIST -->
+
+        <h3>Centrality measures</h3>
+        <img src="plots/biz_ev_count.svg">
+        <img src="plots/biz_rating_ev.svg">
+        <!-- END: REGULAR REVIEWS DEGREE DIST -->
+
+        <h3>Concrete differences in ratings between elite- and regular users
+        </h3>
+        <!-- START: REGULAR REVIEWS DEGREE DIST -->
+        <div id="deltas_carousel" class="carousel slide" data-ride="carousel" data-interval="false" style="margin-bottom:20px">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#deltas_carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#deltas_carousel" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="item active">
+                    <img src="plots/degree_social_all.svg" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/degree_social_elite.svg" width="460" height="345">
+                </div>
+
+                <div class="item">
+                    <img src="plots/degree_social_regular.svg" width="460" height="345">
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#deltas_carousel" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#deltas_carousel" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+        <!-- END: REGULAR REVIEWS DEGREE DIST -->
+
+        <p>Elite users are somewhat representative of the reviews made by all users, of which they make up a 38
+            percent. This means the data set is only reduced by less than a third, however, the user count is reduced
+            from 95k to 7.5k.</p>
+
 
         <h3>Rating Distribution</h3>
         <p style='text-align: justify;'>The second component of our work was analyzing the text present in the reviews.
@@ -370,23 +540,23 @@
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
-                    <img src="SentimentPlots/Elite_Reviewers_1_Star_TF-IDF_Cloud.svg" alt="Chania" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_1_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_2_Star_TF-IDF_Cloud.svg" alt="Chania" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_2_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_3_Star_TF-IDF_Cloud.svg" alt="Flower" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_3_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_4_Star_TF-IDF_Cloud.svg" alt="Flower" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_4_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Elite_Reviewers_5_Star_TF-IDF_Cloud.svg" alt="Flower" width="460" height="345">
+                    <img src="SentimentPlots/Elite_Reviewers_5_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <!-- Left and right controls -->
@@ -417,23 +587,23 @@
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
-                    <img src="SentimentPlots/Regular_Reviewers_1_Star_TF-IDF_Cloud.svg" alt="Chania" width="460" height="345">
+                    <img src="SentimentPlots/Regular_Reviewers_1_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Regular_Reviewers_2_Star_TF-IDF_Cloud.svg" alt="Chania" width="460" height="345">
+                    <img src="SentimentPlots/Regular_Reviewers_2_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Regular_Reviewers_3_Star_TF-IDF_Cloud.svg" alt="Flower" width="460" height="345">
+                    <img src="SentimentPlots/Regular_Reviewers_3_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Regular_Reviewers_4_Star_TF-IDF_Cloud.svg" alt="Flower" width="460" height="345">
+                    <img src="SentimentPlots/Regular_Reviewers_4_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <div class="item">
-                    <img src="SentimentPlots/Regular_Reviewers_5_Star_TF-IDF_Cloud.svg" alt="Flower" width="460" height="345">
+                    <img src="SentimentPlots/Regular_Reviewers_5_Star_TF-IDF_Cloud.svg" width="460" height="345">
                 </div>
 
                 <!-- Left and right controls -->
@@ -531,8 +701,5 @@
             CA.
         </p>
 </body>
-<script>
-    w3IncludeHTML();
-</script>
 
 </html>
